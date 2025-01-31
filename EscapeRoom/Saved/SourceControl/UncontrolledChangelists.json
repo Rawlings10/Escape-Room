@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/rawll/Desktop/MyProject/Git/Escape-Room/EscapeRoom/Content/MyBluePrints/Door.uasset",
+				"C:/Users/rawll/Desktop/MyProject/Git/Escape-Room/EscapeRoom/Content/Levels/LV1.umap",
+				"C:/Users/rawll/Desktop/MyProject/Git/Escape-Room/EscapeRoom/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/rawll/Desktop/MyProject/Unreal/EscapeRoom/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/rawll/Desktop/MyProject/Unreal/EscapeRoom/Content/Levels/LV1.umap",
 				"C:/Users/rawll/Desktop/MyProject/Unreal/EscapeRoom/Content/Levels/_GENERATED/rawll/Box_C31C3D3C.uasset",
