@@ -1381,3 +1381,422 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.02.02-06.22.12:473][247]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 5547.666504 MiB, MemoryLimit = 4793.757812 MiB 
 [2025.02.02-06.22.12:473][247]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 5163.666504 MiB, MemoryLimit = 4793.800781 MiB 
 [2025.02.02-06.22.12:474][247]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 5163.666504 MiB, MemoryLimit = 4793.800781 MiB 
+[2025.02.02-06.22.28:843][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.02.02-06.22.28:845][ 28]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/LV1.LV1
+[2025.02.02-06.22.28:845][ 28]Cmd: MAP LOAD FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/LV1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.02.02-06.22.28:868][ 28]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.02-06.22.28:869][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.02-06.22.28:869][ 28]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2025.02.02-06.22.28:888][ 28]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.02-06.22.28:890][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.02.02-06.22.28:892][ 28]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.02.02-06.22.28:892][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.02-06.22.28:902][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.02.02-06.22.28:981][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.02.02-06.22.28:982][ 28]LogStreaming: Display: FlushAsyncLoading(412): 1 QueuedPackages, 0 AsyncPackages
+[2025.02.02-06.22.28:985][ 28]LogAudio: Display: Audio Device (ID: 1) registered with world 'LV1'.
+[2025.02.02-06.22.28:985][ 28]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.02.02-06.22.29:003][ 28]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.02.02-06.22.29:016][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.02.02-06.22.29:024][ 28]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.02.02-06.22.29:024][ 28]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.085ms to complete.
+[2025.02.02-06.22.36:624][552]LogStreaming: Display: FlushAsyncLoading(413): 1 QueuedPackages, 0 AsyncPackages
+[2025.02.02-06.22.38:303][678]LogStreaming: Display: FlushAsyncLoading(415): 1 QueuedPackages, 0 AsyncPackages
+[2025.02.02-06.23.36:263][340]LogDerivedDataCache: C:/Users/rawll/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.02.02-06.24.51:823][212]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Level/_GENERATED/rawll/CubeGridToolOutput_D546BE48.CubeGridToolOutput_D546BE48
+[2025.02.02-06.24.51:824][212]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_D546BE48 (Required Memory Estimate: 0.223864 MB)...
+[2025.02.02-06.24.51:825][212]LogActorFactory: Actor Factory spawned StaticMesh /Game/Level/_GENERATED/rawll/CubeGridToolOutput_D546BE48.CubeGridToolOutput_D546BE48 as actor: StaticMeshActor /Game/Level/LV1.LV1:PersistentLevel.StaticMeshActor_18
+[2025.02.02-06.24.51:826][212]LogStaticMesh: Built static mesh [0.00s] /Game/Level/_GENERATED/rawll/CubeGridToolOutput_D546BE48.CubeGridToolOutput_D546BE48
+[2025.02.02-06.24.52:536][213]LogChaosDD: Creating Chaos Debug Draw Scene for world World_0
+[2025.02.02-06.24.52:907][216]LogChaosDD: Creating Chaos Debug Draw Scene for world World_1
+[2025.02.02-06.24.52:998][218]LogSlate: Took 0.000382 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.02.02-06.26.58:794][681]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 317.958191
+[2025.02.02-06.26.58:876][689]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.02-06.26.58:877][689]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 318.030212, Update Interval: 329.621887
+[2025.02.02-06.27.14:517][183]LogTemp: Warning: CANNOT MODIFY BUILT-IN ENGINE ASSET /Engine/BasicShapes/Plane.Plane
+[2025.02.02-06.27.14:543][183]LogTemp: Warning: CANNOT MODIFY BUILT-IN ENGINE ASSET /Engine/BasicShapes/Plane.Plane
+[2025.02.02-06.27.45:139][873]LogTemp: Warning: CANNOT MODIFY BUILT-IN ENGINE ASSET /Engine/BasicShapes/Plane.Plane
+[2025.02.02-06.27.45:169][873]LogTemp: Warning: CANNOT MODIFY BUILT-IN ENGINE ASSET /Engine/BasicShapes/Plane.Plane
+[2025.02.02-06.28.24:360][190]LogTemp: Warning: CANNOT MODIFY BUILT-IN ENGINE ASSET /Engine/BasicShapes/Plane.Plane
+[2025.02.02-06.28.24:387][190]LogTemp: Warning: CANNOT MODIFY BUILT-IN ENGINE ASSET /Engine/BasicShapes/Plane.Plane
+[2025.02.02-06.30.14:400][ 54]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_D546BE48 (Required Memory Estimate: 0.439616 MB)...
+[2025.02.02-06.30.14:401][ 54]LogStaticMesh: Built static mesh [0.00s] /Game/Level/_GENERATED/rawll/CubeGridToolOutput_D546BE48.CubeGridToolOutput_D546BE48
+[2025.02.02-06.31.11:419][158]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_D546BE48 (Required Memory Estimate: 0.655335 MB)...
+[2025.02.02-06.31.11:421][158]LogStaticMesh: Built static mesh [0.00s] /Game/Level/_GENERATED/rawll/CubeGridToolOutput_D546BE48.CubeGridToolOutput_D546BE48
+[2025.02.02-06.31.49:146][558]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_D8DAFEA2 (Required Memory Estimate: 0.513857 MB)...
+[2025.02.02-06.31.49:147][558]LogStaticMesh: Built static mesh [0.00s] /Game/Level/_GENERATED/rawll/CubeGridToolOutput_D8DAFEA2.CubeGridToolOutput_D8DAFEA2
+[2025.02.02-06.31.50:394][558]LogMeshUtilities: Finished distance field build in 1.2s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 47% occupied, 104 triangles, CubeGridToolOutput_D8DAFEA2
+[2025.02.02-06.31.50:395][558]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_D8DAFEA2 (Required Memory Estimate: 0.659234 MB)...
+[2025.02.02-06.31.50:398][558]LogStaticMesh: Built static mesh [0.00s] /Game/Level/_GENERATED/rawll/CubeGridToolOutput_D8DAFEA2.CubeGridToolOutput_D8DAFEA2
+[2025.02.02-06.31.51:871][652]LogMeshUtilities: Finished distance field build in 1.5s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 47% occupied, 134 triangles, CubeGridToolOutput_D8DAFEA2
+[2025.02.02-06.32.30:623][143]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 649.786804
+[2025.02.02-06.32.30:707][150]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.02-06.32.30:707][150]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 649.859375, Update Interval: 357.546326
+[2025.02.02-06.34.33:500][872]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_D8DAFEA2 (Required Memory Estimate: 0.744376 MB)...
+[2025.02.02-06.34.33:502][872]LogStaticMesh: Built static mesh [0.00s] /Game/Level/_GENERATED/rawll/CubeGridToolOutput_D8DAFEA2.CubeGridToolOutput_D8DAFEA2
+[2025.02.02-06.34.35:088][975]LogMeshUtilities: Finished distance field build in 1.6s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 55% occupied, 151 triangles, CubeGridToolOutput_D8DAFEA2
+[2025.02.02-06.34.36:598][119]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.02-06.34.36:606][119]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.02-06.34.36:612][119]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.02.02-06.34.36:612][119]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.02.02-06.34.36:612][119]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV1
+[2025.02.02-06.34.36:616][119]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004198s)
+[2025.02.02-06.34.36:616][119]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV1.LV1 to /Game/Level/UEDPIE_0_LV1.LV1 (0.004247s)
+[2025.02.02-06.34.36:643][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.02.02-06.34.36:646][119]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.02.02-06.34.36:647][119]LogPlayLevel: PIE: World Init took: (0.001693s)
+[2025.02.02-06.34.36:648][119]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.02.02-06.34.36:648][119]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.02-06.34.36:648][119]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.02-06.34.36:648][119]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.02-06.34.36:648][119]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.02-06.34.36:648][119]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.02.02-06.34.36:648][119]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.02-06.34.36:648][119]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.02.02-06.34.36:648][119]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.02-06.34.36:648][119]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.02-06.34.36:649][119]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.02-06.34.36:649][119]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.02-06.34.36:652][119]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.02-06.34.36:677][119]LogAudioMixer: Display: Using Audio Hardware Device Headphones (SoundCore mini)
+[2025.02.02-06.34.36:677][119]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.02-06.34.36:677][119]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.02-06.34.36:677][119]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.02-06.34.36:678][119]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.02.02-06.34.36:678][119]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.02.02-06.34.36:681][119]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.02.02-06.34.36:681][119]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.02.02-06.34.36:681][119]LogInit: FAudioDevice initialized with ID 2.
+[2025.02.02-06.34.36:681][119]LogAudio: Display: Audio Device (ID: 2) registered with world 'LV1'.
+[2025.02.02-06.34.36:681][119]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.02.02-06.34.36:684][119]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.02.02-06.34.36:686][119]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV1.LV1 up for play (max tick rate 0) at 2025.02.02-01.34.36
+[2025.02.02-06.34.36:686][119]LogWorld: Bringing up level for play took: 0.001932
+[2025.02.02-06.34.36:689][119]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2025.02.02-06.34.36:695][119]PIE: Server logged in
+[2025.02.02-06.34.36:697][119]PIE: Play in editor total start time 0.091 seconds.
+[2025.02.02-06.34.43:389][617]LogBlueprintUserMessages: [BP_door_C_1] Door is Open
+[2025.02.02-06.34.47:412][968]LogBlueprintUserMessages: [BP_door_C_1] Door is Closed
+[2025.02.02-06.35.24:612][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.02-06.35.24:613][100]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV1
+[2025.02.02-06.35.24:613][100]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.02.02-06.35.24:614][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.02-06.35.24:618][100]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.02-06.35.24:620][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.02-06.35.24:628][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.02-06.35.24:628][100]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.02.02-06.35.24:628][100]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.02.02-06.35.24:631][100]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.02.02-06.35.24:637][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.02.02-06.35.24:916][101]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2025.02.02-06.36.32:004][ 90]Cmd: TRANSACTION UNDO
+[2025.02.02-06.36.32:004][ 90]LogEditorTransaction: Undo Cube Grid Edit
+[2025.02.02-06.38.32:851][ 49]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1012.013367
+[2025.02.02-06.38.32:949][ 58]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.02-06.38.32:949][ 58]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1012.100769, Update Interval: 305.899841
+[2025.02.02-06.38.46:237][271]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_D8DAFEA2 (Required Memory Estimate: 0.711331 MB)...
+[2025.02.02-06.38.46:240][271]LogStaticMesh: Built static mesh [0.00s] /Game/Level/_GENERATED/rawll/CubeGridToolOutput_D8DAFEA2.CubeGridToolOutput_D8DAFEA2
+[2025.02.02-06.38.47:876][374]LogMeshUtilities: Finished distance field build in 1.6s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 56% occupied, 144 triangles, CubeGridToolOutput_D8DAFEA2
+[2025.02.02-06.40.29:719][758]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_D8DAFEA2 (Required Memory Estimate: 0.756713 MB)...
+[2025.02.02-06.40.29:722][758]LogStaticMesh: Built static mesh [0.00s] /Game/Level/_GENERATED/rawll/CubeGridToolOutput_D8DAFEA2.CubeGridToolOutput_D8DAFEA2
+[2025.02.02-06.40.31:432][866]LogMeshUtilities: Finished distance field build in 1.7s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 58% occupied, 154 triangles, CubeGridToolOutput_D8DAFEA2
+[2025.02.02-06.41.45:119][627]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_D8DAFEA2 (Required Memory Estimate: 0.861869 MB)...
+[2025.02.02-06.41.45:123][627]LogStaticMesh: Built static mesh [0.00s] /Game/Level/_GENERATED/rawll/CubeGridToolOutput_D8DAFEA2.CubeGridToolOutput_D8DAFEA2
+[2025.02.02-06.41.45:124][627]LogStaticMesh: Warning: CubeGridToolOutput_D8DAFEA2 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.02.02-06.41.45:124][627]LogStaticMesh: Warning: CubeGridToolOutput_D8DAFEA2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.02.02-06.41.47:073][755]LogMeshUtilities: Finished distance field build in 1.9s - 126x126x126 sparse distance field, 2.3Mb total, 0.1Mb always loaded, 67% occupied, 175 triangles, CubeGridToolOutput_D8DAFEA2
+[2025.02.02-06.43.54:345][475]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1333.507446
+[2025.02.02-06.43.54:445][484]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.02-06.43.54:445][484]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1333.596191, Update Interval: 311.193573
+[2025.02.02-06.44.57:226][214]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_D8DAFEA2 (Required Memory Estimate: 1.28067 MB)...
+[2025.02.02-06.44.57:230][214]LogStaticMesh: Built static mesh [0.01s] /Game/Level/_GENERATED/rawll/CubeGridToolOutput_D8DAFEA2.CubeGridToolOutput_D8DAFEA2
+[2025.02.02-06.44.57:232][214]LogStaticMesh: Warning: CubeGridToolOutput_D8DAFEA2 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.02.02-06.44.57:232][214]LogStaticMesh: Warning: CubeGridToolOutput_D8DAFEA2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.02.02-06.44.59:723][376]LogMeshUtilities: Finished distance field build in 2.5s - 126x126x126 sparse distance field, 2.6Mb total, 0.1Mb always loaded, 75% occupied, 261 triangles, CubeGridToolOutput_D8DAFEA2
+[2025.02.02-06.45.34:935][460]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.02.02-06.47.53:173][299]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2025.02.02-06.47.53:296][306]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2025.02.02-06.47.53:401][312]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2025.02.02-06.47.53:532][319]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2025.02.02-06.47.55:099][435]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.02.02-06.49.33:476][457]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1672.635376
+[2025.02.02-06.49.33:558][464]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.02-06.49.33:558][464]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1672.705688, Update Interval: 346.305115
+[2025.02.02-06.50.03:946][302]Cmd: TRANSACTION UNDO
+[2025.02.02-06.50.03:947][302]LogEditorTransaction: Undo Place Objects
+[2025.02.02-06.50.37:477][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.02.02-06.50.38:378][391]LogSlate: Window 'Save Content' being destroyed
+[2025.02.02-06.50.38:388][391]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.02-06.50.38:456][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/LV1" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/LV1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.02.02-06.50.38:490][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2025.02.02-06.50.38:502][391]LogSavePackage: Moving output files for package: /Game/Level/LV1
+[2025.02.02-06.50.38:503][391]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/LV1635FE6744D4A77BD29D153A06321D304.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/LV1.umap'
+[2025.02.02-06.50.38:517][391]LogFileHelpers: Saving map 'LV1' took 0.060
+[2025.02.02-06.50.38:517][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level/_GENERATED/rawll/CubeGridToolOutput_D546BE48] ([1] browsable assets)...
+[2025.02.02-06.50.38:652][391]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Level/_GENERATED/rawll/CubeGridToolOutput_D546BE48.CubeGridToolOutput_D546BE48]
+[2025.02.02-06.50.38:653][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level/_GENERATED/rawll/CubeGridToolOutput_D546BE48]
+[2025.02.02-06.50.38:658][391]LogSavePackage: Moving output files for package: /Game/Level/_GENERATED/rawll/CubeGridToolOutput_D546BE48
+[2025.02.02-06.50.38:658][391]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/CubeGridToolOutput_D546BE487639770B4D81A0F11B39439B6DCC79AA.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/_GENERATED/rawll/CubeGridToolOutput_D546BE48.uasset'
+[2025.02.02-06.50.38:660][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level/_GENERATED/rawll/CubeGridToolOutput_D8DAFEA2] ([1] browsable assets)...
+[2025.02.02-06.50.38:667][391]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Level/_GENERATED/rawll/CubeGridToolOutput_D8DAFEA2.CubeGridToolOutput_D8DAFEA2]
+[2025.02.02-06.50.38:667][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level/_GENERATED/rawll/CubeGridToolOutput_D8DAFEA2]
+[2025.02.02-06.50.38:671][391]LogSavePackage: Moving output files for package: /Game/Level/_GENERATED/rawll/CubeGridToolOutput_D8DAFEA2
+[2025.02.02-06.50.38:672][391]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/CubeGridToolOutput_D8DAFEA2767F86C0418CE6254B2909A3D455CB22.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/_GENERATED/rawll/CubeGridToolOutput_D8DAFEA2.uasset'
+[2025.02.02-06.50.38:682][391]LogFileHelpers: InternalPromptForCheckoutAndSave took 294.779 ms
+[2025.02.02-06.50.38:752][391]LogContentValidation: Display: Starting to validate 3 assets
+[2025.02.02-06.50.38:752][391]LogContentValidation: Enabled validators:
+[2025.02.02-06.50.38:752][391]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.02-06.50.38:752][391]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.02-06.50.38:752][391]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.02-06.50.38:752][391]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.02-06.50.38:752][391]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.02-06.50.38:752][391]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.02-06.50.38:752][391]AssetCheck: /Game/Level/LV1 Validating asset
+[2025.02.02-06.50.38:752][391]AssetCheck: /Game/Level/_GENERATED/rawll/CubeGridToolOutput_D546BE48 Validating asset
+[2025.02.02-06.50.38:752][391]AssetCheck: /Game/Level/_GENERATED/rawll/CubeGridToolOutput_D8DAFEA2 Validating asset
+[2025.02.02-06.50.42:288][694]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.02.02-06.50.43:031][763]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.02.02-06.51.09:584][971]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.02.02-06.52.14:906][636]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.02.02-06.53.01:022][928]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.02-06.53.01:030][928]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.02-06.53.01:062][928]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV1
+[2025.02.02-06.53.01:065][928]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003105s)
+[2025.02.02-06.53.01:065][928]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV1.LV1 to /Game/Level/UEDPIE_0_LV1.LV1 (0.003152s)
+[2025.02.02-06.53.01:076][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.02.02-06.53.01:079][928]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.02.02-06.53.01:081][928]LogPlayLevel: PIE: World Init took: (0.002047s)
+[2025.02.02-06.53.01:082][928]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.02.02-06.53.01:082][928]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.02-06.53.01:082][928]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.02-06.53.01:082][928]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.02-06.53.01:082][928]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.02-06.53.01:082][928]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.02.02-06.53.01:082][928]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.02-06.53.01:082][928]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.02.02-06.53.01:082][928]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.02-06.53.01:082][928]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.02-06.53.01:082][928]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.02-06.53.01:082][928]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.02-06.53.01:086][928]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.02-06.53.01:113][928]LogAudioMixer: Display: Using Audio Hardware Device Headphones (SoundCore mini)
+[2025.02.02-06.53.01:113][928]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.02-06.53.01:113][928]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.02-06.53.01:113][928]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.02-06.53.01:114][928]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.02.02-06.53.01:114][928]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.02.02-06.53.01:117][928]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.02.02-06.53.01:117][928]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.02.02-06.53.01:117][928]LogInit: FAudioDevice initialized with ID 3.
+[2025.02.02-06.53.01:117][928]LogAudio: Display: Audio Device (ID: 3) registered with world 'LV1'.
+[2025.02.02-06.53.01:117][928]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.02.02-06.53.01:120][928]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.02.02-06.53.01:123][928]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV1.LV1 up for play (max tick rate 0) at 2025.02.02-01.53.01
+[2025.02.02-06.53.01:123][928]LogWorld: Bringing up level for play took: 0.001990
+[2025.02.02-06.53.01:126][928]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2025.02.02-06.53.01:129][928]PIE: Server logged in
+[2025.02.02-06.53.01:130][928]PIE: Play in editor total start time 0.101 seconds.
+[2025.02.02-06.53.08:535][220]LogBlueprintUserMessages: [BP_door_C_1] Door is Open
+[2025.02.02-06.53.13:399][609]LogBlueprintUserMessages: [BP_door_C_1] Door is Closed
+[2025.02.02-06.53.39:053][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.02-06.53.39:053][889]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV1
+[2025.02.02-06.53.39:053][889]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.02.02-06.53.39:054][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.02-06.53.39:059][889]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.02-06.53.39:061][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.02-06.53.39:073][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.02-06.53.39:073][889]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.02.02-06.53.39:073][889]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.02.02-06.53.39:076][889]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.02.02-06.53.39:083][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.02.02-06.53.39:393][890]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2025.02.02-06.55.41:247][846]Cmd: DUPLICATE
+[2025.02.02-06.55.41:247][846]Cmd: ACTOR DUPLICATE
+[2025.02.02-06.55.49:954][608]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2049.121582
+[2025.02.02-06.55.50:049][613]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.02-06.55.50:049][613]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2049.198242, Update Interval: 306.029846
+[2025.02.02-06.59.29:226][394]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.02-06.59.29:235][394]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.02-06.59.29:272][394]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV1
+[2025.02.02-06.59.29:275][394]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003183s)
+[2025.02.02-06.59.29:275][394]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV1.LV1 to /Game/Level/UEDPIE_0_LV1.LV1 (0.003233s)
+[2025.02.02-06.59.29:293][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.02.02-06.59.29:295][394]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.02.02-06.59.29:297][394]LogPlayLevel: PIE: World Init took: (0.001906s)
+[2025.02.02-06.59.29:298][394]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.02.02-06.59.29:298][394]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.02-06.59.29:298][394]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.02-06.59.29:298][394]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.02-06.59.29:298][394]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.02-06.59.29:298][394]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.02.02-06.59.29:298][394]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.02-06.59.29:298][394]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.02.02-06.59.29:298][394]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.02-06.59.29:298][394]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.02-06.59.29:298][394]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.02-06.59.29:298][394]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.02-06.59.29:302][394]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.02-06.59.29:326][394]LogAudioMixer: Display: Using Audio Hardware Device Headphones (SoundCore mini)
+[2025.02.02-06.59.29:326][394]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.02-06.59.29:326][394]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.02-06.59.29:326][394]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.02-06.59.29:327][394]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.02.02-06.59.29:327][394]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.02.02-06.59.29:329][394]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.02.02-06.59.29:329][394]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.02.02-06.59.29:329][394]LogInit: FAudioDevice initialized with ID 4.
+[2025.02.02-06.59.29:329][394]LogAudio: Display: Audio Device (ID: 4) registered with world 'LV1'.
+[2025.02.02-06.59.29:329][394]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.02.02-06.59.29:333][394]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.02.02-06.59.29:336][394]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV1.LV1 up for play (max tick rate 0) at 2025.02.02-01.59.29
+[2025.02.02-06.59.29:336][394]LogWorld: Bringing up level for play took: 0.001893
+[2025.02.02-06.59.29:338][394]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2025.02.02-06.59.29:342][394]PIE: Server logged in
+[2025.02.02-06.59.29:344][394]PIE: Play in editor total start time 0.109 seconds.
+[2025.02.02-06.59.34:328][523]LogBlueprintUserMessages: [BP_door_C_1] Door is Open
+[2025.02.02-06.59.38:809][667]LogBlueprintUserMessages: [BP_door_C_1] Door is Open
+[2025.02.02-06.59.39:982][700]LogBlueprintUserMessages: [BP_door_C_1] Door is Closed
+[2025.02.02-07.00.31:136][161]LogBlueprintUserMessages: [BP_doubleDoor_C_1] Door is Open
+[2025.02.02-07.00.34:503][455]LogBlueprintUserMessages: [BP_doubleDoor_C_1] Door is Closed
+[2025.02.02-07.01.13:035][983]LogBlueprintUserMessages: [BP_doubleDoor_C_1] Door is Open
+[2025.02.02-07.01.15:102][166]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.02-07.01.15:103][166]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV1
+[2025.02.02-07.01.15:103][166]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.02.02-07.01.15:103][166]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.02-07.01.15:108][166]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.02-07.01.15:110][166]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.02-07.01.15:119][166]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.02-07.01.15:119][166]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.02.02-07.01.15:120][166]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.02.02-07.01.15:123][166]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.02.02-07.01.15:130][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.02.02-07.01.15:467][167]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2025.02.02-07.01.41:156][437]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.02.02-07.01.49:730][258]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2408.899658
+[2025.02.02-07.01.49:816][267]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.02-07.01.49:817][267]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2408.976807, Update Interval: 358.146912
+[2025.02.02-07.03.42:841][949]Cmd: DUPLICATE
+[2025.02.02-07.03.42:841][949]Cmd: ACTOR DUPLICATE
+[2025.02.02-07.06.39:158][641]Cmd: TRANSACTION UNDO
+[2025.02.02-07.06.39:158][641]LogEditorTransaction: Undo Place Objects
+[2025.02.02-07.07.03:579][838]Cmd: TRANSACTION UNDO
+[2025.02.02-07.07.03:579][838]LogEditorTransaction: Undo Move Elements
+[2025.02.02-07.07.08:051][230]Cmd: TRANSACTION UNDO
+[2025.02.02-07.07.08:051][230]LogEditorTransaction: Undo Move Elements
+[2025.02.02-07.07.18:928][175]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.02-07.07.18:938][175]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.02-07.07.18:962][175]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV1
+[2025.02.02-07.07.18:965][175]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003275s)
+[2025.02.02-07.07.18:965][175]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV1.LV1 to /Game/Level/UEDPIE_0_LV1.LV1 (0.003317s)
+[2025.02.02-07.07.18:993][175]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.02.02-07.07.18:996][175]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.02.02-07.07.18:997][175]LogPlayLevel: PIE: World Init took: (0.001633s)
+[2025.02.02-07.07.18:998][175]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.02.02-07.07.18:998][175]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.02-07.07.18:998][175]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.02-07.07.18:998][175]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.02-07.07.18:998][175]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.02-07.07.18:998][175]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.02.02-07.07.18:998][175]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.02-07.07.18:998][175]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.02.02-07.07.18:998][175]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.02-07.07.18:998][175]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.02-07.07.18:998][175]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.02-07.07.18:998][175]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.02-07.07.19:001][175]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.02-07.07.19:026][175]LogAudioMixer: Display: Using Audio Hardware Device Headphones (SoundCore mini)
+[2025.02.02-07.07.19:026][175]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.02-07.07.19:026][175]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.02-07.07.19:026][175]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.02-07.07.19:027][175]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.02.02-07.07.19:027][175]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.02.02-07.07.19:029][175]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.02.02-07.07.19:029][175]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.02.02-07.07.19:029][175]LogInit: FAudioDevice initialized with ID 5.
+[2025.02.02-07.07.19:029][175]LogAudio: Display: Audio Device (ID: 5) registered with world 'LV1'.
+[2025.02.02-07.07.19:029][175]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.02.02-07.07.19:033][175]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.02.02-07.07.19:035][175]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV1.LV1 up for play (max tick rate 0) at 2025.02.02-02.07.19
+[2025.02.02-07.07.19:035][175]LogWorld: Bringing up level for play took: 0.001933
+[2025.02.02-07.07.19:038][175]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2025.02.02-07.07.19:041][175]PIE: Server logged in
+[2025.02.02-07.07.19:043][175]PIE: Play in editor total start time 0.105 seconds.
+[2025.02.02-07.07.28:359][790]LogBlueprintUserMessages: [BP_door_C_1] Door is Open
+[2025.02.02-07.07.33:303][226]LogBlueprintUserMessages: [BP_door_C_1] Door is Closed
+[2025.02.02-07.08.05:265][166]LogBlueprintUserMessages: [BP_doubleDoor_C_1] Door is Open
+[2025.02.02-07.08.09:409][525]LogBlueprintUserMessages: [BP_doubleDoor_C_1] Door is Closed
+[2025.02.02-07.08.23:990][844]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2803.148926
+[2025.02.02-07.08.24:063][851]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.02-07.08.24:063][851]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2803.211426, Update Interval: 355.334320
+[2025.02.02-07.08.37:364][ 19]LogBlueprintUserMessages: [BP_doubleDoor_C_1] Door is Open
+[2025.02.02-07.08.39:526][204]LogBlueprintUserMessages: [BP_doubleDoor_C_1] Door is Open
+[2025.02.02-07.08.41:256][354]LogBlueprintUserMessages: [BP_doubleDoor_C_1] Door is Closed
+[2025.02.02-07.09.04:132][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.02-07.09.04:132][271]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV1
+[2025.02.02-07.09.04:133][271]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.02.02-07.09.04:133][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.02-07.09.04:137][271]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.02-07.09.04:140][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.02-07.09.04:150][271]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.02-07.09.04:150][271]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.02.02-07.09.04:150][271]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.02.02-07.09.04:152][271]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.02.02-07.09.04:158][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.02-07.09.04:159][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.02.02-07.09.04:394][272]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2025.02.02-07.09.54:266][322]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Level/_GENERATED/rawll/CubeGridToolOutput_5DF64486.CubeGridToolOutput_5DF64486
+[2025.02.02-07.09.54:267][322]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_5DF64486 (Required Memory Estimate: 0.524244 MB)...
+[2025.02.02-07.09.54:267][322]LogActorFactory: Actor Factory spawned StaticMesh /Game/Level/_GENERATED/rawll/CubeGridToolOutput_5DF64486.CubeGridToolOutput_5DF64486 as actor: StaticMeshActor /Game/Level/LV1.LV1:PersistentLevel.StaticMeshActor_21
+[2025.02.02-07.09.54:269][322]LogStaticMesh: Built static mesh [0.00s] /Game/Level/_GENERATED/rawll/CubeGridToolOutput_5DF64486.CubeGridToolOutput_5DF64486
+[2025.02.02-07.11.28:070][428]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.02.02-07.12.14:800][566]Cmd: DUPLICATE
+[2025.02.02-07.12.14:800][566]Cmd: ACTOR DUPLICATE
+[2025.02.02-07.12.50:529][551]Cmd: TRANSACTION UNDO
+[2025.02.02-07.12.50:529][551]LogEditorTransaction: Undo Clicking on Elements
+[2025.02.02-07.12.51:216][583]Cmd: TRANSACTION UNDO
+[2025.02.02-07.12.51:216][583]LogEditorTransaction: Undo Move Elements
+[2025.02.02-07.12.51:843][641]Cmd: TRANSACTION UNDO
+[2025.02.02-07.12.51:843][641]LogEditorTransaction: Undo Clicking on Elements
+[2025.02.02-07.12.52:633][709]Cmd: TRANSACTION UNDO
+[2025.02.02-07.12.52:633][709]LogEditorTransaction: Undo Move Elements
+[2025.02.02-07.12.53:184][759]Cmd: TRANSACTION UNDO
+[2025.02.02-07.12.53:184][759]LogEditorTransaction: Undo Move Elements
+[2025.02.02-07.12.54:128][841]Cmd: TRANSACTION UNDO
+[2025.02.02-07.12.54:129][841]LogEditorTransaction: Undo Move Elements
+[2025.02.02-07.12.55:099][900]Cmd: TRANSACTION UNDO
+[2025.02.02-07.12.55:099][900]LogEditorTransaction: Undo Move Elements
+[2025.02.02-07.12.56:543][ 33]Cmd: TRANSACTION UNDO
+[2025.02.02-07.12.56:543][ 33]LogEditorTransaction: Undo Duplicate Elements
+[2025.02.02-07.14.22:949][716]LogSlate: Window 'Accept changes instead?' being destroyed
+[2025.02.02-07.14.22:956][716]Message dialog closed, result: Yes, title: Accept changes instead?, text: The tool is being cancelled, which normally discards all changes. Would you like to apply the changes instead?
+
+ Selecting "No" or closing this window will discard the tool's current work.
+[2025.02.02-07.14.22:956][716]LogTemp: Warning: CANNOT MODIFY BUILT-IN ENGINE ASSET /Engine/BasicShapes/Cube.Cube
+[2025.02.02-07.14.22:987][716]LogTemp: Warning: CANNOT MODIFY BUILT-IN ENGINE ASSET /Engine/BasicShapes/Cube.Cube
+[2025.02.02-07.15.07:278][827]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3206.405273
+[2025.02.02-07.15.07:395][834]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.02-07.15.07:395][834]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3206.505371, Update Interval: 314.722137
+[2025.02.02-07.17.01:629][639]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.02.02-07.17.03:273][639]LogSlate: Window 'Save Content' being destroyed
+[2025.02.02-07.17.03:284][639]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.02-07.17.03:350][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/LV1" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/LV1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.02.02-07.17.03:383][639]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.02.02-07.17.03:393][639]LogSavePackage: Moving output files for package: /Game/Level/LV1
+[2025.02.02-07.17.03:394][639]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/LV14B0721944E7AF8F4D36FF38C0A5D4889.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/LV1.umap'
+[2025.02.02-07.17.03:407][639]LogFileHelpers: Saving map 'LV1' took 0.057
+[2025.02.02-07.17.03:407][639]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level/_GENERATED/rawll/CubeGridToolOutput_5DF64486] ([1] browsable assets)...
+[2025.02.02-07.17.03:500][639]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Level/_GENERATED/rawll/CubeGridToolOutput_5DF64486.CubeGridToolOutput_5DF64486]
+[2025.02.02-07.17.03:501][639]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level/_GENERATED/rawll/CubeGridToolOutput_5DF64486]
+[2025.02.02-07.17.03:504][639]LogSavePackage: Moving output files for package: /Game/Level/_GENERATED/rawll/CubeGridToolOutput_5DF64486
+[2025.02.02-07.17.03:504][639]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/CubeGridToolOutput_5DF64486F264FA4D4DCD56D954647AA527659138.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/_GENERATED/rawll/CubeGridToolOutput_5DF64486.uasset'
+[2025.02.02-07.17.03:516][639]LogFileHelpers: InternalPromptForCheckoutAndSave took 231.951 ms (total: 526.730 ms)
+[2025.02.02-07.17.03:599][639]LogContentValidation: Display: Starting to validate 2 assets
+[2025.02.02-07.17.03:599][639]LogContentValidation: Enabled validators:
+[2025.02.02-07.17.03:599][639]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.02-07.17.03:599][639]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.02-07.17.03:599][639]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.02-07.17.03:599][639]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.02-07.17.03:599][639]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.02-07.17.03:599][639]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.02-07.17.03:599][639]AssetCheck: /Game/Level/LV1 Validating asset
+[2025.02.02-07.17.03:599][639]AssetCheck: /Game/Level/_GENERATED/rawll/CubeGridToolOutput_5DF64486 Validating asset
