@@ -1785,3 +1785,834 @@ LogConfig: CVar [[D3D12.Bindless.ResourceDescriptorHeapSize:32768]] deferred - d
 [2025.02.03-21.34.15:829][967]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP_Sound_Auto2
 [2025.02.03-21.34.15:829][967]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/BP_Sound_Auto2F31B782648C43BC57872F2A99F82F4BF.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/BP_Sound_Auto2.uasset'
 [2025.02.03-21.34.15:831][967]LogFileHelpers: Auto-saving content packages took 0.068
+[2025.02.03-21.35.28:074][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.02.03-21.35.29:619][296]LogSlate: Window 'Save Content' being destroyed
+[2025.02.03-21.35.29:633][296]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.03-21.35.29:690][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/LV1" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/LV1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.02.03-21.35.29:731][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.02.03-21.35.29:747][296]LogSavePackage: Moving output files for package: /Game/Level/LV1
+[2025.02.03-21.35.29:749][296]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/LV1D66CC151498EA7FBA35C108EBA6BB020.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/LV1.umap'
+[2025.02.03-21.35.29:764][296]LogFileHelpers: Saving map 'LV1' took 0.075
+[2025.02.03-21.35.29:765][296]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_Sound] ([2] browsable assets)...
+[2025.02.03-21.35.29:765][296]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Sound]
+[2025.02.03-21.35.29:765][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Sound" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/BP_Sound.uasset" SILENT=true
+[2025.02.03-21.35.29:770][296]LogSavePackage: Moving output files for package: /Game/BP_Sound
+[2025.02.03-21.35.29:770][296]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/BP_Sound52D142DA4E39DCC626C3E0BB82D6C3E9.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/BP_Sound.uasset'
+[2025.02.03-21.35.29:774][296]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Level/_GENERATED/rawll/CubeGridToolOutput_8EFF2F66] ([1] browsable assets)...
+[2025.02.03-21.35.29:774][296]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level/_GENERATED/rawll/CubeGridToolOutput_8EFF2F66]
+[2025.02.03-21.35.29:776][296]LogSavePackage: Moving output files for package: /Game/Level/_GENERATED/rawll/CubeGridToolOutput_8EFF2F66
+[2025.02.03-21.35.29:776][296]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/CubeGridToolOutput_8EFF2F66FAD065D74ED4203CE1AD92B39E26C0F2.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/_GENERATED/rawll/CubeGridToolOutput_8EFF2F66.uasset'
+[2025.02.03-21.35.29:779][296]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/horror-background-atmosphere-156462] ([1] browsable assets)...
+[2025.02.03-21.35.29:779][296]OBJ SavePackage: Finished generating thumbnails for package [/Game/horror-background-atmosphere-156462]
+[2025.02.03-21.35.29:799][296]LogSavePackage: Moving output files for package: /Game/horror-background-atmosphere-156462
+[2025.02.03-21.35.29:799][296]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/horror-background-atmosphere-156E383D4EB42CF2B8DD3F5BABA38ADDE64.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/horror-background-atmosphere-156462.uasset'
+[2025.02.03-21.35.29:814][296]LogFileHelpers: InternalPromptForCheckoutAndSave took 180.124 ms
+[2025.02.03-21.35.29:881][296]LogContentValidation: Display: Starting to validate 4 assets
+[2025.02.03-21.35.29:881][296]LogContentValidation: Enabled validators:
+[2025.02.03-21.35.29:881][296]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.03-21.35.29:881][296]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.03-21.35.29:881][296]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.03-21.35.29:881][296]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.03-21.35.29:881][296]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.03-21.35.29:881][296]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.03-21.35.29:883][296]AssetCheck: /Game/Level/LV1 Validating asset
+[2025.02.03-21.35.29:883][296]AssetCheck: /Game/BP_Sound Validating asset
+[2025.02.03-21.35.29:884][296]AssetCheck: /Game/Level/_GENERATED/rawll/CubeGridToolOutput_8EFF2F66 Validating asset
+[2025.02.03-21.35.29:884][296]AssetCheck: /Game/horror-background-atmosphere-156462 Validating asset
+[2025.02.03-21.36.25:243][513]LogMetaData: Removing '/Game/MybluePrints/BP_Sound.BP_Sound:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BP_Sound.PackageMetaData'
+[2025.02.03-21.36.25:243][513]LogMetaData: Removing '/Game/MybluePrints/BP_Sound.SKEL_BP_Sound_C' ref from Metadata '/Game/BP_Sound.PackageMetaData'
+[2025.02.03-21.36.25:243][513]LogMetaData: Removing '/Game/MybluePrints/BP_Sound.BP_Sound_C' ref from Metadata '/Game/BP_Sound.PackageMetaData'
+[2025.02.03-21.36.25:243][513]LogMetaData: Removing '/Game/MybluePrints/BP_Sound.BP_Sound:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BP_Sound.PackageMetaData'
+[2025.02.03-21.36.25:243][513]LogMetaData: Removing '/Game/MybluePrints/BP_Sound.BP_Sound:EventGraph.K2Node_Event_1' ref from Metadata '/Game/BP_Sound.PackageMetaData'
+[2025.02.03-21.36.25:243][513]LogMetaData: Removing '/Game/MybluePrints/BP_Sound.BP_Sound:EventGraph.K2Node_Event_2' ref from Metadata '/Game/BP_Sound.PackageMetaData'
+[2025.02.03-21.36.25:243][513]LogMetaData: Removing '/Game/MybluePrints/BP_Sound.SKEL_BP_Sound_C:ReceiveBeginPlay' ref from Metadata '/Game/BP_Sound.PackageMetaData'
+[2025.02.03-21.36.25:243][513]LogMetaData: Removing '/Game/MybluePrints/BP_Sound.SKEL_BP_Sound_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/BP_Sound.PackageMetaData'
+[2025.02.03-21.36.25:243][513]LogMetaData: Removing '/Game/MybluePrints/BP_Sound.SKEL_BP_Sound_C:ReceiveTick' ref from Metadata '/Game/BP_Sound.PackageMetaData'
+[2025.02.03-21.36.25:243][513]LogMetaData: Removing '/Game/MybluePrints/BP_Sound.SKEL_BP_Sound_C:BndEvt__BP_Sound_Audio_K2Node_ComponentBoundEvent_0_OnAudioFinished__DelegateSignature' ref from Metadata '/Game/BP_Sound.PackageMetaData'
+[2025.02.03-21.36.25:243][513]LogMetaData: Removing '/Game/MybluePrints/BP_Sound.SKEL_BP_Sound_C:UserConstructionScript' ref from Metadata '/Game/BP_Sound.PackageMetaData'
+[2025.02.03-21.36.25:243][513]LogMetaData: Removing '/Game/MybluePrints/BP_Sound.BP_Sound_C:ReceiveBeginPlay' ref from Metadata '/Game/BP_Sound.PackageMetaData'
+[2025.02.03-21.36.25:265][513]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.03-21.36.25:266][513]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MybluePrints/BP_Sound] ([2] browsable assets)...
+[2025.02.03-21.36.25:266][513]OBJ SavePackage: Finished generating thumbnails for package [/Game/MybluePrints/BP_Sound]
+[2025.02.03-21.36.25:266][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MybluePrints/BP_Sound" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/MybluePrints/BP_Sound.uasset" SILENT=true
+[2025.02.03-21.36.25:270][513]LogSavePackage: Moving output files for package: /Game/MybluePrints/BP_Sound
+[2025.02.03-21.36.25:270][513]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/BP_SoundB1BBE77C45179DA1465977BCA82EFA20.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/MybluePrints/BP_Sound.uasset'
+[2025.02.03-21.36.25:277][513]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_Sound] ([5] browsable assets)...
+[2025.02.03-21.36.25:277][513]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Sound]
+[2025.02.03-21.36.25:277][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Sound" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/BP_Sound.uasset" SILENT=true
+[2025.02.03-21.36.25:278][513]LogSavePackage: Moving output files for package: /Game/BP_Sound
+[2025.02.03-21.36.25:279][513]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/BP_Sound6F117EA947657D0A15607A9F017CDBCC.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/BP_Sound.uasset'
+[2025.02.03-21.36.25:284][513]LogFileHelpers: InternalPromptForCheckoutAndSave took 18.578 ms (total: 198.702 ms)
+[2025.02.03-21.36.25:327][513]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.02.03-21.36.25:327][513]LogContentValidation: Display: Starting to validate 4 assets
+[2025.02.03-21.36.25:327][513]LogContentValidation: Enabled validators:
+[2025.02.03-21.36.25:327][513]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.03-21.36.25:327][513]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.03-21.36.25:327][513]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.03-21.36.25:327][513]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.03-21.36.25:327][513]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.03-21.36.25:327][513]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.03-21.36.25:327][513]AssetCheck: /Game/MybluePrints/BP_Sound Validating asset
+[2025.02.03-21.36.25:327][513]AssetCheck: /Game/BP_Sound Validating asset
+[2025.02.03-21.36.25:327][513]AssetCheck: /Game/BP_Sound Validating asset
+[2025.02.03-21.36.25:328][513]AssetCheck: /Game/BP_Sound Validating asset
+[2025.02.03-21.36.34:677][ 48]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.02.03-21.36.34:686][ 48]LogContentBrowser: Creating deferred item: NewFolder
+[2025.02.03-21.36.34:700][ 49]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.02.03-21.36.41:375][441]LogContentBrowser: Attempting asset rename: NewFolder -> Sound
+[2025.02.03-21.36.41:376][441]LogContentBrowser: End creating deferred item NewFolder
+[2025.02.03-21.36.50:846][954]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.03-21.36.50:846][954]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MybluePrints/BP_Sound] ([2] browsable assets)...
+[2025.02.03-21.36.50:846][954]OBJ SavePackage: Finished generating thumbnails for package [/Game/MybluePrints/BP_Sound]
+[2025.02.03-21.36.50:846][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MybluePrints/BP_Sound" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/MybluePrints/BP_Sound.uasset" SILENT=true
+[2025.02.03-21.36.50:850][954]LogSavePackage: Moving output files for package: /Game/MybluePrints/BP_Sound
+[2025.02.03-21.36.50:851][954]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/BP_Sound22A112BE46E3159A5037E081368C4480.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/MybluePrints/BP_Sound.uasset'
+[2025.02.03-21.36.50:854][954]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/horror-background-atmosphere-156462] ([1] browsable assets)...
+[2025.02.03-21.36.50:854][954]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/horror-background-atmosphere-156462]
+[2025.02.03-21.36.50:872][954]LogSavePackage: Moving output files for package: /Game/Sound/horror-background-atmosphere-156462
+[2025.02.03-21.36.50:872][954]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/horror-background-atmosphere-1568578A0E24F11689D67E1A4BBBECDB7BE.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Sound/horror-background-atmosphere-156462.uasset'
+[2025.02.03-21.36.50:874][954]LogFileHelpers: InternalPromptForCheckoutAndSave took 28.137 ms (total: 226.840 ms)
+[2025.02.03-21.36.50:936][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.02.03-21.36.50:960][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.02.03-21.36.50:981][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.02.03-21.36.51:026][954]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.02.03-21.36.51:026][954]LogContentValidation: Display: Starting to validate 2 assets
+[2025.02.03-21.36.51:026][954]LogContentValidation: Enabled validators:
+[2025.02.03-21.36.51:026][954]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.03-21.36.51:026][954]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.03-21.36.51:026][954]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.03-21.36.51:026][954]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.03-21.36.51:026][954]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.03-21.36.51:026][954]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.03-21.36.51:026][954]AssetCheck: /Game/MybluePrints/BP_Sound Validating asset
+[2025.02.03-21.36.51:026][954]AssetCheck: /Game/Sound/horror-background-atmosphere-156462 Validating asset
+[2025.02.03-21.36.57:813][360]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2077.247803
+[2025.02.03-21.36.57:913][366]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.03-21.36.57:913][366]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2077.331787, Update Interval: 351.514648
+[2025.02.03-21.43.18:713][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.02.03-21.43.22:626][628]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2462.070801
+[2025.02.03-21.43.22:726][634]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.03-21.43.22:726][634]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2462.154785, Update Interval: 305.854065
+[2025.02.03-21.43.33:667][288]LogChaosDD: Creating Chaos Debug Draw Scene for world World_3
+[2025.02.03-21.43.33:851][289]LogChaosDD: Creating Chaos Debug Draw Scene for world World_4
+[2025.02.03-21.43.33:955][292]LogChaosDD: Creating Chaos Debug Draw Scene for world World_5
+[2025.02.03-21.43.34:090][295]LogChaosDD: Creating Chaos Debug Draw Scene for world World_6
+[2025.02.03-21.43.34:593][301]LogChaosDD: Creating Chaos Debug Draw Scene for world World_7
+[2025.02.03-21.43.34:614][302]LogChaosDD: Creating Chaos Debug Draw Scene for world World_8
+[2025.02.03-21.43.39:349][579]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MybluePrints/BP_key.BP_key
+[2025.02.03-21.43.39:349][579]LogChaosDD: Creating Chaos Debug Draw Scene for world World_9
+[2025.02.03-21.45.24:226][757]LogChaosDD: Creating Chaos Debug Draw Scene for world World_10
+[2025.02.03-21.45.24:432][758]LogChaosDD: Creating Chaos Debug Draw Scene for world World_11
+[2025.02.03-21.45.24:486][759]LogChaosDD: Creating Chaos Debug Draw Scene for world World_12
+[2025.02.03-21.45.29:981][ 46]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2025.02.03-21.45.29:981][ 46]LogChaosDD: Creating Chaos Debug Draw Scene for world World_13
+[2025.02.03-21.46.08:954][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.02.03-21.46.29:683][394]LogEditorTransaction: Undo Add Node
+[2025.02.03-21.47.24:943][513]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.03-21.47.25:000][513]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MybluePrints/BP_key] ([2] browsable assets)...
+[2025.02.03-21.47.25:060][513]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MybluePrints/BP_key.BP_key]
+[2025.02.03-21.47.25:060][513]OBJ SavePackage: Finished generating thumbnails for package [/Game/MybluePrints/BP_key]
+[2025.02.03-21.47.25:060][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MybluePrints/BP_key" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/MybluePrints/BP_key.uasset" SILENT=true
+[2025.02.03-21.47.25:067][513]LogSavePackage: Moving output files for package: /Game/MybluePrints/BP_key
+[2025.02.03-21.47.25:068][513]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/BP_key16EAF92B41BD2E3176F7BCBC14303215.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/MybluePrints/BP_key.uasset'
+[2025.02.03-21.47.25:078][513]LogFileHelpers: InternalPromptForCheckoutAndSave took 135.394 ms (total: 362.235 ms)
+[2025.02.03-21.47.25:141][513]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.03-21.47.25:141][513]LogContentValidation: Enabled validators:
+[2025.02.03-21.47.25:141][513]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.03-21.47.25:141][513]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.03-21.47.25:141][513]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.03-21.47.25:141][513]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.03-21.47.25:141][513]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.03-21.47.25:141][513]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.03-21.47.25:141][513]AssetCheck: /Game/MybluePrints/BP_key Validating asset
+[2025.02.03-21.47.30:962][824]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.02.03-21.47.36:384][136]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.03-21.47.36:391][136]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.03-21.47.36:392][136]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV1
+[2025.02.03-21.47.36:398][136]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005181s)
+[2025.02.03-21.47.36:398][136]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV1.LV1 to /Game/Level/UEDPIE_0_LV1.LV1 (0.005216s)
+[2025.02.03-21.47.36:415][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.02.03-21.47.36:417][136]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.02.03-21.47.36:418][136]LogPlayLevel: PIE: World Init took: (0.001591s)
+[2025.02.03-21.47.36:419][136]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.02.03-21.47.36:420][136]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.03-21.47.36:420][136]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.03-21.47.36:420][136]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.03-21.47.36:420][136]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.03-21.47.36:420][136]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.02.03-21.47.36:420][136]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.03-21.47.36:420][136]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.02.03-21.47.36:420][136]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.03-21.47.36:420][136]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.03-21.47.36:420][136]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.03-21.47.36:420][136]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.03-21.47.36:422][136]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.03-21.47.36:446][136]LogAudioMixer: Display: Using Audio Hardware Device Headphones (soundcore Q20i)
+[2025.02.03-21.47.36:446][136]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.03-21.47.36:446][136]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.03-21.47.36:446][136]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.03-21.47.36:447][136]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.02.03-21.47.36:447][136]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.02.03-21.47.36:450][136]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.02.03-21.47.36:450][136]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.02.03-21.47.36:450][136]LogInit: FAudioDevice initialized with ID 6.
+[2025.02.03-21.47.36:450][136]LogAudio: Display: Audio Device (ID: 6) registered with world 'LV1'.
+[2025.02.03-21.47.36:450][136]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.02.03-21.47.36:453][136]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.02.03-21.47.36:456][136]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV1.LV1 up for play (max tick rate 60) at 2025.02.03-16.47.36
+[2025.02.03-21.47.36:457][136]LogWorld: Bringing up level for play took: 0.003045
+[2025.02.03-21.47.36:459][136]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2025.02.03-21.47.36:464][136]PIE: Server logged in
+[2025.02.03-21.47.36:465][136]PIE: Play in editor total start time 0.073 seconds.
+[2025.02.03-21.47.40:743][226]LogBlueprintUserMessages: [BP_door_C_1] Door is Open
+[2025.02.03-21.47.47:605][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.03-21.47.47:605][407]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV1
+[2025.02.03-21.47.47:605][407]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.02.03-21.47.47:606][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.03-21.47.47:651][407]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.03-21.47.47:658][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.03-21.47.47:678][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.03-21.47.47:678][407]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.02.03-21.47.47:679][407]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.02.03-21.47.47:681][407]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.02.03-21.47.47:690][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.02.03-21.47.47:738][408]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2025.02.03-21.47.50:729][504]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [Scalability]
+[2025.02.03-21.47.50:729][504]LogConfig: Set CVar [[r.SkeletalMeshLODBias:1]]
+[2025.02.03-21.47.50:729][504]LogConfig: Set CVar [[r.ViewDistanceScale:0.6]]
+[2025.02.03-21.47.50:729][504]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [Scalability]
+[2025.02.03-21.47.50:729][504]LogConfig: Set CVar [[r.FXAA.Quality:1]]
+[2025.02.03-21.47.50:729][504]LogConfig: Set CVar [[r.TemporalAA.Quality:1]]
+[2025.02.03-21.47.50:730][504]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:100]]
+[2025.02.03-21.47.50:730][504]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:1]]
+[2025.02.03-21.47.50:730][504]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:0]]
+[2025.02.03-21.47.50:730][504]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:1]]
+[2025.02.03-21.47.50:730][504]LogConfig: Set CVar [[r.TSR.ReprojectionField:0]]
+[2025.02.03-21.47.50:730][504]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [Scalability]
+[2025.02.03-21.47.50:730][504]LogConfig: Set CVar [[r.ShadowQuality:3]]
+[2025.02.03-21.47.50:730][504]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2025.02.03-21.47.50:730][504]LogConfig: Set CVar [[r.Shadow.MaxResolution:1024]]
+[2025.02.03-21.47.50:730][504]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2025.02.03-21.47.50:730][504]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2025.02.03-21.47.50:730][504]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.7]]
+[2025.02.03-21.47.50:730][504]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2025.02.03-21.47.50:730][504]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2025.02.03-21.47.50:730][504]LogConfig: Set CVar [[r.DistanceFieldShadowing:0]]
+[2025.02.03-21.47.50:730][504]LogConfig: Set CVar [[r.VolumetricFog:0]]
+[2025.02.03-21.47.50:730][504]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:0.5]]
+[2025.02.03-21.47.50:730][504]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:512]]
+[2025.02.03-21.47.50:730][504]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:0.0]]
+[2025.02.03-21.47.50:730][504]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:0.0]]
+[2025.02.03-21.47.50:730][504]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:1.0]]
+[2025.02.03-21.47.50:730][504]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:2.0]]
+[2025.02.03-21.47.50:730][504]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:4]]
+[2025.02.03-21.47.50:730][504]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:2]]
+[2025.02.03-21.47.50:730][504]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:4]]
+[2025.02.03-21.47.50:730][504]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:2]]
+[2025.02.03-21.47.50:730][504]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@1] File [Scalability]
+[2025.02.03-21.47.50:730][504]LogConfig: Set CVar [[r.AOQuality:1]]
+[2025.02.03-21.47.50:730][504]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:0]]
+[2025.02.03-21.47.50:730][504]LogConfig: Set CVar [[r.SkyLight.RealTimeReflectionCapture:0]]
+[2025.02.03-21.47.50:730][504]LogConfig: Set CVar [[r.RayTracing.Scene.BuildMode:0]]
+[2025.02.03-21.47.50:730][504]LogConfig: Applying CVar settings from Section [ReflectionQuality@1] File [Scalability]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.SSR.Quality:2]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:1]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:0]]
+[2025.02.03-21.47.50:731][504]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [Scalability]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.MotionBlurQuality:3]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:1]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.DepthOfFieldQuality:1]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.RenderTargetPoolMin:350]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.LensFlareQuality:0]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.SceneColorFringeQuality:0]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.BloomQuality:4]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:35.355]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.FastBlurThreshold:2]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.Upscale.Quality:2]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.LightShaftQuality:0]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.Filter.SizeScale:0.7]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.Tonemapper.Quality:2]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2025.02.03-21.47.50:731][504]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [Scalability]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.Streaming.MipBias:1]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.MaxAnisotropy:2]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.VT.MaxAnisotropy:4]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.Streaming.PoolSize:600]]
+[2025.02.03-21.47.50:731][504]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [Scalability]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.RefractionQuality:0]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.SceneColorFormat:3]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.DetailMode:1]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:0]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.SSS.Scale:0.75]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.SSS.SampleSet:0]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.SSS.Quality:0]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.SSS.HalfRes:1]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.SSGI.Quality:1]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.25]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.ParticleLightQuality:0]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[fx.Niagara.QualityLevel:1]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.HeterogeneousVolumes.DownsampleFactor:4]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.HeterogeneousVolumes.MaxStepCount:256]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.HeterogeneousVolumes.Shadows.Resolution:128]]
+[2025.02.03-21.47.50:731][504]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [Scalability]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[foliage.DensityScale:0.4]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[grass.DensityScale:0.4]]
+[2025.02.03-21.47.50:731][504]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [Scalability]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2025.02.03-21.47.50:731][504]LogConfig: Set CVar [[r.AnisotropicMaterials:0]]
+[2025.02.03-21.47.50:731][504]LogConfig: Applying CVar settings from Section [LandscapeQuality@1] File [Scalability]
+[2025.02.03-21.47.50:760][504]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.02.03-21.47.50:831][505]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2025.02.03-21.47.51:045][506]LogContentStreaming: Texture pool size now 600 MB
+[2025.02.03-21.47.51:046][506]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="600"
+[2025.02.03-21.47.52:980][594]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.03-21.47.53:008][594]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.03-21.47.53:008][594]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV1
+[2025.02.03-21.47.53:014][594]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005257s)
+[2025.02.03-21.47.53:014][594]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV1.LV1 to /Game/Level/UEDPIE_0_LV1.LV1 (0.005320s)
+[2025.02.03-21.47.53:040][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.02.03-21.47.53:042][594]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.02.03-21.47.53:043][594]LogPlayLevel: PIE: World Init took: (0.001500s)
+[2025.02.03-21.47.53:044][594]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.02.03-21.47.53:044][594]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.03-21.47.53:044][594]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.03-21.47.53:044][594]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.03-21.47.53:044][594]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.03-21.47.53:044][594]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.02.03-21.47.53:044][594]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.03-21.47.53:044][594]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.02.03-21.47.53:044][594]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.03-21.47.53:044][594]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.03-21.47.53:045][594]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.03-21.47.53:045][594]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.03-21.47.53:047][594]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.03-21.47.53:069][594]LogAudioMixer: Display: Using Audio Hardware Device Headphones (soundcore Q20i)
+[2025.02.03-21.47.53:070][594]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.03-21.47.53:070][594]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.03-21.47.53:070][594]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.03-21.47.53:070][594]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.02.03-21.47.53:070][594]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.02.03-21.47.53:073][594]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.02.03-21.47.53:073][594]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.02.03-21.47.53:073][594]LogInit: FAudioDevice initialized with ID 7.
+[2025.02.03-21.47.53:073][594]LogAudio: Display: Audio Device (ID: 7) registered with world 'LV1'.
+[2025.02.03-21.47.53:073][594]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.02.03-21.47.53:077][594]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.02.03-21.47.53:080][594]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV1.LV1 up for play (max tick rate 60) at 2025.02.03-16.47.53
+[2025.02.03-21.47.53:080][594]LogWorld: Bringing up level for play took: 0.002989
+[2025.02.03-21.47.53:083][594]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2025.02.03-21.47.53:086][594]PIE: Server logged in
+[2025.02.03-21.47.53:087][594]PIE: Play in editor total start time 0.079 seconds.
+[2025.02.03-21.47.56:137][770]LogBlueprintUserMessages: [BP_door_C_1] Door is Open
+[2025.02.03-21.48.01:154][ 71]LogBlueprintUserMessages: [BP_door_C_1] Door is Closed
+[2025.02.03-21.48.06:704][404]LogBlueprintUserMessages: [BP_key_C_1] Key Found
+[2025.02.03-21.48.12:974][778]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.03-21.48.12:975][778]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV1
+[2025.02.03-21.48.12:975][778]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.02.03-21.48.12:976][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.03-21.48.12:981][778]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.03-21.48.12:986][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.03-21.48.13:001][778]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.03-21.48.13:001][778]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.02.03-21.48.13:001][778]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.02.03-21.48.13:004][778]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.02.03-21.48.13:010][778]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.02.03-21.48.13:069][779]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2025.02.03-21.48.16:073][951]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2025.02.03-21.48.16:073][951]LogConfig: Set CVar [[r.SkeletalMeshLODBias:0]]
+[2025.02.03-21.48.16:073][951]LogConfig: Set CVar [[r.ViewDistanceScale:1.0]]
+[2025.02.03-21.48.16:073][951]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2025.02.03-21.48.16:073][951]LogConfig: Set CVar [[r.FXAA.Quality:4]]
+[2025.02.03-21.48.16:073][951]LogConfig: Set CVar [[r.TemporalAA.Quality:2]]
+[2025.02.03-21.48.16:073][951]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:200]]
+[2025.02.03-21.48.16:073][951]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:3]]
+[2025.02.03-21.48.16:073][951]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:1]]
+[2025.02.03-21.48.16:073][951]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:2]]
+[2025.02.03-21.48.16:073][951]LogConfig: Set CVar [[r.TSR.ReprojectionField:1]]
+[2025.02.03-21.48.16:073][951]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2025.02.03-21.48.16:073][951]LogConfig: Set CVar [[r.ShadowQuality:5]]
+[2025.02.03-21.48.16:073][951]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2025.02.03-21.48.16:073][951]LogConfig: Set CVar [[r.Shadow.MaxResolution:2048]]
+[2025.02.03-21.48.16:073][951]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2025.02.03-21.48.16:073][951]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2025.02.03-21.48.16:073][951]LogConfig: Set CVar [[r.Shadow.DistanceScale:1.0]]
+[2025.02.03-21.48.16:073][951]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2025.02.03-21.48.16:073][951]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2025.02.03-21.48.16:073][951]LogConfig: Set CVar [[r.DistanceFieldShadowing:1]]
+[2025.02.03-21.48.16:073][951]LogConfig: Set CVar [[r.VolumetricFog:1]]
+[2025.02.03-21.48.16:073][951]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:1]]
+[2025.02.03-21.48.16:073][951]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:4096]]
+[2025.02.03-21.48.16:073][951]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:-1.5]]
+[2025.02.03-21.48.16:073][951]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:-1.5]]
+[2025.02.03-21.48.16:073][951]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:0.0]]
+[2025.02.03-21.48.16:073][951]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:1.0]]
+[2025.02.03-21.48.16:073][951]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:8]]
+[2025.02.03-21.48.16:073][951]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:4]]
+[2025.02.03-21.48.16:073][951]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:8]]
+[2025.02.03-21.48.16:073][951]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:4]]
+[2025.02.03-21.48.16:073][951]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2025.02.03-21.48.16:073][951]LogConfig: Set CVar [[r.AOQuality:2]]
+[2025.02.03-21.48.16:073][951]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:1]]
+[2025.02.03-21.48.16:073][951]LogConfig: Set CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2025.02.03-21.48.16:073][951]LogConfig: Set CVar [[r.RayTracing.Scene.BuildMode:1]]
+[2025.02.03-21.48.16:073][951]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2025.02.03-21.48.16:073][951]LogConfig: Set CVar [[r.SSR.Quality:3]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:0]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:1]]
+[2025.02.03-21.48.16:074][951]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.MotionBlurQuality:4]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:0]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.DepthOfFieldQuality:2]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.RenderTargetPoolMin:400]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.LensFlareQuality:2]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.SceneColorFringeQuality:1]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.BloomQuality:5]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:50.000]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.FastBlurThreshold:100]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.Upscale.Quality:3]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.LightShaftQuality:1]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.Filter.SizeScale:1]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.Tonemapper.Quality:5]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2025.02.03-21.48.16:074][951]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.Streaming.MipBias:0]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.MaxAnisotropy:8]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.VT.MaxAnisotropy:8]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.Streaming.PoolSize:1000]]
+[2025.02.03-21.48.16:074][951]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.RefractionQuality:2]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.SceneColorFormat:4]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.DetailMode:3]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:1]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.SSS.Scale:1]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.SSS.SampleSet:2]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.SSS.Quality:1]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.SSS.HalfRes:0]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.SSGI.Quality:3]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.EmitterSpawnRateScale:1.0]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.ParticleLightQuality:2]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[fx.Niagara.QualityLevel:3]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.HeterogeneousVolumes.DownsampleFactor:1]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.HeterogeneousVolumes.MaxStepCount:512]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.HeterogeneousVolumes.Shadows.Resolution:512]]
+[2025.02.03-21.48.16:074][951]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[foliage.DensityScale:1.0]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[grass.DensityScale:1.0]]
+[2025.02.03-21.48.16:074][951]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2025.02.03-21.48.16:074][951]LogConfig: Set CVar [[r.AnisotropicMaterials:1]]
+[2025.02.03-21.48.16:074][951]LogConfig: Applying CVar settings from Section [LandscapeQuality@3] File [Scalability]
+[2025.02.03-21.48.16:088][951]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.02.03-21.48.16:159][952]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2025.02.03-21.48.16:335][955]LogContentStreaming: Texture pool size now 1000 MB
+[2025.02.03-21.48.16:336][955]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="1000"
+[2025.02.03-21.48.43:054][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.02.03-21.48.49:039][782]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.03-21.48.49:045][782]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.03-21.48.49:046][782]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV1
+[2025.02.03-21.48.49:051][782]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004978s)
+[2025.02.03-21.48.49:051][782]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV1.LV1 to /Game/Level/UEDPIE_0_LV1.LV1 (0.005014s)
+[2025.02.03-21.48.49:071][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.02.03-21.48.49:072][782]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.02.03-21.48.49:074][782]LogPlayLevel: PIE: World Init took: (0.001715s)
+[2025.02.03-21.48.49:075][782]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.02.03-21.48.49:075][782]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.03-21.48.49:075][782]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.03-21.48.49:075][782]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.03-21.48.49:075][782]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.03-21.48.49:075][782]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.02.03-21.48.49:075][782]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.03-21.48.49:075][782]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.02.03-21.48.49:075][782]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.03-21.48.49:075][782]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.03-21.48.49:075][782]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.03-21.48.49:075][782]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.03-21.48.49:078][782]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.03-21.48.49:100][782]LogAudioMixer: Display: Using Audio Hardware Device Headphones (soundcore Q20i)
+[2025.02.03-21.48.49:101][782]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.03-21.48.49:101][782]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.03-21.48.49:101][782]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.03-21.48.49:101][782]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.02.03-21.48.49:101][782]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.02.03-21.48.49:104][782]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.02.03-21.48.49:104][782]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.02.03-21.48.49:104][782]LogInit: FAudioDevice initialized with ID 8.
+[2025.02.03-21.48.49:104][782]LogAudio: Display: Audio Device (ID: 8) registered with world 'LV1'.
+[2025.02.03-21.48.49:104][782]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.02.03-21.48.49:108][782]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.02.03-21.48.49:112][782]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV1.LV1 up for play (max tick rate 60) at 2025.02.03-16.48.49
+[2025.02.03-21.48.49:112][782]LogWorld: Bringing up level for play took: 0.003170
+[2025.02.03-21.48.49:115][782]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2025.02.03-21.48.49:118][782]PIE: Server logged in
+[2025.02.03-21.48.49:120][782]PIE: Play in editor total start time 0.074 seconds.
+[2025.02.03-21.48.56:206][ 77]LogBlueprintUserMessages: [BP_door_C_1] Door is Open
+[2025.02.03-21.49.00:389][328]LogBlueprintUserMessages: [BP_door_C_1] Door is Closed
+[2025.02.03-21.49.03:489][514]LogBlueprintUserMessages: [BP_key_C_1] Key Found
+[2025.02.03-21.49.05:534][635]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.03-21.49.05:535][635]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV1
+[2025.02.03-21.49.05:535][635]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.02.03-21.49.05:535][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.03-21.49.05:541][635]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.03-21.49.05:546][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.03-21.49.05:565][635]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.03-21.49.05:565][635]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.02.03-21.49.05:565][635]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.02.03-21.49.05:567][635]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.02.03-21.49.05:574][635]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.03-21.49.05:576][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.02.03-21.49.05:957][636]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2025.02.03-21.49.17:115][ 12]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\MybluePrints\BP_key.uasset: [Compiler] This blueprint (self) is not a BP_FirstPersonCharacter_C, therefore ' Target ' must have a connection.
+[2025.02.03-21.49.17:116][ 12]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\MybluePrints\BP_key.uasset: [Compiler] Variable node  Set isKeyFound  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2025.02.03-21.49.17:119][ 12]LogStreaming: Display: FlushAsyncLoading(614): 1 QueuedPackages, 0 AsyncPackages
+[2025.02.03-21.49.17:162][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.02.03-21.49.19:133][119]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2818.591064
+[2025.02.03-21.49.19:232][125]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.03-21.49.19:232][125]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2818.672607, Update Interval: 349.330109
+[2025.02.03-21.49.20:017][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.02.03-21.50.49:900][194]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MybluePrints/BP_keyDoor.BP_keyDoor
+[2025.02.03-21.50.49:900][194]LogChaosDD: Creating Chaos Debug Draw Scene for world World_14
+[2025.02.03-21.51.01:965][834]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.02.03-21.51.10:279][275]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MybluePrints/BP_keyDoor.BP_keyDoor_C
+[2025.02.03-21.51.10:279][275]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MybluePrints/BP_keyDoor.BP_keyDoor_C
+[2025.02.03-21.51.10:281][275]LogActorFactory: Actor Factory spawned Blueprint /Game/MybluePrints/BP_keyDoor.BP_keyDoor as actor: BP_keyDoor_C /Game/Level/LV1.LV1:PersistentLevel.BP_keyDoor_C_0
+[2025.02.03-21.51.10:284][275]LogActorFactory: Actor Factory spawned Blueprint /Game/MybluePrints/BP_keyDoor.BP_keyDoor as actor: BP_keyDoor_C /Game/Level/LV1.LV1:PersistentLevel.BP_keyDoor_C_0
+[2025.02.03-21.51.11:251][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.02.03-21.51.11:253][326]LogEditorActor: Deleted 0 Actors (0.045 secs)
+[2025.02.03-21.51.11:258][326]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MybluePrints/BP_keyDoor.BP_keyDoor_C
+[2025.02.03-21.51.11:258][326]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MybluePrints/BP_keyDoor.BP_keyDoor_C
+[2025.02.03-21.51.11:260][326]LogActorFactory: Actor Factory spawned Blueprint /Game/MybluePrints/BP_keyDoor.BP_keyDoor as actor: BP_keyDoor_C /Game/Level/LV1.LV1:PersistentLevel.BP_keyDoor_C_4
+[2025.02.03-21.51.11:263][326]LogActorFactory: Actor Factory spawned Blueprint /Game/MybluePrints/BP_keyDoor.BP_keyDoor as actor: BP_keyDoor_C /Game/Level/LV1.LV1:PersistentLevel.BP_keyDoor_C_4
+[2025.02.03-21.51.12:384][391]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.03-21.51.12:390][391]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.03-21.51.12:390][391]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV1
+[2025.02.03-21.51.12:396][391]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005288s)
+[2025.02.03-21.51.12:396][391]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV1.LV1 to /Game/Level/UEDPIE_0_LV1.LV1 (0.005327s)
+[2025.02.03-21.51.12:419][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.02.03-21.51.12:421][391]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.02.03-21.51.12:423][391]LogPlayLevel: PIE: World Init took: (0.001918s)
+[2025.02.03-21.51.12:424][391]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.02.03-21.51.12:424][391]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.03-21.51.12:424][391]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.03-21.51.12:424][391]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.03-21.51.12:424][391]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.03-21.51.12:424][391]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.02.03-21.51.12:425][391]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.03-21.51.12:425][391]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.02.03-21.51.12:425][391]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.03-21.51.12:425][391]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.03-21.51.12:425][391]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.03-21.51.12:425][391]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.03-21.51.12:427][391]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.03-21.51.12:453][391]LogAudioMixer: Display: Using Audio Hardware Device Headphones (soundcore Q20i)
+[2025.02.03-21.51.12:453][391]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.03-21.51.12:453][391]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.03-21.51.12:453][391]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.03-21.51.12:454][391]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.02.03-21.51.12:454][391]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.02.03-21.51.12:457][391]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.02.03-21.51.12:457][391]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.02.03-21.51.12:457][391]LogInit: FAudioDevice initialized with ID 9.
+[2025.02.03-21.51.12:457][391]LogAudio: Display: Audio Device (ID: 9) registered with world 'LV1'.
+[2025.02.03-21.51.12:457][391]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.02.03-21.51.12:460][391]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.02.03-21.51.12:464][391]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV1.LV1 up for play (max tick rate 60) at 2025.02.03-16.51.12
+[2025.02.03-21.51.12:464][391]LogWorld: Bringing up level for play took: 0.003466
+[2025.02.03-21.51.12:467][391]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2025.02.03-21.51.12:471][391]PIE: Server logged in
+[2025.02.03-21.51.12:473][391]PIE: Play in editor total start time 0.082 seconds.
+[2025.02.03-21.51.21:169][654]LogBlueprintUserMessages: [BP_door_C_1] Door is Open
+[2025.02.03-21.51.25:337][904]LogBlueprintUserMessages: [BP_door_C_1] Door is Closed
+[2025.02.03-21.51.26:470][972]LogBlueprintUserMessages: [BP_keyDoor_C_4] Find the key
+[2025.02.03-21.51.26:924][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.03-21.51.26:924][997]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV1
+[2025.02.03-21.51.26:924][997]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.02.03-21.51.26:925][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.03-21.51.26:935][997]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.03-21.51.26:943][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.03-21.51.26:961][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.03-21.51.26:961][997]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.02.03-21.51.26:961][997]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.02.03-21.51.26:963][997]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.02.03-21.51.26:971][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.02.03-21.51.27:281][998]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2025.02.03-21.52.27:073][628]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.03-21.52.27:143][628]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MybluePrints/BP_keyDoor] ([2] browsable assets)...
+[2025.02.03-21.52.27:153][628]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MybluePrints/BP_keyDoor.BP_keyDoor]
+[2025.02.03-21.52.27:153][628]OBJ SavePackage: Finished generating thumbnails for package [/Game/MybluePrints/BP_keyDoor]
+[2025.02.03-21.52.27:153][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MybluePrints/BP_keyDoor" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/MybluePrints/BP_keyDoor.uasset" SILENT=true
+[2025.02.03-21.52.27:158][628]LogSavePackage: Moving output files for package: /Game/MybluePrints/BP_keyDoor
+[2025.02.03-21.52.27:160][628]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/BP_keyDoorAD51AFE44D2BFC107556599B430C8CB7.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/MybluePrints/BP_keyDoor.uasset'
+[2025.02.03-21.52.27:171][628]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.092 ms (total: 461.327 ms)
+[2025.02.03-21.52.27:240][628]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.03-21.52.27:240][628]LogContentValidation: Enabled validators:
+[2025.02.03-21.52.27:240][628]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.03-21.52.27:240][628]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.03-21.52.27:240][628]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.03-21.52.27:240][628]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.03-21.52.27:240][628]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.03-21.52.27:240][628]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.03-21.52.27:240][628]AssetCheck: /Game/MybluePrints/BP_keyDoor Validating asset
+[2025.02.03-21.52.34:948][ 32]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\MybluePrints\BP_keyDoor.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To BP_FirstPersonCharacter  to imply a specific type.
+[2025.02.03-21.52.34:949][ 32]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\MybluePrints\BP_keyDoor.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2025.02.03-21.52.34:996][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.02.03-21.52.41:465][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.02.03-21.52.43:926][462]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.03-21.52.43:933][462]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.03-21.52.43:964][462]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV1
+[2025.02.03-21.52.43:969][462]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005021s)
+[2025.02.03-21.52.43:969][462]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV1.LV1 to /Game/Level/UEDPIE_0_LV1.LV1 (0.005066s)
+[2025.02.03-21.52.43:988][462]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.02.03-21.52.43:991][462]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.02.03-21.52.43:992][462]LogPlayLevel: PIE: World Init took: (0.001545s)
+[2025.02.03-21.52.43:993][462]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.02.03-21.52.43:993][462]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.03-21.52.43:993][462]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.03-21.52.43:993][462]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.03-21.52.43:993][462]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.03-21.52.43:993][462]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.02.03-21.52.43:993][462]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.03-21.52.43:993][462]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.02.03-21.52.43:993][462]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.03-21.52.43:993][462]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.03-21.52.43:994][462]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.03-21.52.43:994][462]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.03-21.52.43:996][462]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.03-21.52.44:018][462]LogAudioMixer: Display: Using Audio Hardware Device Headphones (soundcore Q20i)
+[2025.02.03-21.52.44:018][462]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.03-21.52.44:018][462]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.03-21.52.44:018][462]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.03-21.52.44:019][462]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.02.03-21.52.44:019][462]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.02.03-21.52.44:021][462]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.02.03-21.52.44:021][462]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.02.03-21.52.44:021][462]LogInit: FAudioDevice initialized with ID 10.
+[2025.02.03-21.52.44:021][462]LogAudio: Display: Audio Device (ID: 10) registered with world 'LV1'.
+[2025.02.03-21.52.44:021][462]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.02.03-21.52.44:025][462]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.02.03-21.52.44:029][462]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV1.LV1 up for play (max tick rate 60) at 2025.02.03-16.52.44
+[2025.02.03-21.52.44:029][462]LogWorld: Bringing up level for play took: 0.003129
+[2025.02.03-21.52.44:031][462]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2025.02.03-21.52.44:036][462]PIE: Server logged in
+[2025.02.03-21.52.44:037][462]PIE: Play in editor total start time 0.104 seconds.
+[2025.02.03-21.52.53:905][744]LogBlueprintUserMessages: [BP_door_C_1] Door is Open
+[2025.02.03-21.52.58:322][  9]LogBlueprintUserMessages: [BP_door_C_1] Door is Closed
+[2025.02.03-21.52.59:237][ 64]LogBlueprintUserMessages: [BP_keyDoor_C_4] Find the key
+[2025.02.03-21.53.02:588][265]LogBlueprintUserMessages: [BP_key_C_1] Key Found
+[2025.02.03-21.53.07:439][556]LogBlueprintUserMessages: [BP_keyDoor_C_4] canOpen
+[2025.02.03-21.53.07:439][556]LogBlueprintUserMessages: [BP_keyDoor_C_4] Find the key
+[2025.02.03-21.53.08:222][603]LogBlueprintUserMessages: [BP_keyDoor_C_4] canOpen
+[2025.02.03-21.53.08:222][603]LogBlueprintUserMessages: [BP_keyDoor_C_4] Find the key
+[2025.02.03-21.53.08:888][643]LogBlueprintUserMessages: [BP_keyDoor_C_4] canOpen
+[2025.02.03-21.53.08:888][643]LogBlueprintUserMessages: [BP_keyDoor_C_4] Find the key
+[2025.02.03-21.53.11:004][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.03-21.53.11:005][768]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV1
+[2025.02.03-21.53.11:005][768]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.02.03-21.53.11:006][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.03-21.53.11:016][768]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.03-21.53.11:026][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.03-21.53.11:047][768]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.03-21.53.11:047][768]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.02.03-21.53.11:047][768]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.02.03-21.53.11:051][768]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.02.03-21.53.11:054][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.03-21.53.11:057][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.02.03-21.53.11:255][769]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2025.02.03-21.53.36:235][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.02.03-21.53.36:253][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level/LV1_Auto3
+[2025.02.03-21.53.36:255][786]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/LV1_Auto3ABFD1B8F409A3D6A362F96ACEEF4FEEF.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/Level/LV1_Auto3.umap'
+[2025.02.03-21.53.36:258][786]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/LV1' took 0.045
+[2025.02.03-21.53.36:258][786]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.045
+[2025.02.03-21.53.36:259][786]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.02.03-21.53.36:344][786]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.02.03-21.53.36:344][786]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.02.03-21.53.36:355][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto3
+[2025.02.03-21.53.36:355][786]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/BP_FirstPersonCharacter_Auto3AAAD0DD745C0BC3CFB7F099FCE7F49E4.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto3.uasset'
+[2025.02.03-21.53.36:357][786]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MybluePrints/BP_key] ([2] browsable assets)...
+[2025.02.03-21.53.36:365][786]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MybluePrints/BP_key.BP_key]
+[2025.02.03-21.53.36:365][786]OBJ SavePackage: Finished generating thumbnails for package [/Game/MybluePrints/BP_key]
+[2025.02.03-21.53.36:371][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MybluePrints/BP_key_Auto3
+[2025.02.03-21.53.36:371][786]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/BP_key_Auto35992B7B048A78DEC92EE2BA84B17DE30.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/MybluePrints/BP_key_Auto3.uasset'
+[2025.02.03-21.53.36:372][786]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MybluePrints/BP_keyDoor] ([2] browsable assets)...
+[2025.02.03-21.53.36:381][786]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MybluePrints/BP_keyDoor.BP_keyDoor]
+[2025.02.03-21.53.36:381][786]OBJ SavePackage: Finished generating thumbnails for package [/Game/MybluePrints/BP_keyDoor]
+[2025.02.03-21.53.36:386][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MybluePrints/BP_keyDoor_Auto3
+[2025.02.03-21.53.36:386][786]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/BP_keyDoor_Auto3D34BDF60485BC462164AF6921E3084E9.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/MybluePrints/BP_keyDoor_Auto3.uasset'
+[2025.02.03-21.53.36:388][786]LogFileHelpers: Auto-saving content packages took 0.129
+[2025.02.03-21.54.54:207][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.02.03-21.54.55:247][434]LogSlate: Window 'Save Content' being destroyed
+[2025.02.03-21.54.55:257][434]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.03-21.54.55:324][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/LV1" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/LV1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.02.03-21.54.55:365][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.02.03-21.54.55:382][434]LogSavePackage: Moving output files for package: /Game/Level/LV1
+[2025.02.03-21.54.55:384][434]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/LV1B1685872435DEF83B816C8829D64E740.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/LV1.umap'
+[2025.02.03-21.54.55:397][434]LogFileHelpers: Saving map 'LV1' took 0.073
+[2025.02.03-21.54.55:397][434]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.02.03-21.54.55:397][434]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.02.03-21.54.55:406][434]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.02.03-21.54.55:408][434]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/BP_FirstPersonCharacter145E90964695A7E4D9EED2891B78EB97.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.02.03-21.54.55:411][434]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MybluePrints/BP_key] ([2] browsable assets)...
+[2025.02.03-21.54.55:411][434]OBJ SavePackage: Finished generating thumbnails for package [/Game/MybluePrints/BP_key]
+[2025.02.03-21.54.55:411][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MybluePrints/BP_key" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/MybluePrints/BP_key.uasset" SILENT=true
+[2025.02.03-21.54.55:416][434]LogSavePackage: Moving output files for package: /Game/MybluePrints/BP_key
+[2025.02.03-21.54.55:417][434]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/BP_key8FDA694E4C0CE667177B0EB1C4CC7EBD.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/MybluePrints/BP_key.uasset'
+[2025.02.03-21.54.55:420][434]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MybluePrints/BP_keyDoor] ([2] browsable assets)...
+[2025.02.03-21.54.55:420][434]OBJ SavePackage: Finished generating thumbnails for package [/Game/MybluePrints/BP_keyDoor]
+[2025.02.03-21.54.55:420][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MybluePrints/BP_keyDoor" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/MybluePrints/BP_keyDoor.uasset" SILENT=true
+[2025.02.03-21.54.55:425][434]LogSavePackage: Moving output files for package: /Game/MybluePrints/BP_keyDoor
+[2025.02.03-21.54.55:427][434]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/BP_keyDoor0A1BF6F6435F7F02B03891A481AD4DA6.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/MybluePrints/BP_keyDoor.uasset'
+[2025.02.03-21.54.55:438][434]LogFileHelpers: InternalPromptForCheckoutAndSave took 180.367 ms (total: 641.695 ms)
+[2025.02.03-21.54.55:501][434]LogContentValidation: Display: Starting to validate 4 assets
+[2025.02.03-21.54.55:501][434]LogContentValidation: Enabled validators:
+[2025.02.03-21.54.55:501][434]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.03-21.54.55:501][434]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.03-21.54.55:501][434]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.03-21.54.55:501][434]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.03-21.54.55:501][434]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.03-21.54.55:501][434]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.03-21.54.55:501][434]AssetCheck: /Game/Level/LV1 Validating asset
+[2025.02.03-21.54.55:501][434]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.02.03-21.54.55:501][434]AssetCheck: /Game/MybluePrints/BP_key Validating asset
+[2025.02.03-21.54.55:501][434]AssetCheck: /Game/MybluePrints/BP_keyDoor Validating asset
+[2025.02.03-21.55.04:925][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.02.03-21.55.04:979][988]LogStall: Shutdown...
+[2025.02.03-21.55.04:979][988]LogStall: Shutdown complete.
+[2025.02.03-21.55.05:064][988]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.02.03-21.55.05:064][988]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.03-21.55.05:138][988]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.02.03-21.55.05:138][988]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.02.03-21.55.05:138][988]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.03-21.55.05:194][988]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.02.03-21.55.05:194][988]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.02.03-21.55.05:194][988]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.03-21.55.05:236][988]LogSlate: Window 'BP_keyDoor' being destroyed
+[2025.02.03-21.55.05:245][988]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.02.03-21.55.05:246][988]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.02.03-21.55.05:246][988]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.03-21.55.05:303][988]LogSlate: Window 'EscapeRoom - Unreal Editor' being destroyed
+[2025.02.03-21.55.05:304][988]LogWindowsTextInputMethodSystem: Activated input method: English (Canada) - (Keyboard).
+[2025.02.03-21.55.05:463][988]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.02.03-21.55.05:481][988]Cmd: QUIT_EDITOR
+[2025.02.03-21.55.05:481][989]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.02.03-21.55.05:489][989]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.02.03-21.55.05:490][989]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.02.03-21.55.05:490][989]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.02.03-21.55.05:495][989]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.02.03-21.55.05:504][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.03-21.55.05:523][989]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.02.03-21.55.05:529][989]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.02.03-21.55.05:536][989]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.02.03-21.55.05:536][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.03-21.55.05:539][989]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.02.03-21.55.05:539][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.03-21.55.05:542][989]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.02.03-21.55.05:542][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.03-21.55.05:544][989]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.02.03-21.55.05:544][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.03-21.55.05:547][989]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.02.03-21.55.05:547][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.03-21.55.05:549][989]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.02.03-21.55.05:549][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.03-21.55.05:551][989]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.02.03-21.55.05:552][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.03-21.55.05:554][989]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.02.03-21.55.05:554][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.03-21.55.05:556][989]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.02.03-21.55.05:556][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.03-21.55.05:560][989]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.02.03-21.55.05:560][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.03-21.55.05:563][989]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.02.03-21.55.05:563][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.03-21.55.05:576][989]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.02.03-21.55.05:581][989]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.02.03-21.55.05:582][989]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.02.03-21.55.05:582][989]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.02.03-21.55.05:671][989]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.02.03-21.55.05:671][989]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.02.03-21.55.05:671][989]LogAudio: Display: Audio Device unregistered from world 'LV1'.
+[2025.02.03-21.55.05:671][989]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.02.03-21.55.05:672][989]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.02.03-21.55.05:675][989]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.02.03-21.55.05:685][989]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.02.03-21.55.05:685][989]LogAudio: Display: Audio Device Manager Shutdown
+[2025.02.03-21.55.05:690][989]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.02.03-21.55.05:691][989]LogExit: Preparing to exit.
+[2025.02.03-21.55.05:743][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.02.03-21.55.05:747][989]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.03-21.55.05:748][989]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.03-21.55.05:750][989]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.03-21.55.05:750][989]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.03-21.55.05:750][989]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.03-21.55.05:750][989]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.03-21.55.05:750][989]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.03-21.55.05:751][989]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.03-21.55.05:751][989]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.03-21.55.05:751][989]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.03-21.55.05:751][989]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.03-21.55.05:751][989]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.03-21.55.05:751][989]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.03-21.55.05:751][989]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.03-21.55.05:751][989]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.03-21.55.05:751][989]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.03-21.55.05:751][989]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.03-21.55.05:751][989]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.03-21.55.05:751][989]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.03-21.55.05:751][989]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.03-21.55.05:751][989]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.02.03-21.55.06:432][989]LogEditorDataStorage: Deinitializing
+[2025.02.03-21.55.06:716][989]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.02.03-21.55.06:784][989]LogExit: Editor shut down
+[2025.02.03-21.55.06:791][989]LogExit: Transaction tracking system shut down
+[2025.02.03-21.55.07:170][989]LogCore: Error: PropertyBag: Expecting RefCount to be zero on destructor, but it is 5.
+[2025.02.03-21.55.07:199][989]LogExit: Object subsystem successfully closed.
+[2025.02.03-21.55.07:294][989]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.02.03-21.55.08:029][989]LogMemoryProfiler: Shutdown
+[2025.02.03-21.55.08:030][989]LogNetworkingProfiler: Shutdown
+[2025.02.03-21.55.08:030][989]LoadingProfiler: Shutdown
+[2025.02.03-21.55.08:030][989]LogTimingProfiler: Shutdown
+[2025.02.03-21.55.08:551][989]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.02.03-21.55.08:568][989]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.02.03-21.55.08:568][989]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4FE5058F-48B0-504E-DB2C-B4AA41FF5A09%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.1-38445549%2B%2B%2BUE5%2BRelease-5.5&UserID=5b698278432ff5877ecbf48986573c17%7C2733f450d3744c1a8e8dc29c017c8fc9%7C912d7f75-cfdc-4077-8011-62252d4e5860&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.02.03-21.55.09:147][989]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.02.03-21.55.09:147][989]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.02.03-21.55.09:147][989]LogNFORDenoise: NFORDenoise function shutting down
+[2025.02.03-21.55.09:148][989]RenderDocPlugin: plugin has been unloaded.
+[2025.02.03-21.55.09:176][989]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.02.03-21.55.09:176][989]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.02.03-21.55.09:177][989]LogPakFile: Destroying PakPlatformFile
+[2025.02.03-21.55.12:502][989]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.02.03-21.55.12:740][989]LogExit: Exiting.
+[2025.02.03-21.55.12:843][989]Log file closed, 02/03/25 16:55:12
