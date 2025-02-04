@@ -77,3 +77,22 @@ DerivedDataCache/*
 *.tmp
 /Escape Room/Content/Materials/fabric
 *.uasset
+*.ini
+*.ini
+*.ini
+Escape Room/Saved/Config/CrashReportClient/UECC-Windows-52FF1EBD42A3A896F4C714AE17C6FC74/CrashReportClient.ini
+/Escape Room/Saved/Config/CrashReportClient/UECC-Windows-52FF1EBD42A3A896F4C714AE17C6FC74
+/Escape Room/Saved/webcache_4430/Cache
+/Escape Room/Saved/webcache_4430/Cache
+*.log
+*.ini
+/Escape Room/Saved/webcache_4430/Cache
+/Escape Room/Saved/webcache_4430
+*.log
+/Escape Room/Saved
+*.log
+*.ini
+Escape Room/Saved/Config/CrashReportClient/UECC-Windows-076B8EED4B39ABE0525326BDDF2B183F/CrashReportClient.ini
+*.ini
+Escape Room/Saved/webcache_4430/Cache/data_3
+*.json
