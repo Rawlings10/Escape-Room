@@ -3967,3 +3967,26 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2025.02.04-01.37.22:942][429]LogEditorActor: Deleted Actor: BP_key2_C
 [2025.02.04-01.37.22:970][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
 [2025.02.04-01.37.22:975][429]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2025.02.04-01.38.04:997][501]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.02.04-01.38.05:026][501]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level/LV1_Auto5
+[2025.02.04-01.38.05:027][501]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/LV1_Auto56D06582F4DC96DDEB7AD24A3F43CFFCE.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/Level/LV1_Auto5.umap'
+[2025.02.04-01.38.05:030][501]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/LV1' took 0.056
+[2025.02.04-01.38.05:030][501]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.056
+[2025.02.04-01.38.16:840][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.02.04-01.38.18:026][613]LogSlate: Window 'Save Content' being destroyed
+[2025.02.04-01.38.18:037][613]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.04-01.38.18:093][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/LV1" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/LV1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.02.04-01.38.18:135][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.02.04-01.38.18:153][613]LogSavePackage: Moving output files for package: /Game/Level/LV1
+[2025.02.04-01.38.18:155][613]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/LV17EF5B1524AF62FB2C0E7A4A46A273C51.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/LV1.umap'
+[2025.02.04-01.38.18:168][613]LogFileHelpers: Saving map 'LV1' took 0.076
+[2025.02.04-01.38.18:177][613]LogFileHelpers: InternalPromptForCheckoutAndSave took 140.414 ms (total: 2.99 sec)
+[2025.02.04-01.38.18:243][613]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.04-01.38.18:243][613]LogContentValidation: Enabled validators:
+[2025.02.04-01.38.18:243][613]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.04-01.38.18:243][613]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.04-01.38.18:243][613]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.04-01.38.18:243][613]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.04-01.38.18:243][613]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.04-01.38.18:243][613]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.04-01.38.18:244][613]AssetCheck: /Game/Level/LV1 Validating asset
