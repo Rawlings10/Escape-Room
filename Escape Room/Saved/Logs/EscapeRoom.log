@@ -4385,3 +4385,56 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.02.08-06.42.15:282][568]LogEditorActor: Deleted Actor: BP_HealthKit_C
 [2025.02.08-06.42.15:316][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
 [2025.02.08-06.42.15:323][568]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2025.02.08-06.42.47:076][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.02.08-06.42.47:137][854]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level/LV1_Auto3
+[2025.02.08-06.42.47:138][854]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/LV1_Auto3E727944B4B0F4ED4F55FC4831DF62F4A.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/Level/LV1_Auto3.umap'
+[2025.02.08-06.42.47:140][854]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/LV1' took 0.087
+[2025.02.08-06.42.47:140][854]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.087
+[2025.02.08-06.42.47:140][854]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MybluePrints/BP_Fire] ([2] browsable assets)...
+[2025.02.08-06.42.47:140][854]OBJ SavePackage: Finished generating thumbnails for package [/Game/MybluePrints/BP_Fire]
+[2025.02.08-06.42.47:146][854]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MybluePrints/BP_Fire_Auto3
+[2025.02.08-06.42.47:147][854]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/BP_Fire_Auto328EBD5FC40FFF80B0B4C318BAE291BB6.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/MybluePrints/BP_Fire_Auto3.uasset'
+[2025.02.08-06.42.47:149][854]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MybluePrints/BP_Smoke] ([2] browsable assets)...
+[2025.02.08-06.42.47:149][854]OBJ SavePackage: Finished generating thumbnails for package [/Game/MybluePrints/BP_Smoke]
+[2025.02.08-06.42.47:155][854]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MybluePrints/BP_Smoke_Auto3
+[2025.02.08-06.42.47:155][854]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/BP_Smoke_Auto38FD35A744913746CBA02C89AF277FD39.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/MybluePrints/BP_Smoke_Auto3.uasset'
+[2025.02.08-06.42.47:157][854]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MybluePrints/BP_door] ([2] browsable assets)...
+[2025.02.08-06.42.47:157][854]OBJ SavePackage: Finished generating thumbnails for package [/Game/MybluePrints/BP_door]
+[2025.02.08-06.42.47:166][854]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MybluePrints/BP_door_Auto3
+[2025.02.08-06.42.47:166][854]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/BP_door_Auto3C5BB93DD4F71F68965A8359987C92A95.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/MybluePrints/BP_door_Auto3.uasset'
+[2025.02.08-06.42.47:167][854]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MybluePrints/BP_doubleDoor] ([2] browsable assets)...
+[2025.02.08-06.42.47:433][854]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MybluePrints/BP_doubleDoor.BP_doubleDoor]
+[2025.02.08-06.42.47:434][854]OBJ SavePackage: Finished generating thumbnails for package [/Game/MybluePrints/BP_doubleDoor]
+[2025.02.08-06.42.47:445][854]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MybluePrints/BP_doubleDoor_Auto3
+[2025.02.08-06.42.47:445][854]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/BP_doubleDoor_Auto34DC2843A4CC161921F5F7EB371895C96.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/MybluePrints/BP_doubleDoor_Auto3.uasset'
+[2025.02.08-06.42.47:447][854]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MybluePrints/BP_HealthKit] ([2] browsable assets)...
+[2025.02.08-06.42.47:492][854]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MybluePrints/BP_HealthKit.BP_HealthKit]
+[2025.02.08-06.42.47:492][854]OBJ SavePackage: Finished generating thumbnails for package [/Game/MybluePrints/BP_HealthKit]
+[2025.02.08-06.42.47:498][854]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MybluePrints/BP_HealthKit_Auto3
+[2025.02.08-06.42.47:498][854]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/BP_HealthKit_Auto314793A2649803EF67983E3A74E37714F.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/MybluePrints/BP_HealthKit_Auto3.uasset'
+[2025.02.08-06.42.47:499][854]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MybluePrints/BP_keyDoor1] ([2] browsable assets)...
+[2025.02.08-06.42.47:509][854]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MybluePrints/BP_keyDoor1.BP_keyDoor1]
+[2025.02.08-06.42.47:509][854]OBJ SavePackage: Finished generating thumbnails for package [/Game/MybluePrints/BP_keyDoor1]
+[2025.02.08-06.42.47:516][854]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MybluePrints/BP_keyDoor1_Auto3
+[2025.02.08-06.42.47:516][854]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/BP_keyDoor1_Auto32999B41049D306936FF3AB85C9F3FD7A.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/MybluePrints/BP_keyDoor1_Auto3.uasset'
+[2025.02.08-06.42.47:517][854]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MybluePrints/BP_keyDoor2] ([2] browsable assets)...
+[2025.02.08-06.42.47:532][854]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MybluePrints/BP_keyDoor2.BP_keyDoor2]
+[2025.02.08-06.42.47:532][854]OBJ SavePackage: Finished generating thumbnails for package [/Game/MybluePrints/BP_keyDoor2]
+[2025.02.08-06.42.47:538][854]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MybluePrints/BP_keyDoor2_Auto3
+[2025.02.08-06.42.47:538][854]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/BP_keyDoor2_Auto3F8AFBBAC40F9286DA7B957BB70D51E7A.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/MybluePrints/BP_keyDoor2_Auto3.uasset'
+[2025.02.08-06.42.47:539][854]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MybluePrints/BP_keyDoor3] ([2] browsable assets)...
+[2025.02.08-06.42.47:555][854]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MybluePrints/BP_keyDoor3.BP_keyDoor3]
+[2025.02.08-06.42.47:555][854]OBJ SavePackage: Finished generating thumbnails for package [/Game/MybluePrints/BP_keyDoor3]
+[2025.02.08-06.42.47:562][854]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MybluePrints/BP_keyDoor3_Auto3
+[2025.02.08-06.42.47:562][854]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/BP_keyDoor3_Auto326096B04456E0C72AB64D58035FC287B.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/MybluePrints/BP_keyDoor3_Auto3.uasset'
+[2025.02.08-06.42.47:563][854]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MybluePrints/BP_OpenDoor] ([2] browsable assets)...
+[2025.02.08-06.42.47:573][854]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MybluePrints/BP_OpenDoor.BP_OpenDoor]
+[2025.02.08-06.42.47:573][854]OBJ SavePackage: Finished generating thumbnails for package [/Game/MybluePrints/BP_OpenDoor]
+[2025.02.08-06.42.47:579][854]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MybluePrints/BP_OpenDoor_Auto3
+[2025.02.08-06.42.47:579][854]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/BP_OpenDoor_Auto374E94A1A41B43CC4B8C38993641EFF2B.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/MybluePrints/BP_OpenDoor_Auto3.uasset'
+[2025.02.08-06.42.47:580][854]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MybluePrints/BP_OpenDoubleDoor] ([2] browsable assets)...
+[2025.02.08-06.42.47:590][854]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MybluePrints/BP_OpenDoubleDoor.BP_OpenDoubleDoor]
+[2025.02.08-06.42.47:590][854]OBJ SavePackage: Finished generating thumbnails for package [/Game/MybluePrints/BP_OpenDoubleDoor]
+[2025.02.08-06.42.47:595][854]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MybluePrints/BP_OpenDoubleDoor_Auto3
+[2025.02.08-06.42.47:596][854]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/BP_OpenDoubleDoor_Auto38B9DA3CF4D63EDBF10D1D89501EEE6F3.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/MybluePrints/BP_OpenDoubleDoor_Auto3.uasset'
+[2025.02.08-06.42.47:597][854]LogFileHelpers: Auto-saving content packages took 0.458
