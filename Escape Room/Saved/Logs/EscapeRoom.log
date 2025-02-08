@@ -8941,3 +8941,27 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.02.08-09.39.26:463][ 74]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14925.783203
 [2025.02.08-09.39.27:465][ 77]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.02.08-09.39.27:465][ 78]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14926.450195, Update Interval: 310.477600
+[2025.02.08-09.39.36:630][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.02.08-09.39.38:117][107]LogSlate: Window 'Save Content' being destroyed
+[2025.02.08-09.39.38:146][107]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.08-09.39.38:213][107]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MybluePrints/BP_Fire] ([2] browsable assets)...
+[2025.02.08-09.39.38:213][107]OBJ SavePackage: Finished generating thumbnails for package [/Game/MybluePrints/BP_Fire]
+[2025.02.08-09.39.38:213][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MybluePrints/BP_Fire" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/MybluePrints/BP_Fire.uasset" SILENT=true
+[2025.02.08-09.39.38:220][107]LogSavePackage: Moving output files for package: /Game/MybluePrints/BP_Fire
+[2025.02.08-09.39.38:220][107]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/BP_Fire924BC4F34D3F068989290BAE7D28D168.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/MybluePrints/BP_Fire.uasset'
+[2025.02.08-09.39.38:222][107]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.02.08-09.39.38:301][107]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.02.08-09.39.38:301][107]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.02.08-09.39.38:318][107]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.02.08-09.39.38:319][107]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/BP_FirstPersonCharacterE880CF404C65F03C75C68D8E1EDFB85E.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.02.08-09.39.38:329][107]LogFileHelpers: InternalPromptForCheckoutAndSave took 183.446 ms (total: 1.56 sec)
+[2025.02.08-09.39.38:397][107]LogContentValidation: Display: Starting to validate 2 assets
+[2025.02.08-09.39.38:397][107]LogContentValidation: Enabled validators:
+[2025.02.08-09.39.38:397][107]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.08-09.39.38:397][107]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.08-09.39.38:397][107]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.08-09.39.38:397][107]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.08-09.39.38:397][107]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.08-09.39.38:397][107]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.08-09.39.38:397][107]AssetCheck: /Game/MybluePrints/BP_Fire Validating asset
+[2025.02.08-09.39.38:397][107]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
