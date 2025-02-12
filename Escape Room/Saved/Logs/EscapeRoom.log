@@ -1871,3 +1871,21 @@ LogConfig: CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable
 [2025.02.12-04.52.22:767][361]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 989.592957
 [2025.02.12-04.52.23:768][364]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.02.12-04.52.23:768][365]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 990.262451, Update Interval: 331.991333
+[2025.02.12-04.55.41:145][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.02.12-04.55.43:038][956]LogSlate: Window 'Save Content' being destroyed
+[2025.02.12-04.55.43:048][956]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.12-04.55.43:122][956]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MybluePrints/BP_door] ([2] browsable assets)...
+[2025.02.12-04.55.43:122][956]OBJ SavePackage: Finished generating thumbnails for package [/Game/MybluePrints/BP_door]
+[2025.02.12-04.55.43:122][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MybluePrints/BP_door" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/MybluePrints/BP_door.uasset" SILENT=true
+[2025.02.12-04.55.43:129][956]LogSavePackage: Moving output files for package: /Game/MybluePrints/BP_door
+[2025.02.12-04.55.43:130][956]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/BP_doorD16838084D73033F978EB1A83983164C.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/MybluePrints/BP_door.uasset'
+[2025.02.12-04.55.43:141][956]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.531 ms (total: 355.260 ms)
+[2025.02.12-04.55.43:217][956]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.12-04.55.43:217][956]LogContentValidation: Enabled validators:
+[2025.02.12-04.55.43:217][956]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.12-04.55.43:217][956]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.12-04.55.43:217][956]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.12-04.55.43:217][956]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.12-04.55.43:217][956]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.12-04.55.43:217][956]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.12-04.55.43:217][956]AssetCheck: /Game/MybluePrints/BP_door Validating asset
