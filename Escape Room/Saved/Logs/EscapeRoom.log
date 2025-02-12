@@ -1860,3 +1860,14 @@ LogConfig: CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable
 [2025.02.12-04.51.38:290][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
 [2025.02.12-04.51.38:358][560]LogPlayLevel: Display: Destroying online subsystem :Context_18
 [2025.02.12-04.51.51:781][991]Cmd: SELECT NONE
+[2025.02.12-04.52.19:449][351]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.02.12-04.52.19:451][351]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/LV1' took 0.026
+[2025.02.12-04.52.19:452][351]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MybluePrints/BP_door] ([2] browsable assets)...
+[2025.02.12-04.52.19:731][351]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MybluePrints/BP_door.BP_door]
+[2025.02.12-04.52.19:733][351]OBJ SavePackage: Finished generating thumbnails for package [/Game/MybluePrints/BP_door]
+[2025.02.12-04.52.19:741][351]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MybluePrints/BP_door_Auto1
+[2025.02.12-04.52.19:741][351]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/BP_door_Auto1063D70444600A4BD31FF939F0BC22617.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/MybluePrints/BP_door_Auto1.uasset'
+[2025.02.12-04.52.19:744][351]LogFileHelpers: Auto-saving content packages took 0.292
+[2025.02.12-04.52.22:767][361]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 989.592957
+[2025.02.12-04.52.23:768][364]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.12-04.52.23:768][365]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 990.262451, Update Interval: 331.991333
