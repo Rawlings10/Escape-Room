@@ -1472,3 +1472,14 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.02.14-17.59.16:817][105]LogSkeletalMesh: Building Skeletal Mesh SKM_Quinn...
 [2025.02.14-17.59.16:894][105]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
 [2025.02.14-17.59.16:978][105]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Quinn) ...
+[2025.02.14-17.59.30:856][105]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 2 
+[2025.02.14-17.59.30:856][105]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 3 
+[2025.02.14-17.59.45:522][105]LogSkeletalMesh: Skeletal mesh [/Game/Characters/Mannequins/Meshes/SKM_Quinn.SKM_Quinn]: The derived data key is different after the build. Save the asset to avoid rebuilding it everytime the editor load it.
+[2025.02.14-17.59.45:582][105]LogSkeletalMesh: Built Skeletal Mesh [28.77s] /Game/Characters/Mannequins/Meshes/SKM_Quinn.SKM_Quinn
+[2025.02.14-17.59.45:602][105]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [StaticMesh] anyway! RequiredMemory = 0.000 MiB + 1058.433594 MiB, MemoryLimit = 989.507812 MiB 
+[2025.02.14-17.59.45:602][105]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [StaticMesh] anyway! RequiredMemory = 0.000 MiB + 1058.433594 MiB, MemoryLimit = 989.179688 MiB 
+[2025.02.14-17.59.45:860][105]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/LV1.LV1
+[2025.02.14-17.59.45:865][105]Cmd: MAP LOAD FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/LV1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.02.14-17.59.46:112][105]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.14-17.59.46:116][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.14-17.59.46:116][105]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
