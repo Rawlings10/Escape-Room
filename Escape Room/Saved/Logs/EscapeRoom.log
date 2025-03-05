@@ -2550,3 +2550,1630 @@ Continue: Skip saving this asset only.
 [2025.03.05-19.52.06:920][453]AssetCheck: /Game/MybluePrints/BP_Direction Validating asset
 [2025.03.05-19.52.06:920][453]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonProjectile Validating asset
 [2025.03.05-19.52.06:920][453]AssetCheck: /Game/MybluePrints/BP_ShowDirection Validating asset
+[2025.03.05-19.55.31:065][722]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MybluePrints/BP_keyDoor3.BP_keyDoor3
+[2025.03.05-19.55.31:065][722]LogChaosDD: Creating Chaos Debug Draw Scene for world World_25
+[2025.03.05-19.55.40:744][257]LogChaosDD: Creating Chaos Debug Draw Scene for world World_26
+[2025.03.05-19.55.59:345][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.03.05-19.55.59:445][354]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 688.658081
+[2025.03.05-19.55.59:537][359]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.05-19.55.59:537][359]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 688.732910, Update Interval: 330.570404
+[2025.03.05-19.56.31:227][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.03.05-19.56.48:922][221]LogSlate: External Image Picker: DecompressImage failed
+[2025.03.05-19.58.34:377][343]LogSlate: Window 'Project Settings' being destroyed
+[2025.03.05-20.00.09:577][ 77]LogSlate: External Image Picker: DecompressImage failed
+[2025.03.05-20.00.44:213][107]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.05-20.00.44:221][107]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.05-20.00.44:247][107]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV1
+[2025.03.05-20.00.44:276][107]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029977s)
+[2025.03.05-20.00.44:276][107]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV1.LV1 to /Game/Level/UEDPIE_0_LV1.LV1 (0.030037s)
+[2025.03.05-20.00.44:305][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.03.05-20.00.44:307][107]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.03.05-20.00.44:309][107]LogPlayLevel: PIE: World Init took: (0.001902s)
+[2025.03.05-20.00.44:310][107]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.03.05-20.00.44:310][107]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.05-20.00.44:310][107]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.05-20.00.44:310][107]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.05-20.00.44:310][107]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.05-20.00.44:310][107]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.05-20.00.44:310][107]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.05-20.00.44:310][107]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.05-20.00.44:310][107]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.05-20.00.44:310][107]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.05-20.00.44:310][107]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.05-20.00.44:310][107]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.05-20.00.44:313][107]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.05-20.00.44:494][107]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.05-20.00.44:494][107]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.05-20.00.44:494][107]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.05-20.00.44:494][107]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.05-20.00.44:494][107]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.03.05-20.00.44:494][107]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.03.05-20.00.44:497][107]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.03.05-20.00.44:497][107]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.03.05-20.00.44:497][107]LogInit: FAudioDevice initialized with ID 3.
+[2025.03.05-20.00.44:497][107]LogAudio: Display: Audio Device (ID: 3) registered with world 'LV1'.
+[2025.03.05-20.00.44:497][107]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.03.05-20.00.44:501][107]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.05-20.00.44:517][107]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV1.LV1 up for play (max tick rate 60) at 2025.03.05-15.00.44
+[2025.03.05-20.00.44:529][107]LogWorld: Bringing up level for play took: 0.027202
+[2025.03.05-20.00.44:553][107]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2025.03.05-20.00.44:560][107]PIE: Server logged in
+[2025.03.05-20.00.44:561][107]PIE: Play in editor total start time 0.34 seconds.
+[2025.03.05-20.00.47:120][216]LogBlueprintUserMessages: [BP_key3_C_2] Key 3 found
+[2025.03.05-20.00.47:220][222]LogBlueprintUserMessages: [BP_key2_C_1] Key 2 found
+[2025.03.05-20.00.47:320][228]LogBlueprintUserMessages: [BP_key1_C_2] LAB ROOM KEY FOUND
+[2025.03.05-20.00.47:419][234]LogBlueprintUserMessages: [BP_Smoke_C_33] Hello
+[2025.03.05-20.00.48:952][326]LogBlueprintUserMessages: [BP_Smoke_C_33] Hello
+[2025.03.05-20.00.54:119][636]LogBlueprintUserMessages: [BP_ShowDirection_C_1] OBJECTIVE COMPLETE
+[2025.03.05-20.00.54:120][636]LogBlueprintUserMessages: [BP_ShowDirection_C_1] obj com
+[2025.03.05-20.00.54:120][636]LogBlueprintUserMessages: [BP_ShowDirection_C_1] b4 visi
+[2025.03.05-20.00.54:120][636]LogBlueprintUserMessages: [BP_ShowDirection_C_1] visi
+[2025.03.05-20.01.00:424][ 14]LogCharacterMovement: BP_Boy_C_1 is stuck and failed to move! Velocity: X=22.31 Y=-25.83 Z=0.00 Location: X=-1024.83 Y=1435.13 Z=830.12 Normal: X=-0.35 Y=0.87 Z=-0.35 PenetrationDepth:19.812 Actor:BP_Zombie_C_2 Component:CharacterMesh0 BoneName:Head (0 other events since notify)
+[2025.03.05-20.01.24:867][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.05-20.01.24:867][476]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV1
+[2025.03.05-20.01.24:868][476]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-20.01.24:872][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-20.01.24:879][476]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.05-20.01.24:891][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-20.01.24:915][476]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.05-20.01.24:916][476]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.03.05-20.01.24:916][476]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.03.05-20.01.24:918][476]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.03.05-20.01.24:924][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.05-20.01.24:932][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.03.05-20.01.24:988][477]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2025.03.05-20.01.35:765][120]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1024.975952
+[2025.03.05-20.01.35:867][126]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.05-20.01.35:867][126]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1025.061157, Update Interval: 351.745361
+[2025.03.05-20.01.37:533][221]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_boy_C /Engine/Transient.World_0:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_boy_C_166
+	Function /Game/Characters/Boy/ABP_boy.ABP_boy_C:ExecuteUbergraph_ABP_boy:0040
+[2025.03.05-20.01.37:536][221]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_boy_C /Engine/Transient.World_0:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_boy_C_167
+	Function /Game/Characters/Boy/ABP_boy.ABP_boy_C:ExecuteUbergraph_ABP_boy:0040
+[2025.03.05-20.01.37:750][234]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_boy_C /Engine/Transient.World_0:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_boy_C_168
+	Function /Game/Characters/Boy/ABP_boy.ABP_boy_C:ExecuteUbergraph_ABP_boy:0040
+[2025.03.05-20.01.37:766][235]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_boy_C /Engine/Transient.World_0:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_boy_C_169
+	Function /Game/Characters/Boy/ABP_boy.ABP_boy_C:ExecuteUbergraph_ABP_boy:0040
+[2025.03.05-20.01.37:784][236]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_boy_C /Engine/Transient.World_0:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_boy_C_170
+	Function /Game/Characters/Boy/ABP_boy.ABP_boy_C:ExecuteUbergraph_ABP_boy:0040
+[2025.03.05-20.01.37:799][237]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_boy_C /Engine/Transient.World_0:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_boy_C_171
+	Function /Game/Characters/Boy/ABP_boy.ABP_boy_C:ExecuteUbergraph_ABP_boy:0040
+[2025.03.05-20.01.37:816][238]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_boy_C /Engine/Transient.World_0:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_boy_C_172
+	Function /Game/Characters/Boy/ABP_boy.ABP_boy_C:ExecuteUbergraph_ABP_boy:0040
+[2025.03.05-20.01.39:372][329]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Boy/BP_Boy.BP_Boy
+[2025.03.05-20.01.39:372][329]LogChaosDD: Creating Chaos Debug Draw Scene for world World_27
+[2025.03.05-20.01.44:980][603]LogSlate: Window 'BP_Boy' being destroyed
+[2025.03.05-20.01.45:007][603]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-20.01.45:007][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-20.01.45:038][603]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Boy/BP_Boy.BP_Boy
+[2025.03.05-20.01.45:039][603]LogChaosDD: Creating Chaos Debug Draw Scene for world World_28
+[2025.03.05-20.01.45:525][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.03.05-20.02.36:895][448]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.05-20.02.36:904][448]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.05-20.02.36:904][448]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV1
+[2025.03.05-20.02.36:937][448]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032277s)
+[2025.03.05-20.02.36:938][448]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV1.LV1 to /Game/Level/UEDPIE_0_LV1.LV1 (0.032337s)
+[2025.03.05-20.02.36:962][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.03.05-20.02.36:964][448]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.03.05-20.02.36:966][448]LogPlayLevel: PIE: World Init took: (0.002013s)
+[2025.03.05-20.02.36:967][448]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.03.05-20.02.36:967][448]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.05-20.02.36:967][448]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.05-20.02.36:967][448]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.05-20.02.36:967][448]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.05-20.02.36:967][448]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.05-20.02.36:967][448]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.05-20.02.36:967][448]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.05-20.02.36:967][448]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.05-20.02.36:967][448]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.05-20.02.36:967][448]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.05-20.02.36:967][448]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.05-20.02.36:969][448]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.05-20.02.37:158][448]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.05-20.02.37:158][448]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.05-20.02.37:158][448]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.05-20.02.37:158][448]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.05-20.02.37:158][448]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.03.05-20.02.37:158][448]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.03.05-20.02.37:161][448]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.03.05-20.02.37:161][448]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.03.05-20.02.37:161][448]LogInit: FAudioDevice initialized with ID 4.
+[2025.03.05-20.02.37:161][448]LogAudio: Display: Audio Device (ID: 4) registered with world 'LV1'.
+[2025.03.05-20.02.37:161][448]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.03.05-20.02.37:164][448]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.05-20.02.37:181][448]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV1.LV1 up for play (max tick rate 60) at 2025.03.05-15.02.37
+[2025.03.05-20.02.37:192][448]LogWorld: Bringing up level for play took: 0.027111
+[2025.03.05-20.02.37:211][448]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2025.03.05-20.02.37:217][448]PIE: Server logged in
+[2025.03.05-20.02.37:219][448]PIE: Play in editor total start time 0.314 seconds.
+[2025.03.05-20.02.39:207][532]LogBlueprintUserMessages: [BP_key3_C_2] Key 3 found
+[2025.03.05-20.02.39:323][538]LogBlueprintUserMessages: [BP_key2_C_1] Key 2 found
+[2025.03.05-20.02.39:394][542]LogBlueprintUserMessages: [BP_key1_C_2] LAB ROOM KEY FOUND
+[2025.03.05-20.02.39:497][548]LogBlueprintUserMessages: [BP_Smoke_C_33] Hello
+[2025.03.05-20.02.40:767][622]LogBlueprintUserMessages: [BP_Smoke_C_33] Hello
+[2025.03.05-20.02.44:372][833]LogBlueprintUserMessages: [BP_ShowDirection_C_1] OBJECTIVE COMPLETE
+[2025.03.05-20.02.44:373][833]LogBlueprintUserMessages: [BP_ShowDirection_C_1] obj com
+[2025.03.05-20.02.44:373][833]LogBlueprintUserMessages: [BP_ShowDirection_C_1] b4 visi
+[2025.03.05-20.02.44:373][833]LogBlueprintUserMessages: [BP_ShowDirection_C_1] visi
+[2025.03.05-20.02.53:743][393]LogCharacterMovement: BP_Boy_C_1 is stuck and failed to move! Velocity: X=32.04 Y=11.78 Z=0.00 Location: X=-910.21 Y=1021.94 Z=831.91 Normal: X=0.68 Y=0.72 Z=-0.11 PenetrationDepth:7.949 Actor:BP_Zombie_C_2 Component:CharacterMesh0 BoneName:Head (0 other events since notify)
+[2025.03.05-20.02.56:745][573]LogCharacterMovement: BP_Boy_C_1 is stuck and failed to move! Velocity: X=24.82 Y=25.50 Z=0.00 Location: X=-920.61 Y=1045.37 Z=831.91 Normal: X=0.60 Y=-0.80 Z=0.00 PenetrationDepth:57.340 Actor:BP_Zombie_C_2 Component:CharacterMesh0 BoneName:RightHand (3 other events since notify)
+[2025.03.05-20.03.46:597][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.05-20.03.46:597][548]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV1
+[2025.03.05-20.03.46:599][548]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-20.03.46:602][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-20.03.46:610][548]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.05-20.03.46:615][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-20.03.46:639][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.05-20.03.46:641][548]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.03.05-20.03.46:641][548]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.03.05-20.03.46:643][548]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.03.05-20.03.46:654][548]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.03.05-20.03.46:711][549]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2025.03.05-20.04.05:997][648]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.03.05-20.04.07:483][734]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.05-20.04.07:492][734]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.05-20.04.07:492][734]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV1
+[2025.03.05-20.04.07:523][734]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031658s)
+[2025.03.05-20.04.07:523][734]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV1.LV1 to /Game/Level/UEDPIE_0_LV1.LV1 (0.031695s)
+[2025.03.05-20.04.07:550][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.03.05-20.04.07:552][734]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.03.05-20.04.07:554][734]LogPlayLevel: PIE: World Init took: (0.001700s)
+[2025.03.05-20.04.07:554][734]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.03.05-20.04.07:554][734]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.05-20.04.07:554][734]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.05-20.04.07:554][734]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.05-20.04.07:554][734]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.05-20.04.07:554][734]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.05-20.04.07:554][734]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.05-20.04.07:554][734]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.05-20.04.07:555][734]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.05-20.04.07:555][734]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.05-20.04.07:555][734]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.05-20.04.07:555][734]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.05-20.04.07:557][734]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.05-20.04.07:744][734]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.05-20.04.07:744][734]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.05-20.04.07:744][734]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.05-20.04.07:744][734]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.05-20.04.07:744][734]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.03.05-20.04.07:744][734]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.03.05-20.04.07:748][734]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.03.05-20.04.07:748][734]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.03.05-20.04.07:748][734]LogInit: FAudioDevice initialized with ID 5.
+[2025.03.05-20.04.07:748][734]LogAudio: Display: Audio Device (ID: 5) registered with world 'LV1'.
+[2025.03.05-20.04.07:748][734]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.03.05-20.04.07:751][734]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.05-20.04.07:768][734]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV1.LV1 up for play (max tick rate 60) at 2025.03.05-15.04.07
+[2025.03.05-20.04.07:779][734]LogWorld: Bringing up level for play took: 0.027798
+[2025.03.05-20.04.07:801][734]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2025.03.05-20.04.07:808][734]PIE: Server logged in
+[2025.03.05-20.04.07:809][734]PIE: Play in editor total start time 0.317 seconds.
+[2025.03.05-20.04.09:416][783]LogBlueprintUserMessages: [BP_keyDoor3_C_3] find room key 3
+[2025.03.05-20.04.10:118][819]LogBlueprintUserMessages: [BP_key2_C_1] Key 2 found
+[2025.03.05-20.04.10:211][824]LogBlueprintUserMessages: [BP_key1_C_2] LAB ROOM KEY FOUND
+[2025.03.05-20.04.10:211][824]LogBlueprintUserMessages: [BP_key3_C_2] Key 3 found
+[2025.03.05-20.04.11:497][900]LogBlueprintUserMessages: [BP_Smoke_C_33] Hello
+[2025.03.05-20.04.14:354][ 70]LogBlueprintUserMessages: [BP_ShowDirection_C_1] OBJECTIVE COMPLETE
+[2025.03.05-20.04.14:354][ 70]LogBlueprintUserMessages: [BP_ShowDirection_C_1] obj com
+[2025.03.05-20.04.14:354][ 70]LogBlueprintUserMessages: [BP_ShowDirection_C_1] b4 visi
+[2025.03.05-20.04.14:354][ 70]LogBlueprintUserMessages: [BP_ShowDirection_C_1] visi
+[2025.03.05-20.04.23:628][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.05-20.04.23:628][620]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV1
+[2025.03.05-20.04.23:629][620]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-20.04.23:633][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-20.04.23:642][620]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.05-20.04.23:649][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-20.04.23:675][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.05-20.04.23:675][620]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.03.05-20.04.23:675][620]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.03.05-20.04.23:678][620]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.03.05-20.04.23:692][620]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.03.05-20.04.23:773][621]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2025.03.05-20.05.19:986][978]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_boy_C /Engine/Transient.World_0:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_boy_C_173
+	Function /Game/Characters/Boy/ABP_boy.ABP_boy_C:ExecuteUbergraph_ABP_boy:0040
+[2025.03.05-20.05.22:818][147]Cmd: DELETE
+[2025.03.05-20.05.22:818][147]Cmd: ACTOR DELETE
+[2025.03.05-20.05.22:837][147]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.05-20.05.22:859][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.03.05-20.05.22:864][147]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2025.03.05-20.05.27:816][443]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.05-20.05.27:826][443]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.05-20.05.27:826][443]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV1
+[2025.03.05-20.05.27:859][443]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033561s)
+[2025.03.05-20.05.27:859][443]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV1.LV1 to /Game/Level/UEDPIE_0_LV1.LV1 (0.033603s)
+[2025.03.05-20.05.27:883][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.03.05-20.05.27:887][443]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.03.05-20.05.27:888][443]LogPlayLevel: PIE: World Init took: (0.001969s)
+[2025.03.05-20.05.27:889][443]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.03.05-20.05.27:889][443]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.05-20.05.27:889][443]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.05-20.05.27:889][443]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.05-20.05.27:889][443]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.05-20.05.27:889][443]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.05-20.05.27:889][443]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.05-20.05.27:889][443]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.05-20.05.27:889][443]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.05-20.05.27:889][443]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.05-20.05.27:889][443]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.05-20.05.27:889][443]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.05-20.05.27:892][443]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.05-20.05.28:075][443]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.05-20.05.28:075][443]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.05-20.05.28:075][443]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.05-20.05.28:075][443]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.05-20.05.28:076][443]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.03.05-20.05.28:076][443]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.03.05-20.05.28:079][443]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.03.05-20.05.28:079][443]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.03.05-20.05.28:079][443]LogInit: FAudioDevice initialized with ID 6.
+[2025.03.05-20.05.28:079][443]LogAudio: Display: Audio Device (ID: 6) registered with world 'LV1'.
+[2025.03.05-20.05.28:079][443]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.03.05-20.05.28:082][443]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.05-20.05.28:099][443]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV1.LV1 up for play (max tick rate 60) at 2025.03.05-15.05.28
+[2025.03.05-20.05.28:110][443]LogWorld: Bringing up level for play took: 0.027347
+[2025.03.05-20.05.28:128][443]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2025.03.05-20.05.28:134][443]PIE: Server logged in
+[2025.03.05-20.05.28:137][443]PIE: Play in editor total start time 0.311 seconds.
+[2025.03.05-20.05.29:746][505]LogBlueprintUserMessages: [BP_keyDoor3_C_3] find room key 3
+[2025.03.05-20.05.29:856][510]LogBlueprintUserMessages: [BP_keyDoor3_C_3] find room key 3
+[2025.03.05-20.05.32:170][642]LogBlueprintUserMessages: [BP_key3_C_2] Key 3 found
+[2025.03.05-20.05.32:236][646]LogBlueprintUserMessages: [BP_key2_C_1] Key 2 found
+[2025.03.05-20.05.32:338][652]LogBlueprintUserMessages: [BP_key1_C_2] LAB ROOM KEY FOUND
+[2025.03.05-20.05.32:489][661]LogBlueprintUserMessages: [BP_Smoke_C_33] Hello
+[2025.03.05-20.05.33:663][730]LogBlueprintUserMessages: [BP_Smoke_C_33] Hello
+[2025.03.05-20.05.36:528][894]LogBlueprintUserMessages: [BP_ShowDirection_C_1] OBJECTIVE COMPLETE
+[2025.03.05-20.05.36:529][894]LogBlueprintUserMessages: [BP_ShowDirection_C_1] obj com
+[2025.03.05-20.05.36:529][894]LogBlueprintUserMessages: [BP_ShowDirection_C_1] b4 visi
+[2025.03.05-20.05.36:529][894]LogBlueprintUserMessages: [BP_ShowDirection_C_1] visi
+[2025.03.05-20.05.52:187][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.05-20.05.52:187][830]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV1
+[2025.03.05-20.05.52:189][830]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-20.05.52:193][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-20.05.52:200][830]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.05-20.05.52:206][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-20.05.52:227][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.05-20.05.52:229][830]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.03.05-20.05.52:229][830]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.03.05-20.05.52:232][830]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.03.05-20.05.52:246][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.03.05-20.05.52:284][831]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2025.03.05-20.06.02:403][432]LogChaosDD: Creating Chaos Debug Draw Scene for world World_29
+[2025.03.05-20.06.02:455][434]LogChaosDD: Creating Chaos Debug Draw Scene for world World_30
+[2025.03.05-20.06.03:475][493]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2025.03.05-20.06.03:476][493]LogChaosDD: Creating Chaos Debug Draw Scene for world World_31
+[2025.03.05-20.06.16:944][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.03.05-20.06.24:610][693]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.05-20.06.24:618][693]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.05-20.06.24:657][693]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV1
+[2025.03.05-20.06.24:685][693]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028679s)
+[2025.03.05-20.06.24:685][693]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV1.LV1 to /Game/Level/UEDPIE_0_LV1.LV1 (0.028727s)
+[2025.03.05-20.06.24:708][693]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.03.05-20.06.24:709][693]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.03.05-20.06.24:711][693]LogPlayLevel: PIE: World Init took: (0.001585s)
+[2025.03.05-20.06.24:712][693]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.03.05-20.06.24:712][693]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.05-20.06.24:712][693]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.05-20.06.24:712][693]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.05-20.06.24:712][693]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.05-20.06.24:712][693]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.05-20.06.24:712][693]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.05-20.06.24:712][693]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.05-20.06.24:712][693]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.05-20.06.24:712][693]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.05-20.06.24:712][693]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.05-20.06.24:712][693]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.05-20.06.24:714][693]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.05-20.06.24:893][693]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.05-20.06.24:893][693]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.05-20.06.24:893][693]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.05-20.06.24:893][693]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.05-20.06.24:894][693]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.03.05-20.06.24:894][693]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.03.05-20.06.24:897][693]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.03.05-20.06.24:897][693]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.03.05-20.06.24:897][693]LogInit: FAudioDevice initialized with ID 7.
+[2025.03.05-20.06.24:897][693]LogAudio: Display: Audio Device (ID: 7) registered with world 'LV1'.
+[2025.03.05-20.06.24:898][693]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.03.05-20.06.24:901][693]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.05-20.06.24:916][693]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV1.LV1 up for play (max tick rate 60) at 2025.03.05-15.06.24
+[2025.03.05-20.06.24:927][693]LogWorld: Bringing up level for play took: 0.025905
+[2025.03.05-20.06.24:943][693]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2025.03.05-20.06.24:949][693]PIE: Server logged in
+[2025.03.05-20.06.24:950][693]PIE: Play in editor total start time 0.332 seconds.
+[2025.03.05-20.06.26:912][780]LogBlueprintUserMessages: [BP_key3_C_2] Key 3 found
+[2025.03.05-20.06.26:988][784]LogBlueprintUserMessages: [BP_key2_C_1] Key 2 found
+[2025.03.05-20.06.27:085][789]LogBlueprintUserMessages: [BP_key1_C_2] LAB ROOM KEY FOUND
+[2025.03.05-20.06.27:258][798]LogBlueprintUserMessages: [BP_Smoke_C_33] Hello
+[2025.03.05-20.06.31:672][ 61]LogBlueprintUserMessages: [BP_ShowDirection_C_1] OBJECTIVE COMPLETE
+[2025.03.05-20.06.31:673][ 61]LogBlueprintUserMessages: [BP_ShowDirection_C_1] obj com
+[2025.03.05-20.06.31:673][ 61]LogBlueprintUserMessages: [BP_ShowDirection_C_1] b4 visi
+[2025.03.05-20.06.31:673][ 61]LogBlueprintUserMessages: [BP_ShowDirection_C_1] visi
+[2025.03.05-20.06.39:976][557]LogCharacterMovement: BP_FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=597.59 Y=-53.68 Z=0.00 Location: X=49.60 Y=-44.96 Z=799.43 Normal: X=-0.89 Y=-0.46 Z=0.00 PenetrationDepth:1.827 Actor:BP_keyDoor3_C_3 Component:Box BoneName:None (0 other events since notify)
+[2025.03.05-20.06.44:038][799]LogBlueprintUserMessages: [BP_Smoke_C_33] Hello
+[2025.03.05-20.06.46:925][972]LogBlueprintUserMessages: [BP_Fire_C_42] Damage Recieved
+[2025.03.05-20.06.53:694][378]LogBlueprintUserMessages: [BP_Fire_C_21] Damage Recieved
+[2025.03.05-20.06.54:477][425]LogCharacterMovement: BP_Boy_C_1 is stuck and failed to move! Velocity: X=215.48 Y=-142.17 Z=0.00 Location: X=1715.97 Y=-1266.11 Z=831.91 Normal: X=-0.81 Y=0.59 Z=-0.00 PenetrationDepth:3.227 Actor:BP_FirstPersonCharacter_C_0 Component:Capsule BoneName:None (0 other events since notify)
+[2025.03.05-20.06.55:076][461]LogBlueprintUserMessages: [BP_Smoke_C_26] Hello
+[2025.03.05-20.06.58:547][666]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.05-20.06.58:547][666]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV1
+[2025.03.05-20.06.58:549][666]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-20.06.58:553][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-20.06.58:561][666]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.05-20.06.58:569][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-20.06.58:594][666]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.05-20.06.58:594][666]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.03.05-20.06.58:594][666]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.03.05-20.06.58:596][666]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.03.05-20.06.58:602][666]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.05-20.06.58:610][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.03.05-20.06.58:643][667]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2025.03.05-20.07.15:910][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.03.05-20.07.17:448][754]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.05-20.07.17:457][754]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.05-20.07.17:507][754]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV1
+[2025.03.05-20.07.17:536][754]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030044s)
+[2025.03.05-20.07.17:536][754]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV1.LV1 to /Game/Level/UEDPIE_0_LV1.LV1 (0.030105s)
+[2025.03.05-20.07.17:561][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.03.05-20.07.17:563][754]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.03.05-20.07.17:565][754]LogPlayLevel: PIE: World Init took: (0.001629s)
+[2025.03.05-20.07.17:565][754]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.03.05-20.07.17:565][754]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.05-20.07.17:565][754]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.05-20.07.17:565][754]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.05-20.07.17:565][754]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.05-20.07.17:565][754]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.05-20.07.17:565][754]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.05-20.07.17:565][754]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.05-20.07.17:565][754]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.05-20.07.17:565][754]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.05-20.07.17:565][754]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.05-20.07.17:565][754]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.05-20.07.17:568][754]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.05-20.07.17:750][754]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.05-20.07.17:750][754]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.05-20.07.17:750][754]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.05-20.07.17:750][754]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.05-20.07.17:751][754]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.03.05-20.07.17:751][754]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.03.05-20.07.17:753][754]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.03.05-20.07.17:753][754]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.03.05-20.07.17:753][754]LogInit: FAudioDevice initialized with ID 8.
+[2025.03.05-20.07.17:753][754]LogAudio: Display: Audio Device (ID: 8) registered with world 'LV1'.
+[2025.03.05-20.07.17:754][754]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.03.05-20.07.17:760][754]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.05-20.07.17:776][754]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV1.LV1 up for play (max tick rate 60) at 2025.03.05-15.07.17
+[2025.03.05-20.07.17:787][754]LogWorld: Bringing up level for play took: 0.027206
+[2025.03.05-20.07.17:803][754]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2025.03.05-20.07.17:808][754]PIE: Server logged in
+[2025.03.05-20.07.17:810][754]PIE: Play in editor total start time 0.353 seconds.
+[2025.03.05-20.07.19:422][832]LogBlueprintUserMessages: [BP_Smoke_C_33] Hello
+[2025.03.05-20.07.21:224][940]LogBlueprintUserMessages: [BP_key3_C_2] Key 3 found
+[2025.03.05-20.07.21:257][942]LogBlueprintUserMessages: [BP_key2_C_1] Key 2 found
+[2025.03.05-20.07.21:373][949]LogBlueprintUserMessages: [BP_key1_C_2] LAB ROOM KEY FOUND
+[2025.03.05-20.07.21:540][959]LogBlueprintUserMessages: [BP_Smoke_C_33] Hello
+[2025.03.05-20.07.22:690][ 28]LogBlueprintUserMessages: [BP_Smoke_C_33] Hello
+[2025.03.05-20.07.25:705][208]LogBlueprintUserMessages: [BP_ShowDirection_C_1] OBJECTIVE COMPLETE
+[2025.03.05-20.07.25:705][208]LogBlueprintUserMessages: [BP_ShowDirection_C_1] obj com
+[2025.03.05-20.07.25:705][208]LogBlueprintUserMessages: [BP_ShowDirection_C_1] b4 visi
+[2025.03.05-20.07.25:706][208]LogBlueprintUserMessages: [BP_ShowDirection_C_1] visi
+[2025.03.05-20.07.32:494][615]LogCharacterMovement: BP_FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-14.38 Y=30.96 Z=0.00 Location: X=-2.60 Y=44.72 Z=798.02 Normal: X=0.59 Y=-0.35 Z=-0.73 PenetrationDepth:22.380 Actor:BP_Zombie_C_2 Component:CharacterMesh0 BoneName:RightArm (0 other events since notify)
+[2025.03.05-20.07.36:248][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.05-20.07.36:248][838]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV1
+[2025.03.05-20.07.36:250][838]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-20.07.36:254][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-20.07.36:262][838]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.05-20.07.36:269][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-20.07.36:295][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.05-20.07.36:295][838]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.03.05-20.07.36:295][838]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.03.05-20.07.36:298][838]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.03.05-20.07.36:310][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.03.05-20.07.36:366][839]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2025.03.05-20.07.40:574][ 86]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1389.790405
+[2025.03.05-20.07.40:664][ 90]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.05-20.07.40:664][ 90]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1389.858398, Update Interval: 310.087585
+[2025.03.05-20.08.06:729][618]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.03.05-20.08.06:814][618]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level/LV1_Auto1
+[2025.03.05-20.08.06:815][618]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/LV1_Auto10E0E4BBD468C8D8C219900AB8299ACF7.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/Level/LV1_Auto1.umap'
+[2025.03.05-20.08.06:818][618]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/LV1' took 0.112
+[2025.03.05-20.08.06:818][618]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.112
+[2025.03.05-20.08.06:819][618]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MybluePrints/BP_Direction] ([2] browsable assets)...
+[2025.03.05-20.08.06:836][618]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MybluePrints/BP_Direction.BP_Direction]
+[2025.03.05-20.08.06:836][618]OBJ SavePackage: Finished generating thumbnails for package [/Game/MybluePrints/BP_Direction]
+[2025.03.05-20.08.06:840][618]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MybluePrints/BP_Direction_Auto1
+[2025.03.05-20.08.06:840][618]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/BP_Direction_Auto1EBEA3F4B42CA1E0DE95A8E9000BE33EE.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/MybluePrints/BP_Direction_Auto1.uasset'
+[2025.03.05-20.08.06:842][618]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MybluePrints/BP_keyDoor3] ([2] browsable assets)...
+[2025.03.05-20.08.06:842][618]LogChaosDD: Creating Chaos Debug Draw Scene for world World_32
+[2025.03.05-20.08.06:892][618]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MybluePrints/BP_keyDoor3.BP_keyDoor3]
+[2025.03.05-20.08.06:892][618]OBJ SavePackage: Finished generating thumbnails for package [/Game/MybluePrints/BP_keyDoor3]
+[2025.03.05-20.08.06:899][618]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MybluePrints/BP_keyDoor3_Auto1
+[2025.03.05-20.08.06:899][618]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/BP_keyDoor3_Auto1D4250D064E8A9CA9F3E4AF8C216465FB.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/MybluePrints/BP_keyDoor3_Auto1.uasset'
+[2025.03.05-20.08.06:901][618]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.03.05-20.08.06:907][618]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.03.05-20.08.06:907][618]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.03.05-20.08.06:922][618]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto1
+[2025.03.05-20.08.06:923][618]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/BP_FirstPersonCharacter_Auto1683C322F499AF508C8BDA794A13BD561.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto1.uasset'
+[2025.03.05-20.08.06:926][618]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Zombie/Warzombie_F_Pedroso] ([1] browsable assets)...
+[2025.03.05-20.08.06:926][618]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie/Warzombie_F_Pedroso]
+[2025.03.05-20.08.06:928][618]LogSavePackage: Warning: 
+Referencers of SkeletalMeshDescriptionBulkData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:SkeletalMeshDescriptionBulkData_0:
+[2025.03.05-20.08.07:066][618]LogSavePackage: Warning: 	SkeletalMesh /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-20.08.07:066][618]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMeshSourceModel:MeshDescriptionBulkData
+[2025.03.05-20.08.07:066][618]LogSavePackage: Warning: 	SkeletalMesh /Game/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-20.08.07:066][618]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMeshSourceModel:MeshDescriptionBulkData
+[2025.03.05-20.08.07:066][618]LogSavePackage: Warning: 
+Referencers of InterchangeAssetImportData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:InterchangeAssetImportData_0:
+[2025.03.05-20.08.07:201][618]LogSavePackage: Warning: 	SkeletalMesh /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-20.08.07:201][618]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMesh:AssetImportData
+[2025.03.05-20.08.07:201][618]LogSavePackage: Warning: 	SkeletalMesh /Game/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-20.08.07:201][618]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMesh:AssetImportData
+[2025.03.05-20.08.07:201][618]Warning: Can't save '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/Zombie/Warzombie_F_Pedroso_Auto1.uasset': Illegal reference to private object: 'InterchangeAssetImportData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:InterchangeAssetImportData_0' referenced by 'Warzombie_F_Pedroso' (at '/Game/Zombie/Warzombie_F_Pedroso') in its 'AssetImportData' property.
+[2025.03.05-20.09.17:854][842]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MybluePrints/BP_Fire.BP_Fire
+[2025.03.05-20.09.17:854][842]LogChaosDD: Creating Chaos Debug Draw Scene for world World_33
+[2025.03.05-20.09.28:174][426]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.03.05-20.09.28:797][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.03.05-20.09.30:411][537]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.05-20.09.30:419][537]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.05-20.09.30:419][537]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV1
+[2025.03.05-20.09.30:450][537]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030465s)
+[2025.03.05-20.09.30:450][537]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV1.LV1 to /Game/Level/UEDPIE_0_LV1.LV1 (0.030505s)
+[2025.03.05-20.09.30:471][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.03.05-20.09.30:474][537]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.03.05-20.09.30:476][537]LogPlayLevel: PIE: World Init took: (0.001803s)
+[2025.03.05-20.09.30:477][537]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.03.05-20.09.30:477][537]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.05-20.09.30:477][537]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.05-20.09.30:477][537]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.05-20.09.30:477][537]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.05-20.09.30:477][537]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.05-20.09.30:477][537]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.05-20.09.30:477][537]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.05-20.09.30:477][537]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.05-20.09.30:477][537]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.05-20.09.30:477][537]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.05-20.09.30:477][537]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.05-20.09.30:480][537]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.05-20.09.30:664][537]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.05-20.09.30:665][537]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.05-20.09.30:665][537]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.05-20.09.30:665][537]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.05-20.09.30:666][537]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.03.05-20.09.30:666][537]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.03.05-20.09.30:668][537]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.03.05-20.09.30:668][537]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.03.05-20.09.30:668][537]LogInit: FAudioDevice initialized with ID 9.
+[2025.03.05-20.09.30:668][537]LogAudio: Display: Audio Device (ID: 9) registered with world 'LV1'.
+[2025.03.05-20.09.30:668][537]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.03.05-20.09.30:671][537]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.05-20.09.30:687][537]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV1.LV1 up for play (max tick rate 60) at 2025.03.05-15.09.30
+[2025.03.05-20.09.30:699][537]LogWorld: Bringing up level for play took: 0.026641
+[2025.03.05-20.09.30:724][537]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2025.03.05-20.09.30:730][537]PIE: Server logged in
+[2025.03.05-20.09.30:732][537]PIE: Play in editor total start time 0.314 seconds.
+[2025.03.05-20.09.32:213][592]LogBlueprintUserMessages: [BP_key3_C_2] Key 3 found
+[2025.03.05-20.09.32:234][593]LogBlueprintUserMessages: [BP_key2_C_1] Key 2 found
+[2025.03.05-20.09.32:359][599]LogBlueprintUserMessages: [BP_key1_C_2] LAB ROOM KEY FOUND
+[2025.03.05-20.09.32:533][607]LogBlueprintUserMessages: [BP_Smoke_C_33] Hello
+[2025.03.05-20.09.33:297][649]LogBlueprintUserMessages: [BP_Fire_C_42] Damage Recieved
+[2025.03.05-20.09.34:164][701]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] PLAYER DEAD!!!
+[2025.03.05-20.09.34:164][701]LogBlueprintUserMessages: [BP_Fire_C_44] Damage Recieved
+[2025.03.05-20.09.36:149][820]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [BP_FirstPersonCharacter_C]
+[2025.03.05-20.09.36:154][820]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.03.05-20.09.38:227][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.05-20.09.38:227][942]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV1
+[2025.03.05-20.09.38:229][942]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-20.09.38:233][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-20.09.38:246][942]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.05-20.09.38:252][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-20.09.38:274][942]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.05-20.09.38:274][942]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.03.05-20.09.38:275][942]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.03.05-20.09.38:278][942]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.03.05-20.09.38:281][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.05-20.09.38:288][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.03.05-20.09.38:345][943]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2025.03.05-20.10.07:331][649]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.03.05-20.10.09:156][758]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.05-20.10.10:496][836]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.03.05-20.10.14:075][ 50]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.05-20.10.14:363][ 66]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.03.05-20.10.16:604][198]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.05-20.10.17:940][277]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.05-20.10.22:016][505]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.05-20.10.23:098][569]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.05-20.10.24:585][657]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.05-20.10.24:596][657]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.05-20.10.24:596][657]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV1
+[2025.03.05-20.10.24:632][657]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036460s)
+[2025.03.05-20.10.24:632][657]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV1.LV1 to /Game/Level/UEDPIE_0_LV1.LV1 (0.036501s)
+[2025.03.05-20.10.24:655][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.03.05-20.10.24:659][657]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.03.05-20.10.24:661][657]LogPlayLevel: PIE: World Init took: (0.002091s)
+[2025.03.05-20.10.24:661][657]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.03.05-20.10.24:662][657]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.05-20.10.24:662][657]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.05-20.10.24:662][657]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.05-20.10.24:662][657]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.05-20.10.24:662][657]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.05-20.10.24:662][657]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.05-20.10.24:662][657]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.05-20.10.24:662][657]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.05-20.10.24:662][657]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.05-20.10.24:662][657]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.05-20.10.24:662][657]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.05-20.10.24:664][657]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.05-20.10.24:858][657]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.05-20.10.24:859][657]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.05-20.10.24:859][657]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.05-20.10.24:859][657]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.05-20.10.24:859][657]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.03.05-20.10.24:859][657]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.03.05-20.10.24:862][657]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.03.05-20.10.24:862][657]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.03.05-20.10.24:862][657]LogInit: FAudioDevice initialized with ID 10.
+[2025.03.05-20.10.24:862][657]LogAudio: Display: Audio Device (ID: 10) registered with world 'LV1'.
+[2025.03.05-20.10.24:862][657]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.03.05-20.10.24:865][657]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.05-20.10.24:881][657]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV1.LV1 up for play (max tick rate 60) at 2025.03.05-15.10.24
+[2025.03.05-20.10.24:894][657]LogWorld: Bringing up level for play took: 0.027610
+[2025.03.05-20.10.24:910][657]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2025.03.05-20.10.24:917][657]PIE: Server logged in
+[2025.03.05-20.10.24:918][657]PIE: Play in editor total start time 0.324 seconds.
+[2025.03.05-20.10.27:557][784]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_1] WEAPON FOUND
+[2025.03.05-20.10.37:603][355]LogBlueprintUserMessages: [BP_HealthKit_C_2] Health kit found
+[2025.03.05-20.10.43:251][692]LogBlueprintUserMessages: [BP_Fire_C_6] Damage Recieved
+[2025.03.05-20.10.44:534][769]LogBlueprintUserMessages: [BP_Fire_C_6] Damage Recieved
+[2025.03.05-20.10.45:818][846]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] PLAYER DEAD!!!
+[2025.03.05-20.10.45:818][846]LogBlueprintUserMessages: [BP_Fire_C_6] Damage Recieved
+[2025.03.05-20.10.47:804][965]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [BP_FirstPersonCharacter_C]
+[2025.03.05-20.10.47:805][965]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.03.05-20.10.47:807][965]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.03.05-20.10.57:058][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.05-20.10.57:058][518]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV1
+[2025.03.05-20.10.57:059][518]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-20.10.57:063][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-20.10.57:070][518]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.05-20.10.57:076][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-20.10.57:098][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.05-20.10.57:099][518]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.03.05-20.10.57:099][518]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.03.05-20.10.57:103][518]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.03.05-20.10.57:114][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.03.05-20.10.57:173][519]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2025.03.05-20.11.04:533][949]LogSlate: Took 0.000527 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.03.05-20.11.06:107][ 38]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Level/LV1.LV1:PersistentLevel.LV1
+[2025.03.05-20.11.06:108][ 38]LogChaosDD: Creating Chaos Debug Draw Scene for world World_34
+[2025.03.05-20.11.22:918][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'Hips' 
+[2025.03.05-20.11.22:918][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'Spine' 
+[2025.03.05-20.11.22:918][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'Spine1' 
+[2025.03.05-20.11.22:918][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'Spine2' 
+[2025.03.05-20.11.22:918][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'Head' 
+[2025.03.05-20.11.22:918][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'LeftArm' 
+[2025.03.05-20.11.22:918][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'LeftHand' 
+[2025.03.05-20.11.22:918][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'RightArm' 
+[2025.03.05-20.11.22:918][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'RightHand' 
+[2025.03.05-20.11.22:918][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'LeftUpLeg' 
+[2025.03.05-20.11.22:918][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'LeftLeg' 
+[2025.03.05-20.11.22:918][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'LeftFoot' 
+[2025.03.05-20.11.22:918][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'RightUpLeg' 
+[2025.03.05-20.11.22:918][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'RightLeg' 
+[2025.03.05-20.11.22:918][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'RightFoot' 
+[2025.03.05-20.11.22:919][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'Hips' 
+[2025.03.05-20.11.22:919][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'Spine' 
+[2025.03.05-20.11.22:919][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'Spine1' 
+[2025.03.05-20.11.22:919][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'Spine2' 
+[2025.03.05-20.11.22:919][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'Head' 
+[2025.03.05-20.11.22:919][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'LeftArm' 
+[2025.03.05-20.11.22:919][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'LeftHand' 
+[2025.03.05-20.11.22:919][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'RightArm' 
+[2025.03.05-20.11.22:919][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'RightHand' 
+[2025.03.05-20.11.22:919][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'LeftUpLeg' 
+[2025.03.05-20.11.22:919][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'LeftLeg' 
+[2025.03.05-20.11.22:919][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'LeftFoot' 
+[2025.03.05-20.11.22:919][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'RightUpLeg' 
+[2025.03.05-20.11.22:919][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'RightLeg' 
+[2025.03.05-20.11.22:919][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'RightFoot' 
+[2025.03.05-20.11.22:921][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_0 /Engine/Transient.World_28:PersistentLevel.BP_Boy_C_0.CharacterMesh0 Bone: 'Hips' 
+[2025.03.05-20.11.22:921][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_0 /Engine/Transient.World_28:PersistentLevel.BP_Boy_C_0.CharacterMesh0 Bone: 'Spine' 
+[2025.03.05-20.11.22:921][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_0 /Engine/Transient.World_28:PersistentLevel.BP_Boy_C_0.CharacterMesh0 Bone: 'Spine1' 
+[2025.03.05-20.11.22:921][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_0 /Engine/Transient.World_28:PersistentLevel.BP_Boy_C_0.CharacterMesh0 Bone: 'Spine2' 
+[2025.03.05-20.11.22:921][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_0 /Engine/Transient.World_28:PersistentLevel.BP_Boy_C_0.CharacterMesh0 Bone: 'Head' 
+[2025.03.05-20.11.22:921][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_0 /Engine/Transient.World_28:PersistentLevel.BP_Boy_C_0.CharacterMesh0 Bone: 'LeftArm' 
+[2025.03.05-20.11.22:921][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_0 /Engine/Transient.World_28:PersistentLevel.BP_Boy_C_0.CharacterMesh0 Bone: 'LeftHand' 
+[2025.03.05-20.11.22:921][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_0 /Engine/Transient.World_28:PersistentLevel.BP_Boy_C_0.CharacterMesh0 Bone: 'RightArm' 
+[2025.03.05-20.11.22:921][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_0 /Engine/Transient.World_28:PersistentLevel.BP_Boy_C_0.CharacterMesh0 Bone: 'RightHand' 
+[2025.03.05-20.11.22:921][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_0 /Engine/Transient.World_28:PersistentLevel.BP_Boy_C_0.CharacterMesh0 Bone: 'LeftUpLeg' 
+[2025.03.05-20.11.22:921][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_0 /Engine/Transient.World_28:PersistentLevel.BP_Boy_C_0.CharacterMesh0 Bone: 'LeftLeg' 
+[2025.03.05-20.11.22:921][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_0 /Engine/Transient.World_28:PersistentLevel.BP_Boy_C_0.CharacterMesh0 Bone: 'LeftFoot' 
+[2025.03.05-20.11.22:921][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_0 /Engine/Transient.World_28:PersistentLevel.BP_Boy_C_0.CharacterMesh0 Bone: 'RightUpLeg' 
+[2025.03.05-20.11.22:922][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_0 /Engine/Transient.World_28:PersistentLevel.BP_Boy_C_0.CharacterMesh0 Bone: 'RightLeg' 
+[2025.03.05-20.11.22:922][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_0 /Engine/Transient.World_28:PersistentLevel.BP_Boy_C_0.CharacterMesh0 Bone: 'RightFoot' 
+[2025.03.05-20.11.22:922][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_0 /Engine/Transient.World_28:PersistentLevel.BP_Boy_C_0.CharacterMesh0 Bone: 'Hips' 
+[2025.03.05-20.11.22:922][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_0 /Engine/Transient.World_28:PersistentLevel.BP_Boy_C_0.CharacterMesh0 Bone: 'Spine' 
+[2025.03.05-20.11.22:922][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_0 /Engine/Transient.World_28:PersistentLevel.BP_Boy_C_0.CharacterMesh0 Bone: 'Spine1' 
+[2025.03.05-20.11.22:922][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_0 /Engine/Transient.World_28:PersistentLevel.BP_Boy_C_0.CharacterMesh0 Bone: 'Spine2' 
+[2025.03.05-20.11.22:922][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_0 /Engine/Transient.World_28:PersistentLevel.BP_Boy_C_0.CharacterMesh0 Bone: 'Head' 
+[2025.03.05-20.11.22:922][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_0 /Engine/Transient.World_28:PersistentLevel.BP_Boy_C_0.CharacterMesh0 Bone: 'LeftArm' 
+[2025.03.05-20.11.22:922][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_0 /Engine/Transient.World_28:PersistentLevel.BP_Boy_C_0.CharacterMesh0 Bone: 'LeftHand' 
+[2025.03.05-20.11.22:922][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_0 /Engine/Transient.World_28:PersistentLevel.BP_Boy_C_0.CharacterMesh0 Bone: 'RightArm' 
+[2025.03.05-20.11.22:922][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_0 /Engine/Transient.World_28:PersistentLevel.BP_Boy_C_0.CharacterMesh0 Bone: 'RightHand' 
+[2025.03.05-20.11.22:922][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_0 /Engine/Transient.World_28:PersistentLevel.BP_Boy_C_0.CharacterMesh0 Bone: 'LeftUpLeg' 
+[2025.03.05-20.11.22:922][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_0 /Engine/Transient.World_28:PersistentLevel.BP_Boy_C_0.CharacterMesh0 Bone: 'LeftLeg' 
+[2025.03.05-20.11.22:922][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_0 /Engine/Transient.World_28:PersistentLevel.BP_Boy_C_0.CharacterMesh0 Bone: 'LeftFoot' 
+[2025.03.05-20.11.22:922][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_0 /Engine/Transient.World_28:PersistentLevel.BP_Boy_C_0.CharacterMesh0 Bone: 'RightUpLeg' 
+[2025.03.05-20.11.22:922][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_0 /Engine/Transient.World_28:PersistentLevel.BP_Boy_C_0.CharacterMesh0 Bone: 'RightLeg' 
+[2025.03.05-20.11.22:922][933]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_0 /Engine/Transient.World_28:PersistentLevel.BP_Boy_C_0.CharacterMesh0 Bone: 'RightFoot' 
+[2025.03.05-20.11.22:992][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.03.05-20.11.45:330][171]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonGameMode.BP_FirstPersonGameMode
+[2025.03.05-20.11.45:330][171]LogChaosDD: Creating Chaos Debug Draw Scene for world World_35
+[2025.03.05-20.12.36:747][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.03.05-20.12.40:137][369]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.05-20.12.40:145][369]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.05-20.12.40:145][369]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV1
+[2025.03.05-20.12.40:177][369]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031211s)
+[2025.03.05-20.12.40:177][369]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV1.LV1 to /Game/Level/UEDPIE_0_LV1.LV1 (0.031250s)
+[2025.03.05-20.12.40:200][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.03.05-20.12.40:203][369]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.03.05-20.12.40:204][369]LogPlayLevel: PIE: World Init took: (0.001562s)
+[2025.03.05-20.12.40:204][369]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.03.05-20.12.40:204][369]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.05-20.12.40:204][369]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.05-20.12.40:204][369]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.05-20.12.40:206][369]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.05-20.12.40:206][369]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.05-20.12.40:206][369]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.05-20.12.40:206][369]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.05-20.12.40:206][369]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.05-20.12.40:206][369]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.05-20.12.40:206][369]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.05-20.12.40:206][369]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.05-20.12.40:208][369]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.05-20.12.40:386][369]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.05-20.12.40:386][369]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.05-20.12.40:386][369]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.05-20.12.40:386][369]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.05-20.12.40:386][369]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.03.05-20.12.40:387][369]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.03.05-20.12.40:390][369]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.03.05-20.12.40:390][369]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.03.05-20.12.40:390][369]LogInit: FAudioDevice initialized with ID 11.
+[2025.03.05-20.12.40:390][369]LogAudio: Display: Audio Device (ID: 11) registered with world 'LV1'.
+[2025.03.05-20.12.40:390][369]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.03.05-20.12.40:394][369]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.05-20.12.40:409][369]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV1.LV1 up for play (max tick rate 60) at 2025.03.05-15.12.40
+[2025.03.05-20.12.40:421][369]LogWorld: Bringing up level for play took: 0.027572
+[2025.03.05-20.12.40:437][369]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2025.03.05-20.12.40:443][369]PIE: Server logged in
+[2025.03.05-20.12.40:444][369]PIE: Play in editor total start time 0.299 seconds.
+[2025.03.05-20.12.42:163][451]LogCharacterMovement: BP_FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=14.96 Y=-230.11 Z=0.00 Location: X=-21.14 Y=969.91 Z=198.89 Normal: X=0.65 Y=0.76 Z=-0.07 PenetrationDepth:4.752 Actor:BP_Zombie_C_8 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2025.03.05-20.12.44:694][602]LogBlueprintUserMessages: [BP_Fire_C_6] Damage Recieved
+[2025.03.05-20.12.46:394][704]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] PLAYER DEAD!!!
+[2025.03.05-20.12.46:394][704]LogBlueprintUserMessages: [BP_Fire_C_6] Damage Recieved
+[2025.03.05-20.12.50:295][936]LogCharacterMovement: BP_Zombie_C_6 is stuck and failed to move! Velocity: X=-18.26 Y=9.77 Z=0.00 Location: X=-222.04 Y=698.00 Z=240.87 Normal: X=-0.17 Y=-0.89 Z=-0.42 PenetrationDepth:1.939 Actor:BP_Zombie_C_8 Component:CharacterMesh0 BoneName:Head (0 other events since notify)
+[2025.03.05-20.12.55:878][271]LogCharacterMovement: BP_Zombie_C_6 is stuck and failed to move! Velocity: X=-8.65 Y=-18.81 Z=0.00 Location: X=-234.85 Y=725.30 Z=240.87 Normal: X=0.46 Y=0.89 Z=-0.00 PenetrationDepth:1.418 Actor:BP_Zombie_C_8 Component:CharacterMesh0 BoneName:RightShoulder (0 other events since notify)
+[2025.03.05-20.13.01:112][585]LogBlueprintUserMessages: [BP_Fire_C_6] Damage Recieved
+[2025.03.05-20.13.02:644][677]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_1] PLAYER DEAD!!!
+[2025.03.05-20.13.02:644][677]LogBlueprintUserMessages: [BP_Fire_C_6] Damage Recieved
+[2025.03.05-20.13.14:698][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.05-20.13.14:698][398]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV1
+[2025.03.05-20.13.14:699][398]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-20.13.14:703][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-20.13.14:713][398]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.05-20.13.14:720][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-20.13.14:743][398]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.05-20.13.14:744][398]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.03.05-20.13.14:744][398]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.03.05-20.13.14:746][398]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.03.05-20.13.14:751][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.05-20.13.14:756][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.03.05-20.13.14:817][399]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2025.03.05-20.13.18:116][592]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1727.335205
+[2025.03.05-20.13.18:184][596]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.05-20.13.18:184][596]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1727.385864, Update Interval: 333.075348
+[2025.03.05-20.14.32:136][975]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.03.05-20.14.49:235][980]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MybluePrints/HUD_inPlayer.HUD_inPlayer
+[2025.03.05-20.14.49:236][980]LogChaosDD: Creating Chaos Debug Draw Scene for world World_36
+[2025.03.05-20.14.49:242][980]LogChaosDD: Creating Chaos Debug Draw Scene for world World_37
+[2025.03.05-20.14.49:250][980]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2025.03.05-20.14.49:937][980]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2025.03.05-20.14.49:947][980]LogSlate: Took 0.007815 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.03.05-20.15.14:728][324]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MybluePrints/HUD_inGame.HUD_inGame
+[2025.03.05-20.15.14:729][324]LogChaosDD: Creating Chaos Debug Draw Scene for world World_38
+[2025.03.05-20.15.34:084][381]LogChaosDD: Creating Chaos Debug Draw Scene for world World_39
+[2025.03.05-20.15.38:715][646]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Zombie_C /Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Zombie_C_4
+	Function /Game/Characters/Zombie/ABP_Zombie.ABP_Zombie_C:ExecuteUbergraph_ABP_Zombie:0040
+[2025.03.05-20.15.38:718][646]LogChaosDD: Creating Chaos Debug Draw Scene for world World_40
+[2025.03.05-20.15.38:775][648]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_boy_C /Engine/Transient.World_0:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_boy_C_174
+	Function /Game/Characters/Boy/ABP_boy.ABP_boy_C:ExecuteUbergraph_ABP_boy:0040
+[2025.03.05-20.15.38:778][648]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_boy_C /Engine/Transient.World_0:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_boy_C_175
+	Function /Game/Characters/Boy/ABP_boy.ABP_boy_C:ExecuteUbergraph_ABP_boy:0040
+[2025.03.05-20.15.38:799][649]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_boy_C /Engine/Transient.World_0:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_boy_C_176
+	Function /Game/Characters/Boy/ABP_boy.ABP_boy_C:ExecuteUbergraph_ABP_boy:0040
+[2025.03.05-20.15.38:816][650]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_boy_C /Engine/Transient.World_0:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_boy_C_177
+	Function /Game/Characters/Boy/ABP_boy.ABP_boy_C:ExecuteUbergraph_ABP_boy:0040
+[2025.03.05-20.15.48:674][234]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MybluePrints/PlayerHP.PlayerHP
+[2025.03.05-20.15.48:674][234]LogChaosDD: Creating Chaos Debug Draw Scene for world World_41
+[2025.03.05-20.15.48:681][234]LogChaosDD: Creating Chaos Debug Draw Scene for world World_42
+[2025.03.05-20.17.31:253][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.03.05-20.17.48:424][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.03.05-20.18.04:937][594]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.05-20.18.04:951][594]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.05-20.18.04:997][594]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV1
+[2025.03.05-20.18.05:032][594]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034403s)
+[2025.03.05-20.18.05:032][594]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV1.LV1 to /Game/Level/UEDPIE_0_LV1.LV1 (0.034477s)
+[2025.03.05-20.18.05:059][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.03.05-20.18.05:067][594]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.03.05-20.18.05:069][594]LogPlayLevel: PIE: World Init took: (0.001941s)
+[2025.03.05-20.18.05:070][594]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.03.05-20.18.05:070][594]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.05-20.18.05:070][594]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.05-20.18.05:070][594]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.05-20.18.05:070][594]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.05-20.18.05:070][594]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.05-20.18.05:070][594]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.05-20.18.05:070][594]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.05-20.18.05:070][594]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.05-20.18.05:070][594]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.05-20.18.05:070][594]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.05-20.18.05:070][594]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.05-20.18.05:073][594]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.05-20.18.05:269][594]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.05-20.18.05:270][594]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.05-20.18.05:270][594]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.05-20.18.05:270][594]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.05-20.18.05:270][594]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.03.05-20.18.05:270][594]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.03.05-20.18.05:273][594]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.03.05-20.18.05:273][594]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.03.05-20.18.05:273][594]LogInit: FAudioDevice initialized with ID 12.
+[2025.03.05-20.18.05:273][594]LogAudio: Display: Audio Device (ID: 12) registered with world 'LV1'.
+[2025.03.05-20.18.05:273][594]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.03.05-20.18.05:277][594]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.05-20.18.05:294][594]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV1.LV1 up for play (max tick rate 60) at 2025.03.05-15.18.05
+[2025.03.05-20.18.05:306][594]LogWorld: Bringing up level for play took: 0.028328
+[2025.03.05-20.18.05:325][594]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2025.03.05-20.18.05:332][594]PIE: Server logged in
+[2025.03.05-20.18.05:334][594]PIE: Play in editor total start time 0.383 seconds.
+[2025.03.05-20.18.07:658][658]LogCharacterMovement: BP_FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=56.13 Y=-597.37 Z=0.00 Location: X=23.69 Y=733.34 Z=198.89 Normal: X=0.85 Y=-0.52 Z=-0.10 PenetrationDepth:5.509 Actor:BP_Zombie_C_8 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2025.03.05-20.18.10:211][803]LogBlueprintUserMessages: [BP_Fire_C_6] Damage Recieved
+[2025.03.05-20.18.11:710][893]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] PLAYER DEAD!!!
+[2025.03.05-20.18.11:710][893]LogBlueprintUserMessages: [BP_Fire_C_6] Damage Recieved
+[2025.03.05-20.18.17:448][236]LogBlueprintUserMessages: [BP_HealthKit_C_2] Health kit found
+[2025.03.05-20.18.54:843][478]LogBlueprintUserMessages: [BP_Fire_C_6] Damage Recieved
+[2025.03.05-20.18.56:043][550]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_1] PLAYER DEAD!!!
+[2025.03.05-20.18.56:043][550]LogBlueprintUserMessages: [BP_Fire_C_6] Damage Recieved
+[2025.03.05-20.18.56:744][592]LogCharacterMovement: BP_FirstPersonCharacter_C_1 is stuck and failed to move! Velocity: X=598.23 Y=46.03 Z=0.00 Location: X=-1049.49 Y=900.73 Z=196.79 Normal: X=-0.20 Y=-0.93 Z=-0.30 PenetrationDepth:1.217 Actor:BP_Zombie_C_6 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.05-20.18.58:798][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.05-20.18.58:798][713]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV1
+[2025.03.05-20.18.58:800][713]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-20.18.58:804][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-20.18.58:814][713]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.05-20.18.58:821][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-20.18.58:848][713]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.05-20.18.58:849][713]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.03.05-20.18.58:849][713]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.03.05-20.18.58:852][713]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.03.05-20.18.58:856][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.05-20.18.58:863][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.03.05-20.18.58:940][714]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2025.03.05-20.19.31:171][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.03.05-20.19.31:748][495]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2100.973633
+[2025.03.05-20.19.31:833][500]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.05-20.19.31:833][500]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2101.041992, Update Interval: 349.370392
+[2025.03.05-20.19.32:041][513]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.05-20.19.32:110][513]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MybluePrints/PlayerHP] ([2] browsable assets)...
+[2025.03.05-20.19.32:113][513]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/MybluePrints/PlayerHP.PlayerHP]
+[2025.03.05-20.19.32:114][513]OBJ SavePackage: Finished generating thumbnails for package [/Game/MybluePrints/PlayerHP]
+[2025.03.05-20.19.32:114][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MybluePrints/PlayerHP" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/MybluePrints/PlayerHP.uasset" SILENT=true
+[2025.03.05-20.19.32:121][513]LogSavePackage: Moving output files for package: /Game/MybluePrints/PlayerHP
+[2025.03.05-20.19.32:121][513]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/PlayerHP04ABABEF416AE946CE442EADA4E34C12.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/MybluePrints/PlayerHP.uasset'
+[2025.03.05-20.19.32:133][513]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.735 ms (total: 7.81 sec)
+[2025.03.05-20.19.32:194][513]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.05-20.19.32:194][513]LogContentValidation: Enabled validators:
+[2025.03.05-20.19.32:194][513]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.05-20.19.32:194][513]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.05-20.19.32:194][513]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.05-20.19.32:194][513]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.05-20.19.32:194][513]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.05-20.19.32:194][513]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.05-20.19.32:195][513]AssetCheck: /Game/MybluePrints/PlayerHP Validating asset
+[2025.03.05-20.19.34:760][660]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.05-20.19.34:770][660]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.05-20.19.34:770][660]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV1
+[2025.03.05-20.19.34:804][660]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033825s)
+[2025.03.05-20.19.34:804][660]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV1.LV1 to /Game/Level/UEDPIE_0_LV1.LV1 (0.033868s)
+[2025.03.05-20.19.34:831][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.03.05-20.19.34:838][660]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.03.05-20.19.34:840][660]LogPlayLevel: PIE: World Init took: (0.002205s)
+[2025.03.05-20.19.34:841][660]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.03.05-20.19.34:841][660]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.05-20.19.34:841][660]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.05-20.19.34:841][660]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.05-20.19.34:841][660]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.05-20.19.34:841][660]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.05-20.19.34:841][660]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.05-20.19.34:841][660]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.05-20.19.34:841][660]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.05-20.19.34:841][660]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.05-20.19.34:841][660]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.05-20.19.34:841][660]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.05-20.19.34:844][660]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.05-20.19.35:031][660]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.05-20.19.35:031][660]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.05-20.19.35:031][660]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.05-20.19.35:031][660]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.05-20.19.35:032][660]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.03.05-20.19.35:032][660]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.03.05-20.19.35:034][660]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.03.05-20.19.35:034][660]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.03.05-20.19.35:034][660]LogInit: FAudioDevice initialized with ID 13.
+[2025.03.05-20.19.35:034][660]LogAudio: Display: Audio Device (ID: 13) registered with world 'LV1'.
+[2025.03.05-20.19.35:034][660]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.03.05-20.19.35:040][660]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.05-20.19.35:056][660]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV1.LV1 up for play (max tick rate 60) at 2025.03.05-15.19.35
+[2025.03.05-20.19.35:067][660]LogWorld: Bringing up level for play took: 0.027861
+[2025.03.05-20.19.35:083][660]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2025.03.05-20.19.35:089][660]PIE: Server logged in
+[2025.03.05-20.19.35:091][660]PIE: Play in editor total start time 0.321 seconds.
+[2025.03.05-20.19.39:075][857]LogBlueprintUserMessages: [BP_Fire_C_6] Damage Recieved
+[2025.03.05-20.19.40:058][916]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] PLAYER DEAD!!!
+[2025.03.05-20.19.40:058][916]LogBlueprintUserMessages: [BP_Fire_C_6] Damage Recieved
+[2025.03.05-20.19.47:148][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.05-20.19.47:148][339]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV1
+[2025.03.05-20.19.47:150][339]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-20.19.47:154][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-20.19.47:162][339]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.05-20.19.47:169][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-20.19.47:191][339]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.05-20.19.47:191][339]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.03.05-20.19.47:192][339]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.03.05-20.19.47:194][339]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.03.05-20.19.47:201][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.05-20.19.47:209][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.03.05-20.19.47:290][340]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2025.03.05-20.20.01:754][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.03.05-20.20.03:734][301]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.05-20.20.03:744][301]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.05-20.20.03:744][301]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV1
+[2025.03.05-20.20.03:775][301]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031253s)
+[2025.03.05-20.20.03:775][301]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV1.LV1 to /Game/Level/UEDPIE_0_LV1.LV1 (0.031289s)
+[2025.03.05-20.20.03:805][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.03.05-20.20.03:811][301]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.03.05-20.20.03:813][301]LogPlayLevel: PIE: World Init took: (0.001609s)
+[2025.03.05-20.20.03:814][301]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.03.05-20.20.03:814][301]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.05-20.20.03:814][301]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.05-20.20.03:814][301]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.05-20.20.03:814][301]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.05-20.20.03:814][301]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.05-20.20.03:814][301]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.05-20.20.03:814][301]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.05-20.20.03:814][301]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.05-20.20.03:814][301]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.05-20.20.03:814][301]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.05-20.20.03:814][301]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.05-20.20.03:817][301]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.05-20.20.03:992][301]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.03.05-20.20.03:992][301]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.05-20.20.03:992][301]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.05-20.20.03:992][301]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.05-20.20.03:992][301]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.03.05-20.20.03:992][301]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2025.03.05-20.20.03:996][301]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.03.05-20.20.03:996][301]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.03.05-20.20.03:996][301]LogInit: FAudioDevice initialized with ID 14.
+[2025.03.05-20.20.03:996][301]LogAudio: Display: Audio Device (ID: 14) registered with world 'LV1'.
+[2025.03.05-20.20.03:996][301]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.03.05-20.20.04:000][301]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.05-20.20.04:014][301]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV1.LV1 up for play (max tick rate 60) at 2025.03.05-15.20.04
+[2025.03.05-20.20.04:027][301]LogWorld: Bringing up level for play took: 0.026662
+[2025.03.05-20.20.04:042][301]LogOnline: OSS: Created online subsystem instance for: :Context_56
+[2025.03.05-20.20.04:048][301]PIE: Server logged in
+[2025.03.05-20.20.04:049][301]PIE: Play in editor total start time 0.306 seconds.
+[2025.03.05-20.20.05:553][364]LogCharacterMovement: BP_Zombie_C_6 is stuck and failed to move! Velocity: X=207.77 Y=11.75 Z=0.00 Location: X=-225.68 Y=698.21 Z=240.87 Normal: X=0.22 Y=-0.98 Z=-0.00 PenetrationDepth:0.846 Actor:BP_Zombie_C_8 Component:CharacterMesh0 BoneName:Head (0 other events since notify)
+[2025.03.05-20.20.08:351][524]LogBlueprintUserMessages: [BP_Fire_C_6] Damage Recieved
+[2025.03.05-20.20.09:401][587]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] PLAYER DEAD!!!
+[2025.03.05-20.20.09:401][587]LogBlueprintUserMessages: [BP_Fire_C_6] Damage Recieved
+[2025.03.05-20.20.23:521][434]LogBlueprintUserMessages: [BP_HealthKit_C_2] Health kit found
+[2025.03.05-20.20.23:572][437]LogCharacterMovement: BP_Zombie_C_6 is stuck and failed to move! Velocity: X=-1.57 Y=-20.65 Z=0.00 Location: X=-437.75 Y=695.48 Z=240.87 Normal: X=-0.98 Y=0.21 Z=0.00 PenetrationDepth:21.087 Actor:BP_FirstPersonCharacter_C_1 Component:Capsule BoneName:None (0 other events since notify)
+[2025.03.05-20.20.24:556][496]LogCharacterMovement: BP_Zombie_C_8 is stuck and failed to move! Velocity: X=13.19 Y=15.96 Z=0.00 Location: X=-501.93 Y=588.99 Z=238.63 Normal: X=-0.68 Y=-0.65 Z=-0.35 PenetrationDepth:2.980 Actor:BP_Zombie_C_6 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2025.03.05-20.20.25:622][560]LogBlueprintUserMessages: [BP_Smoke_C_12] Hello
+[2025.03.05-20.20.26:522][614]LogBlueprintUserMessages: [BP_Fire_C_6] Damage Recieved
+[2025.03.05-20.20.28:238][717]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_1] PLAYER DEAD!!!
+[2025.03.05-20.20.28:238][717]LogBlueprintUserMessages: [BP_Fire_C_6] Damage Recieved
+[2025.03.05-20.20.32:915][995]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_0] WEAPON FOUND
+[2025.03.05-20.20.32:916][995]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_1] WEAPON FOUND
+[2025.03.05-20.20.32:916][995]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_2] WEAPON FOUND
+[2025.03.05-20.20.34:233][ 74]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_1] WEAPON FOUND
+[2025.03.05-20.20.34:233][ 74]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_2] WEAPON FOUND
+[2025.03.05-20.20.34:666][100]LogCharacterMovement: BP_FirstPersonCharacter_C_2 is stuck and failed to move! Velocity: X=4.63 Y=-39.60 Z=0.00 Location: X=-21.18 Y=1122.02 Z=198.89 Normal: X=0.79 Y=0.35 Z=0.50 PenetrationDepth:0.026 Actor:BP_Zombie_C_6 Component:CharacterMesh0 BoneName:LeftFoot (0 other events since notify)
+[2025.03.05-20.20.35:701][162]LogCharacterMovement: BP_FirstPersonCharacter_C_2 is stuck and failed to move! Velocity: X=-4.69 Y=-34.23 Z=0.00 Location: X=-21.17 Y=1118.85 Z=198.89 Normal: X=0.83 Y=0.28 Z=0.48 PenetrationDepth:0.034 Actor:BP_Zombie_C_6 Component:CharacterMesh0 BoneName:LeftFoot (38 other events since notify)
+[2025.03.05-20.20.40:311][429]LogBlueprintUserMessages: [BP_Fire_C_6] Damage Recieved
+[2025.03.05-20.20.41:994][530]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_2] PLAYER DEAD!!!
+[2025.03.05-20.20.41:994][530]LogBlueprintUserMessages: [BP_Fire_C_6] Damage Recieved
+[2025.03.05-20.20.46:813][819]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_2] WEAPON FOUND
+[2025.03.05-20.20.46:813][819]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_1] WEAPON FOUND
+[2025.03.05-20.20.46:814][819]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_3] WEAPON FOUND
+[2025.03.05-20.20.54:280][267]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_1] WEAPON FOUND
+[2025.03.05-20.20.54:280][267]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_3] WEAPON FOUND
+[2025.03.05-20.20.57:146][439]LogBlueprintUserMessages: [BP_Fire_C_6] Damage Recieved
+[2025.03.05-20.20.58:430][516]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_3] PLAYER DEAD!!!
+[2025.03.05-20.20.58:430][516]LogBlueprintUserMessages: [BP_Fire_C_6] Damage Recieved
+[2025.03.05-20.21.04:118][857]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_3] WEAPON FOUND
+[2025.03.05-20.21.04:119][857]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_1] WEAPON FOUND
+[2025.03.05-20.21.04:119][857]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_4] WEAPON FOUND
+[2025.03.05-20.21.18:042][691]LogBlueprintUserMessages: [BP_Smoke_C_12] Hello
+[2025.03.05-20.21.23:661][ 26]LogBlueprintUserMessages: [BP_Smoke_C_3] Hello
+[2025.03.05-20.21.27:261][242]LogBlueprintUserMessages: [BP_Smoke_C_5] Hello
+[2025.03.05-20.21.30:662][446]LogBlueprintUserMessages: [BP_CheckPoint_C_5] CHECKPOINT
+[2025.03.05-20.21.33:964][644]LogBlueprintUserMessages: [BP_Fire_C_11] Damage Recieved
+[2025.03.05-20.21.35:414][731]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_4] PLAYER DEAD!!!
+[2025.03.05-20.21.35:414][731]LogBlueprintUserMessages: [BP_Fire_C_11] Damage Recieved
+[2025.03.05-20.21.37:400][850]LogBlueprintUserMessages: [BP_CheckPoint_C_5] CHECKPOINT
+[2025.03.05-20.21.37:401][850]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_5] WEAPON FOUND
+[2025.03.05-20.22.36:718][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.05-20.22.36:718][405]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV1
+[2025.03.05-20.22.36:719][405]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-20.22.36:723][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-20.22.36:732][405]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.05-20.22.36:738][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-20.22.36:766][405]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.05-20.22.36:766][405]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.03.05-20.22.36:766][405]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.03.05-20.22.36:769][405]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.03.05-20.22.36:773][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.05-20.22.36:780][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.03.05-20.22.36:856][406]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2025.03.05-20.23.30:794][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.03.05-20.23.30:880][621]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level/LV1_Auto1
+[2025.03.05-20.23.30:881][621]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/LV1_Auto1CAD4357846B97C7B8D21DBAB6EC73F73.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/Level/LV1_Auto1.umap'
+[2025.03.05-20.23.30:883][621]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/LV1' took 0.112
+[2025.03.05-20.23.30:883][621]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.112
+[2025.03.05-20.23.30:884][621]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MybluePrints/BP_Fire] ([2] browsable assets)...
+[2025.03.05-20.23.30:884][621]OBJ SavePackage: Finished generating thumbnails for package [/Game/MybluePrints/BP_Fire]
+[2025.03.05-20.23.30:892][621]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MybluePrints/BP_Fire_Auto1
+[2025.03.05-20.23.30:893][621]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/BP_Fire_Auto1CAB4BEF048EC9BA1221EF69A941F32B0.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/MybluePrints/BP_Fire_Auto1.uasset'
+[2025.03.05-20.23.30:895][621]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonGameMode] ([2] browsable assets)...
+[2025.03.05-20.23.30:895][621]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonGameMode]
+[2025.03.05-20.23.30:904][621]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonGameMode_Auto1
+[2025.03.05-20.23.30:905][621]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/BP_FirstPersonGameMode_Auto16DA5C694452D9B870F2E54972B6D25C7.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonGameMode_Auto1.uasset'
+[2025.03.05-20.23.30:905][621]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MybluePrints/BP_keyDoor3] ([2] browsable assets)...
+[2025.03.05-20.23.30:933][621]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MybluePrints/BP_keyDoor3.BP_keyDoor3]
+[2025.03.05-20.23.30:933][621]OBJ SavePackage: Finished generating thumbnails for package [/Game/MybluePrints/BP_keyDoor3]
+[2025.03.05-20.23.30:939][621]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MybluePrints/BP_keyDoor3_Auto1
+[2025.03.05-20.23.30:940][621]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/BP_keyDoor3_Auto16C6317FD47A8F4B30855A594918F51C9.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/MybluePrints/BP_keyDoor3_Auto1.uasset'
+[2025.03.05-20.23.30:941][621]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.03.05-20.23.30:949][621]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.03.05-20.23.30:949][621]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.03.05-20.23.30:962][621]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto1
+[2025.03.05-20.23.30:963][621]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/BP_FirstPersonCharacter_Auto1593B358A46C8DA2D8C3440A781DAE98A.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto1.uasset'
+[2025.03.05-20.23.30:965][621]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Zombie/Warzombie_F_Pedroso] ([1] browsable assets)...
+[2025.03.05-20.23.30:965][621]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie/Warzombie_F_Pedroso]
+[2025.03.05-20.23.30:966][621]LogSavePackage: Warning: 
+Referencers of SkeletalMeshDescriptionBulkData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:SkeletalMeshDescriptionBulkData_0:
+[2025.03.05-20.23.31:108][621]LogSavePackage: Warning: 	SkeletalMesh /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-20.23.31:108][621]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMeshSourceModel:MeshDescriptionBulkData
+[2025.03.05-20.23.31:108][621]LogSavePackage: Warning: 	SkeletalMesh /Game/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-20.23.31:108][621]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMeshSourceModel:MeshDescriptionBulkData
+[2025.03.05-20.23.31:109][621]LogSavePackage: Warning: 
+Referencers of InterchangeAssetImportData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:InterchangeAssetImportData_0:
+[2025.03.05-20.23.31:250][621]LogSavePackage: Warning: 	SkeletalMesh /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-20.23.31:251][621]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMesh:AssetImportData
+[2025.03.05-20.23.31:251][621]LogSavePackage: Warning: 	SkeletalMesh /Game/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-20.23.31:251][621]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMesh:AssetImportData
+[2025.03.05-20.23.31:251][621]Warning: Can't save '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/Zombie/Warzombie_F_Pedroso_Auto1.uasset': Illegal reference to private object: 'InterchangeAssetImportData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:InterchangeAssetImportData_0' referenced by 'Warzombie_F_Pedroso' (at '/Game/Zombie/Warzombie_F_Pedroso') in its 'AssetImportData' property.
+[2025.03.05-20.26.02:962][721]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2492.196777
+[2025.03.05-20.26.03:044][726]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.05-20.26.03:044][726]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2492.263184, Update Interval: 358.974579
+[2025.03.05-20.32.58:144][963]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2907.383545
+[2025.03.05-20.32.59:143][966]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.05-20.32.59:144][966]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2908.050049, Update Interval: 358.970917
+[2025.03.05-20.33.31:572][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.03.05-20.33.31:578][ 63]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/LV1' took 0.031
+[2025.03.05-20.33.31:579][ 63]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Zombie/Warzombie_F_Pedroso] ([1] browsable assets)...
+[2025.03.05-20.33.31:579][ 63]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie/Warzombie_F_Pedroso]
+[2025.03.05-20.33.31:580][ 63]LogSavePackage: Warning: 
+Referencers of SkeletalMeshDescriptionBulkData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:SkeletalMeshDescriptionBulkData_0:
+[2025.03.05-20.33.31:735][ 63]LogSavePackage: Warning: 	SkeletalMesh /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-20.33.31:735][ 63]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMeshSourceModel:MeshDescriptionBulkData
+[2025.03.05-20.33.31:735][ 63]LogSavePackage: Warning: 	SkeletalMesh /Game/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-20.33.31:735][ 63]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMeshSourceModel:MeshDescriptionBulkData
+[2025.03.05-20.33.31:735][ 63]LogSavePackage: Warning: 
+Referencers of InterchangeAssetImportData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:InterchangeAssetImportData_0:
+[2025.03.05-20.33.31:881][ 63]LogSavePackage: Warning: 	SkeletalMesh /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-20.33.31:881][ 63]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMesh:AssetImportData
+[2025.03.05-20.33.31:881][ 63]LogSavePackage: Warning: 	SkeletalMesh /Game/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-20.33.31:881][ 63]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMesh:AssetImportData
+[2025.03.05-20.33.31:881][ 63]Warning: Can't save '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/Zombie/Warzombie_F_Pedroso_Auto1.uasset': Illegal reference to private object: 'InterchangeAssetImportData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:InterchangeAssetImportData_0' referenced by 'Warzombie_F_Pedroso' (at '/Game/Zombie/Warzombie_F_Pedroso') in its 'AssetImportData' property.
+[2025.03.05-20.39.36:326][158]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3305.565430
+[2025.03.05-20.39.37:326][160]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.05-20.39.37:326][160]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3306.232422, Update Interval: 309.162872
+[2025.03.05-20.43.32:133][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.03.05-20.43.32:135][864]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/LV1' took 0.028
+[2025.03.05-20.43.32:135][864]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Zombie/Warzombie_F_Pedroso] ([1] browsable assets)...
+[2025.03.05-20.43.32:135][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie/Warzombie_F_Pedroso]
+[2025.03.05-20.43.32:136][864]LogSavePackage: Warning: 
+Referencers of SkeletalMeshDescriptionBulkData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:SkeletalMeshDescriptionBulkData_0:
+[2025.03.05-20.43.32:301][864]LogSavePackage: Warning: 	SkeletalMesh /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-20.43.32:301][864]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMeshSourceModel:MeshDescriptionBulkData
+[2025.03.05-20.43.32:301][864]LogSavePackage: Warning: 	SkeletalMesh /Game/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-20.43.32:301][864]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMeshSourceModel:MeshDescriptionBulkData
+[2025.03.05-20.43.32:301][864]LogSavePackage: Warning: 
+Referencers of InterchangeAssetImportData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:InterchangeAssetImportData_0:
+[2025.03.05-20.43.32:455][864]LogSavePackage: Warning: 	SkeletalMesh /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-20.43.32:455][864]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMesh:AssetImportData
+[2025.03.05-20.43.32:455][864]LogSavePackage: Warning: 	SkeletalMesh /Game/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-20.43.32:455][864]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMesh:AssetImportData
+[2025.03.05-20.43.32:455][864]Warning: Can't save '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/Zombie/Warzombie_F_Pedroso_Auto1.uasset': Illegal reference to private object: 'InterchangeAssetImportData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:InterchangeAssetImportData_0' referenced by 'Warzombie_F_Pedroso' (at '/Game/Zombie/Warzombie_F_Pedroso') in its 'AssetImportData' property.
+[2025.03.05-20.45.20:854][190]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3650.088623
+[2025.03.05-20.45.21:854][193]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.05-20.45.21:854][193]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3650.755615, Update Interval: 325.435944
+[2025.03.05-20.46.26:009][386]LogDerivedDataCache: C:/Users/rawll/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.03.05-20.51.43:249][338]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4032.484863
+[2025.03.05-20.51.44:249][340]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.05-20.51.44:249][341]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4033.151855, Update Interval: 324.346436
+[2025.03.05-20.53.33:020][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.03.05-20.53.33:022][666]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/LV1' took 0.024
+[2025.03.05-20.53.33:023][666]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Zombie/Warzombie_F_Pedroso] ([1] browsable assets)...
+[2025.03.05-20.53.33:023][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie/Warzombie_F_Pedroso]
+[2025.03.05-20.53.33:024][666]LogSavePackage: Warning: 
+Referencers of SkeletalMeshDescriptionBulkData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:SkeletalMeshDescriptionBulkData_0:
+[2025.03.05-20.53.33:173][666]LogSavePackage: Warning: 	SkeletalMesh /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-20.53.33:173][666]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMeshSourceModel:MeshDescriptionBulkData
+[2025.03.05-20.53.33:173][666]LogSavePackage: Warning: 	SkeletalMesh /Game/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-20.53.33:173][666]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMeshSourceModel:MeshDescriptionBulkData
+[2025.03.05-20.53.33:173][666]LogSavePackage: Warning: 
+Referencers of InterchangeAssetImportData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:InterchangeAssetImportData_0:
+[2025.03.05-20.53.33:320][666]LogSavePackage: Warning: 	SkeletalMesh /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-20.53.33:320][666]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMesh:AssetImportData
+[2025.03.05-20.53.33:320][666]LogSavePackage: Warning: 	SkeletalMesh /Game/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-20.53.33:320][666]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMesh:AssetImportData
+[2025.03.05-20.53.33:320][666]Warning: Can't save '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/Zombie/Warzombie_F_Pedroso_Auto1.uasset': Illegal reference to private object: 'InterchangeAssetImportData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:InterchangeAssetImportData_0' referenced by 'Warzombie_F_Pedroso' (at '/Game/Zombie/Warzombie_F_Pedroso') in its 'AssetImportData' property.
+[2025.03.05-20.55.02:539][934]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.03.05-20.55.03:685][934]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.03.05-20.55.03:687][934]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=34200
+[2025.03.05-20.55.04:335][936]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.03.05-20.55.04:340][936]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{ba6070c2-8b7e-4cff-8b8d-5e3af859960b}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=325.81
+[2025.03.05-20.55.04:341][936]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.03.05-20.55.04:344][936]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.03.05-20.55.09:549][951]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.03.05-20.55.09:725][951]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.03.05-20.55.09:725][951]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=34200
+[2025.03.05-20.55.11:058][955]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.03.05-20.55.11:064][955]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{ba6070c2-8b7e-4cff-8b8d-5e3af859960b}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=1094.62
+[2025.03.05-20.55.11:064][955]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.03.05-20.55.11:070][955]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.03.05-21.06.23:375][992]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2025.03.05-21.06.23:378][992]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/LV1' took 0.064
+[2025.03.05-21.06.23:381][992]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Zombie/Warzombie_F_Pedroso] ([1] browsable assets)...
+[2025.03.05-21.06.23:381][992]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie/Warzombie_F_Pedroso]
+[2025.03.05-21.06.23:385][992]LogSavePackage: Warning: 
+Referencers of SkeletalMeshDescriptionBulkData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:SkeletalMeshDescriptionBulkData_0:
+[2025.03.05-21.06.23:828][992]LogSavePackage: Warning: 	SkeletalMesh /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-21.06.23:828][992]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMeshSourceModel:MeshDescriptionBulkData
+[2025.03.05-21.06.23:828][992]LogSavePackage: Warning: 	SkeletalMesh /Game/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-21.06.23:828][992]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMeshSourceModel:MeshDescriptionBulkData
+[2025.03.05-21.06.23:828][992]LogSavePackage: Warning: 
+Referencers of InterchangeAssetImportData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:InterchangeAssetImportData_0:
+[2025.03.05-21.06.24:269][992]LogSavePackage: Warning: 	SkeletalMesh /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-21.06.24:269][992]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMesh:AssetImportData
+[2025.03.05-21.06.24:269][992]LogSavePackage: Warning: 	SkeletalMesh /Game/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-21.06.24:269][992]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMesh:AssetImportData
+[2025.03.05-21.06.24:269][992]Warning: Can't save '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/Zombie/Warzombie_F_Pedroso_Auto1.uasset': Illegal reference to private object: 'InterchangeAssetImportData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:InterchangeAssetImportData_0' referenced by 'Warzombie_F_Pedroso' (at '/Game/Zombie/Warzombie_F_Pedroso') in its 'AssetImportData' property.
+[2025.03.05-21.07.05:615][115]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4954.853027
+[2025.03.05-21.07.06:614][118]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.05-21.07.06:614][118]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4955.519043, Update Interval: 352.887970
+[2025.03.05-21.13.55:088][339]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5364.328125
+[2025.03.05-21.13.56:087][342]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.05-21.13.56:087][342]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5364.994141, Update Interval: 350.421448
+[2025.03.05-21.16.24:540][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.03.05-21.16.24:542][787]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/LV1' took 0.028
+[2025.03.05-21.16.24:543][787]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Zombie/Warzombie_F_Pedroso] ([1] browsable assets)...
+[2025.03.05-21.16.24:543][787]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie/Warzombie_F_Pedroso]
+[2025.03.05-21.16.24:544][787]LogSavePackage: Warning: 
+Referencers of SkeletalMeshDescriptionBulkData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:SkeletalMeshDescriptionBulkData_0:
+[2025.03.05-21.16.24:692][787]LogSavePackage: Warning: 	SkeletalMesh /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-21.16.24:692][787]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMeshSourceModel:MeshDescriptionBulkData
+[2025.03.05-21.16.24:692][787]LogSavePackage: Warning: 	SkeletalMesh /Game/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-21.16.24:692][787]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMeshSourceModel:MeshDescriptionBulkData
+[2025.03.05-21.16.24:692][787]LogSavePackage: Warning: 
+Referencers of InterchangeAssetImportData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:InterchangeAssetImportData_0:
+[2025.03.05-21.16.24:832][787]LogSavePackage: Warning: 	SkeletalMesh /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-21.16.24:833][787]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMesh:AssetImportData
+[2025.03.05-21.16.24:833][787]LogSavePackage: Warning: 	SkeletalMesh /Game/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-21.16.24:833][787]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMesh:AssetImportData
+[2025.03.05-21.16.24:833][787]Warning: Can't save '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/Zombie/Warzombie_F_Pedroso_Auto1.uasset': Illegal reference to private object: 'InterchangeAssetImportData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:InterchangeAssetImportData_0' referenced by 'Warzombie_F_Pedroso' (at '/Game/Zombie/Warzombie_F_Pedroso') in its 'AssetImportData' property.
+[2025.03.05-21.20.19:254][491]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5748.490723
+[2025.03.05-21.20.20:254][494]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.05-21.20.20:254][495]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5749.157715, Update Interval: 354.089172
+[2025.03.05-21.26.25:409][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.03.05-21.26.25:411][589]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/LV1' took 0.028
+[2025.03.05-21.26.25:412][589]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Zombie/Warzombie_F_Pedroso] ([1] browsable assets)...
+[2025.03.05-21.26.25:412][589]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie/Warzombie_F_Pedroso]
+[2025.03.05-21.26.25:413][589]LogSavePackage: Warning: 
+Referencers of SkeletalMeshDescriptionBulkData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:SkeletalMeshDescriptionBulkData_0:
+[2025.03.05-21.26.25:564][589]LogSavePackage: Warning: 	SkeletalMesh /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-21.26.25:564][589]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMeshSourceModel:MeshDescriptionBulkData
+[2025.03.05-21.26.25:564][589]LogSavePackage: Warning: 	SkeletalMesh /Game/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-21.26.25:564][589]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMeshSourceModel:MeshDescriptionBulkData
+[2025.03.05-21.26.25:564][589]LogSavePackage: Warning: 
+Referencers of InterchangeAssetImportData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:InterchangeAssetImportData_0:
+[2025.03.05-21.26.25:710][589]LogSavePackage: Warning: 	SkeletalMesh /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-21.26.25:710][589]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMesh:AssetImportData
+[2025.03.05-21.26.25:710][589]LogSavePackage: Warning: 	SkeletalMesh /Game/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-21.26.25:710][589]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMesh:AssetImportData
+[2025.03.05-21.26.25:710][589]Warning: Can't save '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/Zombie/Warzombie_F_Pedroso_Auto1.uasset': Illegal reference to private object: 'InterchangeAssetImportData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:InterchangeAssetImportData_0' referenced by 'Warzombie_F_Pedroso' (at '/Game/Zombie/Warzombie_F_Pedroso') in its 'AssetImportData' property.
+[2025.03.05-21.27.11:768][728]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6161.005859
+[2025.03.05-21.27.12:768][731]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.05-21.27.12:768][731]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6161.671875, Update Interval: 319.265106
+[2025.03.05-21.33.15:494][819]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6524.733887
+[2025.03.05-21.33.16:494][822]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.05-21.33.16:494][823]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6525.400391, Update Interval: 349.057281
+[2025.03.05-21.36.25:950][390]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.03.05-21.36.25:952][390]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/LV1' took 0.030
+[2025.03.05-21.36.25:953][390]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Zombie/Warzombie_F_Pedroso] ([1] browsable assets)...
+[2025.03.05-21.36.25:953][390]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie/Warzombie_F_Pedroso]
+[2025.03.05-21.36.25:954][390]LogSavePackage: Warning: 
+Referencers of SkeletalMeshDescriptionBulkData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:SkeletalMeshDescriptionBulkData_0:
+[2025.03.05-21.36.26:115][390]LogSavePackage: Warning: 	SkeletalMesh /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-21.36.26:115][390]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMeshSourceModel:MeshDescriptionBulkData
+[2025.03.05-21.36.26:115][390]LogSavePackage: Warning: 	SkeletalMesh /Game/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-21.36.26:115][390]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMeshSourceModel:MeshDescriptionBulkData
+[2025.03.05-21.36.26:115][390]LogSavePackage: Warning: 
+Referencers of InterchangeAssetImportData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:InterchangeAssetImportData_0:
+[2025.03.05-21.36.26:262][390]LogSavePackage: Warning: 	SkeletalMesh /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-21.36.26:262][390]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMesh:AssetImportData
+[2025.03.05-21.36.26:262][390]LogSavePackage: Warning: 	SkeletalMesh /Game/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-21.36.26:262][390]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMesh:AssetImportData
+[2025.03.05-21.36.26:262][390]Warning: Can't save '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/Zombie/Warzombie_F_Pedroso_Auto1.uasset': Illegal reference to private object: 'InterchangeAssetImportData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:InterchangeAssetImportData_0' referenced by 'Warzombie_F_Pedroso' (at '/Game/Zombie/Warzombie_F_Pedroso') in its 'AssetImportData' property.
+[2025.03.05-21.39.44:005][984]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6913.246582
+[2025.03.05-21.39.45:006][987]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.05-21.39.45:006][987]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6913.912598, Update Interval: 349.020660
+[2025.03.05-21.43.07:036][593]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 273...fc9
+[2025.03.05-21.43.07:036][594]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.86 RefreshExpires: 1.554e+07
+[2025.03.05-21.43.08:036][596]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 273...fc9 Access[Expires: 2025.03.05-23.43.07 Remaining: 7200.44] Refresh[Expires: 2025-09-01T18:19:32.606Z Remaining: 15539785.61] State: Valid
+[2025.03.05-21.46.10:065][142]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7299.305176
+[2025.03.05-21.46.11:065][145]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.05-21.46.11:065][146]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7299.972656, Update Interval: 318.735931
+[2025.03.05-21.46.26:492][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.03.05-21.46.26:494][191]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/LV1' took 0.025
+[2025.03.05-21.46.26:496][191]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Zombie/Warzombie_F_Pedroso] ([1] browsable assets)...
+[2025.03.05-21.46.26:496][191]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie/Warzombie_F_Pedroso]
+[2025.03.05-21.46.26:497][191]LogSavePackage: Warning: 
+Referencers of SkeletalMeshDescriptionBulkData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:SkeletalMeshDescriptionBulkData_0:
+[2025.03.05-21.46.26:642][191]LogSavePackage: Warning: 	SkeletalMesh /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-21.46.26:642][191]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMeshSourceModel:MeshDescriptionBulkData
+[2025.03.05-21.46.26:643][191]LogSavePackage: Warning: 	SkeletalMesh /Game/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-21.46.26:643][191]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMeshSourceModel:MeshDescriptionBulkData
+[2025.03.05-21.46.26:643][191]LogSavePackage: Warning: 
+Referencers of InterchangeAssetImportData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:InterchangeAssetImportData_0:
+[2025.03.05-21.46.26:783][191]LogSavePackage: Warning: 	SkeletalMesh /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-21.46.26:783][191]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMesh:AssetImportData
+[2025.03.05-21.46.26:783][191]LogSavePackage: Warning: 	SkeletalMesh /Game/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-21.46.26:783][191]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMesh:AssetImportData
+[2025.03.05-21.46.26:783][191]Warning: Can't save '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/Zombie/Warzombie_F_Pedroso_Auto1.uasset': Illegal reference to private object: 'InterchangeAssetImportData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:InterchangeAssetImportData_0' referenced by 'Warzombie_F_Pedroso' (at '/Game/Zombie/Warzombie_F_Pedroso') in its 'AssetImportData' property.
+[2025.03.05-21.52.00:892][194]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7650.131836
+[2025.03.05-21.52.01:893][197]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.05-21.52.01:893][198]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7650.798828, Update Interval: 340.416260
+[2025.03.05-21.56.27:026][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.03.05-21.56.27:027][992]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/LV1' took 0.024
+[2025.03.05-21.56.27:028][992]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Zombie/Warzombie_F_Pedroso] ([1] browsable assets)...
+[2025.03.05-21.56.27:028][992]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie/Warzombie_F_Pedroso]
+[2025.03.05-21.56.27:029][992]LogSavePackage: Warning: 
+Referencers of SkeletalMeshDescriptionBulkData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:SkeletalMeshDescriptionBulkData_0:
+[2025.03.05-21.56.27:181][992]LogSavePackage: Warning: 	SkeletalMesh /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-21.56.27:181][992]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMeshSourceModel:MeshDescriptionBulkData
+[2025.03.05-21.56.27:181][992]LogSavePackage: Warning: 	SkeletalMesh /Game/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-21.56.27:181][992]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMeshSourceModel:MeshDescriptionBulkData
+[2025.03.05-21.56.27:181][992]LogSavePackage: Warning: 
+Referencers of InterchangeAssetImportData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:InterchangeAssetImportData_0:
+[2025.03.05-21.56.27:323][992]LogSavePackage: Warning: 	SkeletalMesh /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-21.56.27:323][992]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMesh:AssetImportData
+[2025.03.05-21.56.27:323][992]LogSavePackage: Warning: 	SkeletalMesh /Game/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-21.56.27:323][992]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMesh:AssetImportData
+[2025.03.05-21.56.27:323][992]Warning: Can't save '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/Zombie/Warzombie_F_Pedroso_Auto1.uasset': Illegal reference to private object: 'InterchangeAssetImportData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:InterchangeAssetImportData_0' referenced by 'Warzombie_F_Pedroso' (at '/Game/Zombie/Warzombie_F_Pedroso') in its 'AssetImportData' property.
+[2025.03.05-21.57.25:615][168]LogDerivedDataCache: C:/Users/rawll/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.03.05-21.58.20:718][333]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8029.964844
+[2025.03.05-21.58.21:718][336]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.05-21.58.21:718][337]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8030.630859, Update Interval: 356.462280
+[2025.03.05-22.04.55:119][516]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8424.357422
+[2025.03.05-22.04.56:120][519]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.05-22.04.56:120][519]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8425.024414, Update Interval: 357.570129
+[2025.03.05-22.06.27:552][793]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.03.05-22.06.27:554][793]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/LV1' took 0.022
+[2025.03.05-22.06.27:555][793]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Zombie/Warzombie_F_Pedroso] ([1] browsable assets)...
+[2025.03.05-22.06.27:555][793]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie/Warzombie_F_Pedroso]
+[2025.03.05-22.06.27:556][793]LogSavePackage: Warning: 
+Referencers of SkeletalMeshDescriptionBulkData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:SkeletalMeshDescriptionBulkData_0:
+[2025.03.05-22.06.27:705][793]LogSavePackage: Warning: 	SkeletalMesh /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-22.06.27:705][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMeshSourceModel:MeshDescriptionBulkData
+[2025.03.05-22.06.27:705][793]LogSavePackage: Warning: 	SkeletalMesh /Game/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-22.06.27:705][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMeshSourceModel:MeshDescriptionBulkData
+[2025.03.05-22.06.27:705][793]LogSavePackage: Warning: 
+Referencers of InterchangeAssetImportData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:InterchangeAssetImportData_0:
+[2025.03.05-22.06.27:856][793]LogSavePackage: Warning: 	SkeletalMesh /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-22.06.27:856][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMesh:AssetImportData
+[2025.03.05-22.06.27:856][793]LogSavePackage: Warning: 	SkeletalMesh /Game/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-22.06.27:856][793]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMesh:AssetImportData
+[2025.03.05-22.06.27:856][793]Warning: Can't save '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/Zombie/Warzombie_F_Pedroso_Auto1.uasset': Illegal reference to private object: 'InterchangeAssetImportData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:InterchangeAssetImportData_0' referenced by 'Warzombie_F_Pedroso' (at '/Game/Zombie/Warzombie_F_Pedroso') in its 'AssetImportData' property.
+[2025.03.05-22.11.34:288][714]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8823.508789
+[2025.03.05-22.11.35:287][716]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.05-22.11.35:287][717]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8824.174805, Update Interval: 353.038116
+[2025.03.05-22.14.44:121][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.03.05-22.14.45:557][385]LogSlate: Window 'Save Content' being destroyed
+[2025.03.05-22.14.45:569][385]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.05-22.14.45:643][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/LV1" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/LV1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.05-22.14.45:698][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.03.05-22.14.45:819][385]LogSavePackage: Moving output files for package: /Game/Level/LV1
+[2025.03.05-22.14.45:820][385]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/LV176A0C41642F118204791C5B39CC5C707.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/LV1.umap'
+[2025.03.05-22.14.45:841][385]LogFileHelpers: Saving map 'LV1' took 0.200
+[2025.03.05-22.14.45:841][385]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MybluePrints/BP_Direction] ([2] browsable assets)...
+[2025.03.05-22.14.45:841][385]OBJ SavePackage: Finished generating thumbnails for package [/Game/MybluePrints/BP_Direction]
+[2025.03.05-22.14.45:841][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MybluePrints/BP_Direction" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/MybluePrints/BP_Direction.uasset" SILENT=true
+[2025.03.05-22.14.45:845][385]LogSavePackage: Moving output files for package: /Game/MybluePrints/BP_Direction
+[2025.03.05-22.14.45:847][385]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/BP_DirectionC4D3FE594A95A7CC11F365B156F2ED29.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/MybluePrints/BP_Direction.uasset'
+[2025.03.05-22.14.45:849][385]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MybluePrints/BP_Fire] ([2] browsable assets)...
+[2025.03.05-22.14.45:849][385]OBJ SavePackage: Finished generating thumbnails for package [/Game/MybluePrints/BP_Fire]
+[2025.03.05-22.14.45:849][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MybluePrints/BP_Fire" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/MybluePrints/BP_Fire.uasset" SILENT=true
+[2025.03.05-22.14.45:857][385]LogSavePackage: Moving output files for package: /Game/MybluePrints/BP_Fire
+[2025.03.05-22.14.45:857][385]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/BP_FireD892D5194944BF8CC91B9CAD59349E0C.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/MybluePrints/BP_Fire.uasset'
+[2025.03.05-22.14.45:859][385]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.03.05-22.14.45:859][385]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.03.05-22.14.45:876][385]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.03.05-22.14.45:877][385]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/BP_FirstPersonCharacter969359EC43C97ED4D59CB98D379C3088.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.03.05-22.14.45:879][385]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonGameMode] ([2] browsable assets)...
+[2025.03.05-22.14.45:879][385]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonGameMode]
+[2025.03.05-22.14.45:889][385]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonGameMode
+[2025.03.05-22.14.45:890][385]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/BP_FirstPersonGameModeA8692C144E4266ACDCE6FCB605C696FF.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset'
+[2025.03.05-22.14.45:891][385]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MybluePrints/BP_keyDoor3] ([2] browsable assets)...
+[2025.03.05-22.14.45:891][385]OBJ SavePackage: Finished generating thumbnails for package [/Game/MybluePrints/BP_keyDoor3]
+[2025.03.05-22.14.45:891][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MybluePrints/BP_keyDoor3" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/MybluePrints/BP_keyDoor3.uasset" SILENT=true
+[2025.03.05-22.14.45:899][385]LogSavePackage: Moving output files for package: /Game/MybluePrints/BP_keyDoor3
+[2025.03.05-22.14.45:899][385]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/BP_keyDoor3B98235574542D2BBC147E19514B6357F.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/MybluePrints/BP_keyDoor3.uasset'
+[2025.03.05-22.14.45:901][385]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Zombie/Warzombie_F_Pedroso] ([1] browsable assets)...
+[2025.03.05-22.14.45:901][385]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie/Warzombie_F_Pedroso]
+[2025.03.05-22.14.45:901][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Zombie/Warzombie_F_Pedroso" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Zombie/Warzombie_F_Pedroso.uasset" SILENT=true
+[2025.03.05-22.14.45:902][385]LogSavePackage: Warning: 
+Referencers of SkeletalMeshDescriptionBulkData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:SkeletalMeshDescriptionBulkData_0:
+[2025.03.05-22.14.46:054][385]LogSavePackage: Warning: 	SkeletalMesh /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-22.14.46:055][385]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMeshSourceModel:MeshDescriptionBulkData
+[2025.03.05-22.14.46:055][385]LogSavePackage: Warning: 	SkeletalMesh /Game/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-22.14.46:055][385]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMeshSourceModel:MeshDescriptionBulkData
+[2025.03.05-22.14.46:055][385]LogSavePackage: Warning: 
+Referencers of InterchangeAssetImportData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:InterchangeAssetImportData_0:
+[2025.03.05-22.14.46:205][385]LogSavePackage: Warning: 	SkeletalMesh /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-22.14.46:205][385]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMesh:AssetImportData
+[2025.03.05-22.14.46:205][385]LogSavePackage: Warning: 	SkeletalMesh /Game/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-22.14.46:205][385]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMesh:AssetImportData
+[2025.03.05-22.14.46:205][385]Warning: Can't save '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Zombie/Warzombie_F_Pedroso.uasset': Illegal reference to private object: 'InterchangeAssetImportData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:InterchangeAssetImportData_0' referenced by 'Warzombie_F_Pedroso' (at '/Game/Zombie/Warzombie_F_Pedroso') in its 'AssetImportData' property.
+[2025.03.05-22.14.47:857][385]LogSlate: Window 'Message' being destroyed
+[2025.03.05-22.14.47:865][385]Message dialog closed, result: Continue, title: Message, text: The asset '/Game/Zombie/Warzombie_F_Pedroso' (Warzombie_F_Pedroso.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2025.03.05-22.14.48:850][385]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2025.03.05-22.14.48:860][385]Message dialog closed, result: Ok, title: Packages Failed To Save, text: The following assets failed to save correctly:
+/Game/Zombie/Warzombie_F_Pedroso
+[2025.03.05-22.14.48:860][385]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.29 sec (total: 11.1 sec)
+[2025.03.05-22.14.48:941][385]LogContentValidation: Display: Starting to validate 6 assets
+[2025.03.05-22.14.48:941][385]LogContentValidation: Enabled validators:
+[2025.03.05-22.14.48:941][385]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.05-22.14.48:941][385]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.05-22.14.48:941][385]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.05-22.14.48:941][385]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.05-22.14.48:941][385]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.05-22.14.48:941][385]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.05-22.14.48:942][385]AssetCheck: /Game/Level/LV1 Validating asset
+[2025.03.05-22.14.48:942][385]AssetCheck: /Game/MybluePrints/BP_Direction Validating asset
+[2025.03.05-22.14.48:942][385]AssetCheck: /Game/MybluePrints/BP_Fire Validating asset
+[2025.03.05-22.14.48:942][385]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.03.05-22.14.48:942][385]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonGameMode Validating asset
+[2025.03.05-22.14.48:942][385]AssetCheck: /Game/MybluePrints/BP_keyDoor3 Validating asset
+[2025.03.05-22.14.50:294][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.03.05-22.14.51:364][450]LogSlate: Window 'Save Content' being destroyed
+[2025.03.05-22.14.51:378][450]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.05-22.14.51:443][450]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Zombie/Warzombie_F_Pedroso] ([1] browsable assets)...
+[2025.03.05-22.14.51:443][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie/Warzombie_F_Pedroso]
+[2025.03.05-22.14.51:443][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Zombie/Warzombie_F_Pedroso" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Zombie/Warzombie_F_Pedroso.uasset" SILENT=true
+[2025.03.05-22.14.51:444][450]LogSavePackage: Warning: 
+Referencers of SkeletalMeshDescriptionBulkData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:SkeletalMeshDescriptionBulkData_0:
+[2025.03.05-22.14.51:593][450]LogSavePackage: Warning: 	SkeletalMesh /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-22.14.51:593][450]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMeshSourceModel:MeshDescriptionBulkData
+[2025.03.05-22.14.51:593][450]LogSavePackage: Warning: 	SkeletalMesh /Game/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-22.14.51:593][450]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMeshSourceModel:MeshDescriptionBulkData
+[2025.03.05-22.14.51:593][450]LogSavePackage: Warning: 
+Referencers of InterchangeAssetImportData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:InterchangeAssetImportData_0:
+[2025.03.05-22.14.51:734][450]LogSavePackage: Warning: 	SkeletalMesh /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-22.14.51:734][450]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMesh:AssetImportData
+[2025.03.05-22.14.51:734][450]LogSavePackage: Warning: 	SkeletalMesh /Game/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-22.14.51:734][450]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMesh:AssetImportData
+[2025.03.05-22.14.51:734][450]Warning: Can't save '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Zombie/Warzombie_F_Pedroso.uasset': Illegal reference to private object: 'InterchangeAssetImportData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:InterchangeAssetImportData_0' referenced by 'Warzombie_F_Pedroso' (at '/Game/Zombie/Warzombie_F_Pedroso') in its 'AssetImportData' property.
+[2025.03.05-22.14.53:790][450]LogSlate: Window 'Message' being destroyed
+[2025.03.05-22.14.53:797][450]Message dialog closed, result: Retry, title: Message, text: The asset '/Game/Zombie/Warzombie_F_Pedroso' (Warzombie_F_Pedroso.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2025.03.05-22.14.53:798][450]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Zombie/Warzombie_F_Pedroso] ([1] browsable assets)...
+[2025.03.05-22.14.53:798][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie/Warzombie_F_Pedroso]
+[2025.03.05-22.14.53:798][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Zombie/Warzombie_F_Pedroso" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Zombie/Warzombie_F_Pedroso.uasset" SILENT=true
+[2025.03.05-22.14.53:800][450]LogSavePackage: Warning: 
+Referencers of SkeletalMeshDescriptionBulkData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:SkeletalMeshDescriptionBulkData_0:
+[2025.03.05-22.14.53:951][450]LogSavePackage: Warning: 	SkeletalMesh /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-22.14.53:951][450]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMeshSourceModel:MeshDescriptionBulkData
+[2025.03.05-22.14.53:951][450]LogSavePackage: Warning: 	SkeletalMesh /Game/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-22.14.53:951][450]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMeshSourceModel:MeshDescriptionBulkData
+[2025.03.05-22.14.53:951][450]LogSavePackage: Warning: 
+Referencers of InterchangeAssetImportData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:InterchangeAssetImportData_0:
+[2025.03.05-22.14.54:095][450]LogSavePackage: Warning: 	SkeletalMesh /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-22.14.54:095][450]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMesh:AssetImportData
+[2025.03.05-22.14.54:095][450]LogSavePackage: Warning: 	SkeletalMesh /Game/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-22.14.54:095][450]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMesh:AssetImportData
+[2025.03.05-22.14.54:095][450]Warning: Can't save '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Zombie/Warzombie_F_Pedroso.uasset': Illegal reference to private object: 'InterchangeAssetImportData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:InterchangeAssetImportData_0' referenced by 'Warzombie_F_Pedroso' (at '/Game/Zombie/Warzombie_F_Pedroso') in its 'AssetImportData' property.
+[2025.03.05-22.14.59:856][450]LogSlate: Window 'Message' being destroyed
+[2025.03.05-22.14.59:865][450]Message dialog closed, result: Retry, title: Message, text: The asset '/Game/Zombie/Warzombie_F_Pedroso' (Warzombie_F_Pedroso.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2025.03.05-22.14.59:865][450]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Zombie/Warzombie_F_Pedroso] ([1] browsable assets)...
+[2025.03.05-22.14.59:865][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie/Warzombie_F_Pedroso]
+[2025.03.05-22.14.59:865][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Zombie/Warzombie_F_Pedroso" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Zombie/Warzombie_F_Pedroso.uasset" SILENT=true
+[2025.03.05-22.14.59:869][450]LogSavePackage: Warning: 
+Referencers of SkeletalMeshDescriptionBulkData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:SkeletalMeshDescriptionBulkData_0:
+[2025.03.05-22.15.00:018][450]LogSavePackage: Warning: 	SkeletalMesh /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-22.15.00:018][450]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMeshSourceModel:MeshDescriptionBulkData
+[2025.03.05-22.15.00:018][450]LogSavePackage: Warning: 	SkeletalMesh /Game/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-22.15.00:018][450]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMeshSourceModel:MeshDescriptionBulkData
+[2025.03.05-22.15.00:018][450]LogSavePackage: Warning: 
+Referencers of InterchangeAssetImportData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:InterchangeAssetImportData_0:
+[2025.03.05-22.15.00:160][450]LogSavePackage: Warning: 	SkeletalMesh /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-22.15.00:160][450]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMesh:AssetImportData
+[2025.03.05-22.15.00:160][450]LogSavePackage: Warning: 	SkeletalMesh /Game/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-22.15.00:160][450]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMesh:AssetImportData
+[2025.03.05-22.15.00:160][450]Warning: Can't save '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Zombie/Warzombie_F_Pedroso.uasset': Illegal reference to private object: 'InterchangeAssetImportData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:InterchangeAssetImportData_0' referenced by 'Warzombie_F_Pedroso' (at '/Game/Zombie/Warzombie_F_Pedroso') in its 'AssetImportData' property.
+[2025.03.05-22.15.00:811][450]LogSlate: Window 'Message' being destroyed
+[2025.03.05-22.15.00:819][450]Message dialog closed, result: Continue, title: Message, text: The asset '/Game/Zombie/Warzombie_F_Pedroso' (Warzombie_F_Pedroso.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2025.03.05-22.15.01:936][450]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2025.03.05-22.15.01:945][450]Message dialog closed, result: Ok, title: Packages Failed To Save, text: The following assets failed to save correctly:
+/Game/Zombie/Warzombie_F_Pedroso
+[2025.03.05-22.15.01:945][450]LogFileHelpers: InternalPromptForCheckoutAndSave took 10.5 sec (total: 21.6 sec)
+[2025.03.05-22.15.08:260][774]LogSlate: Window 'PlayerHP' being destroyed
+[2025.03.05-22.15.08:277][774]LogSlate: Window 'PlayerHP' being destroyed
+[2025.03.05-22.15.08:286][774]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-22.15.08:286][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-22.15.08:455][774]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-22.15.08:455][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-22.15.08:602][774]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-22.15.08:602][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-22.15.08:613][774]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-22.15.08:613][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-22.15.08:682][774]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.05-22.15.08:682][774]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-22.15.08:682][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-22.15.08:756][774]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-22.15.08:756][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-22.15.08:765][774]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-22.15.08:765][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-22.15.08:845][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.03.05-22.15.10:830][889]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.03.05-22.15.11:607][889]LogSlate: Window 'Save Content' being destroyed
+[2025.03.05-22.15.11:620][889]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.05-22.15.11:692][889]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Zombie/Warzombie_F_Pedroso] ([1] browsable assets)...
+[2025.03.05-22.15.11:693][889]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie/Warzombie_F_Pedroso]
+[2025.03.05-22.15.11:693][889]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Zombie/Warzombie_F_Pedroso" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Zombie/Warzombie_F_Pedroso.uasset" SILENT=true
+[2025.03.05-22.15.11:694][889]LogSavePackage: Warning: 
+Referencers of SkeletalMeshDescriptionBulkData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:SkeletalMeshDescriptionBulkData_0:
+[2025.03.05-22.15.11:840][889]LogSavePackage: Warning: 	SkeletalMesh /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-22.15.11:840][889]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMeshSourceModel:MeshDescriptionBulkData
+[2025.03.05-22.15.11:840][889]LogSavePackage: Warning: 	SkeletalMesh /Game/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-22.15.11:840][889]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMeshSourceModel:MeshDescriptionBulkData
+[2025.03.05-22.15.11:840][889]LogSavePackage: Warning: 
+Referencers of InterchangeAssetImportData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:InterchangeAssetImportData_0:
+[2025.03.05-22.15.11:981][889]LogSavePackage: Warning: 	SkeletalMesh /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-22.15.11:981][889]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMesh:AssetImportData
+[2025.03.05-22.15.11:981][889]LogSavePackage: Warning: 	SkeletalMesh /Game/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-22.15.11:981][889]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMesh:AssetImportData
+[2025.03.05-22.15.11:981][889]Warning: Can't save '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Zombie/Warzombie_F_Pedroso.uasset': Illegal reference to private object: 'InterchangeAssetImportData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:InterchangeAssetImportData_0' referenced by 'Warzombie_F_Pedroso' (at '/Game/Zombie/Warzombie_F_Pedroso') in its 'AssetImportData' property.
+[2025.03.05-22.15.15:314][889]LogSlate: Window 'Message' being destroyed
+[2025.03.05-22.15.15:321][889]Message dialog closed, result: Cancel, title: Message, text: The asset '/Game/Zombie/Warzombie_F_Pedroso' (Warzombie_F_Pedroso.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2025.03.05-22.15.15:341][889]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.72 sec (total: 25.3 sec)
+[2025.03.05-22.15.20:641][185]LogSlate: Window 'Project Settings' being destroyed
+[2025.03.05-22.15.20:644][185]LogSlate: Window 'Project Settings' being destroyed
+[2025.03.05-22.15.23:439][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.03.05-22.15.25:326][220]LogSlate: Window 'Save Content' being destroyed
+[2025.03.05-22.15.25:342][220]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.05-22.15.25:415][220]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Zombie/Warzombie_F_Pedroso] ([1] browsable assets)...
+[2025.03.05-22.15.25:415][220]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie/Warzombie_F_Pedroso]
+[2025.03.05-22.15.25:415][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Zombie/Warzombie_F_Pedroso" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Zombie/Warzombie_F_Pedroso.uasset" SILENT=true
+[2025.03.05-22.15.25:416][220]LogSavePackage: Warning: 
+Referencers of SkeletalMeshDescriptionBulkData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:SkeletalMeshDescriptionBulkData_0:
+[2025.03.05-22.15.25:563][220]LogSavePackage: Warning: 	SkeletalMesh /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-22.15.25:563][220]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMeshSourceModel:MeshDescriptionBulkData
+[2025.03.05-22.15.25:563][220]LogSavePackage: Warning: 	SkeletalMesh /Game/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-22.15.25:563][220]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMeshSourceModel:MeshDescriptionBulkData
+[2025.03.05-22.15.25:563][220]LogSavePackage: Warning: 
+Referencers of InterchangeAssetImportData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:InterchangeAssetImportData_0:
+[2025.03.05-22.15.25:706][220]LogSavePackage: Warning: 	SkeletalMesh /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-22.15.25:706][220]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMesh:AssetImportData
+[2025.03.05-22.15.25:706][220]LogSavePackage: Warning: 	SkeletalMesh /Game/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso (1 refs)
+[2025.03.05-22.15.25:706][220]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMesh:AssetImportData
+[2025.03.05-22.15.25:706][220]Warning: Can't save '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Zombie/Warzombie_F_Pedroso.uasset': Illegal reference to private object: 'InterchangeAssetImportData /Game/Characters/Zombie/Warzombie_F_Pedroso.Warzombie_F_Pedroso:InterchangeAssetImportData_0' referenced by 'Warzombie_F_Pedroso' (at '/Game/Zombie/Warzombie_F_Pedroso') in its 'AssetImportData' property.
+[2025.03.05-22.15.27:147][220]LogSlate: Window 'Message' being destroyed
+[2025.03.05-22.15.27:155][220]Message dialog closed, result: Cancel, title: Message, text: The asset '/Game/Zombie/Warzombie_F_Pedroso' (Warzombie_F_Pedroso.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2025.03.05-22.15.27:175][220]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.83 sec (total: 27.2 sec)
+[2025.03.05-22.15.28:676][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.03.05-22.15.34:288][297]LogSlate: Window 'Save Content' being destroyed
+[2025.03.05-22.15.34:362][297]LogStall: Shutdown...
+[2025.03.05-22.15.34:362][297]LogStall: Shutdown complete.
+[2025.03.05-22.15.34:421][297]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.05-22.15.34:421][297]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-22.15.34:421][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-22.15.34:568][297]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.05-22.15.34:568][297]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-22.15.34:568][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-22.15.34:725][297]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.05-22.15.34:725][297]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-22.15.34:725][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-22.15.34:844][297]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.05-22.15.34:844][297]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-22.15.34:844][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-22.15.34:965][297]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.05-22.15.34:965][297]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-22.15.34:965][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-22.15.35:075][297]LogSlate: Window 'EscapeRoom - Unreal Editor' being destroyed
+[2025.03.05-22.15.35:078][297]LogWindowsTextInputMethodSystem: Activated input method: English (Canada) - (Keyboard).
+[2025.03.05-22.15.35:461][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.03.05-22.15.35:503][297]Cmd: QUIT_EDITOR
+[2025.03.05-22.15.35:503][297]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.03.05-22.15.35:514][298]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.03.05-22.15.35:516][298]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.03.05-22.15.35:516][298]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.03.05-22.15.35:532][298]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-22.15.35:532][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-22.15.35:553][298]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.03.05-22.15.35:559][298]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.03.05-22.15.35:570][298]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-22.15.35:570][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-22.15.35:575][298]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-22.15.35:575][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-22.15.35:578][298]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-22.15.35:578][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-22.15.35:582][298]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-22.15.35:582][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-22.15.35:585][298]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-22.15.35:586][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-22.15.35:589][298]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-22.15.35:590][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-22.15.35:593][298]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-22.15.35:593][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-22.15.35:596][298]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-22.15.35:596][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-22.15.35:599][298]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-22.15.35:599][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-22.15.35:603][298]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-22.15.35:603][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-22.15.35:608][298]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-22.15.35:608][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-22.15.35:611][298]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-22.15.35:611][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-22.15.35:614][298]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-22.15.35:614][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-22.15.35:617][298]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-22.15.35:617][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-22.15.35:620][298]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-22.15.35:620][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-22.15.35:623][298]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-22.15.35:623][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-22.15.35:627][298]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-22.15.35:627][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-22.15.35:630][298]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-22.15.35:630][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-22.15.35:633][298]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-22.15.35:633][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-22.15.35:636][298]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-22.15.35:636][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-22.15.35:640][298]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-22.15.35:640][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-22.15.35:643][298]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-22.15.35:643][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-22.15.35:647][298]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-22.15.35:647][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-22.15.35:650][298]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-22.15.35:650][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-22.15.35:654][298]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-22.15.35:654][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-22.15.35:658][298]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-22.15.35:658][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-22.15.35:662][298]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-22.15.35:662][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-22.15.35:667][298]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-22.15.35:667][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-22.15.35:672][298]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-22.15.35:672][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-22.15.35:684][298]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.03.05-22.15.35:689][298]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.03.05-22.15.35:690][298]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.03.05-22.15.35:690][298]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.03.05-22.15.36:479][298]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.03.05-22.15.36:479][298]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.03.05-22.15.36:479][298]LogAudio: Display: Audio Device unregistered from world 'LV1'.
+[2025.03.05-22.15.36:479][298]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.03.05-22.15.36:480][298]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.03.05-22.15.36:482][298]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.03.05-22.15.36:496][298]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.03.05-22.15.36:496][298]LogAudio: Display: Audio Device Manager Shutdown
+[2025.03.05-22.15.36:501][298]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.03.05-22.15.36:502][298]LogExit: Preparing to exit.
+[2025.03.05-22.15.36:566][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.03.05-22.15.36:571][298]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.05-22.15.36:571][298]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.05-22.15.36:577][298]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.05-22.15.36:579][298]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.05-22.15.36:579][298]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.05-22.15.36:579][298]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.05-22.15.36:579][298]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.05-22.15.36:579][298]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.05-22.15.36:579][298]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.05-22.15.36:579][298]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.05-22.15.36:579][298]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.05-22.15.36:579][298]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.05-22.15.36:580][298]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.05-22.15.36:580][298]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.05-22.15.36:580][298]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.05-22.15.36:580][298]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.05-22.15.36:580][298]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.05-22.15.36:580][298]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.05-22.15.36:580][298]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.05-22.15.36:580][298]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.05-22.15.36:580][298]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.05-22.15.37:002][298]LogEditorDataStorage: Deinitializing
+[2025.03.05-22.15.37:491][298]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.03.05-22.15.37:624][298]LogExit: Editor shut down
+[2025.03.05-22.15.37:655][298]LogExit: Transaction tracking system shut down
+[2025.03.05-22.15.38:736][298]LogCore: Error: PropertyBag: Expecting RefCount to be zero on destructor, but it is 6.
+[2025.03.05-22.15.38:790][298]LogExit: Object subsystem successfully closed.
+[2025.03.05-22.15.38:904][298]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.03.05-22.15.39:545][298]LogMemoryProfiler: Shutdown
+[2025.03.05-22.15.39:546][298]LogNetworkingProfiler: Shutdown
+[2025.03.05-22.15.39:546][298]LoadingProfiler: Shutdown
+[2025.03.05-22.15.39:546][298]LogTimingProfiler: Shutdown
+[2025.03.05-22.15.40:415][298]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.03.05-22.15.40:450][298]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 2 outstanding Http Requests:
+[2025.03.05-22.15.40:450][298]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6A4C5C98-4025-B86E-B83D-7495F888B837%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.1-38445549%2B%2B%2BUE5%2BRelease-5.5&UserID=5b698278432ff5877ecbf48986573c17%7C2733f450d3744c1a8e8dc29c017c8fc9%7C912d7f75-cfdc-4077-8011-62252d4e5860&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[3] status=Processing
+[2025.03.05-22.15.40:450][298]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6A4C5C98-4025-B86E-B83D-7495F888B837%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.1-38445549%2B%2B%2BUE5%2BRelease-5.5&UserID=5b698278432ff5877ecbf48986573c17%7C2733f450d3744c1a8e8dc29c017c8fc9%7C912d7f75-cfdc-4077-8011-62252d4e5860&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.03.05-22.15.41:083][298]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.03.05-22.15.41:096][298]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.03.05-22.15.41:097][298]LogNFORDenoise: NFORDenoise function shutting down
+[2025.03.05-22.15.41:098][298]RenderDocPlugin: plugin has been unloaded.
+[2025.03.05-22.15.41:113][298]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.03.05-22.15.41:113][298]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.03.05-22.15.41:114][298]LogPakFile: Destroying PakPlatformFile
+[2025.03.05-22.15.41:598][298]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.03.05-22.15.41:647][298]LogExit: Exiting.
+[2025.03.05-22.15.41:681][298]Log file closed, 03/05/25 17:15:41
