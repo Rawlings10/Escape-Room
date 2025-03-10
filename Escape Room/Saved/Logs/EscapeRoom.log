@@ -2364,3 +2364,730 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.03.10-03.22.35:658][717]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.03.10-03.22.35:659][717]AssetCheck: /Game/Level/LV1 Validating asset
 [2025.03.10-03.22.35:659][717]AssetCheck: /Game/MybluePrints/BP_Fire Validating asset
+[2025.03.10-03.24.39:640][610]Cmd: DELETE
+[2025.03.10-03.24.39:640][610]Cmd: ACTOR DELETE
+[2025.03.10-03.24.39:652][610]LogEditorActor: Deleted Actor: BP_Direction_C
+[2025.03.10-03.24.39:682][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.03.10-03.24.39:689][610]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2025.03.10-03.24.43:084][809]Cmd: DELETE
+[2025.03.10-03.24.43:084][809]Cmd: ACTOR DELETE
+[2025.03.10-03.24.43:097][809]LogEditorActor: Deleted Actor: BP_Direction_C
+[2025.03.10-03.24.43:122][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.03.10-03.24.43:126][809]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2025.03.10-03.25.13:650][620]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3919.064697
+[2025.03.10-03.25.13:748][626]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-03.25.13:748][626]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3919.146973, Update Interval: 340.914337
+[2025.03.10-03.29.21:811][440]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.03.10-03.30.33:733][707]LogStreaming: Display: FlushAsyncLoading(541): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.10-03.31.10:701][837]LogStreaming: Display: FlushAsyncLoading(543): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.10-03.31.26:339][709]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Level/_GENERATED/rawll/Path_A2A38882.Path_A2A38882
+[2025.03.10-03.31.26:340][709]LogStaticMesh: Display: Building static mesh Path_A2A38882 (Required Memory Estimate: 0.098213 MB)...
+[2025.03.10-03.31.26:341][709]LogActorFactory: Actor Factory spawned StaticMesh /Game/Level/_GENERATED/rawll/Path_A2A38882.Path_A2A38882 as actor: StaticMeshActor /Game/Level/LV1.LV1:PersistentLevel.StaticMeshActor_4
+[2025.03.10-03.31.26:345][709]LogStaticMesh: Built static mesh [0.01s] /Game/Level/_GENERATED/rawll/Path_A2A38882.Path_A2A38882
+[2025.03.10-03.31.34:313][161]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4299.722656
+[2025.03.10-03.31.34:413][167]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-03.31.34:413][167]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4299.805664, Update Interval: 354.199036
+[2025.03.10-03.32.13:496][349]LogShaderCompilers: Display: ================================================
+[2025.03.10-03.32.13:496][349]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.10-03.32.13:496][349]LogShaderCompilers: Display: Total job queries 469, among them cache hits 140 (29.85%), DDC hits 320 (68.23%), Duplicates 2 (0.43%)
+[2025.03.10-03.32.13:496][349]LogShaderCompilers: Display: Tracking 327 distinct input hashes that result in 253 distinct outputs (77.37%)
+[2025.03.10-03.32.13:496][349]LogShaderCompilers: Display: RAM used: 154.51 KiB of 819.20 MiB budget. Usage: 0.02%
+[2025.03.10-03.32.13:496][349]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.10-03.32.13:496][349]LogShaderCompilers: Display: Shaders Compiled: 7
+[2025.03.10-03.32.13:496][349]LogShaderCompilers: Display: Jobs assigned 7, completed 7 (100%)
+[2025.03.10-03.32.13:496][349]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.15 s
+[2025.03.10-03.32.13:496][349]LogShaderCompilers: Display: Job execution time: average 2.29 s, max 2.76 s
+[2025.03.10-03.32.13:496][349]LogShaderCompilers: Display: Job life time (pending + execution): average 2.32 s, max 2.92
+[2025.03.10-03.32.13:496][349]LogShaderCompilers: Display: Shader code size: average 6.99 KiB, min 2.691 KiB, max 12.18 KiB
+[2025.03.10-03.32.13:496][349]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.93 s
+[2025.03.10-03.32.13:496][349]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2025.03.10-03.32.13:496][349]LogShaderCompilers: Display: Jobs were issued in 7 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.03.10-03.32.13:496][349]LogShaderCompilers: Display: Average processing rate: 2.39 jobs/sec
+[2025.03.10-03.32.13:497][349]LogShaderCompilers: Display: Total thread time: 5.26 s
+[2025.03.10-03.32.13:497][349]LogShaderCompilers: Display: Total thread preprocess time: 8.194 s
+[2025.03.10-03.32.13:497][349]LogShaderCompilers: Display: Percentage time preprocessing: 155.78%
+[2025.03.10-03.32.13:497][349]LogShaderCompilers: Display: Effective parallelization: 1.80 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.03.10-03.32.13:497][349]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.10-03.32.13:497][349]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.99 sec, max 0.99 sec, min 0.99 sec)
+[2025.03.10-03.32.13:497][349]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 0.80 sec, max 0.80 sec, min 0.80 sec)
+[2025.03.10-03.32.13:497][349]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.77 sec, max 0.77 sec, min 0.77 sec)
+[2025.03.10-03.32.13:497][349]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 0.68 sec, max 0.68 sec, min 0.68 sec)
+[2025.03.10-03.32.13:497][349]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.65 sec, max 0.65 sec, min 0.65 sec)
+[2025.03.10-03.32.13:497][349]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.10-03.32.13:497][349]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.73% of total time (compiled    1 times, average 0.99 sec, max 0.99 sec, min 0.99 sec)
+[2025.03.10-03.32.13:497][349]LogShaderCompilers: Display:                                                  FVelocityPS - 15.25% of total time (compiled    1 times, average 0.80 sec, max 0.80 sec, min 0.80 sec)
+[2025.03.10-03.32.13:497][349]LogShaderCompilers: Display:                                                  FHitProxyPS - 14.57% of total time (compiled    1 times, average 0.77 sec, max 0.77 sec, min 0.77 sec)
+[2025.03.10-03.32.13:497][349]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 12.87% of total time (compiled    1 times, average 0.68 sec, max 0.68 sec, min 0.68 sec)
+[2025.03.10-03.32.13:497][349]LogShaderCompilers: Display:                                                  FHitProxyVS - 12.32% of total time (compiled    1 times, average 0.65 sec, max 0.65 sec, min 0.65 sec)
+[2025.03.10-03.32.13:497][349]LogShaderCompilers: Display: === Material stats ===
+[2025.03.10-03.32.13:497][349]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.03.10-03.32.13:497][349]LogShaderCompilers: Display: Materials Translated:    187
+[2025.03.10-03.32.13:497][349]LogShaderCompilers: Display: Material Total Translate Time: 0.22 s
+[2025.03.10-03.32.13:497][349]LogShaderCompilers: Display: Material Translation Only: 0.08 s (35%)
+[2025.03.10-03.32.13:497][349]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.03.10-03.32.13:497][349]LogShaderCompilers: Display: Material Cache Hits: 37 (20%)
+[2025.03.10-03.32.13:497][349]LogShaderCompilers: Display: ================================================
+[2025.03.10-03.34.33:193][413]Cmd: DELETE
+[2025.03.10-03.34.33:193][413]Cmd: ACTOR DELETE
+[2025.03.10-03.34.33:207][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.10-03.34.33:260][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.03.10-03.34.33:263][413]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2025.03.10-03.35.02:539][975]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.03.10-03.36.48:912][ 66]LogContentBrowser: Deferred new asset file creation: BP_parent_Inst1
+[2025.03.10-03.36.48:926][ 66]LogContentBrowser: Creating deferred item: BP_parent_Inst1
+[2025.03.10-03.36.48:949][ 67]LogContentBrowser: Renaming the item being created (Deferred Item: BP_parent_Inst1).
+[2025.03.10-03.36.49:863][122]LogContentBrowser: Attempting asset rename: BP_parent_Inst1 -> BP_parent_Inst1
+[2025.03.10-03.36.49:865][122]LogContentBrowser: End creating deferred item BP_parent_Inst1
+[2025.03.10-03.36.53:053][294]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/BP_parent_Inst1.BP_parent_Inst1
+[2025.03.10-03.36.53:060][294]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png' error.
+[2025.03.10-03.36.53:060][294]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png
+[2025.03.10-03.36.53:060][294]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png' error.
+[2025.03.10-03.36.53:060][294]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png
+[2025.03.10-03.36.53:060][294]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png' error.
+[2025.03.10-03.36.53:060][294]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png
+[2025.03.10-03.36.53:060][294]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png' error.
+[2025.03.10-03.36.53:060][294]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png
+[2025.03.10-03.36.53:060][294]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png' error.
+[2025.03.10-03.36.53:060][294]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png
+[2025.03.10-03.36.53:060][294]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png' error.
+[2025.03.10-03.36.53:060][294]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png
+[2025.03.10-03.36.53:060][294]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png' error.
+[2025.03.10-03.36.53:060][294]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png
+[2025.03.10-03.36.53:060][294]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png' error.
+[2025.03.10-03.36.53:060][294]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png
+[2025.03.10-03.36.53:060][294]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png' error.
+[2025.03.10-03.36.53:060][294]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png' error.
+[2025.03.10-03.36.53:060][294]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png
+[2025.03.10-03.36.53:060][294]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png
+[2025.03.10-03.36.53:060][294]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png' error.
+[2025.03.10-03.36.53:060][294]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png
+[2025.03.10-03.36.53:060][294]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png' error.
+[2025.03.10-03.36.53:060][294]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png
+[2025.03.10-03.36.53:060][294]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png' error.
+[2025.03.10-03.36.53:060][294]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png
+[2025.03.10-03.36.53:060][294]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png' error.
+[2025.03.10-03.36.53:060][294]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png' error.
+[2025.03.10-03.36.53:060][294]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png
+[2025.03.10-03.36.53:060][294]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png
+[2025.03.10-03.36.53:060][294]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png' error.
+[2025.03.10-03.36.53:060][294]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png
+[2025.03.10-03.36.53:060][294]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png' error.
+[2025.03.10-03.36.53:060][294]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png
+[2025.03.10-03.36.53:060][294]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png' error.
+[2025.03.10-03.36.53:060][294]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png
+[2025.03.10-03.36.53:060][294]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png' error.
+[2025.03.10-03.36.53:060][294]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png
+[2025.03.10-03.36.53:060][294]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png' error.
+[2025.03.10-03.36.53:060][294]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png
+[2025.03.10-03.36.53:060][294]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png' error.
+[2025.03.10-03.36.53:060][294]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png
+[2025.03.10-03.36.53:060][294]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png' error.
+[2025.03.10-03.36.53:060][294]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png
+[2025.03.10-03.36.53:060][294]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png' error.
+[2025.03.10-03.36.53:060][294]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png
+[2025.03.10-03.36.53:060][294]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png' error.
+[2025.03.10-03.36.53:060][294]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png' error.
+[2025.03.10-03.36.53:060][294]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png
+[2025.03.10-03.36.53:060][294]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png
+[2025.03.10-03.36.53:060][294]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png' error.
+[2025.03.10-03.36.53:060][294]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png
+[2025.03.10-03.36.53:060][294]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png' error.
+[2025.03.10-03.36.53:060][294]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png
+[2025.03.10-03.36.53:060][294]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png' error.
+[2025.03.10-03.36.53:060][294]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png
+[2025.03.10-03.36.53:076][294]LogChaosDD: Creating Chaos Debug Draw Scene for world World_18
+[2025.03.10-03.36.53:082][294]LogStreaming: Display: FlushAsyncLoading(544): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.10-03.37.28:107][876]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.10-03.37.51:310][955]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.10-03.37.57:914][264]LogSlate: Window 'BP_parent_Inst1' being destroyed
+[2025.03.10-03.37.57:926][264]LogSlate: Window 'BP_parent_Inst1' being destroyed
+[2025.03.10-03.37.57:974][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.03.10-03.37.58:175][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.03.10-03.37.59:618][335]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4685.051270
+[2025.03.10-03.37.59:721][341]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-03.37.59:721][341]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4685.137695, Update Interval: 349.421661
+[2025.03.10-03.39.09:733][266]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2025.03.10-03.39.09:733][266]LogConfig: Set CVar [[r.SkeletalMeshLODBias:0]]
+[2025.03.10-03.39.09:733][266]LogConfig: Set CVar [[r.ViewDistanceScale:1.0]]
+[2025.03.10-03.39.09:733][266]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2025.03.10-03.39.09:733][266]LogConfig: Set CVar [[r.FXAA.Quality:4]]
+[2025.03.10-03.39.09:733][266]LogConfig: Set CVar [[r.TemporalAA.Quality:2]]
+[2025.03.10-03.39.09:733][266]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:200]]
+[2025.03.10-03.39.09:733][266]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:3]]
+[2025.03.10-03.39.09:733][266]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:1]]
+[2025.03.10-03.39.09:733][266]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:2]]
+[2025.03.10-03.39.09:733][266]LogConfig: Set CVar [[r.TSR.ReprojectionField:1]]
+[2025.03.10-03.39.09:733][266]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2025.03.10-03.39.09:733][266]LogConfig: Set CVar [[r.ShadowQuality:5]]
+[2025.03.10-03.39.09:733][266]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2025.03.10-03.39.09:733][266]LogConfig: Set CVar [[r.Shadow.MaxResolution:2048]]
+[2025.03.10-03.39.09:734][266]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2025.03.10-03.39.09:734][266]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2025.03.10-03.39.09:734][266]LogConfig: Set CVar [[r.Shadow.DistanceScale:1.0]]
+[2025.03.10-03.39.09:734][266]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2025.03.10-03.39.09:734][266]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2025.03.10-03.39.09:734][266]LogConfig: Set CVar [[r.DistanceFieldShadowing:1]]
+[2025.03.10-03.39.09:734][266]LogConfig: Set CVar [[r.VolumetricFog:1]]
+[2025.03.10-03.39.09:734][266]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:1]]
+[2025.03.10-03.39.09:734][266]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:4096]]
+[2025.03.10-03.39.09:734][266]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:-1.5]]
+[2025.03.10-03.39.09:734][266]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:-1.5]]
+[2025.03.10-03.39.09:734][266]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:0.0]]
+[2025.03.10-03.39.09:734][266]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:1.0]]
+[2025.03.10-03.39.09:734][266]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:8]]
+[2025.03.10-03.39.09:734][266]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:4]]
+[2025.03.10-03.39.09:734][266]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:8]]
+[2025.03.10-03.39.09:734][266]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:4]]
+[2025.03.10-03.39.09:734][266]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2025.03.10-03.39.09:734][266]LogConfig: Set CVar [[r.AOQuality:2]]
+[2025.03.10-03.39.09:734][266]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:1]]
+[2025.03.10-03.39.09:734][266]LogConfig: Set CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.RayTracing.Scene.BuildMode:1]]
+[2025.03.10-03.39.09:735][266]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.SSR.Quality:3]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:0]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:1]]
+[2025.03.10-03.39.09:735][266]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.MotionBlurQuality:4]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:0]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.DepthOfFieldQuality:2]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.RenderTargetPoolMin:400]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.LensFlareQuality:2]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.SceneColorFringeQuality:1]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.BloomQuality:5]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:50.000]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.FastBlurThreshold:100]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.Upscale.Quality:3]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.LightShaftQuality:1]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.Filter.SizeScale:1]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.Tonemapper.Quality:5]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2025.03.10-03.39.09:735][266]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.Streaming.MipBias:0]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.MaxAnisotropy:8]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.VT.MaxAnisotropy:8]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.Streaming.PoolSize:1000]]
+[2025.03.10-03.39.09:735][266]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.RefractionQuality:2]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.SceneColorFormat:4]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.DetailMode:3]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:1]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.SSS.Scale:1]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.SSS.SampleSet:2]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.SSS.Quality:1]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.SSS.HalfRes:0]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.SSGI.Quality:3]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.EmitterSpawnRateScale:1.0]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.ParticleLightQuality:2]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[fx.Niagara.QualityLevel:3]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.HeterogeneousVolumes.DownsampleFactor:1]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.HeterogeneousVolumes.MaxStepCount:512]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.HeterogeneousVolumes.Shadows.Resolution:512]]
+[2025.03.10-03.39.09:735][266]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[foliage.DensityScale:1.0]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[grass.DensityScale:1.0]]
+[2025.03.10-03.39.09:735][266]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2025.03.10-03.39.09:735][266]LogConfig: Set CVar [[r.AnisotropicMaterials:1]]
+[2025.03.10-03.39.09:735][266]LogConfig: Applying CVar settings from Section [LandscapeQuality@3] File [Scalability]
+[2025.03.10-03.39.09:769][266]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.03.10-03.39.09:890][267]LogContentStreaming: Texture pool size now 1000 MB
+[2025.03.10-03.39.09:890][267]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="1000"
+[2025.03.10-03.39.10:025][267]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2025.03.10-03.39.10:484][267]LogD3D12RHI: Creating RTPSO with 21 shaders (0 cached, 21 new) took 153.55 ms. Compile time 36.90 ms, link time 116.53 ms.
+[2025.03.10-03.39.16:891][280]LogRenderer: Warning: Building light grid exceeded number of available entries (638628 / 630784). Increase r.Forward.MaxCulledLightsPerCell to prevent potential visual artifacts.
+[2025.03.10-03.39.16:891][280]LogRenderer: Warning: Building light grid exceeded number of available links, glitches will be visible (638628 / 630784).
+[2025.03.10-03.40.04:974][584]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [Scalability]
+[2025.03.10-03.40.04:974][584]LogConfig: Set CVar [[r.ViewDistanceScale:0.8]]
+[2025.03.10-03.40.04:974][584]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [Scalability]
+[2025.03.10-03.40.04:974][584]LogConfig: Set CVar [[r.FXAA.Quality:3]]
+[2025.03.10-03.40.04:974][584]LogConfig: Set CVar [[r.TemporalAA.Quality:1]]
+[2025.03.10-03.40.04:974][584]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:100]]
+[2025.03.10-03.40.04:974][584]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:2]]
+[2025.03.10-03.40.04:974][584]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:1]]
+[2025.03.10-03.40.04:974][584]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [Scalability]
+[2025.03.10-03.40.04:974][584]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2025.03.10-03.40.04:974][584]LogConfig: Set CVar [[r.Shadow.MaxResolution:1024]]
+[2025.03.10-03.40.04:974][584]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2025.03.10-03.40.04:974][584]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.85]]
+[2025.03.10-03.40.04:974][584]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2025.03.10-03.40.04:974][584]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2025.03.10-03.40.04:974][584]LogConfig: Set CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2025.03.10-03.40.04:974][584]LogConfig: Set CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2025.03.10-03.40.04:974][584]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:2048]]
+[2025.03.10-03.40.04:974][584]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:-0.5]]
+[2025.03.10-03.40.04:974][584]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:-0.5]]
+[2025.03.10-03.40.04:974][584]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@2] File [Scalability]
+[2025.03.10-03.40.04:974][584]LogConfig: Set CVar [[r.AOQuality:1]]
+[2025.03.10-03.40.04:974][584]LogConfig: Set CVar [[r.LumenScene.Radiosity.ProbeSpacing:8]]
+[2025.03.10-03.40.04:974][584]LogConfig: Set CVar [[r.LumenScene.Radiosity.HemisphereProbeResolution:3]]
+[2025.03.10-03.40.04:974][584]LogConfig: Set CVar [[r.Lumen.TraceMeshSDFs.Allow:0]]
+[2025.03.10-03.40.04:974][584]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution:16]]
+[2025.03.10-03.40.04:974][584]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:32]]
+[2025.03.10-03.40.04:974][584]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.IrradianceFormat:1]]
+[2025.03.10-03.40.04:974][584]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.StochasticInterpolation:1]]
+[2025.03.10-03.40.04:974][584]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TwoSidedFoliageBackfaceDiffuse:0]]
+[2025.03.10-03.40.04:974][584]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.ScreenTraces.HZBTraversal.FullResDepth:0]]
+[2025.03.10-03.40.04:974][584]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.GridPixelSize:64]]
+[2025.03.10-03.40.04:974][584]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.TraceFromVolume:0]]
+[2025.03.10-03.40.04:974][584]LogConfig: Set CVar [[r.RayTracing.Scene.BuildMode:0]]
+[2025.03.10-03.40.04:974][584]LogConfig: Applying CVar settings from Section [ReflectionQuality@2] File [Scalability]
+[2025.03.10-03.40.04:974][584]LogConfig: Set CVar [[r.SSR.Quality:2]]
+[2025.03.10-03.40.04:974][584]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:1]]
+[2025.03.10-03.40.04:974][584]LogConfig: Set CVar [[r.Lumen.Reflections.DownsampleFactor:2]]
+[2025.03.10-03.40.04:974][584]LogConfig: Set CVar [[r.Lumen.Reflections.MaxRoughnessToTraceForFoliage:0.2]]
+[2025.03.10-03.40.04:974][584]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.MaxRoughnessToEvaluateRoughSpecularForFoliage:0.4]]
+[2025.03.10-03.40.04:974][584]LogConfig: Set CVar [[r.Lumen.Reflections.ScreenSpaceReconstruction.TonemapMode:2]]
+[2025.03.10-03.40.04:974][584]LogConfig: Set CVar [[r.Lumen.Reflections.ScreenSpaceReconstruction.MinWeight:1]]
+[2025.03.10-03.40.04:974][584]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Allow:0]]
+[2025.03.10-03.40.04:974][584]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [Scalability]
+[2025.03.10-03.40.04:974][584]LogConfig: Set CVar [[r.MotionBlurQuality:3]]
+[2025.03.10-03.40.04:974][584]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2025.03.10-03.40.04:974][584]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2025.03.10-03.40.04:974][584]LogConfig: Set CVar [[r.FastBlurThreshold:3]]
+[2025.03.10-03.40.04:974][584]LogConfig: Set CVar [[r.Upscale.Quality:2]]
+[2025.03.10-03.40.04:974][584]LogConfig: Set CVar [[r.Filter.SizeScale:0.8]]
+[2025.03.10-03.40.04:975][584]LogConfig: Set CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2025.03.10-03.40.04:975][584]LogConfig: Set CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2025.03.10-03.40.04:975][584]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2025.03.10-03.40.04:975][584]LogConfig: Set CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2025.03.10-03.40.04:975][584]LogConfig: Set CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2025.03.10-03.40.04:975][584]LogConfig: Set CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2025.03.10-03.40.04:975][584]LogConfig: Set CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2025.03.10-03.40.04:975][584]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2025.03.10-03.40.04:975][584]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2025.03.10-03.40.04:975][584]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [Scalability]
+[2025.03.10-03.40.04:975][584]LogConfig: Set CVar [[r.MaxAnisotropy:4]]
+[2025.03.10-03.40.04:975][584]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2025.03.10-03.40.04:975][584]LogConfig: Set CVar [[r.Streaming.PoolSize:800]]
+[2025.03.10-03.40.04:975][584]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [Scalability]
+[2025.03.10-03.40.04:975][584]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2025.03.10-03.40.04:975][584]LogConfig: Set CVar [[r.SceneColorFormat:3]]
+[2025.03.10-03.40.04:975][584]LogConfig: Set CVar [[r.DetailMode:1]]
+[2025.03.10-03.40.04:975][584]LogConfig: Set CVar [[r.SSS.SampleSet:1]]
+[2025.03.10-03.40.04:975][584]LogConfig: Set CVar [[r.SSS.Quality:-1]]
+[2025.03.10-03.40.04:975][584]LogConfig: Set CVar [[r.SSS.HalfRes:1]]
+[2025.03.10-03.40.04:975][584]LogConfig: Set CVar [[r.SSGI.Quality:2]]
+[2025.03.10-03.40.04:975][584]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.5]]
+[2025.03.10-03.40.04:975][584]LogConfig: Set CVar [[r.ParticleLightQuality:1]]
+[2025.03.10-03.40.04:975][584]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:2]]
+[2025.03.10-03.40.04:975][584]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:64.0]]
+[2025.03.10-03.40.04:975][584]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:64.0]]
+[2025.03.10-03.40.04:975][584]LogConfig: Set CVar [[fx.Niagara.QualityLevel:2]]
+[2025.03.10-03.40.04:975][584]LogConfig: Set CVar [[r.HeterogeneousVolumes.DownsampleFactor:2]]
+[2025.03.10-03.40.04:975][584]LogConfig: Set CVar [[r.HeterogeneousVolumes.MaxStepCount:256]]
+[2025.03.10-03.40.04:975][584]LogConfig: Set CVar [[r.HeterogeneousVolumes.Shadows.Resolution:256]]
+[2025.03.10-03.40.04:975][584]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [Scalability]
+[2025.03.10-03.40.04:975][584]LogConfig: Set CVar [[foliage.DensityScale:0.8]]
+[2025.03.10-03.40.04:975][584]LogConfig: Set CVar [[grass.DensityScale:0.8]]
+[2025.03.10-03.40.04:975][584]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [Scalability]
+[2025.03.10-03.40.04:975][584]LogConfig: Applying CVar settings from Section [LandscapeQuality@2] File [Scalability]
+[2025.03.10-03.40.05:164][586]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2025.03.10-03.40.05:687][589]LogContentStreaming: Texture pool size now 800 MB
+[2025.03.10-03.40.05:688][589]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="800"
+[2025.03.10-03.40.31:219][810]Cmd: DELETE
+[2025.03.10-03.40.31:219][810]Cmd: ACTOR DELETE
+[2025.03.10-03.40.31:230][810]LogEditorActor: Deleted Actor: BP_Direction_C
+[2025.03.10-03.40.31:323][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.03.10-03.40.31:330][810]LogEditorActor: Deleted 1 Actors (0.109 secs)
+[2025.03.10-03.40.48:397][  1]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [Scalability]
+[2025.03.10-03.40.48:397][  1]LogConfig: Set CVar [[r.SkeletalMeshLODBias:1]]
+[2025.03.10-03.40.48:397][  1]LogConfig: Set CVar [[r.ViewDistanceScale:0.6]]
+[2025.03.10-03.40.48:397][  1]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [Scalability]
+[2025.03.10-03.40.48:397][  1]LogConfig: Set CVar [[r.FXAA.Quality:1]]
+[2025.03.10-03.40.48:397][  1]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:1]]
+[2025.03.10-03.40.48:397][  1]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:0]]
+[2025.03.10-03.40.48:397][  1]LogConfig: Set CVar [[r.TSR.ReprojectionField:0]]
+[2025.03.10-03.40.48:397][  1]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [Scalability]
+[2025.03.10-03.40.48:397][  1]LogConfig: Set CVar [[r.ShadowQuality:3]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.7]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.DistanceFieldShadowing:0]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.VolumetricFog:0]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:0.5]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:512]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:0.0]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:0.0]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:1.0]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:2.0]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:4]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:2]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:4]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:2]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@1] File [Scalability]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:0]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.SkyLight.RealTimeReflectionCapture:0]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Applying CVar settings from Section [ReflectionQuality@1] File [Scalability]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:0]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [Scalability]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:1]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.DepthOfFieldQuality:1]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.RenderTargetPoolMin:350]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.LensFlareQuality:0]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.SceneColorFringeQuality:0]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.BloomQuality:4]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:35.355]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.FastBlurThreshold:2]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.LightShaftQuality:0]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.Filter.SizeScale:0.7]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.Tonemapper.Quality:2]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [Scalability]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.Streaming.MipBias:1]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.MaxAnisotropy:2]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.VT.MaxAnisotropy:4]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.Streaming.PoolSize:600]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [Scalability]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.RefractionQuality:0]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:0]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.SSS.Scale:0.75]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.SSS.SampleSet:0]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.SSS.Quality:0]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.SSGI.Quality:1]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.25]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.ParticleLightQuality:0]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[fx.Niagara.QualityLevel:1]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.HeterogeneousVolumes.DownsampleFactor:4]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.HeterogeneousVolumes.Shadows.Resolution:128]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [Scalability]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[foliage.DensityScale:0.4]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[grass.DensityScale:0.4]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [Scalability]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Set CVar [[r.AnisotropicMaterials:0]]
+[2025.03.10-03.40.48:398][  1]LogConfig: Applying CVar settings from Section [LandscapeQuality@1] File [Scalability]
+[2025.03.10-03.40.48:524][  1]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.03.10-03.40.48:574][  2]LogContentStreaming: Texture pool size now 600 MB
+[2025.03.10-03.40.48:574][  2]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="600"
+[2025.03.10-03.40.48:679][  2]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2025.03.10-03.41.38:730][417]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Level/_GENERATED/rawll/Extrude_7968B9BF.Extrude_7968B9BF
+[2025.03.10-03.41.38:732][417]LogActorFactory: Actor Factory spawned StaticMesh /Game/Level/_GENERATED/rawll/Extrude_7968B9BF.Extrude_7968B9BF as actor: StaticMeshActor /Game/Level/LV1.LV1:PersistentLevel.StaticMeshActor_91
+[2025.03.10-03.41.38:741][417]LogStaticMesh: Display: Building static mesh Extrude_7968B9BF (Required Memory Estimate: 0.021442 MB)...
+[2025.03.10-03.41.38:742][417]LogStaticMesh: Built static mesh [0.01s] /Game/Level/_GENERATED/rawll/Extrude_7968B9BF.Extrude_7968B9BF
+[2025.03.10-03.42.51:983][279]Cmd: DELETE
+[2025.03.10-03.42.51:983][279]Cmd: ACTOR DELETE
+[2025.03.10-03.42.51:995][279]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.10-03.42.52:021][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.03.10-03.42.52:025][279]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2025.03.10-03.43.58:094][911]Cmd: MODE ROTGRID=0
+[2025.03.10-03.44.29:747][423]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5075.181641
+[2025.03.10-03.44.29:850][429]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-03.44.29:850][429]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5075.269043, Update Interval: 326.748871
+[2025.03.10-03.47.53:834][481]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.03.10-03.47.53:846][481]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.03.10-03.47.53:855][481]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.03.10-03.47.53:879][482]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.03.10-03.47.55:595][585]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2025.03.10-03.47.55:606][585]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.03.10-03.47.55:731][589]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Materials/NewBlueprint.NewBlueprint
+[2025.03.10-03.47.55:732][589]LogChaosDD: Creating Chaos Debug Draw Scene for world World_19
+[2025.03.10-03.48.34:793][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.03.10-03.49.58:908][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.03.10-03.50.33:505][518]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/bp_walltest.bp_walltest
+[2025.03.10-03.50.33:505][518]LogChaosDD: Creating Chaos Debug Draw Scene for world World_20
+[2025.03.10-03.50.33:671][518]LogSlate: Window 'Add Blueprint Component' being destroyed
+[2025.03.10-03.50.37:164][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.03.10-03.50.37:261][666]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level/LV1_Auto3
+[2025.03.10-03.50.37:262][666]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/LV1_Auto329FB4D17419130DF5C22C7A7DCCE8990.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/Level/LV1_Auto3.umap'
+[2025.03.10-03.50.37:265][666]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/LV1' took 0.138
+[2025.03.10-03.50.37:265][666]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.138
+[2025.03.10-03.50.37:265][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level/_GENERATED/rawll/Path_A2A38882] ([1] browsable assets)...
+[2025.03.10-03.50.37:281][666]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Level/_GENERATED/rawll/Path_A2A38882.Path_A2A38882]
+[2025.03.10-03.50.37:281][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level/_GENERATED/rawll/Path_A2A38882]
+[2025.03.10-03.50.37:288][666]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level/_GENERATED/rawll/Path_A2A38882_Auto3
+[2025.03.10-03.50.37:288][666]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Path_A2A38882_Auto33DF8E171430ECC7DBA2CB48F2E282B9D.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/Level/_GENERATED/rawll/Path_A2A38882_Auto3.uasset'
+[2025.03.10-03.50.37:289][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/BP_parent_Inst1] ([1] browsable assets)...
+[2025.03.10-03.50.37:297][666]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Materials/BP_parent_Inst1.BP_parent_Inst1]
+[2025.03.10-03.50.37:297][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/BP_parent_Inst1]
+[2025.03.10-03.50.37:299][666]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Materials/BP_parent_Inst1_Auto3
+[2025.03.10-03.50.37:299][666]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/BP_parent_Inst1_Auto34F7A3A5A4928F6536331BBBFB1AA1F73.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/Materials/BP_parent_Inst1_Auto3.uasset'
+[2025.03.10-03.50.37:300][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level/_GENERATED/rawll/Extrude_7968B9BF] ([1] browsable assets)...
+[2025.03.10-03.50.37:308][666]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Level/_GENERATED/rawll/Extrude_7968B9BF.Extrude_7968B9BF]
+[2025.03.10-03.50.37:308][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level/_GENERATED/rawll/Extrude_7968B9BF]
+[2025.03.10-03.50.37:311][666]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level/_GENERATED/rawll/Extrude_7968B9BF_Auto3
+[2025.03.10-03.50.37:311][666]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Extrude_7968B9BF_Auto3420000AC436CD4608E1CDAADD4BE574C.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/Level/_GENERATED/rawll/Extrude_7968B9BF_Auto3.uasset'
+[2025.03.10-03.50.37:312][666]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Materials/NewBlueprint] ([2] browsable assets)...
+[2025.03.10-03.50.37:312][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/NewBlueprint]
+[2025.03.10-03.50.37:315][666]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Materials/NewBlueprint_Auto3
+[2025.03.10-03.50.37:315][666]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/NewBlueprint_Auto3263ED7EB4854CA24C2DB00AF18A26A5F.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/Materials/NewBlueprint_Auto3.uasset'
+[2025.03.10-03.50.37:317][666]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bp_walltest] ([2] browsable assets)...
+[2025.03.10-03.50.37:317][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/bp_walltest]
+[2025.03.10-03.50.37:318][666]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/bp_walltest_Auto3
+[2025.03.10-03.50.37:319][666]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/bp_walltest_Auto32BCCCE83452E1BB68432D495364125F5.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/bp_walltest_Auto3.uasset'
+[2025.03.10-03.50.37:319][666]LogFileHelpers: Auto-saving content packages took 0.054
+[2025.03.10-03.50.40:167][821]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5445.609863
+[2025.03.10-03.50.40:277][827]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-03.50.40:277][827]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5445.699219, Update Interval: 359.295013
+[2025.03.10-03.52.42:006][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.03.10-03.52.44:375][836]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.10-03.52.44:605][836]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-03.52.44:605][836]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-03.52.44:633][836]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/bp_walltest.bp_walltest
+	Asset Type: Blueprint
+[2025.03.10-03.52.45:191][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.03.10-03.52.45:265][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.03.10-03.52.45:286][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.03.10-03.52.45:312][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.03.10-03.52.45:352][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.03.10-03.52.57:402][288]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2025.03.10-03.52.57:420][288]LogActorComponent: UnregisterComponent: (/Game/Broken_wall_Blueprint.Default__Broken_wall_Blueprint_C:StaticMeshComponent0) Not registered. Aborting.
+[2025.03.10-03.52.57:447][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.03.10-03.52.57:497][288]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Broken_wall_Blueprint.Broken_wall_Blueprint
+[2025.03.10-03.52.57:498][288]LogChaosDD: Creating Chaos Debug Draw Scene for world World_21
+[2025.03.10-03.52.58:131][291]LogChaosDD: Creating Chaos Debug Draw Scene for world World_22
+[2025.03.10-03.53.22:550][334]LogSlate: Window 'Broken_wall_Blueprint' being destroyed
+[2025.03.10-03.53.22:557][334]LogSlate: Window 'Broken_wall_Blueprint' being destroyed
+[2025.03.10-03.53.22:563][334]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-03.53.22:563][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-03.53.22:618][334]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.10-03.53.22:618][334]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-03.53.22:618][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-03.53.22:708][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.03.10-03.53.25:983][510]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Broken_wall_Blueprint.Broken_wall_Blueprint
+[2025.03.10-03.53.25:984][510]LogChaosDD: Creating Chaos Debug Draw Scene for world World_23
+[2025.03.10-03.53.28:329][596]LogSlate: Window 'Broken_wall_Blueprint' being destroyed
+[2025.03.10-03.53.28:345][596]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-03.53.28:345][596]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-03.53.28:372][596]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Broken_wall_Blueprint.Broken_wall_Blueprint
+[2025.03.10-03.53.28:373][596]LogChaosDD: Creating Chaos Debug Draw Scene for world World_24
+[2025.03.10-03.53.28:905][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.03.10-03.54.02:216][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.03.10-03.54.03:440][124]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.10-03.54.03:486][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.03.10-03.54.03:508][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.03.10-03.54.03:535][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.03.10-03.54.10:640][536]Cmd: DELETE
+[2025.03.10-03.54.10:640][536]Cmd: ACTOR DELETE
+[2025.03.10-03.54.10:653][536]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.10-03.54.10:676][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.03.10-03.54.10:681][536]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2025.03.10-03.54.19:355][ 21]Cmd: TRANSACTION UNDO
+[2025.03.10-03.54.19:356][ 21]LogEditorTransaction: Undo Place Objects
+[2025.03.10-03.57.19:789][569]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5845.254395
+[2025.03.10-03.57.19:871][574]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-03.57.19:871][575]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5845.320801, Update Interval: 324.527710
+[2025.03.10-03.58.53:040][629]Cmd: TRANSACTION UNDO
+[2025.03.10-03.58.53:040][629]LogEditorTransaction: Undo Move Elements
+[2025.03.10-04.00.41:837][653]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.10-04.00.41:849][653]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.10-04.00.41:851][653]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV1
+[2025.03.10-04.00.41:895][653]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043413s)
+[2025.03.10-04.00.41:895][653]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV1.LV1 to /Game/Level/UEDPIE_0_LV1.LV1 (0.043490s)
+[2025.03.10-04.00.41:922][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.03.10-04.00.41:928][653]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.03.10-04.00.41:931][653]LogPlayLevel: PIE: World Init took: (0.003320s)
+[2025.03.10-04.00.41:932][653]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.03.10-04.00.41:932][653]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.10-04.00.41:932][653]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.10-04.00.41:932][653]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.10-04.00.41:932][653]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.10-04.00.41:932][653]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.10-04.00.41:932][653]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.10-04.00.41:932][653]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.10-04.00.41:932][653]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.10-04.00.41:932][653]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.10-04.00.41:932][653]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.10-04.00.41:932][653]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.10-04.00.41:935][653]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.10-04.00.41:968][653]LogAudioMixer: Display: Using Audio Hardware Device C32R50x (HD Audio Driver for Display Audio)
+[2025.03.10-04.00.41:969][653]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.10-04.00.41:969][653]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.10-04.00.41:969][653]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.10-04.00.41:970][653]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.03.10-04.00.41:970][653]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.03.10-04.00.41:973][653]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.03.10-04.00.41:973][653]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.03.10-04.00.41:973][653]LogInit: FAudioDevice initialized with ID 12.
+[2025.03.10-04.00.41:973][653]LogAudio: Display: Audio Device (ID: 12) registered with world 'LV1'.
+[2025.03.10-04.00.41:973][653]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.03.10-04.00.41:979][653]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.10-04.00.42:001][653]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV1.LV1 up for play (max tick rate 60) at 2025.03.10-00.00.42
+[2025.03.10-04.00.42:013][653]LogWorld: Bringing up level for play took: 0.033412
+[2025.03.10-04.00.42:053][653]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2025.03.10-04.00.42:064][653]PIE: Server logged in
+[2025.03.10-04.00.42:067][653]PIE: Play in editor total start time 0.218 seconds.
+[2025.03.10-04.00.45:389][805]LogBlueprintUserMessages: [BP_key3_C_2] Key 3 found
+[2025.03.10-04.00.45:430][807]LogBlueprintUserMessages: [BP_key2_C_1] Key 2 found
+[2025.03.10-04.00.45:557][814]LogBlueprintUserMessages: [BP_key1_C_2] LAB ROOM KEY FOUND
+[2025.03.10-04.00.45:719][823]LogBlueprintUserMessages: [BP_Smoke_C_33] Hello
+[2025.03.10-04.00.47:173][910]LogBlueprintUserMessages: [BP_Smoke_C_33] Hello
+[2025.03.10-04.00.50:813][124]LogBlueprintUserMessages: [BP_ShowDirection_C_1] OBJECTIVE COMPLETE
+[2025.03.10-04.00.50:813][124]LogBlueprintUserMessages: [BP_ShowDirection_C_1] obj com
+[2025.03.10-04.00.50:813][124]LogBlueprintUserMessages: [BP_ShowDirection_C_1] b4 visi
+[2025.03.10-04.00.50:813][124]LogBlueprintUserMessages: [BP_ShowDirection_C_1] visi
+[2025.03.10-04.01.07:908][137]LogBlueprintUserMessages: [BP_Smoke_C_35] Hello
+[2025.03.10-04.01.09:391][226]LogBlueprintUserMessages: [BP_Smoke_C_37] Hello
+[2025.03.10-04.01.19:060][806]LogBlueprintUserMessages: [BP_CheckPoint_C_5] CHECKPOINT
+[2025.03.10-04.01.19:875][855]LogBlueprintUserMessages: [BP_HealthKit_C_4] Health kit found
+[2025.03.10-04.01.23:758][ 88]LogBlueprintUserMessages: [BP_Smoke_C_5] Hello
+[2025.03.10-04.01.29:125][410]LogBlueprintUserMessages: [BP_Smoke_C_3] Hello
+[2025.03.10-04.01.43:629][279]LogCharacterMovement: BP_Boy_C_1 is stuck and failed to move! Velocity: X=-29.52 Y=-61.55 Z=0.00 Location: X=286.10 Y=-234.52 Z=229.42 Normal: X=0.93 Y=-0.30 Z=-0.20 PenetrationDepth:15.904 Actor:BP_Zombie_C_5 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.10-04.01.53:118][836]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_1] WEAPON FOUND
+[2025.03.10-04.01.55:017][950]LogCharacterMovement: BP_Boy_C_1 is stuck and failed to move! Velocity: X=4.55 Y=33.83 Z=0.00 Location: X=-107.22 Y=1085.93 Z=231.37 Normal: X=0.51 Y=0.86 Z=-0.05 PenetrationDepth:4.113 Actor:BP_Zombie_C_6 Component:CharacterMesh0 BoneName:Head (0 other events since notify)
+[2025.03.10-04.01.55:750][993]LogBlueprintUserMessages: [BP_Zombie_C_6] TST.......Zombie recieved Damage
+[2025.03.10-04.01.55:973][  6]LogBlueprintUserMessages: [BP_Zombie_C_6] TST.......Zombie recieved Damage
+[2025.03.10-04.01.56:147][ 16]LogBlueprintUserMessages: [BP_Zombie_C_6] TST.......Zombie recieved Damage
+[2025.03.10-04.01.56:493][ 36]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.10-04.01.56:783][ 53]LogBlueprintUserMessages: [BP_Zombie_C_6] TST.......Zombie recieved Damage
+[2025.03.10-04.01.56:983][ 65]LogBlueprintUserMessages: [BP_Zombie_C_6] TST.......Zombie recieved Damage
+[2025.03.10-04.01.57:133][ 74]LogBlueprintUserMessages: [BP_Zombie_C_6] TST.......Zombie recieved Damage
+[2025.03.10-04.01.57:300][ 84]LogBlueprintUserMessages: [BP_Zombie_C_6] TST.......Zombie recieved Damage
+[2025.03.10-04.01.57:432][ 92]LogBlueprintUserMessages: [BP_Zombie_C_6] TST.......Zombie recieved Damage
+[2025.03.10-04.01.57:549][ 99]LogBlueprintUserMessages: [BP_Zombie_C_6] TST.......Zombie recieved Damage
+[2025.03.10-04.01.57:716][109]LogBlueprintUserMessages: [BP_Zombie_C_6] TST.......Zombie recieved Damage
+[2025.03.10-04.01.57:849][117]LogBlueprintUserMessages: [BP_Zombie_C_6] TST.......Zombie recieved Damage
+[2025.03.10-04.01.58:032][128]LogBlueprintUserMessages: [BP_Zombie_C_6] TST.......Zombie recieved Damage
+[2025.03.10-04.01.58:183][137]LogBlueprintUserMessages: [BP_Zombie_C_6] TST.......Zombie recieved Damage
+[2025.03.10-04.02.01:018][299]LogBlueprintUserMessages: [BP_HealthKit_C_2] Health kit found
+[2025.03.10-04.02.01:500][326]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.10-04.02.01:678][336]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.10-04.02.01:898][349]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.10-04.02.06:926][644]LogBlueprintUserMessages: [BP_Smoke_C_12] Hello
+[2025.03.10-04.02.15:329][148]LogCharacterMovement: BP_Boy_C_1 is stuck and failed to move! Velocity: X=256.31 Y=30.78 Z=0.00 Location: X=-47.34 Y=1531.11 Z=231.37 Normal: X=-0.99 Y=-0.15 Z=0.00 PenetrationDepth:15.005 Actor:BP_FirstPersonCharacter_C_0 Component:Capsule BoneName:None (22 other events since notify)
+[2025.03.10-04.02.16:329][208]LogCharacterMovement: BP_Boy_C_1 is stuck and failed to move! Velocity: X=244.60 Y=82.54 Z=0.00 Location: X=-53.86 Y=1531.07 Z=231.37 Normal: X=-0.94 Y=-0.34 Z=0.00 PenetrationDepth:33.332 Actor:BP_FirstPersonCharacter_C_0 Component:Capsule BoneName:None (37 other events since notify)
+[2025.03.10-04.02.19:079][373]LogCharacterMovement: BP_Boy_C_1 is stuck and failed to move! Velocity: X=30.53 Y=15.27 Z=0.00 Location: X=-53.86 Y=1531.07 Z=231.37 Normal: X=-0.89 Y=-0.45 Z=0.00 PenetrationDepth:33.250 Actor:BP_FirstPersonCharacter_C_0 Component:Capsule BoneName:None (20 other events since notify)
+[2025.03.10-04.02.20:095][434]LogCharacterMovement: BP_Boy_C_1 is stuck and failed to move! Velocity: X=30.53 Y=15.27 Z=0.00 Location: X=-53.86 Y=1531.07 Z=231.37 Normal: X=-0.89 Y=-0.45 Z=0.00 PenetrationDepth:33.250 Actor:BP_FirstPersonCharacter_C_0 Component:Capsule BoneName:None (30 other events since notify)
+[2025.03.10-04.02.21:095][494]LogCharacterMovement: BP_Boy_C_1 is stuck and failed to move! Velocity: X=152.65 Y=76.33 Z=0.00 Location: X=-53.86 Y=1531.07 Z=231.37 Normal: X=-0.89 Y=-0.45 Z=0.00 PenetrationDepth:33.250 Actor:BP_FirstPersonCharacter_C_0 Component:Capsule BoneName:None (46 other events since notify)
+[2025.03.10-04.02.32:279][165]LogCharacterMovement: BP_Boy_C_1 is stuck and failed to move! Velocity: X=30.53 Y=15.27 Z=0.00 Location: X=-53.86 Y=1531.07 Z=231.37 Normal: X=-0.89 Y=-0.45 Z=0.00 PenetrationDepth:33.250 Actor:BP_FirstPersonCharacter_C_0 Component:Capsule BoneName:None (10 other events since notify)
+[2025.03.10-04.02.33:279][225]LogCharacterMovement: BP_Boy_C_1 is stuck and failed to move! Velocity: X=61.06 Y=30.53 Z=0.00 Location: X=-53.86 Y=1531.07 Z=231.37 Normal: X=-0.89 Y=-0.45 Z=0.00 PenetrationDepth:33.250 Actor:BP_FirstPersonCharacter_C_0 Component:Capsule BoneName:None (17 other events since notify)
+[2025.03.10-04.02.34:628][306]LogCharacterMovement: BP_Boy_C_1 is stuck and failed to move! Velocity: X=30.53 Y=15.27 Z=0.00 Location: X=-53.86 Y=1531.07 Z=231.37 Normal: X=-0.89 Y=-0.45 Z=0.00 PenetrationDepth:33.250 Actor:BP_FirstPersonCharacter_C_0 Component:Capsule BoneName:None (13 other events since notify)
+[2025.03.10-04.02.35:645][367]LogCharacterMovement: BP_Boy_C_1 is stuck and failed to move! Velocity: X=30.53 Y=15.27 Z=0.00 Location: X=-53.86 Y=1531.07 Z=231.37 Normal: X=-0.89 Y=-0.45 Z=0.00 PenetrationDepth:33.250 Actor:BP_FirstPersonCharacter_C_0 Component:Capsule BoneName:None (19 other events since notify)
+[2025.03.10-04.02.36:487][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.10-04.02.36:487][416]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV1
+[2025.03.10-04.02.36:489][416]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-04.02.36:493][416]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-04.02.36:503][416]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.10-04.02.36:510][416]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-04.02.36:535][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.10-04.02.36:536][416]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.03.10-04.02.36:536][416]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.03.10-04.02.36:539][416]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.03.10-04.02.36:553][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.03.10-04.02.36:633][417]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2025.03.10-04.03.26:636][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.03.10-04.03.27:870][182]LogSlate: Window 'Save Content' being destroyed
+[2025.03.10-04.03.27:881][182]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.10-04.03.27:968][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/LV1" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/LV1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.10-04.03.28:014][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.03.10-04.03.28:111][182]LogSavePackage: Moving output files for package: /Game/Level/LV1
+[2025.03.10-04.03.28:112][182]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/LV193A3874B4F0C8648935F73A87451BDB2.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/LV1.umap'
+[2025.03.10-04.03.28:127][182]LogFileHelpers: Saving map 'LV1' took 0.160
+[2025.03.10-04.03.28:127][182]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Materials/BP_parent_Inst1] ([1] browsable assets)...
+[2025.03.10-04.03.28:127][182]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/BP_parent_Inst1]
+[2025.03.10-04.03.28:127][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/BP_parent_Inst1" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Materials/BP_parent_Inst1.uasset" SILENT=true
+[2025.03.10-04.03.28:128][182]LogSavePackage: Moving output files for package: /Game/Materials/BP_parent_Inst1
+[2025.03.10-04.03.28:128][182]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/BP_parent_Inst1A59FFF21485B61AAD3EBD5A4CF8DC3EB.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Materials/BP_parent_Inst1.uasset'
+[2025.03.10-04.03.28:130][182]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Broken_wall_Blueprint] ([2] browsable assets)...
+[2025.03.10-04.03.28:207][182]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Broken_wall_Blueprint.Broken_wall_Blueprint]
+[2025.03.10-04.03.28:207][182]LogChaosDD: Creating Chaos Debug Draw Scene for world World_25
+[2025.03.10-04.03.28:246][182]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Broken_wall_Blueprint.Broken_wall_Blueprint_C]
+[2025.03.10-04.03.28:246][182]OBJ SavePackage: Finished generating thumbnails for package [/Game/Broken_wall_Blueprint]
+[2025.03.10-04.03.28:246][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Broken_wall_Blueprint" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Broken_wall_Blueprint.uasset" SILENT=true
+[2025.03.10-04.03.28:250][182]LogSavePackage: Moving output files for package: /Game/Broken_wall_Blueprint
+[2025.03.10-04.03.28:250][182]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Broken_wall_Blueprint90FE73F04F0CD45A50396984DEBE9748.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Broken_wall_Blueprint.uasset'
+[2025.03.10-04.03.28:254][182]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Level/_GENERATED/rawll/Extrude_7968B9BF] ([1] browsable assets)...
+[2025.03.10-04.03.28:254][182]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level/_GENERATED/rawll/Extrude_7968B9BF]
+[2025.03.10-04.03.28:256][182]LogSavePackage: Moving output files for package: /Game/Level/_GENERATED/rawll/Extrude_7968B9BF
+[2025.03.10-04.03.28:256][182]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Extrude_7968B9BF0E9130A04273EFD4585C1EB2A0FF17A8.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/_GENERATED/rawll/Extrude_7968B9BF.uasset'
+[2025.03.10-04.03.28:258][182]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Level/_GENERATED/rawll/Path_A2A38882] ([1] browsable assets)...
+[2025.03.10-04.03.28:258][182]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level/_GENERATED/rawll/Path_A2A38882]
+[2025.03.10-04.03.28:260][182]LogSavePackage: Moving output files for package: /Game/Level/_GENERATED/rawll/Path_A2A38882
+[2025.03.10-04.03.28:260][182]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Path_A2A38882216780314A5D1AE24A96779B6B7FEA80.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/_GENERATED/rawll/Path_A2A38882.uasset'
+[2025.03.10-04.03.28:275][182]LogFileHelpers: InternalPromptForCheckoutAndSave took 394.216 ms (total: 674.048 ms)
+[2025.03.10-04.03.28:379][182]LogContentValidation: Display: Starting to validate 5 assets
+[2025.03.10-04.03.28:379][182]LogContentValidation: Enabled validators:
+[2025.03.10-04.03.28:379][182]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.10-04.03.28:379][182]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.10-04.03.28:379][182]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.10-04.03.28:379][182]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.10-04.03.28:379][182]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.10-04.03.28:379][182]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.10-04.03.28:380][182]AssetCheck: /Game/Level/LV1 Validating asset
+[2025.03.10-04.03.28:380][182]AssetCheck: /Game/Materials/BP_parent_Inst1 Validating asset
+[2025.03.10-04.03.28:380][182]AssetCheck: /Game/Broken_wall_Blueprint Validating asset
+[2025.03.10-04.03.28:380][182]AssetCheck: /Game/Level/_GENERATED/rawll/Extrude_7968B9BF Validating asset
+[2025.03.10-04.03.28:380][182]AssetCheck: /Game/Level/_GENERATED/rawll/Path_A2A38882 Validating asset
+[2025.03.10-04.03.34:427][525]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6219.879395
+[2025.03.10-04.03.34:544][532]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-04.03.34:544][532]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6219.979980, Update Interval: 336.561768
+[2025.03.10-04.04.07:593][415]Cmd: MODE ROTGRID=1
+[2025.03.10-04.04.39:740][148]Cmd: MODE ROTGRID=0
+[2025.03.10-04.08.34:208][500]Cmd: TRANSACTION UNDO
+[2025.03.10-04.08.34:208][500]LogEditorTransaction: Undo Clicking on Elements
+[2025.03.10-04.08.35:827][566]Cmd: TRANSACTION UNDO
+[2025.03.10-04.08.35:827][566]LogEditorTransaction: Undo Move Elements
+[2025.03.10-04.09.22:090][224]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Level/_GENERATED/rawll/Box_6DDCB2A2.Box_6DDCB2A2
+[2025.03.10-04.09.22:091][224]LogStaticMesh: Display: Building static mesh Box_6DDCB2A2 (Required Memory Estimate: 0.027864 MB)...
+[2025.03.10-04.09.22:092][224]LogActorFactory: Actor Factory spawned StaticMesh /Game/Level/_GENERATED/rawll/Box_6DDCB2A2.Box_6DDCB2A2 as actor: StaticMeshActor /Game/Level/LV1.LV1:PersistentLevel.StaticMeshActor_143
+[2025.03.10-04.09.22:092][224]LogStaticMesh: Built static mesh [0.00s] /Game/Level/_GENERATED/rawll/Box_6DDCB2A2.Box_6DDCB2A2
+[2025.03.10-04.09.52:461][808]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6597.892090
+[2025.03.10-04.09.52:548][813]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-04.09.52:548][813]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6597.962891, Update Interval: 307.227386
+[2025.03.10-04.11.57:205][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.03.10-04.12.18:580][161]Cmd: MODE ROTGRID=1
+[2025.03.10-04.12.23:936][381]LogEditorTransaction: Undo Modify Component(s)
+[2025.03.10-04.13.16:406][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.03.10-04.13.45:043][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.03.10-04.15.03:751][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.03.10-04.15.04:757][170]LogSlate: Window 'Save Content' being destroyed
+[2025.03.10-04.15.04:768][170]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.10-04.15.04:863][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/LV1" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/LV1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.10-04.15.04:911][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.03.10-04.15.05:015][170]LogSavePackage: Moving output files for package: /Game/Level/LV1
+[2025.03.10-04.15.05:016][170]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/LV10D3CEBE841674A7F9EEFCD93D1F41665.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/LV1.umap'
+[2025.03.10-04.15.05:031][170]LogFileHelpers: Saving map 'LV1' took 0.169
+[2025.03.10-04.15.05:032][170]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level/_GENERATED/rawll/Box_6DDCB2A2] ([1] browsable assets)...
+[2025.03.10-04.15.05:060][170]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Level/_GENERATED/rawll/Box_6DDCB2A2.Box_6DDCB2A2]
+[2025.03.10-04.15.05:060][170]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level/_GENERATED/rawll/Box_6DDCB2A2]
+[2025.03.10-04.15.05:063][170]LogSavePackage: Moving output files for package: /Game/Level/_GENERATED/rawll/Box_6DDCB2A2
+[2025.03.10-04.15.05:063][170]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Box_6DDCB2A24F86788F42DC62061B074FB19F7AC018.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/_GENERATED/rawll/Box_6DDCB2A2.uasset'
+[2025.03.10-04.15.05:068][170]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Broken_wall_Blueprint] ([2] browsable assets)...
+[2025.03.10-04.15.05:074][170]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Broken_wall_Blueprint.Broken_wall_Blueprint]
+[2025.03.10-04.15.05:074][170]OBJ SavePackage: Finished generating thumbnails for package [/Game/Broken_wall_Blueprint]
+[2025.03.10-04.15.05:074][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Broken_wall_Blueprint" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Broken_wall_Blueprint.uasset" SILENT=true
+[2025.03.10-04.15.05:078][170]LogSavePackage: Moving output files for package: /Game/Broken_wall_Blueprint
+[2025.03.10-04.15.05:079][170]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Broken_wall_BlueprintCB84B45245001E4FE8E8D3B5136535D7.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Broken_wall_Blueprint.uasset'
+[2025.03.10-04.15.05:088][170]LogFileHelpers: InternalPromptForCheckoutAndSave took 319.989 ms (total: 994.037 ms)
+[2025.03.10-04.15.05:174][170]LogContentValidation: Display: Starting to validate 3 assets
+[2025.03.10-04.15.05:174][170]LogContentValidation: Enabled validators:
+[2025.03.10-04.15.05:174][170]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.10-04.15.05:174][170]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.10-04.15.05:174][170]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.10-04.15.05:174][170]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.10-04.15.05:174][170]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.10-04.15.05:174][170]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.10-04.15.05:174][170]AssetCheck: /Game/Level/LV1 Validating asset
+[2025.03.10-04.15.05:174][170]AssetCheck: /Game/Level/_GENERATED/rawll/Box_6DDCB2A2 Validating asset
+[2025.03.10-04.15.05:174][170]AssetCheck: /Game/Broken_wall_Blueprint Validating asset
