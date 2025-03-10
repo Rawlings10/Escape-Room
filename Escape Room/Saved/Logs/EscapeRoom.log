@@ -3575,3 +3575,141 @@ Scale3D: 1.000000 1.000000 1.000000
 [2025.03.10-19.22.04:056][381]AssetCheck: /Game/Level/LV1 Validating asset
 [2025.03.10-19.22.04:056][381]AssetCheck: /Game/MybluePrints/BP_BrokenWall Validating asset
 [2025.03.10-19.22.04:056][381]AssetCheck: /Game/MybluePrints/BP_ShowDirection Validating asset
+[2025.03.10-19.25.35:471][905]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Characters/Zombie/BP_Zombie.BP_Zombie_C
+[2025.03.10-19.25.35:471][905]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Characters/Zombie/BP_Zombie.BP_Zombie_C
+[2025.03.10-19.25.35:474][905]LogActorFactory: Actor Factory spawned Blueprint /Game/Characters/Zombie/BP_Zombie.BP_Zombie as actor: BP_Zombie_C /Game/Level/LV1.LV1:PersistentLevel.BP_Zombie_C_14
+[2025.03.10-19.25.35:475][905]LogActorFactory: Actor Factory spawned Blueprint /Game/Characters/Zombie/BP_Zombie.BP_Zombie as actor: BP_Zombie_C /Game/Level/LV1.LV1:PersistentLevel.BP_Zombie_C_14
+[2025.03.10-19.25.36:447][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.03.10-19.25.36:450][953]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2025.03.10-19.25.36:455][953]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Characters/Zombie/BP_Zombie.BP_Zombie_C
+[2025.03.10-19.25.36:456][953]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Characters/Zombie/BP_Zombie.BP_Zombie_C
+[2025.03.10-19.25.36:461][953]LogActorFactory: Actor Factory spawned Blueprint /Game/Characters/Zombie/BP_Zombie.BP_Zombie as actor: BP_Zombie_C /Game/Level/LV1.LV1:PersistentLevel.BP_Zombie_C_15
+[2025.03.10-19.25.36:462][953]LogActorFactory: Actor Factory spawned Blueprint /Game/Characters/Zombie/BP_Zombie.BP_Zombie as actor: BP_Zombie_C /Game/Level/LV1.LV1:PersistentLevel.BP_Zombie_C_15
+[2025.03.10-19.25.57:905][210]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Characters/Zombie/BP_Zombie.BP_Zombie_C
+[2025.03.10-19.25.57:905][210]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Characters/Zombie/BP_Zombie.BP_Zombie_C
+[2025.03.10-19.25.57:909][210]LogActorFactory: Actor Factory spawned Blueprint /Game/Characters/Zombie/BP_Zombie.BP_Zombie as actor: BP_Zombie_C /Game/Level/LV1.LV1:PersistentLevel.BP_Zombie_C_16
+[2025.03.10-19.25.57:910][210]LogActorFactory: Actor Factory spawned Blueprint /Game/Characters/Zombie/BP_Zombie.BP_Zombie as actor: BP_Zombie_C /Game/Level/LV1.LV1:PersistentLevel.BP_Zombie_C_16
+[2025.03.10-19.25.58:475][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.03.10-19.25.58:477][239]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2025.03.10-19.25.58:483][239]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Characters/Zombie/BP_Zombie.BP_Zombie_C
+[2025.03.10-19.25.58:483][239]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Characters/Zombie/BP_Zombie.BP_Zombie_C
+[2025.03.10-19.25.58:488][239]LogActorFactory: Actor Factory spawned Blueprint /Game/Characters/Zombie/BP_Zombie.BP_Zombie as actor: BP_Zombie_C /Game/Level/LV1.LV1:PersistentLevel.BP_Zombie_C_17
+[2025.03.10-19.25.58:489][239]LogActorFactory: Actor Factory spawned Blueprint /Game/Characters/Zombie/BP_Zombie.BP_Zombie as actor: BP_Zombie_C /Game/Level/LV1.LV1:PersistentLevel.BP_Zombie_C_17
+[2025.03.10-19.26.16:016][264]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Characters/Zombie/BP_Zombie.BP_Zombie_C
+[2025.03.10-19.26.16:016][264]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Characters/Zombie/BP_Zombie.BP_Zombie_C
+[2025.03.10-19.26.16:019][264]LogActorFactory: Actor Factory spawned Blueprint /Game/Characters/Zombie/BP_Zombie.BP_Zombie as actor: BP_Zombie_C /Game/Level/LV1.LV1:PersistentLevel.BP_Zombie_C_18
+[2025.03.10-19.26.16:020][264]LogActorFactory: Actor Factory spawned Blueprint /Game/Characters/Zombie/BP_Zombie.BP_Zombie as actor: BP_Zombie_C /Game/Level/LV1.LV1:PersistentLevel.BP_Zombie_C_18
+[2025.03.10-19.26.17:113][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.03.10-19.26.17:116][322]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2025.03.10-19.26.17:123][322]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Characters/Zombie/BP_Zombie.BP_Zombie_C
+[2025.03.10-19.26.17:124][322]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Characters/Zombie/BP_Zombie.BP_Zombie_C
+[2025.03.10-19.26.17:128][322]LogActorFactory: Actor Factory spawned Blueprint /Game/Characters/Zombie/BP_Zombie.BP_Zombie as actor: BP_Zombie_C /Game/Level/LV1.LV1:PersistentLevel.BP_Zombie_C_19
+[2025.03.10-19.26.17:130][322]LogActorFactory: Actor Factory spawned Blueprint /Game/Characters/Zombie/BP_Zombie.BP_Zombie as actor: BP_Zombie_C /Game/Level/LV1.LV1:PersistentLevel.BP_Zombie_C_19
+[2025.03.10-19.26.37:165][497]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Characters/Zombie/BP_Zombie.BP_Zombie_C
+[2025.03.10-19.26.37:165][497]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Characters/Zombie/BP_Zombie.BP_Zombie_C
+[2025.03.10-19.26.37:168][497]LogActorFactory: Actor Factory spawned Blueprint /Game/Characters/Zombie/BP_Zombie.BP_Zombie as actor: BP_Zombie_C /Game/Level/LV1.LV1:PersistentLevel.BP_Zombie_C_20
+[2025.03.10-19.26.37:169][497]LogActorFactory: Actor Factory spawned Blueprint /Game/Characters/Zombie/BP_Zombie.BP_Zombie as actor: BP_Zombie_C /Game/Level/LV1.LV1:PersistentLevel.BP_Zombie_C_20
+[2025.03.10-19.26.37:875][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.03.10-19.26.37:877][533]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2025.03.10-19.26.37:883][533]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Characters/Zombie/BP_Zombie.BP_Zombie_C
+[2025.03.10-19.26.37:883][533]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Characters/Zombie/BP_Zombie.BP_Zombie_C
+[2025.03.10-19.26.37:888][533]LogActorFactory: Actor Factory spawned Blueprint /Game/Characters/Zombie/BP_Zombie.BP_Zombie as actor: BP_Zombie_C /Game/Level/LV1.LV1:PersistentLevel.BP_Zombie_C_21
+[2025.03.10-19.26.37:889][533]LogActorFactory: Actor Factory spawned Blueprint /Game/Characters/Zombie/BP_Zombie.BP_Zombie as actor: BP_Zombie_C /Game/Level/LV1.LV1:PersistentLevel.BP_Zombie_C_21
+[2025.03.10-19.26.59:381][812]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Zombie_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Zombie_C_8
+	Function /Game/Characters/Zombie/ABP_Zombie.ABP_Zombie_C:ExecuteUbergraph_ABP_Zombie:0040
+[2025.03.10-19.26.59:398][813]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Zombie_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Zombie_C_9
+	Function /Game/Characters/Zombie/ABP_Zombie.ABP_Zombie_C:ExecuteUbergraph_ABP_Zombie:0040
+[2025.03.10-19.26.59:415][814]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Zombie_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Zombie_C_10
+	Function /Game/Characters/Zombie/ABP_Zombie.ABP_Zombie_C:ExecuteUbergraph_ABP_Zombie:0040
+[2025.03.10-19.26.59:431][815]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Zombie_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Zombie_C_11
+	Function /Game/Characters/Zombie/ABP_Zombie.ABP_Zombie_C:ExecuteUbergraph_ABP_Zombie:0040
+[2025.03.10-19.26.59:448][816]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Zombie_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Zombie_C_12
+	Function /Game/Characters/Zombie/ABP_Zombie.ABP_Zombie_C:ExecuteUbergraph_ABP_Zombie:0040
+[2025.03.10-19.26.59:465][817]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Zombie_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Zombie_C_13
+	Function /Game/Characters/Zombie/ABP_Zombie.ABP_Zombie_C:ExecuteUbergraph_ABP_Zombie:0040
+[2025.03.10-19.26.59:500][818]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Zombie_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Zombie_C_14
+	Function /Game/Characters/Zombie/ABP_Zombie.ABP_Zombie_C:ExecuteUbergraph_ABP_Zombie:0040
+[2025.03.10-19.26.59:515][819]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Zombie_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Zombie_C_15
+	Function /Game/Characters/Zombie/ABP_Zombie.ABP_Zombie_C:ExecuteUbergraph_ABP_Zombie:0040
+[2025.03.10-19.26.59:530][820]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Zombie_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Zombie_C_16
+	Function /Game/Characters/Zombie/ABP_Zombie.ABP_Zombie_C:ExecuteUbergraph_ABP_Zombie:0040
+[2025.03.10-19.26.59:547][821]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Zombie_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Zombie_C_17
+	Function /Game/Characters/Zombie/ABP_Zombie.ABP_Zombie_C:ExecuteUbergraph_ABP_Zombie:0040
+[2025.03.10-19.26.59:564][822]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Zombie_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Zombie_C_18
+	Function /Game/Characters/Zombie/ABP_Zombie.ABP_Zombie_C:ExecuteUbergraph_ABP_Zombie:0040
+[2025.03.10-19.26.59:581][823]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Zombie_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Zombie_C_19
+	Function /Game/Characters/Zombie/ABP_Zombie.ABP_Zombie_C:ExecuteUbergraph_ABP_Zombie:0040
+[2025.03.10-19.26.59:597][824]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Zombie_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Zombie_C_20
+	Function /Game/Characters/Zombie/ABP_Zombie.ABP_Zombie_C:ExecuteUbergraph_ABP_Zombie:0040
+[2025.03.10-19.26.59:614][825]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Zombie_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Zombie_C_21
+	Function /Game/Characters/Zombie/ABP_Zombie.ABP_Zombie_C:ExecuteUbergraph_ABP_Zombie:0040
+[2025.03.10-19.26.59:631][826]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Zombie_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Zombie_C_22
+	Function /Game/Characters/Zombie/ABP_Zombie.ABP_Zombie_C:ExecuteUbergraph_ABP_Zombie:0040
+[2025.03.10-19.27.57:062][150]Cmd: TRANSACTION UNDO
+[2025.03.10-19.27.57:062][150]LogEditorTransaction: Undo Clicking on Elements
+[2025.03.10-19.27.59:894][284]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.03.10-19.28.02:763][432]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.03.10-19.28.04:072][504]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6712.956543
+[2025.03.10-19.28.04:139][508]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-19.28.04:139][509]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6713.006836, Update Interval: 313.255402
+[2025.03.10-19.28.11:973][942]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.03.10-19.28.27:685][835]Cmd: TRANSACTION UNDO
+[2025.03.10-19.28.27:685][835]LogEditorTransaction: Undo Clicking on Elements
+[2025.03.10-19.28.54:663][414]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Characters/Zombie/BP_Zombie.BP_Zombie_C
+[2025.03.10-19.28.54:663][414]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Characters/Zombie/BP_Zombie.BP_Zombie_C
+[2025.03.10-19.28.54:666][414]LogActorFactory: Actor Factory spawned Blueprint /Game/Characters/Zombie/BP_Zombie.BP_Zombie as actor: BP_Zombie_C /Game/Level/LV1.LV1:PersistentLevel.BP_Zombie_C_23
+[2025.03.10-19.28.54:667][414]LogActorFactory: Actor Factory spawned Blueprint /Game/Characters/Zombie/BP_Zombie.BP_Zombie as actor: BP_Zombie_C /Game/Level/LV1.LV1:PersistentLevel.BP_Zombie_C_23
+[2025.03.10-19.28.55:709][462]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.03.10-19.28.55:713][462]LogEditorActor: Deleted 0 Actors (0.036 secs)
+[2025.03.10-19.28.55:721][462]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Characters/Zombie/BP_Zombie.BP_Zombie_C
+[2025.03.10-19.28.55:721][462]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Characters/Zombie/BP_Zombie.BP_Zombie_C
+[2025.03.10-19.28.55:726][462]LogActorFactory: Actor Factory spawned Blueprint /Game/Characters/Zombie/BP_Zombie.BP_Zombie as actor: BP_Zombie_C /Game/Level/LV1.LV1:PersistentLevel.BP_Zombie_C_24
+[2025.03.10-19.28.55:727][462]LogActorFactory: Actor Factory spawned Blueprint /Game/Characters/Zombie/BP_Zombie.BP_Zombie as actor: BP_Zombie_C /Game/Level/LV1.LV1:PersistentLevel.BP_Zombie_C_24
+[2025.03.10-19.31.05:994][141]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Zombie_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Zombie_C_23
+	Function /Game/Characters/Zombie/ABP_Zombie.ABP_Zombie_C:ExecuteUbergraph_ABP_Zombie:0040
+[2025.03.10-19.31.06:011][142]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Zombie_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Zombie_C_24
+	Function /Game/Characters/Zombie/ABP_Zombie.ABP_Zombie_C:ExecuteUbergraph_ABP_Zombie:0040
+[2025.03.10-19.31.06:029][143]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Zombie_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Zombie_C_25
+	Function /Game/Characters/Zombie/ABP_Zombie.ABP_Zombie_C:ExecuteUbergraph_ABP_Zombie:0040
+[2025.03.10-19.31.06:044][144]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Zombie_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Zombie_C_26
+	Function /Game/Characters/Zombie/ABP_Zombie.ABP_Zombie_C:ExecuteUbergraph_ABP_Zombie:0040
+[2025.03.10-19.31.06:060][145]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Zombie_C /Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Zombie_C_27
+	Function /Game/Characters/Zombie/ABP_Zombie.ABP_Zombie_C:ExecuteUbergraph_ABP_Zombie:0040
+[2025.03.10-19.32.29:749][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.03.10-19.32.30:665][ 86]LogSlate: Window 'Save Content' being destroyed
+[2025.03.10-19.32.30:680][ 86]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.10-19.32.30:742][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/LV1" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/LV1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.10-19.32.30:792][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.03.10-19.32.30:903][ 86]LogSavePackage: Moving output files for package: /Game/Level/LV1
+[2025.03.10-19.32.30:904][ 86]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/LV1F02C37824EE15F0C27C82FB6EB5BB682.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/LV1.umap'
+[2025.03.10-19.32.30:918][ 86]LogFileHelpers: Saving map 'LV1' took 0.178
+[2025.03.10-19.32.30:931][ 86]LogFileHelpers: InternalPromptForCheckoutAndSave took 250.549 ms (total: 569.766 ms)
+[2025.03.10-19.32.30:995][ 86]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.10-19.32.30:995][ 86]LogContentValidation: Enabled validators:
+[2025.03.10-19.32.30:995][ 86]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.10-19.32.30:995][ 86]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.10-19.32.30:995][ 86]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.10-19.32.30:995][ 86]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.10-19.32.30:995][ 86]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.10-19.32.30:995][ 86]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.10-19.32.30:997][ 86]AssetCheck: /Game/Level/LV1 Validating asset
