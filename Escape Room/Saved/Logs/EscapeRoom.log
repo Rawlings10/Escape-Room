@@ -9419,3 +9419,1343 @@ Scale3D: 1.000000 1.000000 1.000000
 [2025.03.11-04.55.14:486][754]AssetCheck: /Game/MybluePrints/BP_BrokenWall Validating asset
 [2025.03.11-04.55.14:486][754]AssetCheck: /Game/MybluePrints/BP_ShowDirection Validating asset
 [2025.03.11-04.55.14:486][754]AssetCheck: /Game/Sound/explosion-307469 Validating asset
+[2025.03.11-04.56.16:225][703]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.11-04.56.16:225][703]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2025.03.11-04.56.16:225][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.11-04.56.16:471][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.03.11-04.56.36:320][873]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Zombie/BP_Zombie.BP_Zombie
+[2025.03.11-04.56.36:320][873]LogChaosDD: Creating Chaos Debug Draw Scene for world World_85
+[2025.03.11-04.56.59:392][156]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 40557.347656
+[2025.03.11-04.56.59:492][162]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.11-04.56.59:492][162]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 40557.425781, Update Interval: 341.478333
+[2025.03.11-04.59.35:967][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.03.11-05.02.56:551][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.03.11-05.03.11:606][146]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 40911.144531
+[2025.03.11-05.03.11:707][152]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.11-05.03.11:707][152]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 40911.226562, Update Interval: 343.866089
+[2025.03.11-05.04.23:531][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.03.11-05.04.32:169][753]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MybluePrints/BP_Fire.BP_Fire
+[2025.03.11-05.04.32:170][753]LogChaosDD: Creating Chaos Debug Draw Scene for world World_86
+[2025.03.11-05.04.39:353][149]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.11-05.04.39:362][149]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.11-05.04.39:362][149]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV1
+[2025.03.11-05.04.39:406][149]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042838s)
+[2025.03.11-05.04.39:406][149]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV1.LV1 to /Game/Level/UEDPIE_0_LV1.LV1 (0.042883s)
+[2025.03.11-05.04.39:510][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.03.11-05.04.39:516][149]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.03.11-05.04.39:518][149]LogPlayLevel: PIE: World Init took: (0.001922s)
+[2025.03.11-05.04.39:519][149]LogAudio: Display: Creating Audio Device:                 Id: 69, Scope: Unique, Realtime: True
+[2025.03.11-05.04.39:519][149]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.11-05.04.39:519][149]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.11-05.04.39:519][149]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.11-05.04.39:519][149]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.11-05.04.39:519][149]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.11-05.04.39:519][149]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.11-05.04.39:519][149]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.11-05.04.39:519][149]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.11-05.04.39:519][149]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.11-05.04.39:519][149]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.11-05.04.39:519][149]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.11-05.04.39:522][149]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.11-05.04.39:704][149]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.03.11-05.04.39:704][149]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.11-05.04.39:704][149]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.11-05.04.39:704][149]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.11-05.04.39:704][149]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=69
+[2025.03.11-05.04.39:704][149]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=69
+[2025.03.11-05.04.39:708][149]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=69
+[2025.03.11-05.04.39:708][149]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=69
+[2025.03.11-05.04.39:708][149]LogInit: FAudioDevice initialized with ID 69.
+[2025.03.11-05.04.39:708][149]LogAudio: Display: Audio Device (ID: 69) registered with world 'LV1'.
+[2025.03.11-05.04.39:708][149]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 69
+[2025.03.11-05.04.39:711][149]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.11-05.04.39:744][149]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV1.LV1 up for play (max tick rate 60) at 2025.03.11-01.04.39
+[2025.03.11-05.04.39:769][149]LogWorld: Bringing up level for play took: 0.056892
+[2025.03.11-05.04.39:785][149]LogOnline: OSS: Created online subsystem instance for: :Context_154
+[2025.03.11-05.04.39:793][149]PIE: Server logged in
+[2025.03.11-05.04.39:794][149]PIE: Play in editor total start time 0.433 seconds.
+[2025.03.11-05.04.44:522][398]LogBlueprintUserMessages: [BP_key2_C_2] BEDROOM KEY FOUND
+[2025.03.11-05.04.49:281][681]LogBlueprintUserMessages: [BP_key3_C_3] KITCHEN KEY FOUND
+[2025.03.11-05.04.51:936][828]LogCharacterMovement: BP_Zombie_C_29 is stuck and failed to move! Velocity: X=-0.05 Y=-20.71 Z=0.00 Location: X=2966.01 Y=1357.30 Z=240.67 Normal: X=0.54 Y=-0.84 Z=-0.00 PenetrationDepth:2.670 Actor:BP_Zombie_C_28 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.11-05.04.52:999][888]LogCharacterMovement: BP_Zombie_C_29 is stuck and failed to move! Velocity: X=-20.56 Y=-2.44 Z=0.00 Location: X=3033.27 Y=1357.30 Z=240.67 Normal: X=0.86 Y=-0.51 Z=0.00 PenetrationDepth:0.009 Actor:BP_Zombie_C_28 Component:CharacterMesh0 BoneName:RightHand (39 other events since notify)
+[2025.03.11-05.04.54:052][948]LogCharacterMovement: BP_Zombie_C_55 is stuck and failed to move! Velocity: X=-40.18 Y=-7.58 Z=0.00 Location: X=457.32 Y=-148.53 Z=841.22 Normal: X=-0.69 Y=-0.72 Z=0.00 PenetrationDepth:32.477 Actor:BP_Zombie_C_54 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2025.03.11-05.04.54:177][955]LogCharacterMovement: BP_Zombie_C_29 is stuck and failed to move! Velocity: X=-20.53 Y=-2.74 Z=0.00 Location: X=3026.23 Y=1357.30 Z=240.67 Normal: X=0.94 Y=-0.35 Z=0.00 PenetrationDepth:0.040 Actor:BP_Zombie_C_28 Component:CharacterMesh0 BoneName:RightHand (16 other events since notify)
+[2025.03.11-05.04.55:076][  1]LogCharacterMovement: BP_Zombie_C_55 is stuck and failed to move! Velocity: X=-33.25 Y=-7.71 Z=0.00 Location: X=456.12 Y=-142.64 Z=841.22 Normal: X=-0.77 Y=0.63 Z=-0.00 PenetrationDepth:33.534 Actor:BP_Zombie_C_54 Component:CharacterMesh0 BoneName:LeftHand (3 other events since notify)
+[2025.03.11-05.04.55:177][  7]LogCharacterMovement: BP_Zombie_C_43 is stuck and failed to move! Velocity: X=-19.52 Y=-6.93 Z=0.00 Location: X=2033.06 Y=-864.85 Z=841.20 Normal: X=-0.66 Y=0.75 Z=-0.00 PenetrationDepth:0.508 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.11-05.05.01:700][383]LogCharacterMovement: BP_FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=52.56 Y=7.67 Z=0.00 Location: X=363.45 Y=-174.65 Z=797.75 Normal: X=-0.41 Y=0.15 Z=-0.90 PenetrationDepth:3.224 Actor:BP_Zombie_C_55 Component:CharacterMesh0 BoneName:RightArm (0 other events since notify)
+[2025.03.11-05.05.12:957][ 30]LogCharacterMovement: BP_Zombie_C_22 is stuck and failed to move! Velocity: X=18.28 Y=9.73 Z=0.00 Location: X=1368.01 Y=347.55 Z=240.67 Normal: X=0.14 Y=-0.99 Z=-0.00 PenetrationDepth:0.144 Actor:BP_Zombie_C_21 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2025.03.11-05.05.13:946][ 87]LogCharacterMovement: BP_Zombie_C_39 is stuck and failed to move! Velocity: X=-7.57 Y=-19.27 Z=0.00 Location: X=1574.87 Y=-1181.87 Z=841.20 Normal: X=-0.85 Y=0.53 Z=0.00 PenetrationDepth:0.123 Actor:BP_Zombie_C_41 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.11-05.05.15:159][157]LogCharacterMovement: BP_Zombie_C_39 is stuck and failed to move! Velocity: X=-5.46 Y=-19.98 Z=0.00 Location: X=1574.87 Y=-1142.01 Z=841.20 Normal: X=-0.84 Y=0.55 Z=0.00 PenetrationDepth:0.047 Actor:BP_Zombie_C_41 Component:CharacterMesh0 BoneName:LeftHand (32 other events since notify)
+[2025.03.11-05.05.16:173][215]LogCharacterMovement: BP_Zombie_C_39 is stuck and failed to move! Velocity: X=-4.75 Y=-20.16 Z=0.00 Location: X=1574.87 Y=-1118.30 Z=841.20 Normal: X=-0.47 Y=0.88 Z=-0.00 PenetrationDepth:0.491 Actor:BP_Zombie_C_41 Component:CharacterMesh0 BoneName:LeftHand (33 other events since notify)
+[2025.03.11-05.05.18:859][371]LogCharacterMovement: BP_Zombie_C_39 is stuck and failed to move! Velocity: X=-3.60 Y=-20.39 Z=0.00 Location: X=1574.87 Y=-1070.21 Z=841.20 Normal: X=-0.83 Y=0.56 Z=-0.00 PenetrationDepth:0.431 Actor:BP_Zombie_C_41 Component:CharacterMesh0 BoneName:RightHand (19 other events since notify)
+[2025.03.11-05.05.19:218][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.11-05.05.19:218][389]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV1
+[2025.03.11-05.05.19:221][389]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.03.11-05.05.19:226][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.11-05.05.19:341][389]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.11-05.05.19:351][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.11-05.05.19:374][389]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.11-05.05.19:374][389]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 69
+[2025.03.11-05.05.19:374][389]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=69
+[2025.03.11-05.05.19:377][389]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=69
+[2025.03.11-05.05.19:383][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.11-05.05.19:394][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.03.11-05.05.19:474][390]LogPlayLevel: Display: Destroying online subsystem :Context_154
+[2025.03.11-05.07.20:949][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.03.11-05.07.24:059][760]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.11-05.07.24:069][760]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.11-05.07.24:069][760]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV1
+[2025.03.11-05.07.24:113][760]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043277s)
+[2025.03.11-05.07.24:113][760]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV1.LV1 to /Game/Level/UEDPIE_0_LV1.LV1 (0.043319s)
+[2025.03.11-05.07.24:137][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.03.11-05.07.24:148][760]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.03.11-05.07.24:150][760]LogPlayLevel: PIE: World Init took: (0.001824s)
+[2025.03.11-05.07.24:151][760]LogAudio: Display: Creating Audio Device:                 Id: 70, Scope: Unique, Realtime: True
+[2025.03.11-05.07.24:151][760]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.11-05.07.24:151][760]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.11-05.07.24:151][760]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.11-05.07.24:151][760]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.11-05.07.24:151][760]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.11-05.07.24:151][760]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.11-05.07.24:151][760]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.11-05.07.24:151][760]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.11-05.07.24:151][760]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.11-05.07.24:151][760]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.11-05.07.24:151][760]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.11-05.07.24:153][760]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.11-05.07.24:329][760]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.03.11-05.07.24:330][760]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.11-05.07.24:330][760]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.11-05.07.24:330][760]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.11-05.07.24:330][760]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=70
+[2025.03.11-05.07.24:330][760]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=70
+[2025.03.11-05.07.24:333][760]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=70
+[2025.03.11-05.07.24:333][760]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=70
+[2025.03.11-05.07.24:333][760]LogInit: FAudioDevice initialized with ID 70.
+[2025.03.11-05.07.24:333][760]LogAudio: Display: Audio Device (ID: 70) registered with world 'LV1'.
+[2025.03.11-05.07.24:333][760]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 70
+[2025.03.11-05.07.24:336][760]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.11-05.07.24:369][760]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV1.LV1 up for play (max tick rate 60) at 2025.03.11-01.07.24
+[2025.03.11-05.07.24:393][760]LogWorld: Bringing up level for play took: 0.055192
+[2025.03.11-05.07.24:408][760]LogOnline: OSS: Created online subsystem instance for: :Context_155
+[2025.03.11-05.07.24:416][760]PIE: Server logged in
+[2025.03.11-05.07.24:418][760]PIE: Play in editor total start time 0.349 seconds.
+[2025.03.11-05.07.25:877][822]LogBlueprintUserMessages: [BP_key3_C_3] KITCHEN KEY FOUND
+[2025.03.11-05.07.35:947][415]LogCharacterMovement: BP_FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-444.22 Y=-403.33 Z=0.00 Location: X=388.39 Y=-686.72 Z=798.09 Normal: X=0.56 Y=-0.20 Z=-0.80 PenetrationDepth:16.113 Actor:BP_Zombie_C_57 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.11-05.07.36:143][426]LogCharacterMovement: BP_Zombie_C_57 is stuck and failed to move! Velocity: X=186.22 Y=223.64 Z=0.00 Location: X=247.39 Y=-781.76 Z=841.20 Normal: X=1.00 Y=0.00 Z=0.00 PenetrationDepth:9.794 Actor:StaticMeshActor_47 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2025.03.11-05.07.37:892][522]LogCharacterMovement: BP_FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=207.30 Y=-563.05 Z=0.00 Location: X=299.68 Y=-1302.58 Z=797.47 Normal: X=-0.70 Y=-0.18 Z=-0.69 PenetrationDepth:2.419 Actor:BP_Zombie_C_57 Component:CharacterMesh0 BoneName:RightHand (3 other events since notify)
+[2025.03.11-05.07.38:512][554]LogCharacterMovement: BP_Zombie_C_43 is stuck and failed to move! Velocity: X=7.09 Y=-19.46 Z=0.00 Location: X=2125.02 Y=-849.54 Z=841.20 Normal: X=0.52 Y=0.85 Z=0.00 PenetrationDepth:1.626 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:LeftArm (0 other events since notify)
+[2025.03.11-05.07.38:612][559]LogCharacterMovement: BP_Zombie_C_44 is stuck and failed to move! Velocity: X=-6.37 Y=19.71 Z=0.00 Location: X=2052.17 Y=-991.70 Z=841.20 Normal: X=-0.53 Y=-0.85 Z=-0.00 PenetrationDepth:0.537 Actor:BP_Zombie_C_43 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2025.03.11-05.07.41:419][716]LogCharacterMovement: BP_Zombie_C_32 is stuck and failed to move! Velocity: X=24.01 Y=65.13 Z=0.00 Location: X=520.64 Y=-1637.30 Z=841.20 Normal: X=0.95 Y=-0.31 Z=-0.00 PenetrationDepth:11.591 Actor:BP_FirstPersonCharacter_C_0 Component:Capsule BoneName:None (0 other events since notify)
+[2025.03.11-05.07.43:997][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.11-05.07.43:997][860]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV1
+[2025.03.11-05.07.44:000][860]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.03.11-05.07.44:006][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.11-05.07.44:053][860]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.11-05.07.44:060][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.11-05.07.44:086][860]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.11-05.07.44:087][860]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 70
+[2025.03.11-05.07.44:087][860]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=70
+[2025.03.11-05.07.44:090][860]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=70
+[2025.03.11-05.07.44:095][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.11-05.07.44:106][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.03.11-05.07.44:184][861]LogPlayLevel: Display: Destroying online subsystem :Context_155
+[2025.03.11-05.08.33:830][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.03.11-05.08.53:783][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.03.11-05.08.55:442][885]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.11-05.08.55:451][885]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.11-05.08.55:477][885]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV1
+[2025.03.11-05.08.55:519][885]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042191s)
+[2025.03.11-05.08.55:519][885]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV1.LV1 to /Game/Level/UEDPIE_0_LV1.LV1 (0.042236s)
+[2025.03.11-05.08.55:544][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.03.11-05.08.55:553][885]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.03.11-05.08.55:554][885]LogPlayLevel: PIE: World Init took: (0.001847s)
+[2025.03.11-05.08.55:556][885]LogAudio: Display: Creating Audio Device:                 Id: 71, Scope: Unique, Realtime: True
+[2025.03.11-05.08.55:557][885]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.11-05.08.55:557][885]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.11-05.08.55:557][885]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.11-05.08.55:557][885]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.11-05.08.55:557][885]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.11-05.08.55:557][885]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.11-05.08.55:557][885]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.11-05.08.55:557][885]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.11-05.08.55:557][885]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.11-05.08.55:557][885]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.11-05.08.55:557][885]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.11-05.08.55:559][885]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.11-05.08.55:741][885]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.03.11-05.08.55:741][885]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.11-05.08.55:742][885]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.11-05.08.55:742][885]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.11-05.08.55:742][885]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=71
+[2025.03.11-05.08.55:742][885]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=71
+[2025.03.11-05.08.55:745][885]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=71
+[2025.03.11-05.08.55:745][885]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=71
+[2025.03.11-05.08.55:745][885]LogInit: FAudioDevice initialized with ID 71.
+[2025.03.11-05.08.55:745][885]LogAudio: Display: Audio Device (ID: 71) registered with world 'LV1'.
+[2025.03.11-05.08.55:745][885]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 71
+[2025.03.11-05.08.55:749][885]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.11-05.08.55:783][885]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV1.LV1 up for play (max tick rate 60) at 2025.03.11-01.08.55
+[2025.03.11-05.08.55:808][885]LogWorld: Bringing up level for play took: 0.059271
+[2025.03.11-05.08.55:825][885]LogOnline: OSS: Created online subsystem instance for: :Context_156
+[2025.03.11-05.08.55:834][885]PIE: Server logged in
+[2025.03.11-05.08.55:836][885]PIE: Play in editor total start time 0.384 seconds.
+[2025.03.11-05.08.58:447][  6]LogBlueprintUserMessages: [BP_key2_C_2] BEDROOM KEY FOUND
+[2025.03.11-05.09.07:970][568]LogCharacterMovement: BP_Zombie_C_57 is stuck and failed to move! Velocity: X=15.38 Y=13.87 Z=0.00 Location: X=252.13 Y=-628.94 Z=841.20 Normal: X=1.00 Y=0.00 Z=0.00 PenetrationDepth:5.048 Actor:StaticMeshActor_47 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2025.03.11-05.09.08:703][610]LogCharacterMovement: BP_FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=1.45 Y=36.76 Z=0.00 Location: X=332.23 Y=-549.27 Z=798.06 Normal: X=0.62 Y=-0.20 Z=-0.76 PenetrationDepth:40.595 Actor:BP_Zombie_C_57 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.11-05.09.08:983][626]LogCharacterMovement: BP_Zombie_C_57 is stuck and failed to move! Velocity: X=-0.40 Y=-20.70 Z=0.00 Location: X=252.13 Y=-628.94 Z=841.20 Normal: X=1.00 Y=0.00 Z=0.00 PenetrationDepth:5.048 Actor:StaticMeshActor_47 Component:StaticMeshComponent0 BoneName:None (57 other events since notify)
+[2025.03.11-05.09.09:719][668]LogCharacterMovement: BP_FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-482.35 Y=-356.84 Z=0.00 Location: X=369.00 Y=-586.68 Z=797.37 Normal: X=0.64 Y=0.21 Z=-0.74 PenetrationDepth:13.769 Actor:BP_Zombie_C_57 Component:CharacterMesh0 BoneName:RightArm (8 other events since notify)
+[2025.03.11-05.09.09:997][684]LogCharacterMovement: BP_Zombie_C_57 is stuck and failed to move! Velocity: X=-0.40 Y=-20.70 Z=0.00 Location: X=252.13 Y=-628.94 Z=841.20 Normal: X=1.00 Y=0.00 Z=0.00 PenetrationDepth:5.048 Actor:StaticMeshActor_47 Component:StaticMeshComponent0 BoneName:None (57 other events since notify)
+[2025.03.11-05.09.12:556][826]LogCharacterMovement: BP_Zombie_C_56 is stuck and failed to move! Velocity: X=-577.58 Y=162.49 Z=0.00 Location: X=755.26 Y=-667.67 Z=841.20 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:12.435 Actor:StaticMeshActor_44 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2025.03.11-05.09.14:484][933]LogCharacterMovement: BP_Zombie_C_56 is stuck and failed to move! Velocity: X=-20.71 Y=-0.08 Z=0.00 Location: X=253.04 Y=-521.68 Z=841.20 Normal: X=1.00 Y=0.00 Z=0.00 PenetrationDepth:4.136 Actor:StaticMeshActor_47 Component:StaticMeshComponent0 BoneName:None (5 other events since notify)
+[2025.03.11-05.09.14:642][942]LogCharacterMovement: BP_FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-457.40 Y=-165.36 Z=0.00 Location: X=311.42 Y=-615.68 Z=797.49 Normal: X=0.63 Y=-0.60 Z=-0.49 PenetrationDepth:4.256 Actor:BP_Zombie_C_56 Component:CharacterMesh0 BoneName:RightArm (27 other events since notify)
+[2025.03.11-05.09.16:105][ 23]LogCharacterMovement: BP_Zombie_C_56 is stuck and failed to move! Velocity: X=-0.58 Y=-20.70 Z=0.00 Location: X=257.30 Y=-152.21 Z=841.20 Normal: X=-0.30 Y=0.96 Z=0.00 PenetrationDepth:0.629 Actor:BP_FirstPersonCharacter_C_0 Component:Capsule BoneName:None (23 other events since notify)
+[2025.03.11-05.09.16:121][ 24]LogBlueprintUserMessages: [BP_key3_C_3] KITCHEN KEY FOUND
+[2025.03.11-05.09.16:518][ 46]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_1] WEAPON FOUND
+[2025.03.11-05.09.18:658][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.11-05.09.18:658][162]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV1
+[2025.03.11-05.09.18:660][162]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.03.11-05.09.18:666][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.11-05.09.18:742][162]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.11-05.09.18:751][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.11-05.09.18:780][162]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.11-05.09.18:781][162]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 71
+[2025.03.11-05.09.18:781][162]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=71
+[2025.03.11-05.09.18:783][162]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=71
+[2025.03.11-05.09.18:787][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.11-05.09.18:799][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.03.11-05.09.18:878][163]LogPlayLevel: Display: Destroying online subsystem :Context_156
+[2025.03.11-05.09.26:998][639]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 41272.085938
+[2025.03.11-05.09.27:082][644]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.11-05.09.27:082][644]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 41272.148438, Update Interval: 320.986359
+[2025.03.11-05.09.58:167][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.03.11-05.09.59:652][507]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.11-05.09.59:662][507]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.11-05.09.59:662][507]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV1
+[2025.03.11-05.09.59:704][507]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042305s)
+[2025.03.11-05.09.59:704][507]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV1.LV1 to /Game/Level/UEDPIE_0_LV1.LV1 (0.042344s)
+[2025.03.11-05.09.59:728][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.03.11-05.09.59:737][507]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.03.11-05.09.59:739][507]LogPlayLevel: PIE: World Init took: (0.001703s)
+[2025.03.11-05.09.59:740][507]LogAudio: Display: Creating Audio Device:                 Id: 72, Scope: Unique, Realtime: True
+[2025.03.11-05.09.59:740][507]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.11-05.09.59:740][507]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.11-05.09.59:740][507]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.11-05.09.59:740][507]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.11-05.09.59:740][507]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.11-05.09.59:740][507]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.11-05.09.59:740][507]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.11-05.09.59:740][507]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.11-05.09.59:740][507]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.11-05.09.59:740][507]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.11-05.09.59:740][507]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.11-05.09.59:743][507]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.11-05.09.59:919][507]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.03.11-05.09.59:919][507]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.11-05.09.59:919][507]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.11-05.09.59:919][507]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.11-05.09.59:919][507]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=72
+[2025.03.11-05.09.59:919][507]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=72
+[2025.03.11-05.09.59:922][507]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=72
+[2025.03.11-05.09.59:922][507]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=72
+[2025.03.11-05.09.59:922][507]LogInit: FAudioDevice initialized with ID 72.
+[2025.03.11-05.09.59:922][507]LogAudio: Display: Audio Device (ID: 72) registered with world 'LV1'.
+[2025.03.11-05.09.59:922][507]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 72
+[2025.03.11-05.09.59:926][507]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.11-05.09.59:958][507]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV1.LV1 up for play (max tick rate 60) at 2025.03.11-01.09.59
+[2025.03.11-05.09.59:982][507]LogWorld: Bringing up level for play took: 0.055685
+[2025.03.11-05.09.59:998][507]LogOnline: OSS: Created online subsystem instance for: :Context_157
+[2025.03.11-05.10.00:008][507]PIE: Server logged in
+[2025.03.11-05.10.00:009][507]PIE: Play in editor total start time 0.348 seconds.
+[2025.03.11-05.10.01:618][577]LogBlueprintUserMessages: [BP_key3_C_3] KITCHEN KEY FOUND
+[2025.03.11-05.10.13:171][256]LogCharacterMovement: BP_Zombie_C_55 is stuck and failed to move! Velocity: X=-95.92 Y=-5.69 Z=0.00 Location: X=1111.43 Y=-143.85 Z=841.20 Normal: X=0.86 Y=-0.51 Z=-0.00 PenetrationDepth:0.092 Actor:BP_Zombie_C_56 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2025.03.11-05.10.16:796][461]LogBlueprintUserMessages: [BP_key2_C_2] BEDROOM KEY FOUND
+[2025.03.11-05.10.19:115][591]LogCharacterMovement: BP_FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=197.99 Y=-0.48 Z=0.00 Location: X=1196.21 Y=-144.94 Z=797.70 Normal: X=-0.50 Y=-0.58 Z=-0.64 PenetrationDepth:0.442 Actor:BP_Zombie_C_56 Component:CharacterMesh0 BoneName:LeftArm (0 other events since notify)
+[2025.03.11-05.10.22:992][813]LogCharacterMovement: BP_Zombie_C_38 is stuck and failed to move! Velocity: X=-18.90 Y=135.55 Z=0.00 Location: X=1459.18 Y=-429.91 Z=841.20 Normal: X=-0.58 Y=-0.81 Z=-0.00 PenetrationDepth:0.246 Actor:BP_Zombie_C_39 Component:CharacterMesh0 BoneName:RightArm (0 other events since notify)
+[2025.03.11-05.10.23:800][861]LogCharacterMovement: BP_Zombie_C_39 is stuck and failed to move! Velocity: X=-2.22 Y=34.06 Z=0.00 Location: X=1553.75 Y=-356.41 Z=841.20 Normal: X=0.94 Y=0.35 Z=-0.00 PenetrationDepth:30.340 Actor:BP_Zombie_C_38 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.11-05.10.23:800][861]LogCharacterMovement: BP_Zombie_C_44 is stuck and failed to move! Velocity: X=7.10 Y=19.45 Z=0.00 Location: X=2111.97 Y=-955.93 Z=841.20 Normal: X=0.86 Y=-0.51 Z=0.00 PenetrationDepth:4.290 Actor:BP_Zombie_C_43 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2025.03.11-05.10.24:810][919]LogCharacterMovement: BP_Zombie_C_44 is stuck and failed to move! Velocity: X=5.41 Y=19.99 Z=0.00 Location: X=2112.89 Y=-967.84 Z=841.20 Normal: X=0.88 Y=-0.48 Z=-0.00 PenetrationDepth:3.377 Actor:BP_Zombie_C_43 Component:CharacterMesh0 BoneName:LeftHand (57 other events since notify)
+[2025.03.11-05.10.25:167][939]LogCharacterMovement: BP_Zombie_C_39 is stuck and failed to move! Velocity: X=-0.46 Y=36.12 Z=0.00 Location: X=1540.22 Y=-305.00 Z=841.20 Normal: X=0.35 Y=0.94 Z=-0.00 PenetrationDepth:24.767 Actor:BP_Zombie_C_38 Component:CharacterMesh0 BoneName:Head (2 other events since notify)
+[2025.03.11-05.10.25:406][953]LogCharacterMovement: BP_Zombie_C_38 is stuck and failed to move! Velocity: X=11.49 Y=34.60 Z=0.00 Location: X=1459.45 Y=-387.47 Z=841.20 Normal: X=-0.45 Y=-0.89 Z=0.00 PenetrationDepth:0.220 Actor:BP_Zombie_C_39 Component:CharacterMesh0 BoneName:RightArm (0 other events since notify)
+[2025.03.11-05.10.25:818][977]LogCharacterMovement: BP_Zombie_C_44 is stuck and failed to move! Velocity: X=4.76 Y=20.15 Z=0.00 Location: X=2112.91 Y=-975.85 Z=841.20 Normal: X=0.89 Y=-0.45 Z=-0.00 PenetrationDepth:3.761 Actor:BP_Zombie_C_43 Component:CharacterMesh0 BoneName:LeftHand (57 other events since notify)
+[2025.03.11-05.10.26:058][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.11-05.10.26:058][989]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV1
+[2025.03.11-05.10.26:061][989]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.03.11-05.10.26:067][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.11-05.10.26:150][989]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.11-05.10.26:156][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.11-05.10.26:189][989]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.11-05.10.26:190][989]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 72
+[2025.03.11-05.10.26:190][989]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=72
+[2025.03.11-05.10.26:193][989]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=72
+[2025.03.11-05.10.26:200][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.11-05.10.26:215][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2025.03.11-05.10.26:299][990]LogPlayLevel: Display: Destroying online subsystem :Context_157
+[2025.03.11-05.11.55:248][221]LogEditorTransaction: Undo Modify Component(s)
+[2025.03.11-05.12.02:936][642]LogDerivedDataCache: C:/Users/rawll/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.03.11-05.12.24:404][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.03.11-05.12.27:337][746]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.11-05.12.27:347][746]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.11-05.12.27:348][746]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV1
+[2025.03.11-05.12.27:391][746]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042915s)
+[2025.03.11-05.12.27:391][746]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV1.LV1 to /Game/Level/UEDPIE_0_LV1.LV1 (0.042957s)
+[2025.03.11-05.12.27:417][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.03.11-05.12.27:427][746]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.03.11-05.12.27:428][746]LogPlayLevel: PIE: World Init took: (0.001926s)
+[2025.03.11-05.12.27:430][746]LogAudio: Display: Creating Audio Device:                 Id: 73, Scope: Unique, Realtime: True
+[2025.03.11-05.12.27:430][746]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.11-05.12.27:430][746]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.11-05.12.27:430][746]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.11-05.12.27:430][746]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.11-05.12.27:430][746]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.11-05.12.27:430][746]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.11-05.12.27:430][746]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.11-05.12.27:430][746]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.11-05.12.27:430][746]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.11-05.12.27:430][746]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.11-05.12.27:430][746]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.11-05.12.27:432][746]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.11-05.12.27:612][746]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.03.11-05.12.27:612][746]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.11-05.12.27:612][746]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.11-05.12.27:612][746]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.11-05.12.27:613][746]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=73
+[2025.03.11-05.12.27:613][746]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=73
+[2025.03.11-05.12.27:616][746]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=73
+[2025.03.11-05.12.27:616][746]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=73
+[2025.03.11-05.12.27:616][746]LogInit: FAudioDevice initialized with ID 73.
+[2025.03.11-05.12.27:616][746]LogAudio: Display: Audio Device (ID: 73) registered with world 'LV1'.
+[2025.03.11-05.12.27:616][746]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 73
+[2025.03.11-05.12.27:620][746]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.11-05.12.27:653][746]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV1.LV1 up for play (max tick rate 60) at 2025.03.11-01.12.27
+[2025.03.11-05.12.27:678][746]LogWorld: Bringing up level for play took: 0.057413
+[2025.03.11-05.12.27:693][746]LogOnline: OSS: Created online subsystem instance for: :Context_158
+[2025.03.11-05.12.27:702][746]PIE: Server logged in
+[2025.03.11-05.12.27:703][746]PIE: Play in editor total start time 0.356 seconds.
+[2025.03.11-05.12.40:628][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.11-05.12.40:629][433]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV1
+[2025.03.11-05.12.40:631][433]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.03.11-05.12.40:637][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.11-05.12.40:690][433]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.11-05.12.40:697][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.11-05.12.40:727][433]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.11-05.12.40:728][433]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 73
+[2025.03.11-05.12.40:728][433]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=73
+[2025.03.11-05.12.40:731][433]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=73
+[2025.03.11-05.12.40:735][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.11-05.12.40:748][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2025.03.11-05.12.40:823][434]LogPlayLevel: Display: Destroying online subsystem :Context_158
+[2025.03.11-05.12.54:056][206]LogEditorTransaction: Undo Modify Component Scale
+[2025.03.11-05.12.55:859][286]LogEditorTransaction: Undo Modify Component Scale
+[2025.03.11-05.13.03:299][687]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.11-05.13.03:311][687]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.11-05.13.03:311][687]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV1
+[2025.03.11-05.13.03:358][687]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046826s)
+[2025.03.11-05.13.03:358][687]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV1.LV1 to /Game/Level/UEDPIE_0_LV1.LV1 (0.046886s)
+[2025.03.11-05.13.03:385][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.03.11-05.13.03:394][687]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.03.11-05.13.03:397][687]LogPlayLevel: PIE: World Init took: (0.001966s)
+[2025.03.11-05.13.03:398][687]LogAudio: Display: Creating Audio Device:                 Id: 74, Scope: Unique, Realtime: True
+[2025.03.11-05.13.03:398][687]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.11-05.13.03:398][687]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.11-05.13.03:398][687]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.11-05.13.03:398][687]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.11-05.13.03:398][687]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.11-05.13.03:398][687]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.11-05.13.03:398][687]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.11-05.13.03:398][687]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.11-05.13.03:398][687]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.11-05.13.03:398][687]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.11-05.13.03:398][687]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.11-05.13.03:401][687]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.11-05.13.03:581][687]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.03.11-05.13.03:581][687]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.11-05.13.03:581][687]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.11-05.13.03:581][687]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.11-05.13.03:582][687]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=74
+[2025.03.11-05.13.03:582][687]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=74
+[2025.03.11-05.13.03:585][687]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=74
+[2025.03.11-05.13.03:585][687]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=74
+[2025.03.11-05.13.03:585][687]LogInit: FAudioDevice initialized with ID 74.
+[2025.03.11-05.13.03:585][687]LogAudio: Display: Audio Device (ID: 74) registered with world 'LV1'.
+[2025.03.11-05.13.03:585][687]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 74
+[2025.03.11-05.13.03:588][687]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.11-05.13.03:621][687]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV1.LV1 up for play (max tick rate 60) at 2025.03.11-01.13.03
+[2025.03.11-05.13.03:642][687]LogWorld: Bringing up level for play took: 0.052819
+[2025.03.11-05.13.03:657][687]LogOnline: OSS: Created online subsystem instance for: :Context_159
+[2025.03.11-05.13.03:665][687]PIE: Server logged in
+[2025.03.11-05.13.03:666][687]PIE: Play in editor total start time 0.356 seconds.
+[2025.03.11-05.13.03:729][688]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.076225 > MaxSimulationTimeStep (0.050) for 'BP_Zombie_C_2', movement 'Walking'
+[2025.03.11-05.13.04:700][727]LogBlueprintUserMessages: [BP_key3_C_3] KITCHEN KEY FOUND
+[2025.03.11-05.13.10:447][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.11-05.13.10:447][ 52]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV1
+[2025.03.11-05.13.10:450][ 52]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.03.11-05.13.10:457][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.11-05.13.10:466][ 52]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.11-05.13.10:472][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.11-05.13.10:499][ 52]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.11-05.13.10:500][ 52]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 74
+[2025.03.11-05.13.10:500][ 52]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=74
+[2025.03.11-05.13.10:502][ 52]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=74
+[2025.03.11-05.13.10:507][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.11-05.13.10:518][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.03.11-05.13.10:593][ 53]LogPlayLevel: Display: Destroying online subsystem :Context_159
+[2025.03.11-05.13.15:041][307]LogEditorTransaction: Undo Reset Scale
+[2025.03.11-05.13.17:761][441]LogEditorTransaction: Undo Modify Component Scale
+[2025.03.11-05.13.19:271][513]LogEditorTransaction: Undo Modify Component Scale
+[2025.03.11-05.13.21:860][640]LogEditorTransaction: Undo Modify Component Scale
+[2025.03.11-05.13.23:594][725]LogEditorTransaction: Undo Change String Pin Value
+[2025.03.11-05.13.28:477][995]LogEditorTransaction: Redo Change String Pin Value
+[2025.03.11-05.13.32:428][208]LogEditorTransaction: Redo Modify Component Scale
+[2025.03.11-05.13.35:802][383]LogEditorTransaction: Undo Modify Component Scale
+[2025.03.11-05.13.38:126][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.03.11-05.13.40:441][606]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.11-05.13.40:452][606]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.11-05.13.40:453][606]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV1
+[2025.03.11-05.13.40:505][606]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052695s)
+[2025.03.11-05.13.40:505][606]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV1.LV1 to /Game/Level/UEDPIE_0_LV1.LV1 (0.052737s)
+[2025.03.11-05.13.40:534][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.03.11-05.13.40:547][606]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.03.11-05.13.40:549][606]LogPlayLevel: PIE: World Init took: (0.002467s)
+[2025.03.11-05.13.40:551][606]LogAudio: Display: Creating Audio Device:                 Id: 75, Scope: Unique, Realtime: True
+[2025.03.11-05.13.40:551][606]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.11-05.13.40:551][606]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.11-05.13.40:551][606]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.11-05.13.40:551][606]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.11-05.13.40:551][606]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.11-05.13.40:551][606]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.11-05.13.40:551][606]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.11-05.13.40:551][606]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.11-05.13.40:551][606]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.11-05.13.40:551][606]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.11-05.13.40:551][606]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.11-05.13.40:554][606]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.11-05.13.40:745][606]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.03.11-05.13.40:745][606]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.11-05.13.40:745][606]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.11-05.13.40:745][606]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.11-05.13.40:746][606]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=75
+[2025.03.11-05.13.40:746][606]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=75
+[2025.03.11-05.13.40:749][606]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=75
+[2025.03.11-05.13.40:749][606]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=75
+[2025.03.11-05.13.40:749][606]LogInit: FAudioDevice initialized with ID 75.
+[2025.03.11-05.13.40:749][606]LogAudio: Display: Audio Device (ID: 75) registered with world 'LV1'.
+[2025.03.11-05.13.40:749][606]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 75
+[2025.03.11-05.13.40:753][606]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.11-05.13.40:784][606]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV1.LV1 up for play (max tick rate 60) at 2025.03.11-01.13.40
+[2025.03.11-05.13.40:809][606]LogWorld: Bringing up level for play took: 0.056020
+[2025.03.11-05.13.40:823][606]LogOnline: OSS: Created online subsystem instance for: :Context_160
+[2025.03.11-05.13.40:832][606]PIE: Server logged in
+[2025.03.11-05.13.40:833][606]PIE: Play in editor total start time 0.381 seconds.
+[2025.03.11-05.13.41:941][648]LogBlueprintUserMessages: [BP_key3_C_3] KITCHEN KEY FOUND
+[2025.03.11-05.13.55:496][387]LogCharacterMovement: BP_Zombie_C_28 is stuck and failed to move! Velocity: X=3.90 Y=-20.34 Z=0.00 Location: X=2914.62 Y=1514.85 Z=240.65 Normal: X=-0.83 Y=0.57 Z=-0.00 PenetrationDepth:4.389 Actor:BP_Zombie_C_29 Component:CharacterMesh0 BoneName:Hips (0 other events since notify)
+[2025.03.11-05.13.59:843][597]LogCharacterMovement: BP_Zombie_C_29 is stuck and failed to move! Velocity: X=-20.62 Y=-1.93 Z=0.00 Location: X=3092.73 Y=1357.30 Z=240.67 Normal: X=0.21 Y=-0.98 Z=-0.00 PenetrationDepth:0.564 Actor:BP_Zombie_C_28 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2025.03.11-05.14.01:249][670]LogCharacterMovement: BP_Zombie_C_29 is stuck and failed to move! Velocity: X=-20.66 Y=-1.35 Z=0.00 Location: X=3125.17 Y=1357.30 Z=240.67 Normal: X=0.54 Y=-0.84 Z=-0.00 PenetrationDepth:0.183 Actor:BP_Zombie_C_28 Component:CharacterMesh0 BoneName:LeftHand (30 other events since notify)
+[2025.03.11-05.14.03:603][796]LogCharacterMovement: BP_Zombie_C_29 is stuck and failed to move! Velocity: X=18.42 Y=9.46 Z=0.00 Location: X=3166.55 Y=1344.72 Z=240.67 Normal: X=0.18 Y=-0.98 Z=-0.00 PenetrationDepth:3.233 Actor:BP_Zombie_C_28 Component:CharacterMesh0 BoneName:LeftHand (3 other events since notify)
+[2025.03.11-05.14.03:639][798]LogCharacterMovement: BP_FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-422.01 Y=-120.59 Z=0.00 Location: X=607.40 Y=-228.82 Z=797.41 Normal: X=0.12 Y=0.24 Z=-0.96 PenetrationDepth:7.197 Actor:BP_Zombie_C_57 Component:CharacterMesh0 BoneName:RightArm (0 other events since notify)
+[2025.03.11-05.14.04:702][855]LogCharacterMovement: BP_Zombie_C_44 is stuck and failed to move! Velocity: X=-20.68 Y=1.14 Z=0.00 Location: X=1935.08 Y=-908.33 Z=841.20 Normal: X=-0.16 Y=0.99 Z=0.00 PenetrationDepth:19.900 Actor:BP_Zombie_C_41 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2025.03.11-05.14.06:032][926]LogCharacterMovement: BP_Zombie_C_44 is stuck and failed to move! Velocity: X=-20.71 Y=0.19 Z=0.00 Location: X=1968.66 Y=-879.45 Z=841.20 Normal: X=0.14 Y=0.99 Z=0.00 PenetrationDepth:1.416 Actor:BP_Zombie_C_41 Component:CharacterMesh0 BoneName:LeftHand (18 other events since notify)
+[2025.03.11-05.14.06:307][940]LogBlueprintUserMessages: [BP_Fire_C_40] Fire Damage Recieved
+[2025.03.11-05.14.07:081][980]LogCharacterMovement: BP_Zombie_C_44 is stuck and failed to move! Velocity: X=-20.71 Y=0.13 Z=0.00 Location: X=2006.30 Y=-878.25 Z=841.20 Normal: X=-0.78 Y=-0.62 Z=-0.00 PenetrationDepth:0.783 Actor:BP_Zombie_C_43 Component:CharacterMesh0 BoneName:Hips (30 other events since notify)
+[2025.03.11-05.14.07:802][ 17]LogBlueprintUserMessages: [BP_Fire_C_40] Fire Damage Recieved
+[2025.03.11-05.14.08:087][ 32]LogCharacterMovement: BP_Zombie_C_44 is stuck and failed to move! Velocity: X=-20.71 Y=0.14 Z=0.00 Location: X=2004.13 Y=-878.64 Z=841.20 Normal: X=0.07 Y=1.00 Z=-0.00 PenetrationDepth:11.302 Actor:BP_Zombie_C_41 Component:CharacterMesh0 BoneName:LeftHand (46 other events since notify)
+[2025.03.11-05.14.11:060][184]LogCharacterMovement: BP_Zombie_C_29 is stuck and failed to move! Velocity: X=20.71 Y=-0.29 Z=0.00 Location: X=3329.81 Y=1357.30 Z=240.67 Normal: X=-0.33 Y=-0.95 Z=-0.00 PenetrationDepth:0.209 Actor:BP_Zombie_C_26 Component:CharacterMesh0 BoneName:Spine2 (8 other events since notify)
+[2025.03.11-05.14.14:118][344]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.11-05.14.14:118][344]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV1
+[2025.03.11-05.14.14:121][344]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.03.11-05.14.14:127][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.11-05.14.14:138][344]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.11-05.14.14:144][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.11-05.14.14:170][344]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.11-05.14.14:171][344]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 75
+[2025.03.11-05.14.14:171][344]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=75
+[2025.03.11-05.14.14:174][344]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=75
+[2025.03.11-05.14.14:177][344]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.11-05.14.14:189][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.03.11-05.14.14:266][345]LogPlayLevel: Display: Destroying online subsystem :Context_160
+[2025.03.11-05.15.20:049][ 50]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 41615.644531
+[2025.03.11-05.15.20:149][ 56]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.11-05.15.20:149][ 56]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 41615.730469, Update Interval: 318.679169
+[2025.03.11-05.15.51:764][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.03.11-05.15.53:589][870]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.11-05.15.53:602][870]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.11-05.15.53:602][870]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV1
+[2025.03.11-05.15.53:647][870]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044544s)
+[2025.03.11-05.15.53:647][870]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV1.LV1 to /Game/Level/UEDPIE_0_LV1.LV1 (0.044603s)
+[2025.03.11-05.15.53:670][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.03.11-05.15.53:677][870]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.03.11-05.15.53:679][870]LogPlayLevel: PIE: World Init took: (0.002035s)
+[2025.03.11-05.15.53:680][870]LogAudio: Display: Creating Audio Device:                 Id: 76, Scope: Unique, Realtime: True
+[2025.03.11-05.15.53:680][870]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.11-05.15.53:680][870]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.11-05.15.53:680][870]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.11-05.15.53:680][870]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.11-05.15.53:680][870]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.11-05.15.53:680][870]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.11-05.15.53:680][870]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.11-05.15.53:680][870]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.11-05.15.53:680][870]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.11-05.15.53:680][870]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.11-05.15.53:680][870]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.11-05.15.53:683][870]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.11-05.15.53:859][870]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.03.11-05.15.53:859][870]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.11-05.15.53:859][870]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.11-05.15.53:859][870]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.11-05.15.53:859][870]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=76
+[2025.03.11-05.15.53:859][870]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=76
+[2025.03.11-05.15.53:862][870]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=76
+[2025.03.11-05.15.53:862][870]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=76
+[2025.03.11-05.15.53:862][870]LogInit: FAudioDevice initialized with ID 76.
+[2025.03.11-05.15.53:862][870]LogAudio: Display: Audio Device (ID: 76) registered with world 'LV1'.
+[2025.03.11-05.15.53:863][870]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 76
+[2025.03.11-05.15.53:868][870]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.11-05.15.53:901][870]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV1.LV1 up for play (max tick rate 60) at 2025.03.11-01.15.53
+[2025.03.11-05.15.53:925][870]LogWorld: Bringing up level for play took: 0.056640
+[2025.03.11-05.15.53:941][870]LogOnline: OSS: Created online subsystem instance for: :Context_161
+[2025.03.11-05.15.53:952][870]PIE: Server logged in
+[2025.03.11-05.15.53:953][870]PIE: Play in editor total start time 0.351 seconds.
+[2025.03.11-05.15.57:580][ 55]LogBlueprintUserMessages: Warning: SetTimer passed a function (ZombieDamage) that expects parameters.
+[2025.03.11-05.15.57:580][ 55]LogBlueprintUserMessages: [BP_Zombie_C_57] overlap
+[2025.03.11-05.16.03:906][429]LogBlueprintUserMessages: [BP_Zombie_C_57] no overlap
+[2025.03.11-05.16.10:113][768]LogBlueprintUserMessages: Warning: SetTimer passed a function (ZombieDamage) that expects parameters.
+[2025.03.11-05.16.10:114][768]LogBlueprintUserMessages: [BP_Zombie_C_56] overlap
+[2025.03.11-05.16.11:571][848]LogBlueprintUserMessages: Warning: SetTimer passed a function (ZombieDamage) that expects parameters.
+[2025.03.11-05.16.11:571][848]LogBlueprintUserMessages: [BP_Zombie_C_32] overlap
+[2025.03.11-05.16.13:789][969]LogCharacterMovement: BP_Zombie_C_44 is stuck and failed to move! Velocity: X=-19.92 Y=5.64 Z=0.00 Location: X=2037.26 Y=-929.33 Z=841.20 Normal: X=-0.63 Y=-0.78 Z=-0.00 PenetrationDepth:0.417 Actor:BP_Zombie_C_43 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2025.03.11-05.16.14:692][ 18]LogBlueprintUserMessages: [BP_Zombie_C_56] no overlap
+[2025.03.11-05.16.14:799][ 24]LogCharacterMovement: BP_Zombie_C_44 is stuck and failed to move! Velocity: X=-17.83 Y=10.53 Z=0.00 Location: X=2051.05 Y=-956.61 Z=841.20 Normal: X=-0.49 Y=-0.87 Z=0.00 PenetrationDepth:0.051 Actor:BP_Zombie_C_43 Component:CharacterMesh0 BoneName:LeftHand (54 other events since notify)
+[2025.03.11-05.16.16:516][117]LogCharacterMovement: BP_Zombie_C_44 is stuck and failed to move! Velocity: X=-13.60 Y=15.61 Z=0.00 Location: X=2042.47 Y=-958.68 Z=843.31 Normal: X=0.98 Y=0.19 Z=-0.00 PenetrationDepth:8.690 Actor:StaticMeshActor_155 Component:StaticMeshComponent0 BoneName:None (15 other events since notify)
+[2025.03.11-05.16.17:847][187]LogBlueprintUserMessages: [BP_Zombie_C_32] no overlap
+[2025.03.11-05.16.17:849][187]LogBlueprintUserMessages: Warning: SetTimer passed a function (ZombieDamage) that expects parameters.
+[2025.03.11-05.16.17:849][187]LogBlueprintUserMessages: [BP_Zombie_C_32] overlap
+[2025.03.11-05.16.17:865][188]LogBlueprintUserMessages: [BP_Zombie_C_32] no overlap
+[2025.03.11-05.16.18:567][225]LogBlueprintUserMessages: Warning: SetTimer passed a function (ZombieDamage) that expects parameters.
+[2025.03.11-05.16.18:567][225]LogBlueprintUserMessages: [BP_Zombie_C_57] overlap
+[2025.03.11-05.16.22:738][453]LogBlueprintUserMessages: [BP_Zombie_C_57] no overlap
+[2025.03.11-05.16.23:353][486]LogBlueprintUserMessages: Warning: SetTimer passed a function (ZombieDamage) that expects parameters.
+[2025.03.11-05.16.23:353][486]LogBlueprintUserMessages: [BP_Zombie_C_56] overlap
+[2025.03.11-05.16.23:793][510]LogBlueprintUserMessages: [BP_Zombie_C_56] no overlap
+[2025.03.11-05.16.25:959][624]LogBlueprintUserMessages: Warning: SetTimer passed a function (ZombieDamage) that expects parameters.
+[2025.03.11-05.16.25:960][624]LogBlueprintUserMessages: [BP_Zombie_C_57] overlap
+[2025.03.11-05.16.25:978][625]LogBlueprintUserMessages: [BP_Zombie_C_57] no overlap
+[2025.03.11-05.16.25:980][625]LogBlueprintUserMessages: Warning: SetTimer passed a function (ZombieDamage) that expects parameters.
+[2025.03.11-05.16.25:980][625]LogBlueprintUserMessages: [BP_Zombie_C_57] overlap
+[2025.03.11-05.16.25:998][626]LogBlueprintUserMessages: [BP_Zombie_C_57] no overlap
+[2025.03.11-05.16.26:003][626]LogBlueprintUserMessages: Warning: SetTimer passed a function (ZombieDamage) that expects parameters.
+[2025.03.11-05.16.26:003][626]LogBlueprintUserMessages: [BP_Zombie_C_57] overlap
+[2025.03.11-05.16.26:080][630]LogCharacterMovement: BP_Zombie_C_29 is stuck and failed to move! Velocity: X=-20.47 Y=-3.12 Z=0.00 Location: X=3088.83 Y=1357.30 Z=240.67 Normal: X=0.60 Y=-0.80 Z=-0.00 PenetrationDepth:6.717 Actor:BP_Zombie_C_28 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.11-05.16.27:824][718]LogBlueprintUserMessages: Warning: SetTimer passed a function (ZombieDamage) that expects parameters.
+[2025.03.11-05.16.27:824][718]LogBlueprintUserMessages: [BP_Zombie_C_56] overlap
+[2025.03.11-05.16.28:074][731]LogCharacterMovement: BP_Zombie_C_56 is stuck and failed to move! Velocity: X=8.93 Y=149.17 Z=0.00 Location: X=742.70 Y=-299.56 Z=841.20 Normal: X=0.19 Y=-0.98 Z=-0.00 PenetrationDepth:0.193 Actor:BP_Zombie_C_57 Component:CharacterMesh0 BoneName:LeftArm (0 other events since notify)
+[2025.03.11-05.16.29:272][797]LogBlueprintUserMessages: [BP_Zombie_C_56] no overlap
+[2025.03.11-05.16.30:400][856]LogCharacterMovement: BP_Zombie_C_44 is stuck and failed to move! Velocity: X=-19.59 Y=-6.72 Z=0.00 Location: X=1810.69 Y=-779.39 Z=841.20 Normal: X=-0.75 Y=0.67 Z=-0.00 PenetrationDepth:0.169 Actor:BP_Zombie_C_41 Component:CharacterMesh0 BoneName:LeftHand (2 other events since notify)
+[2025.03.11-05.16.30:748][872]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.11-05.16.30:748][872]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV1
+[2025.03.11-05.16.30:750][872]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.03.11-05.16.30:757][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.11-05.16.30:839][872]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.11-05.16.30:846][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.11-05.16.30:876][872]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.11-05.16.30:877][872]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 76
+[2025.03.11-05.16.30:877][872]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=76
+[2025.03.11-05.16.30:879][872]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=76
+[2025.03.11-05.16.30:883][872]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.11-05.16.30:895][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.03.11-05.16.31:043][873]LogPlayLevel: Display: Destroying online subsystem :Context_161
+[2025.03.11-05.18.39:866][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.03.11-05.19.01:647][731]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.11-05.19.01:660][731]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.11-05.19.01:707][731]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV1
+[2025.03.11-05.19.01:750][731]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042371s)
+[2025.03.11-05.19.01:750][731]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV1.LV1 to /Game/Level/UEDPIE_0_LV1.LV1 (0.042424s)
+[2025.03.11-05.19.01:770][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.03.11-05.19.01:777][731]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.03.11-05.19.01:779][731]LogPlayLevel: PIE: World Init took: (0.001865s)
+[2025.03.11-05.19.01:780][731]LogAudio: Display: Creating Audio Device:                 Id: 77, Scope: Unique, Realtime: True
+[2025.03.11-05.19.01:780][731]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.11-05.19.01:780][731]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.11-05.19.01:780][731]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.11-05.19.01:780][731]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.11-05.19.01:780][731]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.11-05.19.01:780][731]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.11-05.19.01:780][731]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.11-05.19.01:780][731]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.11-05.19.01:780][731]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.11-05.19.01:780][731]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.11-05.19.01:780][731]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.11-05.19.01:783][731]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.11-05.19.01:958][731]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.03.11-05.19.01:958][731]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.11-05.19.01:958][731]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.11-05.19.01:958][731]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.11-05.19.01:959][731]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=77
+[2025.03.11-05.19.01:959][731]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=77
+[2025.03.11-05.19.01:961][731]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=77
+[2025.03.11-05.19.01:961][731]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=77
+[2025.03.11-05.19.01:961][731]LogInit: FAudioDevice initialized with ID 77.
+[2025.03.11-05.19.01:961][731]LogAudio: Display: Audio Device (ID: 77) registered with world 'LV1'.
+[2025.03.11-05.19.01:962][731]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 77
+[2025.03.11-05.19.01:965][731]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.11-05.19.02:001][731]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV1.LV1 up for play (max tick rate 60) at 2025.03.11-01.19.02
+[2025.03.11-05.19.02:025][731]LogWorld: Bringing up level for play took: 0.058372
+[2025.03.11-05.19.02:041][731]LogOnline: OSS: Created online subsystem instance for: :Context_162
+[2025.03.11-05.19.02:050][731]PIE: Server logged in
+[2025.03.11-05.19.02:052][731]PIE: Play in editor total start time 0.393 seconds.
+[2025.03.11-05.19.05:029][876]LogBlueprintUserMessages: [BP_Zombie_C_57] overlap
+[2025.03.11-05.19.06:032][936]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.19.07:033][996]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.19.08:033][ 56]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.19.09:034][116]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.19.10:038][176]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.19.11:043][234]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.19.12:038][290]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.19.13:040][345]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.19.14:051][399]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.19.15:038][452]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.19.16:050][507]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.19.16:664][541]LogCharacterMovement: BP_FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=29.35 Y=188.59 Z=0.00 Location: X=744.96 Y=-627.09 Z=799.43 Normal: X=0.94 Y=-0.33 Z=-0.10 PenetrationDepth:6.836 Actor:BP_Zombie_C_57 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.11-05.19.16:907][554]LogBlueprintUserMessages: [BP_Zombie_C_57] no overlap
+[2025.03.11-05.19.17:198][569]LogBlueprintUserMessages: [BP_Zombie_C_57] overlap
+[2025.03.11-05.19.18:205][623]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.19.19:205][673]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.19.20:217][725]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.19.21:223][774]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.19.22:209][825]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.19.23:217][880]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.19.24:216][937]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.19.24:231][938]LogCharacterMovement: BP_Zombie_C_29 is stuck and failed to move! Velocity: X=20.68 Y=-1.04 Z=0.00 Location: X=2800.82 Y=1357.30 Z=240.67 Normal: X=-0.76 Y=-0.65 Z=0.00 PenetrationDepth:0.033 Actor:BP_Zombie_C_28 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2025.03.11-05.19.25:203][993]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.19.26:208][ 50]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.19.27:207][104]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.19.28:228][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.11-05.19.28:228][157]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV1
+[2025.03.11-05.19.28:230][157]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.03.11-05.19.28:237][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.11-05.19.28:370][157]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.11-05.19.28:377][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.11-05.19.28:404][157]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.11-05.19.28:405][157]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 77
+[2025.03.11-05.19.28:405][157]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=77
+[2025.03.11-05.19.28:406][157]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=77
+[2025.03.11-05.19.28:412][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.11-05.19.28:423][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.03.11-05.19.28:572][158]LogPlayLevel: Display: Destroying online subsystem :Context_162
+[2025.03.11-05.20.05:849][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.03.11-05.20.07:713][433]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.11-05.20.07:723][433]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.11-05.20.07:723][433]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV1
+[2025.03.11-05.20.07:765][433]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042105s)
+[2025.03.11-05.20.07:766][433]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV1.LV1 to /Game/Level/UEDPIE_0_LV1.LV1 (0.042145s)
+[2025.03.11-05.20.07:788][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.03.11-05.20.07:796][433]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.03.11-05.20.07:798][433]LogPlayLevel: PIE: World Init took: (0.001887s)
+[2025.03.11-05.20.07:799][433]LogAudio: Display: Creating Audio Device:                 Id: 78, Scope: Unique, Realtime: True
+[2025.03.11-05.20.07:799][433]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.11-05.20.07:799][433]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.11-05.20.07:799][433]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.11-05.20.07:799][433]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.11-05.20.07:799][433]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.11-05.20.07:799][433]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.11-05.20.07:799][433]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.11-05.20.07:799][433]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.11-05.20.07:799][433]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.11-05.20.07:799][433]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.11-05.20.07:799][433]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.11-05.20.07:802][433]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.11-05.20.07:984][433]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.03.11-05.20.07:984][433]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.11-05.20.07:984][433]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.11-05.20.07:984][433]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.11-05.20.07:984][433]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=78
+[2025.03.11-05.20.07:984][433]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=78
+[2025.03.11-05.20.07:987][433]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=78
+[2025.03.11-05.20.07:987][433]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=78
+[2025.03.11-05.20.07:987][433]LogInit: FAudioDevice initialized with ID 78.
+[2025.03.11-05.20.07:987][433]LogAudio: Display: Audio Device (ID: 78) registered with world 'LV1'.
+[2025.03.11-05.20.07:987][433]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 78
+[2025.03.11-05.20.07:990][433]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.11-05.20.08:024][433]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV1.LV1 up for play (max tick rate 60) at 2025.03.11-01.20.08
+[2025.03.11-05.20.08:049][433]LogWorld: Bringing up level for play took: 0.058516
+[2025.03.11-05.20.08:064][433]LogOnline: OSS: Created online subsystem instance for: :Context_163
+[2025.03.11-05.20.08:074][433]PIE: Server logged in
+[2025.03.11-05.20.08:075][433]PIE: Play in editor total start time 0.352 seconds.
+[2025.03.11-05.20.09:568][496]LogBlueprintUserMessages: [BP_key3_C_3] KITCHEN KEY FOUND
+[2025.03.11-05.20.11:067][581]LogBlueprintUserMessages: [BP_Zombie_C_57] overlap
+[2025.03.11-05.20.12:069][641]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.20.13:072][701]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.20.14:080][761]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.20.15:081][821]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.20.16:086][881]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.20.17:081][940]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.20.18:077][998]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.20.19:087][ 53]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.20.20:078][107]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.20.20:294][119]LogBlueprintUserMessages: [BP_Zombie_C_57] no overlap
+[2025.03.11-05.20.20:759][143]LogBlueprintUserMessages: [BP_Zombie_C_57] overlap
+[2025.03.11-05.20.21:775][198]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.20.22:767][253]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.20.23:767][308]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.20.24:772][365]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.20.25:777][421]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.20.26:517][463]LogCharacterMovement: BP_Zombie_C_19 is stuck and failed to move! Velocity: X=19.77 Y=6.16 Z=0.00 Location: X=2508.51 Y=-1143.90 Z=229.85 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:8.670 Actor:StaticMeshActor_10 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2025.03.11-05.20.26:766][476]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.20.26:929][485]LogCharacterMovement: BP_Zombie_C_43 is stuck and failed to move! Velocity: X=20.20 Y=-4.55 Z=0.00 Location: X=2121.59 Y=-837.61 Z=841.20 Normal: X=0.04 Y=0.96 Z=-0.27 PenetrationDepth:8.528 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:Head (0 other events since notify)
+[2025.03.11-05.20.27:773][528]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.20.28:781][579]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.20.29:764][633]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.20.30:766][689]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.20.31:595][736]LogCharacterMovement: BP_Zombie_C_44 is stuck and failed to move! Velocity: X=5.90 Y=19.85 Z=0.00 Location: X=2113.26 Y=-961.53 Z=841.34 Normal: X=0.69 Y=-0.72 Z=0.00 PenetrationDepth:0.126 Actor:BP_Zombie_C_41 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.11-05.20.31:772][746]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.20.32:696][798]LogCharacterMovement: BP_Zombie_C_44 is stuck and failed to move! Velocity: X=-4.33 Y=20.25 Z=0.00 Location: X=2144.37 Y=-983.33 Z=882.69 Normal: X=-0.01 Y=-1.00 Z=0.00 PenetrationDepth:0.165 Actor:BP_Zombie_C_43 Component:CharacterMesh0 BoneName:RightHand (18 other events since notify)
+[2025.03.11-05.20.32:770][802]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.20.33:768][858]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.20.34:622][905]LogCharacterMovement: BP_Zombie_C_43 is stuck and failed to move! Velocity: X=7.18 Y=-19.42 Z=0.00 Location: X=2118.56 Y=-829.71 Z=841.20 Normal: X=0.75 Y=0.66 Z=-0.00 PenetrationDepth:0.057 Actor:BP_Zombie_C_41 Component:CharacterMesh0 BoneName:RightArm (0 other events since notify)
+[2025.03.11-05.20.34:769][913]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.20.35:776][970]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.20.36:771][ 26]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.20.37:142][ 47]LogCharacterMovement: BP_Zombie_C_43 is stuck and failed to move! Velocity: X=8.06 Y=-19.08 Z=0.00 Location: X=2118.99 Y=-832.45 Z=841.20 Normal: X=0.16 Y=0.99 Z=-0.00 PenetrationDepth:0.340 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:RightHand (19 other events since notify)
+[2025.03.11-05.20.37:777][ 83]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.20.38:778][140]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.20.39:767][195]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.20.40:775][252]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.20.41:765][309]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.20.41:968][321]LogCharacterMovement: BP_Zombie_C_43 is stuck and failed to move! Velocity: X=-6.99 Y=-19.49 Z=0.00 Location: X=2052.17 Y=-801.76 Z=841.20 Normal: X=-0.87 Y=0.48 Z=-0.00 PenetrationDepth:0.074 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:RightArm (0 other events since notify)
+[2025.03.11-05.20.42:777][367]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.20.43:771][424]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.20.44:763][480]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.20.44:844][485]LogCharacterMovement: BP_Zombie_C_43 is stuck and failed to move! Velocity: X=-12.82 Y=-16.27 Z=0.00 Location: X=2051.24 Y=-831.84 Z=841.20 Normal: X=0.04 Y=1.00 Z=-0.00 PenetrationDepth:0.251 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:RightHand (54 other events since notify)
+[2025.03.11-05.20.45:776][538]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.20.46:776][595]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.20.47:775][652]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.20.48:099][670]LogCharacterMovement: BP_Zombie_C_37 is stuck and failed to move! Velocity: X=-13.26 Y=-15.91 Z=0.00 Location: X=1240.64 Y=-475.40 Z=841.20 Normal: X=-0.94 Y=-0.33 Z=0.00 PenetrationDepth:12.249 Actor:BP_Zombie_C_39 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.11-05.20.48:773][708]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.20.49:785][758]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.20.50:355][785]LogCharacterMovement: BP_Zombie_C_44 is stuck and failed to move! Velocity: X=-9.33 Y=18.49 Z=0.00 Location: X=2117.59 Y=-1005.04 Z=850.04 Normal: X=0.55 Y=-0.84 Z=0.00 PenetrationDepth:15.993 Actor:BP_Zombie_C_43 Component:CharacterMesh0 BoneName:LeftHand (7 other events since notify)
+[2025.03.11-05.20.50:772][803]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.20.51:768][849]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.20.51:830][852]LogCharacterMovement: BP_Zombie_C_43 is stuck and failed to move! Velocity: X=4.97 Y=-20.10 Z=0.00 Location: X=2118.06 Y=-808.28 Z=841.20 Normal: X=0.55 Y=0.83 Z=-0.00 PenetrationDepth:0.014 Actor:BP_Zombie_C_41 Component:CharacterMesh0 BoneName:RightHand (28 other events since notify)
+[2025.03.11-05.20.52:785][897]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.20.53:097][912]LogBlueprintUserMessages: [BP_Zombie_C_57] no overlap
+[2025.03.11-05.20.53:355][925]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_1] WEAPON FOUND
+[2025.03.11-05.20.53:727][944]LogCharacterMovement: BP_Zombie_C_43 is stuck and failed to move! Velocity: X=3.17 Y=-20.46 Z=0.00 Location: X=2118.17 Y=-791.45 Z=841.20 Normal: X=0.86 Y=0.51 Z=-0.00 PenetrationDepth:21.606 Actor:BP_Zombie_C_41 Component:CharacterMesh0 BoneName:RightHand (3 other events since notify)
+[2025.03.11-05.20.53:771][946]LogBlueprintUserMessages: [BP_Zombie_C_57] overlap
+[2025.03.11-05.20.54:423][978]LogBlueprintUserMessages: [BP_Zombie_C_57] TST.......Zombie recieved Damage
+[2025.03.11-05.20.54:621][988]LogBlueprintUserMessages: [BP_Zombie_C_57] TST.......Zombie recieved Damage
+[2025.03.11-05.20.54:765][995]LogBlueprintUserMessages: [BP_Zombie_C_57] TST.......Zombie recieved Damage
+[2025.03.11-05.20.54:793][996]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.20.54:912][  2]LogBlueprintUserMessages: [BP_Zombie_C_57] TST.......Zombie recieved Damage
+[2025.03.11-05.20.54:963][  4]LogBlueprintUserMessages: [BP_Smoke_C_33] Smoke Damage Recieved
+[2025.03.11-05.20.55:051][  9]LogBlueprintUserMessages: [BP_Zombie_C_57] TST.......Zombie recieved Damage
+[2025.03.11-05.20.55:205][ 17]LogBlueprintUserMessages: [BP_Zombie_C_57] TST.......Zombie recieved Damage
+[2025.03.11-05.20.55:355][ 25]LogBlueprintUserMessages: [BP_Zombie_C_57] TST.......Zombie recieved Damage
+[2025.03.11-05.20.55:507][ 33]LogBlueprintUserMessages: [BP_Zombie_C_57] TST.......Zombie recieved Damage
+[2025.03.11-05.20.55:659][ 41]LogBlueprintUserMessages: [BP_Zombie_C_57] TST.......Zombie recieved Damage
+[2025.03.11-05.20.55:738][ 45]LogBlueprintUserMessages: [BP_Zombie_C_56] overlap
+[2025.03.11-05.20.55:774][ 47]LogCharacterMovement: BP_Zombie_C_43 is stuck and failed to move! Velocity: X=4.37 Y=-20.24 Z=0.00 Location: X=2118.06 Y=-808.70 Z=841.20 Normal: X=0.73 Y=0.68 Z=0.00 PenetrationDepth:0.600 Actor:BP_Zombie_C_41 Component:CharacterMesh0 BoneName:RightHand (13 other events since notify)
+[2025.03.11-05.20.55:780][ 47]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.20.55:792][ 48]LogBlueprintUserMessages: [BP_Zombie_C_57] TST.......Zombie recieved Damage
+[2025.03.11-05.20.55:963][ 57]LogBlueprintUserMessages: [BP_Zombie_C_57] TST.......Zombie recieved Damage
+[2025.03.11-05.20.56:110][ 65]LogBlueprintUserMessages: [BP_Zombie_C_57] TST.......Zombie recieved Damage
+[2025.03.11-05.20.56:280][ 74]LogBlueprintUserMessages: [BP_Zombie_C_57] TST.......Zombie recieved Damage
+[2025.03.11-05.20.56:395][ 80]LogBlueprintUserMessages: [BP_Zombie_C_57] no overlap
+[2025.03.11-05.20.56:474][ 84]LogBlueprintUserMessages: [BP_Smoke_C_33] Smoke Damage Recieved
+[2025.03.11-05.20.56:758][ 99]LogBlueprintUserMessages: [BP_Zombie_C_56] Zombie Damage Recieved
+[2025.03.11-05.20.56:849][104]LogCharacterMovement: BP_Zombie_C_43 is stuck and failed to move! Velocity: X=2.27 Y=-20.58 Z=0.00 Location: X=2118.06 Y=-764.38 Z=841.20 Normal: X=0.59 Y=0.81 Z=-0.00 PenetrationDepth:0.001 Actor:BP_Zombie_C_41 Component:CharacterMesh0 BoneName:RightHand (29 other events since notify)
+[2025.03.11-05.20.57:448][134]LogBlueprintUserMessages: [BP_Zombie_C_56] TST.......Zombie recieved Damage
+[2025.03.11-05.20.57:755][149]LogBlueprintUserMessages: [BP_Zombie_C_56] Zombie Damage Recieved
+[2025.03.11-05.20.57:768][150]LogBlueprintUserMessages: [BP_Zombie_C_56] TST.......Zombie recieved Damage
+[2025.03.11-05.20.57:928][158]LogBlueprintUserMessages: [BP_Zombie_C_56] TST.......Zombie recieved Damage
+[2025.03.11-05.20.57:974][160]LogBlueprintUserMessages: [BP_Smoke_C_33] Smoke Damage Recieved
+[2025.03.11-05.20.58:107][167]LogBlueprintUserMessages: [BP_Zombie_C_56] TST.......Zombie recieved Damage
+[2025.03.11-05.20.58:579][189]LogBlueprintUserMessages: [BP_Zombie_C_56] TST.......Zombie recieved Damage
+[2025.03.11-05.20.58:753][196]LogBlueprintUserMessages: [BP_Zombie_C_56] TST.......Zombie recieved Damage
+[2025.03.11-05.20.58:763][196]LogBlueprintUserMessages: [BP_Zombie_C_56] Zombie Damage Recieved
+[2025.03.11-05.20.58:903][202]LogBlueprintUserMessages: [BP_Zombie_C_56] TST.......Zombie recieved Damage
+[2025.03.11-05.20.59:079][209]LogBlueprintUserMessages: [BP_Zombie_C_56] TST.......Zombie recieved Damage
+[2025.03.11-05.20.59:238][215]LogBlueprintUserMessages: [BP_Zombie_C_56] TST.......Zombie recieved Damage
+[2025.03.11-05.20.59:392][221]LogBlueprintUserMessages: [BP_Zombie_C_56] TST.......Zombie recieved Damage
+[2025.03.11-05.20.59:481][224]LogBlueprintUserMessages: [BP_Smoke_C_33] Smoke Damage Recieved
+[2025.03.11-05.20.59:572][227]LogBlueprintUserMessages: [BP_Zombie_C_56] TST.......Zombie recieved Damage
+[2025.03.11-05.20.59:613][228]LogBlueprintUserMessages: [BP_Zombie_C_56] no overlap
+[2025.03.11-05.21.04:096][400]LogBlueprintUserMessages: [BP_Zombie_C_55] overlap
+[2025.03.11-05.21.04:302][408]LogBlueprintUserMessages: [BP_Zombie_C_55] TST.......Zombie recieved Damage
+[2025.03.11-05.21.04:403][412]LogBlueprintUserMessages: [BP_Zombie_C_55] no overlap
+[2025.03.11-05.21.04:778][427]LogBlueprintUserMessages: [BP_Zombie_C_55] TST.......Zombie recieved Damage
+[2025.03.11-05.21.04:801][428]LogBlueprintUserMessages: [BP_Zombie_C_55] overlap
+[2025.03.11-05.21.04:903][432]LogBlueprintUserMessages: [BP_Zombie_C_55] TST.......Zombie recieved Damage
+[2025.03.11-05.21.05:293][448]LogBlueprintUserMessages: [BP_Zombie_C_55] TST.......Zombie recieved Damage
+[2025.03.11-05.21.05:399][452]LogBlueprintUserMessages: [BP_Zombie_C_55] no overlap
+[2025.03.11-05.21.05:448][454]LogBlueprintUserMessages: [BP_Zombie_C_55] TST.......Zombie recieved Damage
+[2025.03.11-05.21.08:674][598]LogCharacterMovement: BP_Zombie_C_26 is stuck and failed to move! Velocity: X=20.64 Y=-1.69 Z=0.00 Location: X=3779.51 Y=1369.79 Z=289.11 Normal: X=0.95 Y=0.30 Z=0.00 PenetrationDepth:0.481 Actor:BP_Zombie_C_27 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2025.03.11-05.21.11:405][731]LogCharacterMovement: BP_Zombie_C_26 is stuck and failed to move! Velocity: X=-15.64 Y=-13.57 Z=0.00 Location: X=3826.50 Y=1374.88 Z=317.90 Normal: X=0.75 Y=0.66 Z=0.00 PenetrationDepth:0.132 Actor:BP_Zombie_C_27 Component:CharacterMesh0 BoneName:LeftHand (1 other events since notify)
+[2025.03.11-05.21.12:269][772]LogBlueprintUserMessages: [BP_Smoke_C_29] Smoke Damage Recieved
+[2025.03.11-05.21.13:774][839]LogBlueprintUserMessages: [BP_Smoke_C_29] Smoke Damage Recieved
+[2025.03.11-05.21.15:618][919]LogCharacterMovement: BP_Zombie_C_35 is stuck and failed to move! Velocity: X=16.72 Y=12.22 Z=0.00 Location: X=2593.45 Y=-1691.05 Z=841.18 Normal: X=-0.71 Y=-0.57 Z=0.42 PenetrationDepth:7.498 Actor:BP_Zombie_C_33 Component:CharacterMesh0 BoneName:RightFoot (0 other events since notify)
+[2025.03.11-05.21.20:328][119]LogCharacterMovement: BP_Zombie_C_32 is stuck and failed to move! Velocity: X=9.23 Y=596.37 Z=0.00 Location: X=250.65 Y=-1626.81 Z=841.20 Normal: X=-0.93 Y=-0.37 Z=0.00 PenetrationDepth:7.265 Actor:BP_Zombie_C_33 Component:CharacterMesh0 BoneName:Head (0 other events since notify)
+[2025.03.11-05.21.20:478][124]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 41967.113281
+[2025.03.11-05.21.20:606][129]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.11-05.21.20:606][129]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 41967.210938, Update Interval: 344.069336
+[2025.03.11-05.21.24:006][269]LogBlueprintUserMessages: [BP_Zombie_C_32] overlap
+[2025.03.11-05.21.24:322][282]LogBlueprintUserMessages: [BP_key2_C_2] BEDROOM KEY FOUND
+[2025.03.11-05.21.24:627][294]LogBlueprintUserMessages: [BP_Zombie_C_32] no overlap
+[2025.03.11-05.21.25:205][318]LogBlueprintUserMessages: [BP_Smoke_C_33] Smoke Damage Recieved
+[2025.03.11-05.21.26:715][379]LogBlueprintUserMessages: [BP_Smoke_C_33] Smoke Damage Recieved
+[2025.03.11-05.21.38:051][849]LogCharacterMovement: BP_Zombie_C_28 is stuck and failed to move! Velocity: X=20.71 Y=-0.24 Z=0.00 Location: X=3258.23 Y=1357.30 Z=240.67 Normal: X=-0.89 Y=-0.46 Z=-0.00 PenetrationDepth:0.024 Actor:BP_Zombie_C_27 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.11-05.21.41:468][  5]LogCharacterMovement: BP_Zombie_C_28 is stuck and failed to move! Velocity: X=4.11 Y=-20.30 Z=0.00 Location: X=3287.93 Y=1357.30 Z=240.67 Normal: X=-0.74 Y=-0.67 Z=0.00 PenetrationDepth:1.016 Actor:BP_Zombie_C_27 Component:CharacterMesh0 BoneName:RightArm (1 other events since notify)
+[2025.03.11-05.21.42:470][ 40]LogCharacterMovement: BP_Zombie_C_28 is stuck and failed to move! Velocity: X=20.21 Y=-4.51 Z=0.00 Location: X=3253.54 Y=1357.30 Z=240.67 Normal: X=-0.59 Y=-0.81 Z=0.00 PenetrationDepth:2.746 Actor:BP_Zombie_C_27 Component:CharacterMesh0 BoneName:RightHand (25 other events since notify)
+[2025.03.11-05.21.44:155][100]LogCharacterMovement: BP_Zombie_C_3 is stuck and failed to move! Velocity: X=7.50 Y=-19.30 Z=0.00 Location: X=1836.93 Y=-1740.48 Z=240.67 Normal: X=-0.98 Y=0.19 Z=0.00 PenetrationDepth:33.245 Actor:BP_Zombie_C_1 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2025.03.11-05.21.45:422][149]LogCharacterMovement: BP_Zombie_C_44 is stuck and failed to move! Velocity: X=20.71 Y=-0.31 Z=0.00 Location: X=1965.34 Y=-910.49 Z=841.20 Normal: X=-0.84 Y=-0.54 Z=-0.00 PenetrationDepth:0.011 Actor:BP_Zombie_C_43 Component:CharacterMesh0 BoneName:RightHand (8 other events since notify)
+[2025.03.11-05.21.47:477][228]LogCharacterMovement: BP_Zombie_C_44 is stuck and failed to move! Velocity: X=20.71 Y=-0.11 Z=0.00 Location: X=1981.80 Y=-910.54 Z=841.20 Normal: X=-0.88 Y=-0.47 Z=-0.00 PenetrationDepth:0.417 Actor:BP_Zombie_C_43 Component:CharacterMesh0 BoneName:RightHand (3 other events since notify)
+[2025.03.11-05.21.48:940][281]LogCharacterMovement: BP_Zombie_C_44 is stuck and failed to move! Velocity: X=20.71 Y=-0.11 Z=0.00 Location: X=1992.00 Y=-910.57 Z=841.20 Normal: X=-0.48 Y=-0.88 Z=-0.00 PenetrationDepth:0.744 Actor:BP_Zombie_C_43 Component:CharacterMesh0 BoneName:RightHand (6 other events since notify)
+[2025.03.11-05.21.51:861][406]LogCharacterMovement: BP_Zombie_C_32 is stuck and failed to move! Velocity: X=37.03 Y=-27.86 Z=0.00 Location: X=2104.23 Y=-417.79 Z=841.20 Normal: X=-0.32 Y=0.95 Z=-0.00 PenetrationDepth:0.090 Actor:BP_Zombie_C_39 Component:CharacterMesh0 BoneName:RightFoot (1 other events since notify)
+[2025.03.11-05.21.52:653][441]LogCharacterMovement: BP_Zombie_C_44 is stuck and failed to move! Velocity: X=20.71 Y=-0.05 Z=0.00 Location: X=1963.40 Y=-910.48 Z=841.20 Normal: X=-0.75 Y=-0.66 Z=0.00 PenetrationDepth:0.008 Actor:BP_Zombie_C_43 Component:CharacterMesh0 BoneName:RightArm (15 other events since notify)
+[2025.03.11-05.21.53:661][490]LogCharacterMovement: BP_Zombie_C_44 is stuck and failed to move! Velocity: X=20.71 Y=0.22 Z=0.00 Location: X=1929.62 Y=-919.74 Z=841.20 Normal: X=-0.13 Y=0.99 Z=0.00 PenetrationDepth:8.840 Actor:StaticMeshActor_155 Component:StaticMeshComponent0 BoneName:None (48 other events since notify)
+[2025.03.11-05.21.54:941][553]LogCharacterMovement: BP_Zombie_C_43 is stuck and failed to move! Velocity: X=-19.24 Y=-7.65 Z=0.00 Location: X=2073.78 Y=-835.71 Z=841.20 Normal: X=-0.25 Y=-0.97 Z=0.00 PenetrationDepth:0.526 Actor:BP_Zombie_C_39 Component:CharacterMesh0 BoneName:RightHand (3 other events since notify)
+[2025.03.11-05.21.54:982][555]LogCharacterMovement: BP_Zombie_C_44 is stuck and failed to move! Velocity: X=20.71 Y=-0.01 Z=0.00 Location: X=1921.12 Y=-912.28 Z=841.20 Normal: X=-0.68 Y=-0.73 Z=-0.00 PenetrationDepth:0.890 Actor:BP_Zombie_C_43 Component:CharacterMesh0 BoneName:RightHand (6 other events since notify)
+[2025.03.11-05.21.57:583][680]LogCharacterMovement: BP_Zombie_C_43 is stuck and failed to move! Velocity: X=-1.19 Y=20.67 Z=0.00 Location: X=2058.01 Y=-882.78 Z=841.20 Normal: X=0.68 Y=-0.73 Z=-0.00 PenetrationDepth:34.745 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:RightHand (1 other events since notify)
+[2025.03.11-05.21.59:640][764]LogBlueprintUserMessages: [BP_Zombie_C_41] TST.......Zombie recieved Damage
+[2025.03.11-05.21.59:667][765]LogCharacterMovement: BP_Zombie_C_43 is stuck and failed to move! Velocity: X=-16.56 Y=12.43 Z=0.00 Location: X=2159.51 Y=-877.23 Z=841.20 Normal: X=0.98 Y=0.19 Z=-0.00 PenetrationDepth:0.052 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.11-05.22.00:378][793]LogBlueprintUserMessages: [BP_Zombie_C_38] TST.......Zombie recieved Damage
+[2025.03.11-05.22.00:401][794]LogBlueprintUserMessages: [BP_Zombie_C_38] overlap
+[2025.03.11-05.22.00:727][807]LogBlueprintUserMessages: [BP_Zombie_C_38] TST.......Zombie recieved Damage
+[2025.03.11-05.22.00:931][815]LogCharacterMovement: BP_Zombie_C_43 is stuck and failed to move! Velocity: X=-17.46 Y=11.14 Z=0.00 Location: X=2165.85 Y=-878.67 Z=841.20 Normal: X=0.77 Y=0.64 Z=-0.00 PenetrationDepth:1.109 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:RightHand (3 other events since notify)
+[2025.03.11-05.22.01:066][820]LogBlueprintUserMessages: [BP_Zombie_C_38] TST.......Zombie recieved Damage
+[2025.03.11-05.22.01:228][826]LogBlueprintUserMessages: [BP_Zombie_C_38] no overlap
+[2025.03.11-05.22.01:230][826]LogBlueprintUserMessages: [BP_Zombie_C_41] overlap
+[2025.03.11-05.22.01:613][840]LogBlueprintUserMessages: [BP_Zombie_C_41] TST.......Zombie recieved Damage
+[2025.03.11-05.22.01:746][845]LogBlueprintUserMessages: [BP_Zombie_C_41] TST.......Zombie recieved Damage
+[2025.03.11-05.22.01:907][851]LogBlueprintUserMessages: [BP_Zombie_C_41] TST.......Zombie recieved Damage
+[2025.03.11-05.22.02:065][857]LogBlueprintUserMessages: [BP_Zombie_C_41] TST.......Zombie recieved Damage
+[2025.03.11-05.22.02:115][859]LogBlueprintUserMessages: [BP_Zombie_C_41] no overlap
+[2025.03.11-05.22.02:887][890]LogCharacterMovement: BP_Zombie_C_43 is stuck and failed to move! Velocity: X=-20.71 Y=0.23 Z=0.00 Location: X=2204.82 Y=-879.45 Z=841.20 Normal: X=0.79 Y=0.61 Z=-0.00 PenetrationDepth:0.129 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:LeftHand (15 other events since notify)
+[2025.03.11-05.22.03:217][903]LogBlueprintUserMessages: [BP_Zombie_C_41] overlap
+[2025.03.11-05.22.03:393][910]LogBlueprintUserMessages: [BP_Zombie_C_41] TST.......Zombie recieved Damage
+[2025.03.11-05.22.03:401][910]LogBlueprintUserMessages: [BP_Zombie_C_41] no overlap
+[2025.03.11-05.22.04:910][974]LogCharacterMovement: BP_Zombie_C_43 is stuck and failed to move! Velocity: X=-20.71 Y=0.23 Z=0.00 Location: X=2217.58 Y=-879.45 Z=841.20 Normal: X=0.85 Y=0.52 Z=0.00 PenetrationDepth:0.355 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:RightHand (17 other events since notify)
+[2025.03.11-05.22.06:670][ 57]LogCharacterMovement: BP_Zombie_C_43 is stuck and failed to move! Velocity: X=-20.71 Y=0.22 Z=0.00 Location: X=2229.07 Y=-879.44 Z=841.20 Normal: X=0.72 Y=0.69 Z=0.00 PenetrationDepth:0.193 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:LeftHand (8 other events since notify)
+[2025.03.11-05.22.08:278][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.11-05.22.08:278][134]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV1
+[2025.03.11-05.22.08:281][134]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.03.11-05.22.08:287][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.11-05.22.08:369][134]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.11-05.22.08:377][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.11-05.22.08:410][134]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.11-05.22.08:410][134]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 78
+[2025.03.11-05.22.08:410][134]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=78
+[2025.03.11-05.22.08:413][134]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=78
+[2025.03.11-05.22.08:417][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.11-05.22.08:429][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.03.11-05.22.08:584][135]LogPlayLevel: Display: Destroying online subsystem :Context_163
+[2025.03.11-05.22.50:520][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.03.11-05.22.53:341][716]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.11-05.22.53:353][716]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.11-05.22.53:353][716]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV1
+[2025.03.11-05.22.53:401][716]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048747s)
+[2025.03.11-05.22.53:402][716]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV1.LV1 to /Game/Level/UEDPIE_0_LV1.LV1 (0.048793s)
+[2025.03.11-05.22.53:428][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.03.11-05.22.53:437][716]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.03.11-05.22.53:438][716]LogPlayLevel: PIE: World Init took: (0.002005s)
+[2025.03.11-05.22.53:439][716]LogAudio: Display: Creating Audio Device:                 Id: 79, Scope: Unique, Realtime: True
+[2025.03.11-05.22.53:439][716]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.11-05.22.53:439][716]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.11-05.22.53:439][716]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.11-05.22.53:439][716]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.11-05.22.53:439][716]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.11-05.22.53:439][716]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.11-05.22.53:439][716]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.11-05.22.53:439][716]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.11-05.22.53:439][716]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.11-05.22.53:439][716]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.11-05.22.53:439][716]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.11-05.22.53:443][716]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.11-05.22.53:623][716]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.03.11-05.22.53:623][716]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.11-05.22.53:623][716]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.11-05.22.53:623][716]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.11-05.22.53:624][716]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=79
+[2025.03.11-05.22.53:624][716]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=79
+[2025.03.11-05.22.53:627][716]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=79
+[2025.03.11-05.22.53:627][716]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=79
+[2025.03.11-05.22.53:627][716]LogInit: FAudioDevice initialized with ID 79.
+[2025.03.11-05.22.53:627][716]LogAudio: Display: Audio Device (ID: 79) registered with world 'LV1'.
+[2025.03.11-05.22.53:627][716]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 79
+[2025.03.11-05.22.53:631][716]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.11-05.22.53:664][716]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV1.LV1 up for play (max tick rate 60) at 2025.03.11-01.22.53
+[2025.03.11-05.22.53:688][716]LogWorld: Bringing up level for play took: 0.056957
+[2025.03.11-05.22.53:703][716]LogOnline: OSS: Created online subsystem instance for: :Context_164
+[2025.03.11-05.22.53:713][716]PIE: Server logged in
+[2025.03.11-05.22.53:715][716]PIE: Play in editor total start time 0.363 seconds.
+[2025.03.11-05.22.54:685][751]LogBlueprintUserMessages: [BP_key3_C_3] KITCHEN KEY FOUND
+[2025.03.11-05.22.56:108][817]LogBlueprintUserMessages: [BP_Zombie_C_57] overlap
+[2025.03.11-05.22.57:110][876]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.22.58:112][936]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.22.59:118][996]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.23.00:113][ 55]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.23.00:145][ 57]LogCharacterMovement: BP_FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-18.17 Y=-29.82 Z=0.00 Location: X=744.93 Y=-684.57 Z=799.18 Normal: X=0.73 Y=0.16 Z=-0.66 PenetrationDepth:0.175 Actor:BP_Zombie_C_57 Component:CharacterMesh0 BoneName:Head (0 other events since notify)
+[2025.03.11-05.23.01:125][112]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.23.02:120][167]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.23.02:549][190]LogBlueprintUserMessages: [BP_Zombie_C_57] no overlap
+[2025.03.11-05.23.07:463][427]LogBlueprintUserMessages: [BP_Fire_C_38] Fire Damage Recieved
+[2025.03.11-05.23.08:961][499]LogBlueprintUserMessages: [BP_Fire_C_38] Fire Damage Recieved
+[2025.03.11-05.23.11:157][608]LogCharacterMovement: BP_Zombie_C_43 is stuck and failed to move! Velocity: X=-20.45 Y=-3.25 Z=0.00 Location: X=2032.89 Y=-865.00 Z=841.20 Normal: X=-0.42 Y=0.91 Z=-0.00 PenetrationDepth:0.089 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.11-05.23.12:160][657]LogCharacterMovement: BP_Zombie_C_43 is stuck and failed to move! Velocity: X=-20.44 Y=-3.35 Z=0.00 Location: X=2033.40 Y=-864.55 Z=841.20 Normal: X=-0.42 Y=0.91 Z=-0.00 PenetrationDepth:0.079 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:RightHand (39 other events since notify)
+[2025.03.11-05.23.16:107][851]LogCharacterMovement: BP_Zombie_C_43 is stuck and failed to move! Velocity: X=6.46 Y=19.68 Z=0.00 Location: X=2052.74 Y=-819.21 Z=841.20 Normal: X=-0.98 Y=-0.22 Z=0.00 PenetrationDepth:7.903 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:RightHand (16 other events since notify)
+[2025.03.11-05.23.16:405][865]LogBlueprintUserMessages: [BP_Zombie_C_32] overlap
+[2025.03.11-05.23.17:423][914]LogBlueprintUserMessages: [BP_Zombie_C_32] Zombie Damage Recieved
+[2025.03.11-05.23.18:087][947]LogCharacterMovement: BP_FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=351.77 Y=-224.00 Z=0.00 Location: X=685.15 Y=-1691.14 Z=797.40 Normal: X=-0.51 Y=0.77 Z=-0.37 PenetrationDepth:24.395 Actor:BP_Zombie_C_32 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.11-05.23.18:425][963]LogBlueprintUserMessages: [BP_Zombie_C_32] Zombie Damage Recieved
+[2025.03.11-05.23.18:712][977]LogBlueprintUserMessages: [BP_Zombie_C_32] no overlap
+[2025.03.11-05.23.20:550][ 63]LogBlueprintUserMessages: [BP_Zombie_C_57] overlap
+[2025.03.11-05.23.20:589][ 65]LogCharacterMovement: BP_Zombie_C_44 is stuck and failed to move! Velocity: X=-20.59 Y=2.20 Z=0.00 Location: X=2034.46 Y=-926.46 Z=841.20 Normal: X=-0.13 Y=-0.99 Z=0.00 PenetrationDepth:0.260 Actor:BP_Zombie_C_43 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2025.03.11-05.23.21:556][112]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.11-05.23.22:081][138]LogBlueprintUserMessages: [BP_Zombie_C_57] no overlap
+[2025.03.11-05.23.23:619][209]LogCharacterMovement: BP_Zombie_C_44 is stuck and failed to move! Velocity: X=-19.45 Y=7.11 Z=0.00 Location: X=2052.17 Y=-970.95 Z=841.20 Normal: X=-0.39 Y=-0.92 Z=0.00 PenetrationDepth:0.480 Actor:BP_Zombie_C_43 Component:CharacterMesh0 BoneName:LeftHand (36 other events since notify)
+[2025.03.11-05.23.24:299][240]LogCharacterMovement: BP_Zombie_C_29 is stuck and failed to move! Velocity: X=20.71 Y=-0.21 Z=0.00 Location: X=3119.35 Y=1357.30 Z=240.67 Normal: X=-0.02 Y=-1.00 Z=0.00 PenetrationDepth:0.542 Actor:BP_Zombie_C_28 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2025.03.11-05.23.27:159][372]LogBlueprintUserMessages: [BP_Zombie_C_56] overlap
+[2025.03.11-05.23.28:096][415]LogBlueprintUserMessages: [BP_Zombie_C_56] no overlap
+[2025.03.11-05.23.28:650][441]LogBlueprintUserMessages: [BP_Zombie_C_56] overlap
+[2025.03.11-05.23.28:982][457]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_1] WEAPON FOUND
+[2025.03.11-05.23.29:129][464]LogBlueprintUserMessages: [BP_Zombie_C_56] no overlap
+[2025.03.11-05.23.29:174][466]LogCharacterMovement: BP_Zombie_C_43 is stuck and failed to move! Velocity: X=20.67 Y=-1.31 Z=0.00 Location: X=2144.14 Y=-870.22 Z=841.20 Normal: X=0.21 Y=0.98 Z=-0.00 PenetrationDepth:0.244 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:RightHand (18 other events since notify)
+[2025.03.11-05.23.32:781][633]LogBlueprintUserMessages: [BP_Zombie_C_56] overlap
+[2025.03.11-05.23.32:823][635]LogBlueprintUserMessages: [BP_Zombie_C_56] TST.......Zombie recieved Damage
+[2025.03.11-05.23.33:084][647]LogBlueprintUserMessages: [BP_Zombie_C_56] TST.......Zombie recieved Damage
+[2025.03.11-05.23.33:238][654]LogBlueprintUserMessages: [BP_Zombie_C_56] TST.......Zombie recieved Damage
+[2025.03.11-05.23.33:385][661]LogBlueprintUserMessages: [BP_Zombie_C_56] TST.......Zombie recieved Damage
+[2025.03.11-05.23.33:551][669]LogBlueprintUserMessages: [BP_Zombie_C_56] no overlap
+[2025.03.11-05.23.33:572][670]LogBlueprintUserMessages: [BP_Zombie_C_56] TST.......Zombie recieved Damage
+[2025.03.11-05.23.33:676][675]LogBlueprintUserMessages: [BP_Zombie_C_55] overlap
+[2025.03.11-05.23.34:702][719]LogBlueprintUserMessages: [BP_Zombie_C_55] Zombie Damage Recieved
+[2025.03.11-05.23.34:746][721]LogCharacterMovement: BP_FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-11.78 Y=-51.19 Z=0.00 Location: X=1874.26 Y=-144.33 Z=797.40 Normal: X=-0.43 Y=0.27 Z=-0.86 PenetrationDepth:1.121 Actor:BP_Zombie_C_55 Component:CharacterMesh0 BoneName:RightArm (0 other events since notify)
+[2025.03.11-05.23.34:855][725]LogBlueprintUserMessages: [BP_Zombie_C_56] overlap
+[2025.03.11-05.23.34:883][726]LogBlueprintUserMessages: [BP_Zombie_C_56] no overlap
+[2025.03.11-05.23.35:013][731]LogBlueprintUserMessages: [BP_Zombie_C_55] TST.......Zombie recieved Damage
+[2025.03.11-05.23.35:064][733]LogCharacterMovement: BP_Zombie_C_29 is stuck and failed to move! Velocity: X=20.71 Y=-0.28 Z=0.00 Location: X=3349.36 Y=1357.30 Z=240.67 Normal: X=-0.95 Y=-0.31 Z=0.00 PenetrationDepth:0.084 Actor:BP_Zombie_C_27 Component:CharacterMesh0 BoneName:LeftHand (36 other events since notify)
+[2025.03.11-05.23.35:620][754]LogBlueprintUserMessages: [BP_Zombie_C_32] overlap
+[2025.03.11-05.23.35:700][757]LogBlueprintUserMessages: [BP_Zombie_C_55] no overlap
+[2025.03.11-05.23.35:891][764]LogBlueprintUserMessages: [BP_Zombie_C_55] overlap
+[2025.03.11-05.23.36:052][770]LogBlueprintUserMessages: [BP_Zombie_C_32] TST.......Zombie recieved Damage
+[2025.03.11-05.23.36:534][788]LogBlueprintUserMessages: [BP_Zombie_C_55] no overlap
+[2025.03.11-05.23.36:649][792]LogBlueprintUserMessages: [BP_Zombie_C_32] Zombie Damage Recieved
+[2025.03.11-05.23.36:665][793]LogCharacterMovement: BP_FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-547.20 Y=246.11 Z=0.00 Location: X=1674.57 Y=-18.97 Z=799.43 Normal: X=0.59 Y=0.65 Z=0.48 PenetrationDepth:0.454 Actor:BP_Zombie_C_32 Component:CharacterMesh0 BoneName:RightFoot (2 other events since notify)
+[2025.03.11-05.23.37:141][810]LogBlueprintUserMessages: [BP_Zombie_C_32] no overlap
+[2025.03.11-05.23.37:257][814]LogCharacterMovement: BP_Zombie_C_22 is stuck and failed to move! Velocity: X=-15.48 Y=-13.76 Z=0.00 Location: X=1381.81 Y=354.28 Z=240.67 Normal: X=0.84 Y=-0.54 Z=-0.00 PenetrationDepth:6.367 Actor:BP_Zombie_C_21 Component:CharacterMesh0 BoneName:LeftArm (0 other events since notify)
+[2025.03.11-05.23.37:453][821]LogBlueprintUserMessages: [BP_Zombie_C_32] overlap
+[2025.03.11-05.23.37:813][834]LogBlueprintUserMessages: [BP_Zombie_C_32] no overlap
+[2025.03.11-05.23.37:815][834]LogBlueprintUserMessages: [BP_Zombie_C_32] overlap
+[2025.03.11-05.23.37:844][835]LogBlueprintUserMessages: [BP_Zombie_C_32] no overlap
+[2025.03.11-05.23.37:905][837]LogBlueprintUserMessages: [BP_Zombie_C_39] TST.......Zombie recieved Damage
+[2025.03.11-05.23.38:009][841]LogCharacterMovement: BP_Zombie_C_32 is stuck and failed to move! Velocity: X=-135.98 Y=-494.39 Z=0.00 Location: X=1569.61 Y=-27.46 Z=841.20 Normal: X=0.64 Y=0.77 Z=-0.00 PenetrationDepth:0.019 Actor:BP_Zombie_C_39 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2025.03.11-05.23.38:040][842]LogBlueprintUserMessages: [BP_Zombie_C_39] TST.......Zombie recieved Damage
+[2025.03.11-05.23.38:798][870]LogBlueprintUserMessages: [BP_keyDoor2_C_1] BEDROOM KEY MISSING
+[2025.03.11-05.23.38:965][876]LogBlueprintUserMessages: [BP_keyDoor2_C_1] BEDROOM KEY MISSING
+[2025.03.11-05.23.39:967][913]LogBlueprintUserMessages: [BP_Zombie_C_39] overlap
+[2025.03.11-05.23.40:087][918]LogBlueprintUserMessages: [BP_key2_C_2] BEDROOM KEY FOUND
+[2025.03.11-05.23.40:380][929]LogBlueprintUserMessages: [BP_Zombie_C_39] no overlap
+[2025.03.11-05.23.42:438][  8]LogCharacterMovement: BP_Zombie_C_48 is stuck and failed to move! Velocity: X=-13.37 Y=15.81 Z=0.00 Location: X=3615.43 Y=-940.80 Z=841.20 Normal: X=-0.38 Y=-0.93 Z=0.00 PenetrationDepth:0.129 Actor:BP_Zombie_C_50 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.11-05.23.43:197][ 37]LogCharacterMovement: BP_Zombie_C_50 is stuck and failed to move! Velocity: X=-15.68 Y=-13.52 Z=0.00 Location: X=3692.39 Y=-752.37 Z=839.42 Normal: X=0.64 Y=0.77 Z=-0.00 PenetrationDepth:12.432 Actor:BP_Zombie_C_48 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2025.03.11-05.23.44:860][101]LogCharacterMovement: BP_Zombie_C_39 is stuck and failed to move! Velocity: X=20.70 Y=0.55 Z=0.00 Location: X=1622.12 Y=142.52 Z=841.20 Normal: X=-0.09 Y=0.89 Z=-0.45 PenetrationDepth:16.127 Actor:BP_Zombie_C_55 Component:CharacterMesh0 BoneName:LeftArm (0 other events since notify)
+[2025.03.11-05.23.45:707][135]LogCharacterMovement: BP_Zombie_C_22 is stuck and failed to move! Velocity: X=-20.54 Y=-2.66 Z=0.00 Location: X=1488.35 Y=357.30 Z=240.67 Normal: X=0.60 Y=-0.80 Z=0.00 PenetrationDepth:3.341 Actor:BP_Zombie_C_21 Component:CharacterMesh0 BoneName:RightHand (13 other events since notify)
+[2025.03.11-05.23.46:344][162]LogCharacterMovement: BP_Zombie_C_39 is stuck and failed to move! Velocity: X=20.70 Y=0.51 Z=0.00 Location: X=1602.13 Y=142.70 Z=841.20 Normal: X=-0.24 Y=0.97 Z=0.00 PenetrationDepth:0.173 Actor:BP_Zombie_C_55 Component:CharacterMesh0 BoneName:LeftArm (26 other events since notify)
+[2025.03.11-05.23.47:454][210]LogCharacterMovement: BP_Zombie_C_39 is stuck and failed to move! Velocity: X=20.70 Y=0.47 Z=0.00 Location: X=1574.02 Y=148.92 Z=839.34 Normal: X=0.10 Y=0.97 Z=-0.24 PenetrationDepth:1.731 Actor:BP_Zombie_C_55 Component:CharacterMesh0 BoneName:LeftHand (29 other events since notify)
+[2025.03.11-05.23.49:049][281]LogCharacterMovement: BP_Zombie_C_39 is stuck and failed to move! Velocity: X=20.70 Y=0.50 Z=0.00 Location: X=1592.64 Y=143.17 Z=841.20 Normal: X=-0.37 Y=0.93 Z=-0.00 PenetrationDepth:0.232 Actor:BP_Zombie_C_55 Component:CharacterMesh0 BoneName:LeftArm (15 other events since notify)
+[2025.03.11-05.23.50:084][327]LogCharacterMovement: BP_Zombie_C_39 is stuck and failed to move! Velocity: X=20.70 Y=0.48 Z=0.00 Location: X=1574.22 Y=148.82 Z=839.25 Normal: X=0.09 Y=0.97 Z=-0.24 PenetrationDepth:1.174 Actor:BP_Zombie_C_55 Component:CharacterMesh0 BoneName:LeftHand (26 other events since notify)
+[2025.03.11-05.23.50:516][347]LogCharacterMovement: BP_Zombie_C_28 is stuck and failed to move! Velocity: X=10.27 Y=-17.98 Z=0.00 Location: X=2957.77 Y=1356.52 Z=240.67 Normal: X=0.00 Y=1.00 Z=0.00 PenetrationDepth:0.665 Actor:StaticMeshActor_37 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2025.03.11-05.23.50:860][363]LogCharacterMovement: BP_Zombie_C_21 is stuck and failed to move! Velocity: X=1.56 Y=-20.65 Z=0.00 Location: X=1278.09 Y=532.12 Z=240.67 Normal: X=-0.95 Y=0.31 Z=0.00 PenetrationDepth:0.362 Actor:BP_Zombie_C_22 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.11-05.23.51:656][400]LogCharacterMovement: BP_Zombie_C_39 is stuck and failed to move! Velocity: X=20.70 Y=0.50 Z=0.00 Location: X=1596.26 Y=142.82 Z=841.20 Normal: X=-0.33 Y=0.94 Z=0.00 PenetrationDepth:0.681 Actor:BP_Zombie_C_55 Component:CharacterMesh0 BoneName:LeftArm (16 other events since notify)
+[2025.03.11-05.23.52:144][423]LogCharacterMovement: BP_Zombie_C_28 is stuck and failed to move! Velocity: X=18.74 Y=-8.81 Z=0.00 Location: X=2945.93 Y=1357.30 Z=240.67 Normal: X=-0.86 Y=-0.51 Z=0.00 PenetrationDepth:0.110 Actor:BP_Zombie_C_29 Component:CharacterMesh0 BoneName:LeftHand (5 other events since notify)
+[2025.03.11-05.23.53:220][470]LogCharacterMovement: BP_Zombie_C_21 is stuck and failed to move! Velocity: X=2.98 Y=-20.49 Z=0.00 Location: X=1239.95 Y=568.65 Z=240.67 Normal: X=-0.81 Y=0.59 Z=-0.00 PenetrationDepth:0.132 Actor:BP_Zombie_C_22 Component:CharacterMesh0 BoneName:RightHand (13 other events since notify)
+[2025.03.11-05.23.53:775][495]LogCharacterMovement: BP_Zombie_C_32 is stuck and failed to move! Velocity: X=1.67 Y=20.64 Z=0.00 Location: X=1400.90 Y=-979.43 Z=841.20 Normal: X=0.75 Y=-0.66 Z=-0.00 PenetrationDepth:0.130 Actor:BP_Zombie_C_41 Component:CharacterMesh0 BoneName:LeftArm (0 other events since notify)
+[2025.03.11-05.23.53:795][496]LogCharacterMovement: BP_Zombie_C_28 is stuck and failed to move! Velocity: X=20.50 Y=-2.96 Z=0.00 Location: X=2906.97 Y=1357.30 Z=240.67 Normal: X=-0.88 Y=-0.48 Z=-0.00 PenetrationDepth:0.004 Actor:BP_Zombie_C_29 Component:CharacterMesh0 BoneName:RightHand (26 other events since notify)
+[2025.03.11-05.23.53:928][502]LogBlueprintUserMessages: [BP_Zombie_C_55] overlap
+[2025.03.11-05.23.53:948][503]LogBlueprintUserMessages: [BP_Zombie_C_55] no overlap
+[2025.03.11-05.23.53:954][503]LogBlueprintUserMessages: [BP_Zombie_C_55] overlap
+[2025.03.11-05.23.53:972][504]LogBlueprintUserMessages: [BP_Zombie_C_55] no overlap
+[2025.03.11-05.23.53:975][504]LogBlueprintUserMessages: [BP_Zombie_C_55] overlap
+[2025.03.11-05.23.53:994][505]LogBlueprintUserMessages: [BP_Zombie_C_55] no overlap
+[2025.03.11-05.23.53:998][505]LogBlueprintUserMessages: [BP_Zombie_C_55] overlap
+[2025.03.11-05.23.54:015][506]LogBlueprintUserMessages: [BP_Zombie_C_55] no overlap
+[2025.03.11-05.23.54:018][506]LogBlueprintUserMessages: [BP_Zombie_C_55] overlap
+[2025.03.11-05.23.54:039][507]LogBlueprintUserMessages: [BP_Zombie_C_55] no overlap
+[2025.03.11-05.23.54:042][507]LogBlueprintUserMessages: [BP_Zombie_C_55] overlap
+[2025.03.11-05.23.54:060][508]LogBlueprintUserMessages: [BP_Zombie_C_55] no overlap
+[2025.03.11-05.23.54:063][508]LogBlueprintUserMessages: [BP_Zombie_C_55] overlap
+[2025.03.11-05.23.54:084][509]LogBlueprintUserMessages: [BP_Zombie_C_55] no overlap
+[2025.03.11-05.23.54:087][509]LogBlueprintUserMessages: [BP_Zombie_C_55] overlap
+[2025.03.11-05.23.54:105][510]LogBlueprintUserMessages: [BP_Zombie_C_55] no overlap
+[2025.03.11-05.23.54:107][510]LogBlueprintUserMessages: [BP_Zombie_C_55] overlap
+[2025.03.11-05.23.54:127][511]LogBlueprintUserMessages: [BP_Zombie_C_55] no overlap
+[2025.03.11-05.23.54:130][511]LogBlueprintUserMessages: [BP_Zombie_C_55] overlap
+[2025.03.11-05.23.54:148][512]LogBlueprintUserMessages: [BP_Zombie_C_55] no overlap
+[2025.03.11-05.23.54:152][512]LogBlueprintUserMessages: [BP_Zombie_C_55] overlap
+[2025.03.11-05.23.54:172][513]LogBlueprintUserMessages: [BP_Zombie_C_55] no overlap
+[2025.03.11-05.23.54:175][513]LogBlueprintUserMessages: [BP_Zombie_C_55] overlap
+[2025.03.11-05.23.54:193][514]LogBlueprintUserMessages: [BP_Zombie_C_55] no overlap
+[2025.03.11-05.23.54:196][514]LogBlueprintUserMessages: [BP_Zombie_C_55] overlap
+[2025.03.11-05.23.54:217][515]LogBlueprintUserMessages: [BP_Zombie_C_55] no overlap
+[2025.03.11-05.23.54:220][515]LogBlueprintUserMessages: [BP_Zombie_C_55] overlap
+[2025.03.11-05.23.54:239][516]LogBlueprintUserMessages: [BP_Zombie_C_55] no overlap
+[2025.03.11-05.23.54:242][516]LogBlueprintUserMessages: [BP_Zombie_C_55] overlap
+[2025.03.11-05.23.54:262][517]LogBlueprintUserMessages: [BP_Zombie_C_55] no overlap
+[2025.03.11-05.23.54:265][517]LogBlueprintUserMessages: [BP_Zombie_C_55] overlap
+[2025.03.11-05.23.54:283][518]LogBlueprintUserMessages: [BP_Zombie_C_55] no overlap
+[2025.03.11-05.23.54:285][518]LogBlueprintUserMessages: [BP_Zombie_C_55] overlap
+[2025.03.11-05.23.54:306][519]LogBlueprintUserMessages: [BP_Zombie_C_55] no overlap
+[2025.03.11-05.23.54:309][519]LogBlueprintUserMessages: [BP_Zombie_C_55] overlap
+[2025.03.11-05.23.54:327][520]LogBlueprintUserMessages: [BP_Zombie_C_55] no overlap
+[2025.03.11-05.23.54:331][520]LogBlueprintUserMessages: [BP_Zombie_C_55] overlap
+[2025.03.11-05.23.54:350][521]LogBlueprintUserMessages: [BP_Zombie_C_55] no overlap
+[2025.03.11-05.23.54:354][521]LogBlueprintUserMessages: [BP_Zombie_C_55] overlap
+[2025.03.11-05.23.54:722][538]LogBlueprintUserMessages: [BP_Zombie_C_55] no overlap
+[2025.03.11-05.23.54:788][541]LogCharacterMovement: BP_Zombie_C_32 is stuck and failed to move! Velocity: X=1.64 Y=20.64 Z=0.00 Location: X=1400.90 Y=-986.18 Z=841.20 Normal: X=0.55 Y=-0.84 Z=-0.00 PenetrationDepth:0.585 Actor:BP_Zombie_C_41 Component:CharacterMesh0 BoneName:LeftArm (17 other events since notify)
+[2025.03.11-05.23.54:809][542]LogBlueprintUserMessages: [BP_Zombie_C_35] overlap
+[2025.03.11-05.23.55:092][555]LogCharacterMovement: BP_Zombie_C_41 is stuck and failed to move! Velocity: X=19.67 Y=6.47 Z=0.00 Location: X=1250.03 Y=-879.45 Z=841.20 Normal: X=-0.41 Y=0.91 Z=0.00 PenetrationDepth:3.042 Actor:BP_Zombie_C_32 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.11-05.23.55:807][588]LogCharacterMovement: BP_Zombie_C_32 is stuck and failed to move! Velocity: X=0.22 Y=20.71 Z=0.00 Location: X=1400.90 Y=-1027.50 Z=841.20 Normal: X=0.60 Y=-0.80 Z=-0.00 PenetrationDepth:0.134 Actor:BP_Zombie_C_41 Component:CharacterMesh0 BoneName:LeftArm (39 other events since notify)
+[2025.03.11-05.23.55:835][589]LogBlueprintUserMessages: [BP_Zombie_C_35] Zombie Damage Recieved
+[2025.03.11-05.23.56:085][601]LogBlueprintUserMessages: [BP_Zombie_C_35] no overlap
+[2025.03.11-05.23.58:235][704]LogBlueprintUserMessages: [BP_Zombie_C_35] overlap
+[2025.03.11-05.23.59:034][742]LogCharacterMovement: BP_Zombie_C_32 is stuck and failed to move! Velocity: X=0.21 Y=20.71 Z=0.00 Location: X=1400.90 Y=-1046.68 Z=841.20 Normal: X=0.41 Y=-0.91 Z=-0.00 PenetrationDepth:0.859 Actor:BP_Zombie_C_41 Component:CharacterMesh0 BoneName:LeftArm (8 other events since notify)
+[2025.03.11-05.23.59:162][748]LogCharacterMovement: BP_Zombie_C_41 is stuck and failed to move! Velocity: X=15.99 Y=13.16 Z=0.00 Location: X=1251.73 Y=-918.68 Z=841.59 Normal: X=0.35 Y=0.94 Z=0.02 PenetrationDepth:4.675 Actor:StaticMeshActor_153 Component:StaticMeshComponent0 BoneName:None (2 other events since notify)
+[2025.03.11-05.23.59:251][752]LogBlueprintUserMessages: [BP_Zombie_C_35] Zombie Damage Recieved
+[2025.03.11-05.23.59:605][769]LogCharacterMovement: BP_FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=52.74 Y=71.89 Z=0.00 Location: X=412.34 Y=-1157.26 Z=797.33 Normal: X=-0.47 Y=-0.66 Z=-0.58 PenetrationDepth:0.141 Actor:BP_Zombie_C_35 Component:CharacterMesh0 BoneName:Spine2 (1 other events since notify)
+[2025.03.11-05.24.00:257][799]LogBlueprintUserMessages: [BP_Zombie_C_35] Zombie Damage Recieved
+[2025.03.11-05.24.00:545][813]LogBlueprintUserMessages: [BP_Zombie_C_35] no overlap
+[2025.03.11-05.24.01:160][840]LogBlueprintUserMessages: [BP_Zombie_C_35] overlap
+[2025.03.11-05.24.01:389][850]LogBlueprintUserMessages: [BP_Zombie_C_35] no overlap
+[2025.03.11-05.24.01:511][855]LogBlueprintUserMessages: [BP_Zombie_C_35] TST.......Zombie recieved Damage
+[2025.03.11-05.24.02:658][905]LogCharacterMovement: BP_Zombie_C_28 is stuck and failed to move! Velocity: X=20.71 Y=-0.17 Z=0.00 Location: X=2965.25 Y=1357.30 Z=240.67 Normal: X=-0.66 Y=-0.75 Z=-0.00 PenetrationDepth:0.053 Actor:BP_Zombie_C_29 Component:CharacterMesh0 BoneName:RightHand (13 other events since notify)
+[2025.03.11-05.24.02:797][911]LogCharacterMovement: BP_Zombie_C_32 is stuck and failed to move! Velocity: X=0.24 Y=20.71 Z=0.00 Location: X=1400.90 Y=-987.34 Z=841.20 Normal: X=0.79 Y=-0.61 Z=-0.00 PenetrationDepth:0.815 Actor:BP_Zombie_C_41 Component:CharacterMesh0 BoneName:LeftHand (6 other events since notify)
+[2025.03.11-05.24.03:298][932]LogCharacterMovement: BP_Zombie_C_29 is stuck and failed to move! Velocity: X=-18.05 Y=10.16 Z=0.00 Location: X=3123.98 Y=1396.31 Z=240.56 Normal: X=-0.67 Y=-0.74 Z=0.00 PenetrationDepth:12.589 Actor:BP_Zombie_C_26 Component:CharacterMesh0 BoneName:LeftHand (2 other events since notify)
+[2025.03.11-05.24.04:143][967]LogBlueprintUserMessages: [BP_Zombie_C_35] overlap
+[2025.03.11-05.24.04:299][973]LogCharacterMovement: BP_Zombie_C_29 is stuck and failed to move! Velocity: X=-18.05 Y=10.16 Z=0.00 Location: X=3123.98 Y=1396.31 Z=240.56 Normal: X=-0.91 Y=-0.41 Z=-0.00 PenetrationDepth:10.461 Actor:BP_Zombie_C_26 Component:CharacterMesh0 BoneName:LeftHand (40 other events since notify)
+[2025.03.11-05.24.04:352][975]LogBlueprintUserMessages: [BP_Zombie_C_35] TST.......Zombie recieved Damage
+[2025.03.11-05.24.04:504][981]LogBlueprintUserMessages: [BP_Zombie_C_35] TST.......Zombie recieved Damage
+[2025.03.11-05.24.05:154][  6]LogBlueprintUserMessages: [BP_Zombie_C_35] Zombie Damage Recieved
+[2025.03.11-05.24.05:320][ 13]LogCharacterMovement: BP_Zombie_C_29 is stuck and failed to move! Velocity: X=-18.05 Y=10.16 Z=0.00 Location: X=3123.98 Y=1396.31 Z=240.56 Normal: X=-0.14 Y=-0.99 Z=-0.00 PenetrationDepth:33.311 Actor:BP_Zombie_C_26 Component:CharacterMesh0 BoneName:LeftHand (39 other events since notify)
+[2025.03.11-05.24.05:444][ 18]LogBlueprintUserMessages: [BP_Zombie_C_35] no overlap
+[2025.03.11-05.24.05:472][ 19]LogCharacterMovement: BP_Zombie_C_28 is stuck and failed to move! Velocity: X=20.71 Y=-0.18 Z=0.00 Location: X=3015.52 Y=1357.30 Z=240.67 Normal: X=-0.36 Y=-0.93 Z=0.00 PenetrationDepth:2.116 Actor:BP_Zombie_C_29 Component:CharacterMesh0 BoneName:RightArm (5 other events since notify)
+[2025.03.11-05.24.05:691][ 27]LogCharacterMovement: BP_Zombie_C_41 is stuck and failed to move! Velocity: X=19.62 Y=6.61 Z=0.00 Location: X=1251.66 Y=-880.15 Z=841.21 Normal: X=-0.60 Y=0.80 Z=-0.00 PenetrationDepth:26.889 Actor:BP_Zombie_C_32 Component:CharacterMesh0 BoneName:RightHand (2 other events since notify)
+[2025.03.11-05.24.06:110][ 43]LogCharacterMovement: BP_Zombie_C_32 is stuck and failed to move! Velocity: X=0.24 Y=20.71 Z=0.00 Location: X=1400.90 Y=-986.34 Z=841.20 Normal: X=0.60 Y=-0.80 Z=-0.00 PenetrationDepth:0.005 Actor:BP_Zombie_C_41 Component:CharacterMesh0 BoneName:LeftArm (39 other events since notify)
+[2025.03.11-05.24.06:473][ 57]LogCharacterMovement: BP_Zombie_C_28 is stuck and failed to move! Velocity: X=20.71 Y=-0.17 Z=0.00 Location: X=2913.56 Y=1357.30 Z=240.67 Normal: X=-0.94 Y=-0.34 Z=-0.00 PenetrationDepth:0.081 Actor:BP_Zombie_C_29 Component:CharacterMesh0 BoneName:RightArm (37 other events since notify)
+[2025.03.11-05.24.07:141][ 84]LogCharacterMovement: BP_Zombie_C_32 is stuck and failed to move! Velocity: X=0.21 Y=20.71 Z=0.00 Location: X=1400.90 Y=-1062.93 Z=841.20 Normal: X=0.50 Y=-0.87 Z=0.00 PenetrationDepth:0.015 Actor:BP_Zombie_C_41 Component:CharacterMesh0 BoneName:LeftHand (36 other events since notify)
+[2025.03.11-05.24.10:465][228]LogCharacterMovement: BP_Zombie_C_58 is stuck and failed to move! Velocity: X=20.67 Y=1.29 Z=0.00 Location: X=-594.07 Y=-464.77 Z=841.20 Normal: X=-0.53 Y=0.85 Z=0.00 PenetrationDepth:0.085 Actor:BP_Zombie_C_59 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2025.03.11-05.24.10:735][239]LogCharacterMovement: BP_Zombie_C_54 is stuck and failed to move! Velocity: X=-20.30 Y=4.09 Z=0.00 Location: X=1654.34 Y=-357.30 Z=841.20 Normal: X=0.49 Y=0.87 Z=-0.00 PenetrationDepth:0.429 Actor:BP_Zombie_C_37 Component:CharacterMesh0 BoneName:RightArm (0 other events since notify)
+[2025.03.11-05.24.11:096][253]LogCharacterMovement: BP_Zombie_C_38 is stuck and failed to move! Velocity: X=6.07 Y=-19.80 Z=0.00 Location: X=1400.90 Y=-793.05 Z=841.20 Normal: X=0.36 Y=0.93 Z=0.00 PenetrationDepth:0.325 Actor:BP_Zombie_C_32 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.11-05.24.11:467][267]LogCharacterMovement: BP_Zombie_C_58 is stuck and failed to move! Velocity: X=20.67 Y=1.21 Z=0.00 Location: X=-625.28 Y=-464.77 Z=841.20 Normal: X=-0.77 Y=0.64 Z=-0.00 PenetrationDepth:0.267 Actor:BP_Zombie_C_59 Component:CharacterMesh0 BoneName:LeftHand (38 other events since notify)
+[2025.03.11-05.24.11:673][275]LogBlueprintUserMessages: [BP_Zombie_C_39] overlap
+[2025.03.11-05.24.12:082][291]LogBlueprintUserMessages: [BP_Zombie_C_39] no overlap
+[2025.03.11-05.24.12:134][293]LogCharacterMovement: BP_Zombie_C_38 is stuck and failed to move! Velocity: X=6.20 Y=-19.76 Z=0.00 Location: X=1400.90 Y=-773.77 Z=841.20 Normal: X=0.24 Y=0.97 Z=-0.00 PenetrationDepth:2.515 Actor:BP_Zombie_C_32 Component:CharacterMesh0 BoneName:RightHand (3 other events since notify)
+[2025.03.11-05.24.12:845][320]LogBlueprintUserMessages: [BP_Zombie_C_39] TST.......Zombie recieved Damage
+[2025.03.11-05.24.12:875][321]LogBlueprintUserMessages: [BP_Zombie_C_39] overlap
+[2025.03.11-05.24.12:898][322]LogBlueprintUserMessages: [BP_Zombie_C_39] no overlap
+[2025.03.11-05.24.12:901][322]LogBlueprintUserMessages: [BP_Zombie_C_39] overlap
+[2025.03.11-05.24.12:926][323]LogBlueprintUserMessages: [BP_Zombie_C_39] no overlap
+[2025.03.11-05.24.12:929][323]LogBlueprintUserMessages: [BP_Zombie_C_39] overlap
+[2025.03.11-05.24.12:952][324]LogBlueprintUserMessages: [BP_Zombie_C_39] no overlap
+[2025.03.11-05.24.12:955][324]LogBlueprintUserMessages: [BP_Zombie_C_39] overlap
+[2025.03.11-05.24.12:981][325]LogBlueprintUserMessages: [BP_Zombie_C_39] TST.......Zombie recieved Damage
+[2025.03.11-05.24.12:983][325]LogBlueprintUserMessages: [BP_Zombie_C_39] no overlap
+[2025.03.11-05.24.12:985][325]LogBlueprintUserMessages: [BP_Zombie_C_39] overlap
+[2025.03.11-05.24.13:008][326]LogBlueprintUserMessages: [BP_Zombie_C_39] no overlap
+[2025.03.11-05.24.13:010][326]LogBlueprintUserMessages: [BP_Zombie_C_39] overlap
+[2025.03.11-05.24.13:034][327]LogBlueprintUserMessages: [BP_Zombie_C_39] no overlap
+[2025.03.11-05.24.13:037][327]LogBlueprintUserMessages: [BP_Zombie_C_39] overlap
+[2025.03.11-05.24.13:061][328]LogBlueprintUserMessages: [BP_Zombie_C_39] no overlap
+[2025.03.11-05.24.13:064][328]LogBlueprintUserMessages: [BP_Zombie_C_39] overlap
+[2025.03.11-05.24.13:088][329]LogBlueprintUserMessages: [BP_Zombie_C_39] no overlap
+[2025.03.11-05.24.13:091][329]LogBlueprintUserMessages: [BP_Zombie_C_39] overlap
+[2025.03.11-05.24.13:114][330]LogBlueprintUserMessages: [BP_Zombie_C_39] no overlap
+[2025.03.11-05.24.13:117][330]LogBlueprintUserMessages: [BP_Zombie_C_39] overlap
+[2025.03.11-05.24.13:141][331]LogBlueprintUserMessages: [BP_Zombie_C_39] no overlap
+[2025.03.11-05.24.13:143][331]LogBlueprintUserMessages: [BP_Zombie_C_39] overlap
+[2025.03.11-05.24.13:168][332]LogBlueprintUserMessages: [BP_Zombie_C_39] TST.......Zombie recieved Damage
+[2025.03.11-05.24.13:170][332]LogBlueprintUserMessages: [BP_Zombie_C_39] no overlap
+[2025.03.11-05.24.13:173][332]LogBlueprintUserMessages: [BP_Zombie_C_39] overlap
+[2025.03.11-05.24.13:197][333]LogBlueprintUserMessages: [BP_Zombie_C_39] no overlap
+[2025.03.11-05.24.13:200][333]LogBlueprintUserMessages: [BP_Zombie_C_39] overlap
+[2025.03.11-05.24.13:223][334]LogBlueprintUserMessages: [BP_Zombie_C_39] no overlap
+[2025.03.11-05.24.13:225][334]LogBlueprintUserMessages: [BP_Zombie_C_39] overlap
+[2025.03.11-05.24.13:251][335]LogBlueprintUserMessages: [BP_Zombie_C_39] no overlap
+[2025.03.11-05.24.13:255][335]LogBlueprintUserMessages: [BP_Zombie_C_39] overlap
+[2025.03.11-05.24.13:279][336]LogBlueprintUserMessages: [BP_Zombie_C_39] no overlap
+[2025.03.11-05.24.13:281][336]LogBlueprintUserMessages: [BP_Zombie_C_39] overlap
+[2025.03.11-05.24.13:306][337]LogBlueprintUserMessages: [BP_Zombie_C_39] TST.......Zombie recieved Damage
+[2025.03.11-05.24.13:308][337]LogBlueprintUserMessages: [BP_Zombie_C_39] no overlap
+[2025.03.11-05.24.13:311][337]LogBlueprintUserMessages: [BP_Zombie_C_39] overlap
+[2025.03.11-05.24.13:332][338]LogBlueprintUserMessages: [BP_Zombie_C_39] no overlap
+[2025.03.11-05.24.13:336][338]LogBlueprintUserMessages: [BP_Zombie_C_39] overlap
+[2025.03.11-05.24.13:360][339]LogBlueprintUserMessages: [BP_Zombie_C_39] no overlap
+[2025.03.11-05.24.13:362][339]LogBlueprintUserMessages: [BP_Zombie_C_39] overlap
+[2025.03.11-05.24.13:385][340]LogBlueprintUserMessages: [BP_Zombie_C_39] no overlap
+[2025.03.11-05.24.13:388][340]LogBlueprintUserMessages: [BP_Zombie_C_39] overlap
+[2025.03.11-05.24.13:413][341]LogBlueprintUserMessages: [BP_Zombie_C_39] no overlap
+[2025.03.11-05.24.13:415][341]LogBlueprintUserMessages: [BP_Zombie_C_39] overlap
+[2025.03.11-05.24.13:438][342]LogBlueprintUserMessages: [BP_Zombie_C_39] no overlap
+[2025.03.11-05.24.13:442][342]LogBlueprintUserMessages: [BP_Zombie_C_39] overlap
+[2025.03.11-05.24.13:467][343]LogBlueprintUserMessages: [BP_Zombie_C_39] no overlap
+[2025.03.11-05.24.13:469][343]LogBlueprintUserMessages: [BP_Zombie_C_39] overlap
+[2025.03.11-05.24.13:494][344]LogBlueprintUserMessages: [BP_Zombie_C_39] no overlap
+[2025.03.11-05.24.13:496][344]LogBlueprintUserMessages: [BP_Zombie_C_39] overlap
+[2025.03.11-05.24.13:520][345]LogBlueprintUserMessages: [BP_Zombie_C_39] no overlap
+[2025.03.11-05.24.13:523][345]LogBlueprintUserMessages: [BP_Zombie_C_39] overlap
+[2025.03.11-05.24.13:544][346]LogBlueprintUserMessages: [BP_Zombie_C_39] no overlap
+[2025.03.11-05.24.13:546][346]LogBlueprintUserMessages: [BP_Zombie_C_39] overlap
+[2025.03.11-05.24.13:567][347]LogBlueprintUserMessages: [BP_Zombie_C_39] no overlap
+[2025.03.11-05.24.13:570][347]LogBlueprintUserMessages: [BP_Zombie_C_39] overlap
+[2025.03.11-05.24.13:589][348]LogBlueprintUserMessages: [BP_Zombie_C_39] no overlap
+[2025.03.11-05.24.13:592][348]LogBlueprintUserMessages: [BP_Zombie_C_39] overlap
+[2025.03.11-05.24.13:614][349]LogBlueprintUserMessages: [BP_Zombie_C_39] no overlap
+[2025.03.11-05.24.13:617][349]LogBlueprintUserMessages: [BP_Zombie_C_39] overlap
+[2025.03.11-05.24.13:637][350]LogBlueprintUserMessages: [BP_Zombie_C_39] no overlap
+[2025.03.11-05.24.13:640][350]LogBlueprintUserMessages: [BP_Zombie_C_39] overlap
+[2025.03.11-05.24.13:663][351]LogBlueprintUserMessages: [BP_Zombie_C_39] no overlap
+[2025.03.11-05.24.13:665][351]LogBlueprintUserMessages: [BP_Zombie_C_39] overlap
+[2025.03.11-05.24.13:687][352]LogBlueprintUserMessages: [BP_Zombie_C_39] no overlap
+[2025.03.11-05.24.13:689][352]LogBlueprintUserMessages: [BP_Zombie_C_39] overlap
+[2025.03.11-05.24.13:738][353]LogBlueprintUserMessages: [BP_Zombie_C_39] no overlap
+[2025.03.11-05.24.13:740][353]LogBlueprintUserMessages: [BP_Zombie_C_39] overlap
+[2025.03.11-05.24.13:764][354]LogBlueprintUserMessages: [BP_Zombie_C_39] no overlap
+[2025.03.11-05.24.13:767][354]LogBlueprintUserMessages: [BP_Zombie_C_39] overlap
+[2025.03.11-05.24.13:791][355]LogBlueprintUserMessages: [BP_Zombie_C_39] no overlap
+[2025.03.11-05.24.13:794][355]LogBlueprintUserMessages: [BP_Zombie_C_39] overlap
+[2025.03.11-05.24.13:825][356]LogBlueprintUserMessages: [BP_Zombie_C_39] no overlap
+[2025.03.11-05.24.13:829][356]LogBlueprintUserMessages: [BP_Zombie_C_39] overlap
+[2025.03.11-05.24.13:849][357]LogBlueprintUserMessages: [BP_Zombie_C_39] no overlap
+[2025.03.11-05.24.13:851][357]LogCharacterMovement: BP_Zombie_C_32 is stuck and failed to move! Velocity: X=0.25 Y=20.71 Z=0.00 Location: X=1400.97 Y=-973.42 Z=841.20 Normal: X=0.71 Y=-0.70 Z=-0.00 PenetrationDepth:19.213 Actor:BP_Zombie_C_38 Component:CharacterMesh0 BoneName:LeftHand (9 other events since notify)
+[2025.03.11-05.24.13:852][357]LogBlueprintUserMessages: [BP_Zombie_C_39] overlap
+[2025.03.11-05.24.13:971][362]LogBlueprintUserMessages: [BP_Zombie_C_39] no overlap
+[2025.03.11-05.24.13:974][362]LogBlueprintUserMessages: [BP_Zombie_C_39] overlap
+[2025.03.11-05.24.14:646][391]LogBlueprintUserMessages: [BP_Zombie_C_39] no overlap
+[2025.03.11-05.24.14:852][401]LogCharacterMovement: BP_Zombie_C_32 is stuck and failed to move! Velocity: X=0.23 Y=20.71 Z=0.00 Location: X=1400.90 Y=-1016.41 Z=841.20 Normal: X=0.62 Y=-0.79 Z=-0.00 PenetrationDepth:0.280 Actor:BP_Zombie_C_41 Component:CharacterMesh0 BoneName:LeftArm (33 other events since notify)
+[2025.03.11-05.24.16:232][460]LogCharacterMovement: BP_Zombie_C_41 is stuck and failed to move! Velocity: X=19.40 Y=7.23 Z=0.00 Location: X=1253.29 Y=-879.45 Z=841.20 Normal: X=-0.49 Y=0.87 Z=-0.00 PenetrationDepth:3.217 Actor:BP_Zombie_C_32 Component:CharacterMesh0 BoneName:RightHand (1 other events since notify)
+[2025.03.11-05.24.17:361][504]LogBlueprintUserMessages: [BP_Zombie_C_31] TST.......Zombie recieved Damage
+[2025.03.11-05.24.18:040][530]LogBlueprintUserMessages: [BP_Zombie_C_55] TST.......Zombie recieved Damage
+[2025.03.11-05.24.18:679][554]LogBlueprintUserMessages: [BP_Zombie_C_31] TST.......Zombie recieved Damage
+[2025.03.11-05.24.18:730][556]LogBlueprintUserMessages: [BP_Zombie_C_31] overlap
+[2025.03.11-05.24.18:754][557]LogBlueprintUserMessages: [BP_Zombie_C_31] no overlap
+[2025.03.11-05.24.18:755][557]LogBlueprintUserMessages: [BP_Zombie_C_31] overlap
+[2025.03.11-05.24.18:778][558]LogBlueprintUserMessages: [BP_Zombie_C_31] no overlap
+[2025.03.11-05.24.18:779][558]LogBlueprintUserMessages: [BP_Zombie_C_31] overlap
+[2025.03.11-05.24.18:804][559]LogBlueprintUserMessages: [BP_Zombie_C_31] no overlap
+[2025.03.11-05.24.18:805][559]LogBlueprintUserMessages: [BP_Zombie_C_31] overlap
+[2025.03.11-05.24.18:889][562]LogCharacterMovement: BP_Zombie_C_41 is stuck and failed to move! Velocity: X=17.30 Y=11.38 Z=0.00 Location: X=1304.27 Y=-871.92 Z=841.20 Normal: X=-0.62 Y=0.78 Z=0.00 PenetrationDepth:39.472 Actor:BP_Zombie_C_32 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.11-05.24.18:946][564]LogCharacterMovement: BP_Zombie_C_32 is stuck and failed to move! Velocity: X=3.43 Y=20.42 Z=0.00 Location: X=1400.90 Y=-1025.92 Z=841.20 Normal: X=0.18 Y=-0.98 Z=0.00 PenetrationDepth:0.209 Actor:BP_Zombie_C_41 Component:CharacterMesh0 BoneName:LeftArm (17 other events since notify)
+[2025.03.11-05.24.18:976][565]LogBlueprintUserMessages: [BP_Zombie_C_31] TST.......Zombie recieved Damage
+[2025.03.11-05.24.19:037][567]LogCharacterMovement: BP_Zombie_C_37 is stuck and failed to move! Velocity: X=-20.39 Y=-3.61 Z=0.00 Location: X=1427.87 Y=-503.87 Z=841.20 Normal: X=0.19 Y=0.98 Z=-0.00 PenetrationDepth:1.547 Actor:BP_Zombie_C_38 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.11-05.24.19:141][571]LogBlueprintUserMessages: [BP_Zombie_C_31] TST.......Zombie recieved Damage
+[2025.03.11-05.24.19:223][574]LogCharacterMovement: BP_Zombie_C_46 is stuck and failed to move! Velocity: X=-10.65 Y=-17.76 Z=0.00 Location: X=2887.22 Y=-812.05 Z=841.20 Normal: X=-0.98 Y=0.19 Z=0.00 PenetrationDepth:0.143 Actor:BP_Zombie_C_48 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2025.03.11-05.24.19:248][575]LogBlueprintUserMessages: [BP_Zombie_C_34] overlap
+[2025.03.11-05.24.19:299][577]LogBlueprintUserMessages: [BP_Zombie_C_31] TST.......Zombie recieved Damage
+[2025.03.11-05.24.19:301][577]LogBlueprintUserMessages: [BP_Zombie_C_31] no overlap
+[2025.03.11-05.24.19:325][578]LogCharacterMovement: BP_FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=12.30 Y=-599.87 Z=0.00 Location: X=4544.98 Y=-728.09 Z=799.43 Normal: X=0.61 Y=0.59 Z=-0.53 PenetrationDepth:9.554 Actor:BP_Zombie_C_34 Component:CharacterMesh0 BoneName:RightHand (4 other events since notify)
+[2025.03.11-05.24.19:616][589]LogBlueprintUserMessages: [BP_Zombie_C_31] TST.......Zombie recieved Damage
+[2025.03.11-05.24.19:619][589]LogBlueprintUserMessages: [BP_Zombie_C_31] overlap
+[2025.03.11-05.24.19:724][593]LogBlueprintUserMessages: [BP_Zombie_C_31] TST.......Zombie recieved Damage
+[2025.03.11-05.24.19:852][598]LogBlueprintUserMessages: [BP_Zombie_C_31] TST.......Zombie recieved Damage
+[2025.03.11-05.24.20:026][605]LogBlueprintUserMessages: [BP_Zombie_C_31] TST.......Zombie recieved Damage
+[2025.03.11-05.24.20:203][612]LogBlueprintUserMessages: [BP_Zombie_C_34] no overlap
+[2025.03.11-05.24.20:228][613]LogCharacterMovement: BP_Zombie_C_46 is stuck and failed to move! Velocity: X=-8.46 Y=-18.90 Z=0.00 Location: X=2887.22 Y=-786.59 Z=841.20 Normal: X=-0.89 Y=0.46 Z=-0.00 PenetrationDepth:8.391 Actor:BP_Zombie_C_48 Component:CharacterMesh0 BoneName:LeftHand (30 other events since notify)
+[2025.03.11-05.24.20:391][620]LogBlueprintUserMessages: [BP_Zombie_C_31] no overlap
+[2025.03.11-05.24.20:491][624]LogBlueprintUserMessages: [BP_Zombie_C_31] overlap
+[2025.03.11-05.24.20:514][625]LogBlueprintUserMessages: [BP_Zombie_C_31] no overlap
+[2025.03.11-05.24.20:613][629]LogCharacterMovement: BP_Zombie_C_31 is stuck and failed to move! Velocity: X=-211.70 Y=-387.03 Z=0.00 Location: X=4549.39 Y=-734.31 Z=841.65 Normal: X=0.88 Y=-0.47 Z=0.00 PenetrationDepth:8.471 Actor:BP_Zombie_C_55 Component:CharacterMesh0 BoneName:RightArm (0 other events since notify)
+[2025.03.11-05.24.20:689][632]LogBlueprintUserMessages: [BP_Zombie_C_55] overlap
+[2025.03.11-05.24.20:713][633]LogBlueprintUserMessages: [BP_Zombie_C_55] no overlap
+[2025.03.11-05.24.20:717][633]LogBlueprintUserMessages: [BP_Zombie_C_55] overlap
+[2025.03.11-05.24.21:080][648]LogBlueprintUserMessages: [BP_Zombie_C_55] TST.......Zombie recieved Damage
+[2025.03.11-05.24.21:247][655]LogBlueprintUserMessages: [BP_Zombie_C_55] TST.......Zombie recieved Damage
+[2025.03.11-05.24.21:545][667]LogBlueprintUserMessages: [BP_Zombie_C_55] TST.......Zombie recieved Damage
+[2025.03.11-05.24.21:724][674]LogBlueprintUserMessages: [BP_Zombie_C_55] Zombie Damage Recieved
+[2025.03.11-05.24.21:742][675]LogBlueprintUserMessages: [BP_Zombie_C_55] TST.......Zombie recieved Damage
+[2025.03.11-05.24.21:914][682]LogBlueprintUserMessages: [BP_Zombie_C_55] TST.......Zombie recieved Damage
+[2025.03.11-05.24.22:347][700]LogCharacterMovement: BP_Zombie_C_54 is stuck and failed to move! Velocity: X=17.93 Y=-10.37 Z=0.00 Location: X=1954.87 Y=-516.37 Z=841.20 Normal: X=-0.96 Y=-0.28 Z=-0.00 PenetrationDepth:2.377 Actor:BP_Zombie_C_43 Component:CharacterMesh0 BoneName:RightHand (30 other events since notify)
+[2025.03.11-05.24.22:734][716]LogBlueprintUserMessages: [BP_Zombie_C_55] no overlap
+[2025.03.11-05.24.23:354][743]LogCharacterMovement: BP_Zombie_C_38 is stuck and failed to move! Velocity: X=20.50 Y=-2.93 Z=0.00 Location: X=1400.90 Y=-609.43 Z=841.20 Normal: X=0.39 Y=0.92 Z=-0.00 PenetrationDepth:0.067 Actor:BP_Zombie_C_41 Component:CharacterMesh0 BoneName:RightHand (1 other events since notify)
+[2025.03.11-05.24.23:872][765]LogCharacterMovement: BP_Zombie_C_54 is stuck and failed to move! Velocity: X=18.50 Y=-9.31 Z=0.00 Location: X=1962.92 Y=-516.39 Z=841.20 Normal: X=-0.90 Y=-0.43 Z=-0.00 PenetrationDepth:0.224 Actor:BP_Zombie_C_43 Component:CharacterMesh0 BoneName:RightHand (1 other events since notify)
+[2025.03.11-05.24.24:198][779]LogCharacterMovement: BP_Zombie_C_50 is stuck and failed to move! Velocity: X=-20.71 Y=-0.14 Z=0.00 Location: X=3572.99 Y=-911.15 Z=841.20 Normal: X=0.83 Y=-0.56 Z=0.00 PenetrationDepth:0.103 Actor:BP_Zombie_C_48 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.11-05.24.24:729][802]LogCharacterMovement: BP_Zombie_C_29 is stuck and failed to move! Velocity: X=20.71 Y=-0.27 Z=0.00 Location: X=3317.73 Y=1357.30 Z=240.67 Normal: X=-0.74 Y=-0.67 Z=-0.00 PenetrationDepth:0.369 Actor:BP_Zombie_C_26 Component:CharacterMesh0 BoneName:LeftArm (30 other events since notify)
+[2025.03.11-05.24.27:063][899]LogCharacterMovement: BP_Zombie_C_38 is stuck and failed to move! Velocity: X=4.43 Y=-20.23 Z=0.00 Location: X=1387.30 Y=-510.09 Z=841.20 Normal: X=-0.17 Y=0.99 Z=-0.00 PenetrationDepth:18.854 Actor:BP_Zombie_C_41 Component:CharacterMesh0 BoneName:RightHand (4 other events since notify)
+[2025.03.11-05.24.27:089][900]LogCharacterMovement: BP_Zombie_C_43 is stuck and failed to move! Velocity: X=-5.99 Y=-19.82 Z=0.00 Location: X=2127.54 Y=-542.25 Z=841.20 Normal: X=1.00 Y=0.02 Z=0.00 PenetrationDepth:1.043 Actor:BP_Zombie_C_54 Component:CharacterMesh0 BoneName:RightArm (23 other events since notify)
+[2025.03.11-05.24.27:435][913]LogCharacterMovement: BP_Zombie_C_46 is stuck and failed to move! Velocity: X=-14.04 Y=-15.22 Z=0.00 Location: X=2840.28 Y=-879.67 Z=841.20 Normal: X=-0.60 Y=0.80 Z=-0.00 PenetrationDepth:51.806 Actor:BP_Zombie_C_48 Component:CharacterMesh0 BoneName:RightHand (28 other events since notify)
+[2025.03.11-05.24.31:258][ 77]LogCharacterMovement: BP_Zombie_C_27 is stuck and failed to move! Velocity: X=20.61 Y=-2.00 Z=0.00 Location: X=3714.09 Y=1382.59 Z=245.16 Normal: X=1.00 Y=-0.09 Z=0.00 PenetrationDepth:18.678 Actor:BP_Zombie_C_26 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2025.03.11-05.24.33:133][164]LogCharacterMovement: BP_Zombie_C_27 is stuck and failed to move! Velocity: X=20.64 Y=-1.73 Z=0.00 Location: X=3744.79 Y=1373.03 Z=265.81 Normal: X=1.00 Y=0.10 Z=-0.00 PenetrationDepth:0.147 Actor:BP_Zombie_C_26 Component:CharacterMesh0 BoneName:LeftHand (32 other events since notify)
+[2025.03.11-05.24.37:201][354]LogCharacterMovement: BP_Zombie_C_48 is stuck and failed to move! Velocity: X=-19.41 Y=7.23 Z=0.00 Location: X=1719.73 Y=-879.46 Z=841.20 Normal: X=0.93 Y=0.36 Z=0.00 PenetrationDepth:0.028 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:LeftHand (21 other events since notify)
+[2025.03.11-05.24.43:683][657]LogCharacterMovement: BP_Zombie_C_27 is stuck and failed to move! Velocity: X=-18.49 Y=9.32 Z=0.00 Location: X=3932.43 Y=1380.00 Z=390.79 Normal: X=0.96 Y=-0.29 Z=0.00 PenetrationDepth:4.669 Actor:BP_Zombie_C_26 Component:CharacterMesh0 BoneName:LeftHand (1 other events since notify)
+[2025.03.11-05.24.44:691][705]LogCharacterMovement: BP_Zombie_C_27 is stuck and failed to move! Velocity: X=-18.50 Y=9.31 Z=0.00 Location: X=3932.61 Y=1380.03 Z=390.79 Normal: X=0.78 Y=-0.63 Z=0.00 PenetrationDepth:0.931 Actor:BP_Zombie_C_26 Component:CharacterMesh0 BoneName:Head (43 other events since notify)
+[2025.03.11-05.24.45:700][755]LogCharacterMovement: BP_Zombie_C_27 is stuck and failed to move! Velocity: X=-18.37 Y=9.56 Z=0.00 Location: X=3932.62 Y=1374.92 Z=390.79 Normal: X=0.97 Y=-0.26 Z=-0.00 PenetrationDepth:29.571 Actor:BP_Zombie_C_26 Component:CharacterMesh0 BoneName:LeftHand (49 other events since notify)
+[2025.03.11-05.24.46:323][787]LogBlueprintUserMessages: [BP_Zombie_C_57] overlap
+[2025.03.11-05.24.46:339][788]LogBlueprintUserMessages: [BP_Zombie_C_57] no overlap
+[2025.03.11-05.24.46:342][788]LogBlueprintUserMessages: [BP_Zombie_C_57] overlap
+[2025.03.11-05.24.46:359][789]LogBlueprintUserMessages: [BP_Zombie_C_57] no overlap
+[2025.03.11-05.24.46:362][789]LogBlueprintUserMessages: [BP_Zombie_C_57] overlap
+[2025.03.11-05.24.46:377][790]LogBlueprintUserMessages: [BP_Zombie_C_57] no overlap
+[2025.03.11-05.24.46:381][790]LogBlueprintUserMessages: [BP_Zombie_C_57] overlap
+[2025.03.11-05.24.46:398][791]LogBlueprintUserMessages: [BP_Zombie_C_57] no overlap
+[2025.03.11-05.24.46:401][791]LogBlueprintUserMessages: [BP_Zombie_C_57] overlap
+[2025.03.11-05.24.46:699][806]LogBlueprintUserMessages: [BP_Zombie_C_57] no overlap
+[2025.03.11-05.24.46:701][806]LogCharacterMovement: BP_Zombie_C_27 is stuck and failed to move! Velocity: X=-18.37 Y=9.56 Z=0.00 Location: X=3932.62 Y=1374.92 Z=390.79 Normal: X=0.97 Y=-0.25 Z=-0.00 PenetrationDepth:29.706 Actor:BP_Zombie_C_26 Component:CharacterMesh0 BoneName:LeftHand (50 other events since notify)
+[2025.03.11-05.24.47:705][854]LogCharacterMovement: BP_Zombie_C_27 is stuck and failed to move! Velocity: X=-18.37 Y=9.56 Z=0.00 Location: X=3932.62 Y=1374.92 Z=390.79 Normal: X=0.01 Y=-1.00 Z=-0.00 PenetrationDepth:0.624 Actor:BP_Zombie_C_26 Component:CharacterMesh0 BoneName:RightHand (47 other events since notify)
+[2025.03.11-05.24.48:840][909]LogBlueprintUserMessages: [BP_Zombie_C_57] overlap
+[2025.03.11-05.24.49:191][926]LogBlueprintUserMessages: [BP_Zombie_C_57] no overlap
+[2025.03.11-05.24.49:194][926]LogBlueprintUserMessages: [BP_Zombie_C_57] overlap
+[2025.03.11-05.24.49:212][927]LogBlueprintUserMessages: [BP_Zombie_C_57] no overlap
+[2025.03.11-05.24.49:216][927]LogBlueprintUserMessages: [BP_Zombie_C_57] overlap
+[2025.03.11-05.24.49:232][928]LogBlueprintUserMessages: [BP_Zombie_C_57] no overlap
+[2025.03.11-05.24.49:235][928]LogBlueprintUserMessages: [BP_Zombie_C_57] overlap
+[2025.03.11-05.24.49:253][929]LogBlueprintUserMessages: [BP_Zombie_C_57] no overlap
+[2025.03.11-05.24.49:256][929]LogBlueprintUserMessages: [BP_Zombie_C_57] overlap
+[2025.03.11-05.24.49:275][930]LogBlueprintUserMessages: [BP_Zombie_C_57] no overlap
+[2025.03.11-05.24.49:278][930]LogBlueprintUserMessages: [BP_Zombie_C_57] overlap
+[2025.03.11-05.24.49:295][931]LogBlueprintUserMessages: [BP_Zombie_C_57] no overlap
+[2025.03.11-05.24.49:299][931]LogBlueprintUserMessages: [BP_Zombie_C_57] overlap
+[2025.03.11-05.24.49:316][932]LogBlueprintUserMessages: [BP_Zombie_C_57] no overlap
+[2025.03.11-05.24.49:320][932]LogBlueprintUserMessages: [BP_Zombie_C_57] overlap
+[2025.03.11-05.24.49:339][933]LogBlueprintUserMessages: [BP_Zombie_C_57] no overlap
+[2025.03.11-05.24.49:342][933]LogBlueprintUserMessages: [BP_Zombie_C_57] overlap
+[2025.03.11-05.24.50:016][965]LogBlueprintUserMessages: [BP_Zombie_C_57] no overlap
+[2025.03.11-05.24.50:516][987]LogCharacterMovement: BP_Zombie_C_41 is stuck and failed to move! Velocity: X=-15.18 Y=14.09 Z=0.00 Location: X=1425.92 Y=-504.82 Z=841.20 Normal: X=0.85 Y=0.53 Z=0.00 PenetrationDepth:0.199 Actor:BP_Zombie_C_32 Component:CharacterMesh0 BoneName:RightHand (1 other events since notify)
+[2025.03.11-05.24.51:131][ 17]LogCharacterMovement: BP_Zombie_C_26 is stuck and failed to move! Velocity: X=19.60 Y=-6.67 Z=0.00 Location: X=3817.42 Y=1479.29 Z=313.28 Normal: X=-0.26 Y=0.63 Z=-0.73 PenetrationDepth:9.223 Actor:BP_Zombie_C_27 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2025.03.11-05.24.51:131][ 17]LogCharacterMovement: BP_Zombie_C_27 is stuck and failed to move! Velocity: X=-20.70 Y=-0.55 Z=0.00 Location: X=3932.62 Y=1374.92 Z=390.79 Normal: X=0.97 Y=-0.26 Z=-0.00 PenetrationDepth:30.146 Actor:BP_Zombie_C_26 Component:CharacterMesh0 BoneName:LeftHand (12 other events since notify)
+[2025.03.11-05.24.51:857][ 52]LogCharacterMovement: BP_Zombie_C_41 is stuck and failed to move! Velocity: X=-20.65 Y=-1.57 Z=0.00 Location: X=1446.29 Y=-488.90 Z=841.20 Normal: X=-0.11 Y=0.99 Z=0.00 PenetrationDepth:0.108 Actor:BP_Zombie_C_32 Component:CharacterMesh0 BoneName:Head (0 other events since notify)
+[2025.03.11-05.24.52:140][ 66]LogCharacterMovement: BP_Zombie_C_26 is stuck and failed to move! Velocity: X=19.60 Y=-6.67 Z=0.00 Location: X=3817.52 Y=1479.28 Z=313.24 Normal: X=-0.23 Y=0.69 Z=-0.68 PenetrationDepth:4.618 Actor:BP_Zombie_C_27 Component:CharacterMesh0 BoneName:LeftHand (48 other events since notify)
+[2025.03.11-05.24.52:911][102]LogCharacterMovement: BP_Zombie_C_27 is stuck and failed to move! Velocity: X=-20.71 Y=-0.18 Z=0.00 Location: X=3931.63 Y=1357.61 Z=390.79 Normal: X=0.81 Y=-0.59 Z=-0.00 PenetrationDepth:26.242 Actor:BP_Zombie_C_26 Component:CharacterMesh0 BoneName:LeftHand (11 other events since notify)
+[2025.03.11-05.24.53:926][147]LogCharacterMovement: BP_Zombie_C_27 is stuck and failed to move! Velocity: X=-20.71 Y=-0.18 Z=0.00 Location: X=3931.31 Y=1357.18 Z=390.79 Normal: X=0.80 Y=-0.60 Z=0.00 PenetrationDepth:26.828 Actor:BP_Zombie_C_26 Component:CharacterMesh0 BoneName:LeftHand (43 other events since notify)
+[2025.03.11-05.24.54:579][176]LogCharacterMovement: BP_Zombie_C_54 is stuck and failed to move! Velocity: X=-19.15 Y=7.87 Z=0.00 Location: X=2028.71 Y=-527.68 Z=841.20 Normal: X=-0.16 Y=-0.99 Z=0.00 PenetrationDepth:15.606 Actor:BP_Zombie_C_43 Component:CharacterMesh0 BoneName:LeftLeg (0 other events since notify)
+[2025.03.11-05.24.54:941][191]LogCharacterMovement: BP_Zombie_C_27 is stuck and failed to move! Velocity: X=-20.71 Y=-0.18 Z=0.00 Location: X=3931.31 Y=1357.18 Z=390.79 Normal: X=0.80 Y=-0.60 Z=-0.00 PenetrationDepth:26.832 Actor:BP_Zombie_C_26 Component:CharacterMesh0 BoneName:LeftHand (43 other events since notify)
+[2025.03.11-05.24.55:579][219]LogBlueprintUserMessages: [BP_Zombie_C_34] overlap
+[2025.03.11-05.24.55:580][219]LogCharacterMovement: BP_Zombie_C_54 is stuck and failed to move! Velocity: X=-19.15 Y=7.87 Z=0.00 Location: X=2028.71 Y=-527.68 Z=841.20 Normal: X=-0.20 Y=-0.98 Z=-0.00 PenetrationDepth:2.284 Actor:BP_Zombie_C_43 Component:CharacterMesh0 BoneName:Spine (42 other events since notify)
+[2025.03.11-05.24.55:891][232]LogBlueprintUserMessages: [BP_Zombie_C_34] no overlap
+[2025.03.11-05.24.55:964][235]LogCharacterMovement: BP_Zombie_C_27 is stuck and failed to move! Velocity: X=-20.71 Y=-0.18 Z=0.00 Location: X=3931.31 Y=1357.18 Z=390.79 Normal: X=0.80 Y=-0.60 Z=-0.00 PenetrationDepth:26.832 Actor:BP_Zombie_C_26 Component:CharacterMesh0 BoneName:LeftHand (43 other events since notify)
+[2025.03.11-05.24.56:585][263]LogCharacterMovement: BP_Zombie_C_54 is stuck and failed to move! Velocity: X=-19.15 Y=7.87 Z=0.00 Location: X=2028.71 Y=-527.68 Z=841.20 Normal: X=0.18 Y=-0.98 Z=0.00 PenetrationDepth:44.926 Actor:BP_Zombie_C_43 Component:CharacterMesh0 BoneName:LeftArm (43 other events since notify)
+[2025.03.11-05.24.56:975][281]LogBlueprintUserMessages: [BP_Zombie_C_34] overlap
+[2025.03.11-05.24.57:370][299]LogBlueprintUserMessages: [BP_Zombie_C_34] no overlap
+[2025.03.11-05.24.59:032][378]LogBlueprintUserMessages: [BP_Zombie_C_57] TST.......Zombie recieved Damage
+[2025.03.11-05.24.59:216][387]LogBlueprintUserMessages: [BP_Zombie_C_57] TST.......Zombie recieved Damage
+[2025.03.11-05.25.00:406][440]LogCharacterMovement: BP_Zombie_C_41 is stuck and failed to move! Velocity: X=-20.24 Y=4.36 Z=0.00 Location: X=1419.78 Y=-507.26 Z=841.20 Normal: X=0.42 Y=0.91 Z=0.00 PenetrationDepth:0.688 Actor:BP_Zombie_C_32 Component:CharacterMesh0 BoneName:LeftHand (30 other events since notify)
+[2025.03.11-05.25.04:161][611]LogBlueprintUserMessages: [BP_key1_C_3] LAB ROOM KEY FOUND
+[2025.03.11-05.25.05:103][657]LogCharacterMovement: BP_Zombie_C_59 is stuck and failed to move! Velocity: X=20.71 Y=0.25 Z=0.00 Location: X=-241.51 Y=-725.85 Z=841.20 Normal: X=-0.40 Y=-0.92 Z=-0.00 PenetrationDepth:0.040 Actor:BP_Zombie_C_58 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.11-05.25.11:869][985]LogBlueprintUserMessages: [BP_Zombie_C_57] TST.......Zombie recieved Damage
+[2025.03.11-05.25.12:064][994]LogBlueprintUserMessages: [BP_Zombie_C_57] TST.......Zombie recieved Damage
+[2025.03.11-05.25.12:204][  0]LogBlueprintUserMessages: [BP_Zombie_C_57] TST.......Zombie recieved Damage
+[2025.03.11-05.25.12:253][  2]LogBlueprintUserMessages: [BP_Zombie_C_57] overlap
+[2025.03.11-05.25.12:272][  3]LogBlueprintUserMessages: [BP_Zombie_C_57] no overlap
+[2025.03.11-05.25.12:276][  3]LogBlueprintUserMessages: [BP_Zombie_C_57] overlap
+[2025.03.11-05.25.12:294][  4]LogBlueprintUserMessages: [BP_Zombie_C_57] no overlap
+[2025.03.11-05.25.12:298][  4]LogBlueprintUserMessages: [BP_Zombie_C_57] overlap
+[2025.03.11-05.25.12:317][  5]LogBlueprintUserMessages: [BP_Zombie_C_57] no overlap
+[2025.03.11-05.25.12:321][  5]LogBlueprintUserMessages: [BP_Zombie_C_57] overlap
+[2025.03.11-05.25.12:361][  7]LogBlueprintUserMessages: [BP_Zombie_C_57] TST.......Zombie recieved Damage
+[2025.03.11-05.25.12:497][ 13]LogBlueprintUserMessages: [BP_Zombie_C_57] no overlap
+[2025.03.11-05.25.12:541][ 15]LogBlueprintUserMessages: [BP_Zombie_C_57] TST.......Zombie recieved Damage
+[2025.03.11-05.25.13:460][ 55]LogCharacterMovement: BP_Zombie_C_38 is stuck and failed to move! Velocity: X=6.22 Y=-19.75 Z=0.00 Location: X=1459.24 Y=-237.65 Z=841.20 Normal: X=-0.95 Y=0.32 Z=0.00 PenetrationDepth:17.089 Actor:BP_Zombie_C_41 Component:CharacterMesh0 BoneName:RightArm (12 other events since notify)
+[2025.03.11-05.25.13:482][ 56]LogCharacterMovement: BP_Zombie_C_41 is stuck and failed to move! Velocity: X=-2.99 Y=20.49 Z=0.00 Location: X=1570.71 Y=-342.68 Z=841.20 Normal: X=-0.57 Y=-0.82 Z=0.00 PenetrationDepth:5.413 Actor:StaticMeshActor_44 Component:StaticMeshComponent0 BoneName:None (13 other events since notify)
+[2025.03.11-05.25.14:661][109]LogBlueprintUserMessages: [BP_CheckPoint_C_5] CHECKPOINT
+[2025.03.11-05.25.16:247][182]LogBlueprintUserMessages: [BP_Zombie_C_27] overlap
+[2025.03.11-05.25.16:570][196]LogBlueprintUserMessages: [BP_Zombie_C_27] no overlap
+[2025.03.11-05.25.17:185][223]LogBlueprintUserMessages: [BP_Zombie_C_29] overlap
+[2025.03.11-05.25.17:207][224]LogBlueprintUserMessages: [BP_Zombie_C_29] no overlap
+[2025.03.11-05.25.17:208][224]LogBlueprintUserMessages: [BP_Zombie_C_29] overlap
+[2025.03.11-05.25.17:230][225]LogBlueprintUserMessages: [BP_Zombie_C_29] no overlap
+[2025.03.11-05.25.17:463][235]LogBlueprintUserMessages: [BP_Zombie_C_29] overlap
+[2025.03.11-05.25.17:484][236]LogBlueprintUserMessages: [BP_Zombie_C_29] no overlap
+[2025.03.11-05.25.17:485][236]LogBlueprintUserMessages: [BP_Zombie_C_29] overlap
+[2025.03.11-05.25.17:509][237]LogBlueprintUserMessages: [BP_Zombie_C_29] no overlap
+[2025.03.11-05.25.17:510][237]LogBlueprintUserMessages: [BP_Zombie_C_29] overlap
+[2025.03.11-05.25.17:532][238]LogBlueprintUserMessages: [BP_Zombie_C_29] no overlap
+[2025.03.11-05.25.17:533][238]LogBlueprintUserMessages: [BP_Zombie_C_29] overlap
+[2025.03.11-05.25.17:556][239]LogBlueprintUserMessages: [BP_Zombie_C_29] no overlap
+[2025.03.11-05.25.17:558][239]LogBlueprintUserMessages: [BP_Zombie_C_29] overlap
+[2025.03.11-05.25.17:578][240]LogBlueprintUserMessages: [BP_Zombie_C_29] no overlap
+[2025.03.11-05.25.17:579][240]LogBlueprintUserMessages: [BP_Zombie_C_29] overlap
+[2025.03.11-05.25.17:579][240]LogCharacterMovement: BP_Zombie_C_32 is stuck and failed to move! Velocity: X=19.80 Y=6.05 Z=0.00 Location: X=1433.32 Y=-522.09 Z=841.20 Normal: X=-0.10 Y=-1.00 Z=-0.00 PenetrationDepth:0.755 Actor:BP_Zombie_C_38 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2025.03.11-05.25.17:602][241]LogBlueprintUserMessages: [BP_Zombie_C_29] no overlap
+[2025.03.11-05.25.17:603][241]LogBlueprintUserMessages: [BP_Zombie_C_29] overlap
+[2025.03.11-05.25.17:623][242]LogBlueprintUserMessages: [BP_Zombie_C_29] no overlap
+[2025.03.11-05.25.17:625][242]LogBlueprintUserMessages: [BP_Zombie_C_29] overlap
+[2025.03.11-05.25.17:647][243]LogBlueprintUserMessages: [BP_Zombie_C_29] no overlap
+[2025.03.11-05.25.17:648][243]LogBlueprintUserMessages: [BP_Zombie_C_29] overlap
+[2025.03.11-05.25.17:941][255]LogBlueprintUserMessages: [BP_Zombie_C_29] no overlap
+[2025.03.11-05.25.17:942][255]LogBlueprintUserMessages: [BP_Zombie_C_27] overlap
+[2025.03.11-05.25.17:966][256]LogBlueprintUserMessages: [BP_Zombie_C_27] TST.......Zombie recieved Damage
+[2025.03.11-05.25.18:063][260]LogBlueprintUserMessages: [BP_Zombie_C_27] TST.......Zombie recieved Damage
+[2025.03.11-05.25.18:223][267]LogBlueprintUserMessages: [BP_Zombie_C_27] no overlap
+[2025.03.11-05.25.18:370][273]LogBlueprintUserMessages: [BP_Zombie_C_27] TST.......Zombie recieved Damage
+[2025.03.11-05.25.23:467][498]LogCharacterMovement: BP_Zombie_C_41 is stuck and failed to move! Velocity: X=-20.57 Y=-2.42 Z=0.00 Location: X=1570.47 Y=-476.58 Z=841.20 Normal: X=-0.69 Y=0.73 Z=-0.00 PenetrationDepth:0.000 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:LeftHand (1 other events since notify)
+[2025.03.11-05.25.25:867][600]LogCharacterMovement: BP_Zombie_C_27 is stuck and failed to move! Velocity: X=-5.66 Y=-19.92 Z=0.00 Location: X=3885.22 Y=1357.20 Z=357.38 Normal: X=1.00 Y=-0.00 Z=0.00 PenetrationDepth:11.105 Actor:BP_Zombie_C_26 Component:CharacterMesh0 BoneName:LeftArm (36 other events since notify)
+[2025.03.11-05.25.26:622][631]LogCharacterMovement: BP_Zombie_C_26 is stuck and failed to move! Velocity: X=20.70 Y=0.38 Z=0.00 Location: X=3755.27 Y=1354.81 Z=275.20 Normal: X=0.00 Y=1.00 Z=0.00 PenetrationDepth:2.373 Actor:StaticMeshActor_37 Component:StaticMeshComponent0 BoneName:None (14 other events since notify)
+[2025.03.11-05.25.26:875][640]LogCharacterMovement: BP_Zombie_C_27 is stuck and failed to move! Velocity: X=-8.11 Y=-19.06 Z=0.00 Location: X=3886.41 Y=1357.28 Z=357.84 Normal: X=1.00 Y=-0.06 Z=0.00 PenetrationDepth:40.261 Actor:BP_Zombie_C_26 Component:CharacterMesh0 BoneName:RightHand (18 other events since notify)
+[2025.03.11-05.25.27:796][679]LogBlueprintUserMessages: [BP_Zombie_C_28] overlap
+[2025.03.11-05.25.27:955][686]LogCharacterMovement: BP_Zombie_C_27 is stuck and failed to move! Velocity: X=-8.38 Y=-18.94 Z=0.00 Location: X=3886.56 Y=1357.31 Z=357.84 Normal: X=0.71 Y=0.71 Z=0.00 PenetrationDepth:32.135 Actor:BP_Zombie_C_26 Component:CharacterMesh0 BoneName:RightHand (40 other events since notify)
+[2025.03.11-05.25.28:805][727]LogBlueprintUserMessages: [BP_Zombie_C_28] Zombie Damage Recieved
+[2025.03.11-05.25.29:406][758]LogBlueprintUserMessages: [BP_Zombie_C_28] TST.......Zombie recieved Damage
+[2025.03.11-05.25.29:607][768]LogBlueprintUserMessages: [BP_Zombie_C_28] TST.......Zombie recieved Damage
+[2025.03.11-05.25.29:772][776]LogBlueprintUserMessages: [BP_Zombie_C_28] TST.......Zombie recieved Damage
+[2025.03.11-05.25.29:801][777]LogBlueprintUserMessages: [BP_Zombie_C_28] Zombie Damage Recieved
+[2025.03.11-05.25.29:955][785]LogBlueprintUserMessages: [BP_Zombie_C_28] TST.......Zombie recieved Damage
+[2025.03.11-05.25.30:218][798]LogBlueprintUserMessages: [BP_Zombie_C_28] TST.......Zombie recieved Damage
+[2025.03.11-05.25.30:342][804]LogCharacterMovement: BP_Zombie_C_27 is stuck and failed to move! Velocity: X=2.26 Y=20.58 Z=0.00 Location: X=3960.23 Y=1370.61 Z=409.56 Normal: X=0.96 Y=-0.29 Z=0.00 PenetrationDepth:0.229 Actor:BP_Zombie_C_26 Component:CharacterMesh0 BoneName:RightHand (22 other events since notify)
+[2025.03.11-05.25.30:425][808]LogBlueprintUserMessages: [BP_Zombie_C_28] TST.......Zombie recieved Damage
+[2025.03.11-05.25.30:817][827]LogBlueprintUserMessages: [BP_Zombie_C_28] Zombie Damage Recieved
+[2025.03.11-05.25.31:311][852]LogCharacterMovement: BP_FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=38.91 Y=-67.22 Z=0.00 Location: X=4544.95 Y=1204.04 Z=592.30 Normal: X=0.44 Y=-0.90 Z=0.00 PenetrationDepth:7.341 Actor:BP_Zombie_C_28 Component:CharacterMesh0 BoneName:RightHand (10 other events since notify)
+[2025.03.11-05.25.31:451][859]LogBlueprintUserMessages: [BP_Zombie_C_28] no overlap
+[2025.03.11-05.25.32:534][913]LogBlueprintUserMessages: [BP_Zombie_C_29] overlap
+[2025.03.11-05.25.33:554][965]LogBlueprintUserMessages: [BP_Zombie_C_29] Zombie Damage Recieved
+[2025.03.11-05.25.34:207][  0]LogBlueprintUserMessages: [BP_Zombie_C_29] no overlap
+[2025.03.11-05.25.37:625][166]LogCharacterMovement: BP_Zombie_C_54 is stuck and failed to move! Velocity: X=20.48 Y=3.08 Z=0.00 Location: X=1885.70 Y=-545.58 Z=841.20 Normal: X=-0.19 Y=-0.98 Z=0.00 PenetrationDepth:24.501 Actor:BP_Zombie_C_43 Component:CharacterMesh0 BoneName:RightArm (14 other events since notify)
+[2025.03.11-05.25.38:852][221]LogCharacterMovement: BP_Zombie_C_38 is stuck and failed to move! Velocity: X=-9.12 Y=18.59 Z=0.00 Location: X=1459.88 Y=-241.52 Z=841.20 Normal: X=-0.82 Y=-0.57 Z=-0.00 PenetrationDepth:0.463 Actor:BP_Zombie_C_37 Component:CharacterMesh0 BoneName:LeftArm (5 other events since notify)
+[2025.03.11-05.25.40:565][294]LogCharacterMovement: BP_Zombie_C_41 is stuck and failed to move! Velocity: X=1.87 Y=-20.62 Z=0.00 Location: X=1402.90 Y=-558.80 Z=841.20 Normal: X=0.62 Y=0.78 Z=0.00 PenetrationDepth:0.165 Actor:BP_Zombie_C_32 Component:CharacterMesh0 BoneName:RightHand (1 other events since notify)
+[2025.03.11-05.25.40:762][302]LogCharacterMovement: BP_Zombie_C_29 is stuck and failed to move! Velocity: X=17.64 Y=10.84 Z=0.00 Location: X=4542.74 Y=1207.12 Z=633.19 Normal: X=0.79 Y=0.61 Z=-0.00 PenetrationDepth:27.100 Actor:BP_Zombie_C_27 Component:CharacterMesh0 BoneName:RightHand (11 other events since notify)
+[2025.03.11-05.25.41:205][321]LogBlueprintUserMessages: [BP_Zombie_C_34] overlap
+[2025.03.11-05.25.41:447][331]LogBlueprintUserMessages: [BP_Zombie_C_34] no overlap
+[2025.03.11-05.25.43:224][406]LogCharacterMovement: BP_Zombie_C_54 is stuck and failed to move! Velocity: X=-16.75 Y=12.18 Z=0.00 Location: X=1852.25 Y=-585.64 Z=841.20 Normal: X=0.99 Y=-0.13 Z=0.00 PenetrationDepth:1.437 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:LeftArm (9 other events since notify)
+[2025.03.11-05.25.44:139][447]LogCharacterMovement: BP_Zombie_C_27 is stuck and failed to move! Velocity: X=-133.83 Y=-19.34 Z=0.00 Location: X=4500.01 Y=641.85 Z=839.27 Normal: X=0.72 Y=-0.55 Z=-0.43 PenetrationDepth:4.730 Actor:BP_Zombie_C_34 Component:CharacterMesh0 BoneName:Head (7 other events since notify)
+[2025.03.11-05.25.45:374][501]LogCharacterMovement: BP_Zombie_C_34 is stuck and failed to move! Velocity: X=290.90 Y=-494.93 Z=0.00 Location: X=4257.35 Y=603.36 Z=841.20 Normal: X=-1.00 Y=0.02 Z=0.00 PenetrationDepth:26.765 Actor:BP_Zombie_C_27 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.11-05.25.45:788][519]LogBlueprintUserMessages: [BP_Zombie_C_34] overlap
+[2025.03.11-05.25.46:797][566]LogBlueprintUserMessages: [BP_Zombie_C_34] Zombie Damage Recieved
+[2025.03.11-05.25.47:801][615]LogBlueprintUserMessages: [BP_Zombie_C_34] Zombie Damage Recieved
+[2025.03.11-05.25.48:813][662]LogBlueprintUserMessages: [BP_Zombie_C_34] Zombie Damage Recieved
+[2025.03.11-05.25.49:807][712]LogBlueprintUserMessages: [BP_Zombie_C_34] Zombie Damage Recieved
+[2025.03.11-05.25.50:804][765]LogBlueprintUserMessages: [BP_Zombie_C_34] Zombie Damage Recieved
+[2025.03.11-05.25.51:803][813]LogBlueprintUserMessages: [BP_Zombie_C_34] Zombie Damage Recieved
+[2025.03.11-05.25.52:497][846]LogBlueprintUserMessages: [BP_Zombie_C_34] no overlap
+[2025.03.11-05.25.52:536][848]LogBlueprintUserMessages: [BP_Zombie_C_34] overlap
+[2025.03.11-05.25.52:637][853]LogBlueprintUserMessages: [BP_Zombie_C_29] overlap
+[2025.03.11-05.25.53:319][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.11-05.25.53:319][884]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV1
+[2025.03.11-05.25.53:321][884]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.03.11-05.25.53:327][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.11-05.25.53:338][884]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.11-05.25.53:349][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.11-05.25.53:385][884]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.11-05.25.53:385][884]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 79
+[2025.03.11-05.25.53:385][884]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=79
+[2025.03.11-05.25.53:388][884]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=79
+[2025.03.11-05.25.53:395][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.11-05.25.53:412][884]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2025.03.11-05.25.53:610][885]LogPlayLevel: Display: Destroying online subsystem :Context_164
+[2025.03.11-05.27.22:014][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.03.11-05.27.22:991][ 69]LogSlate: Window 'Save Content' being destroyed
+[2025.03.11-05.27.23:002][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.11-05.27.23:076][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/LV1" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/LV1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.11-05.27.23:126][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.03.11-05.27.23:253][ 69]LogSavePackage: Moving output files for package: /Game/Level/LV1
+[2025.03.11-05.27.23:254][ 69]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/LV1823DE762449B6E86311BA5932826F554.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/LV1.umap'
+[2025.03.11-05.27.23:272][ 69]LogFileHelpers: Saving map 'LV1' took 0.197
+[2025.03.11-05.27.23:273][ 69]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Zombie/BP_Zombie] ([2] browsable assets)...
+[2025.03.11-05.27.23:303][ 69]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/Zombie/BP_Zombie.BP_Zombie]
+[2025.03.11-05.27.23:303][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Zombie/BP_Zombie]
+[2025.03.11-05.27.23:303][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Zombie/BP_Zombie" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Characters/Zombie/BP_Zombie.uasset" SILENT=true
+[2025.03.11-05.27.23:324][ 69]LogSavePackage: Moving output files for package: /Game/Characters/Zombie/BP_Zombie
+[2025.03.11-05.27.23:325][ 69]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/BP_Zombie8F3D22904C07E027E044B4821136EFDD.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Characters/Zombie/BP_Zombie.uasset'
+[2025.03.11-05.27.23:338][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave took 335.751 ms (total: 3.82 sec)
+[2025.03.11-05.27.23:411][ 69]LogContentValidation: Display: Starting to validate 2 assets
+[2025.03.11-05.27.23:411][ 69]LogContentValidation: Enabled validators:
+[2025.03.11-05.27.23:411][ 69]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.11-05.27.23:411][ 69]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.11-05.27.23:411][ 69]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.11-05.27.23:411][ 69]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.11-05.27.23:411][ 69]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.11-05.27.23:411][ 69]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.11-05.27.23:412][ 69]AssetCheck: /Game/Level/LV1 Validating asset
+[2025.03.11-05.27.23:412][ 69]AssetCheck: /Game/Characters/Zombie/BP_Zombie Validating asset
