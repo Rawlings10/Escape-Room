@@ -96,3 +96,7 @@ Escape Room/Saved/Config/CrashReportClient/UECC-Windows-076B8EED4B39ABE0525326BD
 *.ini
 Escape Room/Saved/webcache_4430/Cache/data_3
 *.json
+/Escape Room/Saved/webcache_4430/Cache
+/Escape Room/Saved/Logs
+Escape Room/Saved/Logs/cef3.log
+*.log
