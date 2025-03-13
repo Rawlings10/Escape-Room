@@ -2987,3 +2987,39 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.03.13-05.33.05:778][656]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sound/alarm-301729_Auto4
 [2025.03.13-05.33.05:778][656]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/alarm-301729_Auto40F3E602F4CAA78321BF94AAC81F330E4.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/Sound/alarm-301729_Auto4.uasset'
 [2025.03.13-05.33.05:779][656]LogFileHelpers: Auto-saving content packages took 0.031
+[2025.03.13-05.34.04:010][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.03.13-05.34.04:997][727]LogSlate: Window 'Save Content' being destroyed
+[2025.03.13-05.34.05:010][727]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.13-05.34.05:067][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/LV1" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/LV1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.13-05.34.05:124][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.03.13-05.34.05:243][727]LogSavePackage: Moving output files for package: /Game/Level/LV1
+[2025.03.13-05.34.05:244][727]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/LV1D1DF4FC14DF322F06AA8DBA503106F18.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/LV1.umap'
+[2025.03.13-05.34.05:266][727]LogFileHelpers: Saving map 'LV1' took 0.200
+[2025.03.13-05.34.05:266][727]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/alarm-301729] ([1] browsable assets)...
+[2025.03.13-05.34.05:266][727]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/alarm-301729]
+[2025.03.13-05.34.05:266][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/alarm-301729" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Sound/alarm-301729.uasset" SILENT=true
+[2025.03.13-05.34.05:280][727]LogSavePackage: Moving output files for package: /Game/Sound/alarm-301729
+[2025.03.13-05.34.05:280][727]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/alarm-301729C09971624CC4DF3475D6F6BDEB71B484.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Sound/alarm-301729.uasset'
+[2025.03.13-05.34.05:284][727]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MybluePrints/BP_HostageArea] ([2] browsable assets)...
+[2025.03.13-05.34.05:284][727]OBJ SavePackage: Finished generating thumbnails for package [/Game/MybluePrints/BP_HostageArea]
+[2025.03.13-05.34.05:284][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MybluePrints/BP_HostageArea" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/MybluePrints/BP_HostageArea.uasset" SILENT=true
+[2025.03.13-05.34.05:290][727]LogSavePackage: Moving output files for package: /Game/MybluePrints/BP_HostageArea
+[2025.03.13-05.34.05:291][727]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/BP_HostageArea3F5911A447A0EF1940EF12A0D01B52F5.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/MybluePrints/BP_HostageArea.uasset'
+[2025.03.13-05.34.05:293][727]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MybluePrints/BP_OpenExitArea] ([2] browsable assets)...
+[2025.03.13-05.34.05:293][727]OBJ SavePackage: Finished generating thumbnails for package [/Game/MybluePrints/BP_OpenExitArea]
+[2025.03.13-05.34.05:293][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MybluePrints/BP_OpenExitArea" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/MybluePrints/BP_OpenExitArea.uasset" SILENT=true
+[2025.03.13-05.34.05:300][727]LogSavePackage: Moving output files for package: /Game/MybluePrints/BP_OpenExitArea
+[2025.03.13-05.34.05:301][727]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/BP_OpenExitArea6BF9E4CF496210CC8B7CADA0461DFA31.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/MybluePrints/BP_OpenExitArea.uasset'
+[2025.03.13-05.34.05:312][727]LogFileHelpers: InternalPromptForCheckoutAndSave took 302.030 ms (total: 314.844 ms)
+[2025.03.13-05.34.05:385][727]LogContentValidation: Display: Starting to validate 4 assets
+[2025.03.13-05.34.05:385][727]LogContentValidation: Enabled validators:
+[2025.03.13-05.34.05:385][727]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.13-05.34.05:385][727]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.13-05.34.05:385][727]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.13-05.34.05:385][727]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.13-05.34.05:385][727]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.13-05.34.05:385][727]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.13-05.34.05:386][727]AssetCheck: /Game/Level/LV1 Validating asset
+[2025.03.13-05.34.05:386][727]AssetCheck: /Game/Sound/alarm-301729 Validating asset
+[2025.03.13-05.34.05:386][727]AssetCheck: /Game/MybluePrints/BP_HostageArea Validating asset
+[2025.03.13-05.34.05:386][727]AssetCheck: /Game/MybluePrints/BP_OpenExitArea Validating asset
