@@ -7184,3 +7184,742 @@ LogConfig: CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable
 [2025.03.26-00.31.55:370][301]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.03.26-00.31.55:370][301]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.03.26-00.31.55:372][301]AssetCheck: /Game/UI/W_Setting Validating asset
+[2025.03.26-00.35.43:421][453]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19215.429688
+[2025.03.26-00.35.44:421][456]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.26-00.35.44:421][457]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19216.097656, Update Interval: 314.531708
+[2025.03.26-00.40.40:632][648]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.03.26-00.40.45:606][920]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.03.26-00.40.45:618][920]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.26-00.40.45:618][920]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV_MainMenu
+[2025.03.26-00.40.45:620][920]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001633s)
+[2025.03.26-00.40.45:620][920]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV_MainMenu.LV_MainMenu to /Game/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu (0.001680s)
+[2025.03.26-00.40.45:638][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.03.26-00.40.45:641][920]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_MainMenu
+[2025.03.26-00.40.45:643][920]LogPlayLevel: PIE: World Init took: (0.001891s)
+[2025.03.26-00.40.45:643][920]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.03.26-00.40.45:644][920]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.26-00.40.45:644][920]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.26-00.40.45:644][920]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.26-00.40.45:644][920]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.26-00.40.45:644][920]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.26-00.40.45:644][920]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.26-00.40.45:644][920]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.26-00.40.45:644][920]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.26-00.40.45:644][920]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.26-00.40.45:644][920]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.26-00.40.45:644][920]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.26-00.40.45:646][920]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.26-00.40.45:671][920]LogAudioMixer: Display: Using Audio Hardware Device Headphones (SoundCore mini)
+[2025.03.26-00.40.45:671][920]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.26-00.40.45:671][920]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.26-00.40.45:671][920]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.26-00.40.45:671][920]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.03.26-00.40.45:671][920]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.03.26-00.40.45:674][920]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.03.26-00.40.45:674][920]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.03.26-00.40.45:674][920]LogInit: FAudioDevice initialized with ID 10.
+[2025.03.26-00.40.45:674][920]LogAudio: Display: Audio Device (ID: 10) registered with world 'LV_MainMenu'.
+[2025.03.26-00.40.45:674][920]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.03.26-00.40.45:723][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.26-00.40.45:723][920]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.26-00.40.45:725][920]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu up for play (max tick rate 60) at 2025.03.25-20.40.45
+[2025.03.26-00.40.45:725][920]LogWorld: Bringing up level for play took: 0.001237
+[2025.03.26-00.40.45:728][920]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2025.03.26-00.40.45:733][920]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.26-00.40.45:733][920]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.03.26-00.40.45:741][920]PIE: Server logged in
+[2025.03.26-00.40.45:744][920]PIE: Play in editor total start time 0.126 seconds.
+[2025.03.26-00.40.45:747][920]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'caves-of-dawn-10376'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.03.26-00.41.30:132][579]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19562.644531
+[2025.03.26-00.41.30:249][586]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.26-00.41.30:249][586]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19562.746094, Update Interval: 319.832764
+[2025.03.26-00.41.57:888][244]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.26-00.41.57:888][244]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.03.26-00.41.57:904][245]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Level/LV1"
+[2025.03.26-00.41.57:904][245]LogNet: Browse: /Game/Level/LV1
+[2025.03.26-00.41.57:904][245]LogLoad: LoadMap: /Game/Level/LV1
+[2025.03.26-00.41.57:904][245]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV_MainMenu
+[2025.03.26-00.41.57:906][245]LogWorld: UWorld::CleanupWorld for LV_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-00.41.57:907][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-00.41.57:950][245]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.26-00.41.57:953][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.03.26-00.41.57:955][245]LogStreaming: Display: FlushAsyncLoading(552): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.26-00.41.58:052][245]LogAudio: Display: Audio Device (ID: 10) registered with world 'LV1'.
+[2025.03.26-00.41.58:052][245]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.03.26-00.41.58:053][245]LogPlayLevel: PIE: World Init took: (0.001677s)
+[2025.03.26-00.41.58:053][245]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.26-00.41.58:126][245]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV1.LV1 up for play (max tick rate 60) at 2025.03.25-20.41.58
+[2025.03.26-00.41.58:149][245]LogWorld: Bringing up level for play took: 0.095390
+[2025.03.26-00.41.58:170][245]LogLoad: Took 0.266260 seconds to LoadMap(/Game/Level/LV1)
+[2025.03.26-00.41.58:170][245]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Level/LV1
+[2025.03.26-00.42.02:012][409]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_1] WEAPON FOUND
+[2025.03.26-00.42.06:053][650]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-00.42.06:271][663]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-00.42.07:721][748]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-00.42.07:878][757]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-00.42.08:032][766]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-00.42.09:635][853]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-00.42.09:910][868]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-00.42.09:937][869]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-00.42.10:259][887]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-00.42.11:245][943]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-00.42.13:642][ 74]LogCharacterMovement: BP_Zombie_C_26 is stuck and failed to move! Velocity: X=-20.71 Y=-0.23 Z=0.00 Location: X=3548.04 Y=1357.21 Z=240.67 Normal: X=0.32 Y=-0.95 Z=0.00 PenetrationDepth:5.666 Actor:BP_Zombie_C_27 Component:CharacterMesh0 BoneName:LeftArm (0 other events since notify)
+[2025.03.26-00.42.28:487][867]LogCharacterMovement: BP_Zombie_C_22 is stuck and failed to move! Velocity: X=-0.03 Y=20.71 Z=0.00 Location: X=1311.15 Y=628.42 Z=240.67 Normal: X=-0.85 Y=-0.52 Z=-0.00 PenetrationDepth:0.008 Actor:BP_Zombie_C_21 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2025.03.26-00.42.30:649][984]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.26-00.42.30:649][984]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.03.26-00.42.37:803][412]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Level/LV_MainMenu"
+[2025.03.26-00.42.37:803][412]LogNet: Browse: /Game/Level/LV_MainMenu
+[2025.03.26-00.42.37:803][412]LogLoad: LoadMap: /Game/Level/LV_MainMenu
+[2025.03.26-00.42.37:803][412]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV1
+[2025.03.26-00.42.37:808][412]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-00.42.37:814][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-00.42.37:874][412]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.26-00.42.37:883][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.03.26-00.42.37:888][412]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV_MainMenu
+[2025.03.26-00.42.37:890][412]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001464s)
+[2025.03.26-00.42.37:890][412]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV_MainMenu.LV_MainMenu to /Game/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu (0.001511s)
+[2025.03.26-00.42.37:890][412]LogAudio: Display: Audio Device (ID: 10) registered with world 'LV_MainMenu'.
+[2025.03.26-00.42.37:890][412]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_MainMenu
+[2025.03.26-00.42.37:891][412]LogPlayLevel: PIE: World Init took: (0.001445s)
+[2025.03.26-00.42.37:891][412]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.26-00.42.37:891][412]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu up for play (max tick rate 60) at 2025.03.25-20.42.37
+[2025.03.26-00.42.37:892][412]LogWorld: Bringing up level for play took: 0.000320
+[2025.03.26-00.42.37:892][412]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.03.26-00.42.37:895][412]LogLoad: Took 0.092081 seconds to LoadMap(/Game/Level/UEDPIE_0_LV_MainMenu)
+[2025.03.26-00.42.37:895][412]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Level/UEDPIE_0_LV_MainMenu
+[2025.03.26-00.42.37:896][412]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'caves-of-dawn-10376'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.03.26-00.42.53:745][363]Cmd: quit
+[2025.03.26-00.42.53:746][363]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.26-00.42.53:746][363]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV_MainMenu
+[2025.03.26-00.42.53:746][363]LogSlate: Window 'EscapeRoom Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.03.26-00.42.53:778][363]LogWorld: UWorld::CleanupWorld for LV_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-00.42.53:778][363]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-00.42.53:781][363]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.26-00.42.53:786][363]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-00.42.53:810][363]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.03.26-00.42.53:811][363]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.03.26-00.42.53:813][363]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.03.26-00.42.53:825][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.03.26-00.42.53:859][364]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2025.03.26-00.42.58:396][636]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.03.26-00.42.58:408][636]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.26-00.42.58:408][636]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV_MainMenu
+[2025.03.26-00.42.58:410][636]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001547s)
+[2025.03.26-00.42.58:410][636]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV_MainMenu.LV_MainMenu to /Game/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu (0.001580s)
+[2025.03.26-00.42.58:433][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.03.26-00.42.58:435][636]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_MainMenu
+[2025.03.26-00.42.58:436][636]LogPlayLevel: PIE: World Init took: (0.001423s)
+[2025.03.26-00.42.58:438][636]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.03.26-00.42.58:438][636]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.26-00.42.58:438][636]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.26-00.42.58:438][636]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.26-00.42.58:438][636]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.26-00.42.58:438][636]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.26-00.42.58:438][636]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.26-00.42.58:438][636]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.26-00.42.58:438][636]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.26-00.42.58:438][636]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.26-00.42.58:438][636]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.26-00.42.58:438][636]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.26-00.42.58:440][636]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.26-00.42.58:464][636]LogAudioMixer: Display: Using Audio Hardware Device Headphones (SoundCore mini)
+[2025.03.26-00.42.58:464][636]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.26-00.42.58:464][636]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.26-00.42.58:464][636]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.26-00.42.58:464][636]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.03.26-00.42.58:464][636]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.03.26-00.42.58:467][636]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.03.26-00.42.58:467][636]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.03.26-00.42.58:467][636]LogInit: FAudioDevice initialized with ID 11.
+[2025.03.26-00.42.58:467][636]LogAudio: Display: Audio Device (ID: 11) registered with world 'LV_MainMenu'.
+[2025.03.26-00.42.58:468][636]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.03.26-00.42.58:517][636]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.26-00.42.58:518][636]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.26-00.42.58:520][636]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu up for play (max tick rate 60) at 2025.03.25-20.42.58
+[2025.03.26-00.42.58:520][636]LogWorld: Bringing up level for play took: 0.002223
+[2025.03.26-00.42.58:523][636]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2025.03.26-00.42.58:527][636]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.26-00.42.58:527][636]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.03.26-00.42.58:533][636]PIE: Server logged in
+[2025.03.26-00.42.58:536][636]PIE: Play in editor total start time 0.128 seconds.
+[2025.03.26-00.42.58:539][636]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'caves-of-dawn-10376'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.03.26-00.43.05:457][ 49]Cmd: quit
+[2025.03.26-00.43.05:458][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.26-00.43.05:458][ 49]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV_MainMenu
+[2025.03.26-00.43.05:458][ 49]LogSlate: Window 'EscapeRoom Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.03.26-00.43.05:499][ 49]LogWorld: UWorld::CleanupWorld for LV_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-00.43.05:499][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-00.43.05:503][ 49]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.26-00.43.05:509][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-00.43.05:536][ 49]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.03.26-00.43.05:536][ 49]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.03.26-00.43.05:538][ 49]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.03.26-00.43.05:548][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.03.26-00.43.05:583][ 50]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2025.03.26-00.44.49:249][974]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.03.26-00.44.50:959][ 50]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.03.26-00.44.50:970][ 50]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.26-00.44.50:970][ 50]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV_MainMenu
+[2025.03.26-00.44.50:972][ 50]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001544s)
+[2025.03.26-00.44.50:972][ 50]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV_MainMenu.LV_MainMenu to /Game/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu (0.001580s)
+[2025.03.26-00.44.50:992][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.03.26-00.44.50:996][ 50]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_MainMenu
+[2025.03.26-00.44.50:998][ 50]LogPlayLevel: PIE: World Init took: (0.001661s)
+[2025.03.26-00.44.50:999][ 50]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.03.26-00.44.50:999][ 50]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.26-00.44.50:999][ 50]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.26-00.44.50:999][ 50]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.26-00.44.50:999][ 50]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.26-00.44.50:999][ 50]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.26-00.44.50:999][ 50]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.26-00.44.50:999][ 50]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.26-00.44.50:999][ 50]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.26-00.44.50:999][ 50]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.26-00.44.50:999][ 50]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.26-00.44.50:999][ 50]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.26-00.44.51:001][ 50]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.26-00.44.51:027][ 50]LogAudioMixer: Display: Using Audio Hardware Device Headphones (SoundCore mini)
+[2025.03.26-00.44.51:027][ 50]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.26-00.44.51:027][ 50]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.26-00.44.51:027][ 50]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.26-00.44.51:027][ 50]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.03.26-00.44.51:027][ 50]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.03.26-00.44.51:030][ 50]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.03.26-00.44.51:030][ 50]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.03.26-00.44.51:030][ 50]LogInit: FAudioDevice initialized with ID 12.
+[2025.03.26-00.44.51:030][ 50]LogAudio: Display: Audio Device (ID: 12) registered with world 'LV_MainMenu'.
+[2025.03.26-00.44.51:030][ 50]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.03.26-00.44.51:078][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.26-00.44.51:078][ 50]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.26-00.44.51:079][ 50]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu up for play (max tick rate 60) at 2025.03.25-20.44.51
+[2025.03.26-00.44.51:079][ 50]LogWorld: Bringing up level for play took: 0.000752
+[2025.03.26-00.44.51:082][ 50]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2025.03.26-00.44.51:086][ 50]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.26-00.44.51:086][ 50]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.03.26-00.44.51:090][ 50]PIE: Server logged in
+[2025.03.26-00.44.51:093][ 50]PIE: Play in editor total start time 0.125 seconds.
+[2025.03.26-00.44.51:096][ 50]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'caves-of-dawn-10376'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.03.26-00.45.51:559][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.26-00.45.51:559][672]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV_MainMenu
+[2025.03.26-00.45.51:559][672]LogSlate: Window 'EscapeRoom Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.03.26-00.45.51:569][672]LogWorld: UWorld::CleanupWorld for LV_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-00.45.51:569][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-00.45.51:573][672]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.26-00.45.51:579][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-00.45.51:598][672]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.26-00.45.51:598][672]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.03.26-00.45.51:598][672]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.03.26-00.45.51:600][672]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.03.26-00.45.51:608][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.03.26-00.45.51:642][673]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2025.03.26-00.45.52:991][754]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.03.26-00.45.53:001][754]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.26-00.45.53:001][754]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV_MainMenu
+[2025.03.26-00.45.53:003][754]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001426s)
+[2025.03.26-00.45.53:003][754]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV_MainMenu.LV_MainMenu to /Game/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu (0.001458s)
+[2025.03.26-00.45.53:025][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.03.26-00.45.53:026][754]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_MainMenu
+[2025.03.26-00.45.53:029][754]LogPlayLevel: PIE: World Init took: (0.001425s)
+[2025.03.26-00.45.53:029][754]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.03.26-00.45.53:029][754]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.26-00.45.53:029][754]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.26-00.45.53:029][754]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.26-00.45.53:029][754]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.26-00.45.53:029][754]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.26-00.45.53:029][754]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.26-00.45.53:029][754]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.26-00.45.53:029][754]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.26-00.45.53:029][754]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.26-00.45.53:029][754]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.26-00.45.53:029][754]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.26-00.45.53:032][754]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.26-00.45.53:057][754]LogAudioMixer: Display: Using Audio Hardware Device Headphones (SoundCore mini)
+[2025.03.26-00.45.53:057][754]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.26-00.45.53:057][754]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.26-00.45.53:057][754]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.26-00.45.53:058][754]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.03.26-00.45.53:058][754]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.03.26-00.45.53:060][754]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.03.26-00.45.53:060][754]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.03.26-00.45.53:060][754]LogInit: FAudioDevice initialized with ID 13.
+[2025.03.26-00.45.53:060][754]LogAudio: Display: Audio Device (ID: 13) registered with world 'LV_MainMenu'.
+[2025.03.26-00.45.53:060][754]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.03.26-00.45.53:111][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.26-00.45.53:111][754]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.26-00.45.53:113][754]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu up for play (max tick rate 60) at 2025.03.25-20.45.53
+[2025.03.26-00.45.53:113][754]LogWorld: Bringing up level for play took: 0.001408
+[2025.03.26-00.45.53:116][754]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2025.03.26-00.45.53:119][754]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.26-00.45.53:119][754]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.03.26-00.45.53:124][754]PIE: Server logged in
+[2025.03.26-00.45.53:129][754]PIE: Play in editor total start time 0.127 seconds.
+[2025.03.26-00.45.53:132][754]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'caves-of-dawn-10376'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.03.26-00.46.22:290][501]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.26-00.46.22:290][501]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.03.26-00.46.22:306][502]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Level/LV1"
+[2025.03.26-00.46.22:306][502]LogNet: Browse: /Game/Level/LV1
+[2025.03.26-00.46.22:306][502]LogLoad: LoadMap: /Game/Level/LV1
+[2025.03.26-00.46.22:306][502]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV_MainMenu
+[2025.03.26-00.46.22:308][502]LogWorld: UWorld::CleanupWorld for LV_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-00.46.22:308][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-00.46.22:350][502]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.26-00.46.22:352][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.03.26-00.46.22:354][502]LogStreaming: Display: FlushAsyncLoading(553): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.26-00.46.22:448][502]LogAudio: Display: Audio Device (ID: 13) registered with world 'LV1'.
+[2025.03.26-00.46.22:448][502]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.03.26-00.46.22:450][502]LogPlayLevel: PIE: World Init took: (0.001613s)
+[2025.03.26-00.46.22:450][502]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.26-00.46.22:524][502]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV1.LV1 up for play (max tick rate 60) at 2025.03.25-20.46.22
+[2025.03.26-00.46.22:548][502]LogWorld: Bringing up level for play took: 0.097114
+[2025.03.26-00.46.22:569][502]LogLoad: Took 0.262879 seconds to LoadMap(/Game/Level/LV1)
+[2025.03.26-00.46.22:569][502]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Level/LV1
+[2025.03.26-00.46.28:454][828]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_1] WEAPON FOUND
+[2025.03.26-00.46.34:267][164]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-00.46.34:759][189]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-00.46.34:880][195]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-00.46.35:261][214]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-00.46.35:758][239]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-00.46.36:263][265]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-00.46.36:450][275]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-00.46.36:633][284]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-00.46.36:757][290]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-00.46.36:816][293]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-00.46.36:919][298]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-00.46.37:066][305]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-00.46.37:231][313]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-00.46.37:258][314]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-00.46.37:375][320]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-00.46.37:539][328]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-00.46.37:767][339]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-00.46.38:261][365]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-00.46.41:894][569]LogBlueprintUserMessages: [BP_Smoke_C_12] Smoke Damage Recieved
+[2025.03.26-00.46.43:749][671]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-00.46.43:933][680]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-00.46.44:149][691]LogBlueprintUserMessages: [BP_Zombie_C_5] Zombie Damage Recieved
+[2025.03.26-00.46.44:420][705]LogCharacterMovement: BP_Zombie_C_44 is stuck and failed to move! Velocity: X=-18.91 Y=-8.44 Z=0.00 Location: X=2043.83 Y=-938.12 Z=841.20 Normal: X=0.93 Y=0.38 Z=-0.00 PenetrationDepth:0.027 Actor:BP_Zombie_C_41 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2025.03.26-00.46.44:440][706]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-00.46.44:650][716]LogBlueprintUserMessages: [BP_Zombie_C_5] Zombie Damage Recieved
+[2025.03.26-00.46.44:936][730]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-00.46.45:140][740]LogBlueprintUserMessages: [BP_Zombie_C_5] Zombie Damage Recieved
+[2025.03.26-00.46.45:644][766]LogBlueprintUserMessages: [BP_Zombie_C_5] Zombie Damage Recieved
+[2025.03.26-00.46.45:978][783]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-00.46.47:170][842]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-00.46.49:937][989]LogCharacterMovement: BP_Zombie_C_26 is stuck and failed to move! Velocity: X=-0.83 Y=-20.69 Z=0.00 Location: X=3165.73 Y=1357.30 Z=240.67 Normal: X=0.60 Y=-0.80 Z=-0.00 PenetrationDepth:0.301 Actor:BP_Zombie_C_28 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2025.03.26-00.46.50:048][995]LogBlueprintUserMessages: [BP_Smoke_C_12] Smoke Damage Recieved
+[2025.03.26-00.46.50:775][ 37]LogCharacterMovement: BP_Zombie_C_41 is stuck and failed to move! Velocity: X=20.69 Y=0.85 Z=0.00 Location: X=1920.24 Y=-912.52 Z=841.20 Normal: X=-0.74 Y=-0.67 Z=-0.00 PenetrationDepth:0.534 Actor:BP_Zombie_C_43 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2025.03.26-00.46.51:673][ 83]LogCharacterMovement: BP_Zombie_C_43 is stuck and failed to move! Velocity: X=-12.82 Y=-16.26 Z=0.00 Location: X=2051.26 Y=-831.84 Z=841.20 Normal: X=-0.84 Y=0.55 Z=-0.00 PenetrationDepth:15.883 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2025.03.26-00.46.52:090][105]LogCharacterMovement: BP_Zombie_C_26 is stuck and failed to move! Velocity: X=-2.12 Y=-20.60 Z=0.00 Location: X=3165.87 Y=1357.30 Z=240.67 Normal: X=0.10 Y=-1.00 Z=-0.00 PenetrationDepth:0.166 Actor:BP_Zombie_C_28 Component:CharacterMesh0 BoneName:LeftHand (38 other events since notify)
+[2025.03.26-00.46.52:675][136]LogCharacterMovement: BP_Zombie_C_43 is stuck and failed to move! Velocity: X=-4.43 Y=-20.23 Z=0.00 Location: X=2052.17 Y=-766.19 Z=841.20 Normal: X=-0.37 Y=0.93 Z=0.00 PenetrationDepth:0.064 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:LeftArm (32 other events since notify)
+[2025.03.26-00.46.53:091][158]LogCharacterMovement: BP_Zombie_C_26 is stuck and failed to move! Velocity: X=-20.71 Y=-0.25 Z=0.00 Location: X=3205.02 Y=1349.49 Z=240.67 Normal: X=0.00 Y=1.00 Z=0.00 PenetrationDepth:7.690 Actor:StaticMeshActor_37 Component:StaticMeshComponent0 BoneName:None (48 other events since notify)
+[2025.03.26-00.46.54:104][214]LogCharacterMovement: BP_Zombie_C_26 is stuck and failed to move! Velocity: X=-20.47 Y=-3.10 Z=0.00 Location: X=3219.01 Y=1357.19 Z=240.67 Normal: X=0.94 Y=-0.34 Z=-0.00 PenetrationDepth:17.140 Actor:BP_Zombie_C_28 Component:CharacterMesh0 BoneName:LeftArm (55 other events since notify)
+[2025.03.26-00.46.54:286][224]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.26-00.46.54:286][224]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.03.26-00.47.06:458][951]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.26-00.47.06:458][951]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.03.26-00.47.06:462][951]LogCharacterMovement: BP_Zombie_C_26 is stuck and failed to move! Velocity: X=-20.47 Y=-3.10 Z=0.00 Location: X=3219.01 Y=1357.19 Z=240.67 Normal: X=0.93 Y=-0.36 Z=-0.00 PenetrationDepth:21.186 Actor:BP_Zombie_C_28 Component:CharacterMesh0 BoneName:LeftArm (10 other events since notify)
+[2025.03.26-00.47.14:934][424]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.26-00.47.14:934][424]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.03.26-00.47.18:576][642]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [Scalability]
+[2025.03.26-00.47.18:576][642]LogConfig: Set CVar [[r.SkeletalMeshLODBias:0]]
+[2025.03.26-00.47.18:577][642]LogConfig: Set CVar [[r.ViewDistanceScale:0.8]]
+[2025.03.26-00.47.18:577][642]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [Scalability]
+[2025.03.26-00.47.18:577][642]LogConfig: Set CVar [[r.FXAA.Quality:3]]
+[2025.03.26-00.47.18:578][642]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:2]]
+[2025.03.26-00.47.18:578][642]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:1]]
+[2025.03.26-00.47.18:578][642]LogConfig: Set CVar [[r.TSR.ReprojectionField:1]]
+[2025.03.26-00.47.18:578][642]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [Scalability]
+[2025.03.26-00.47.18:578][642]LogConfig: Set CVar [[r.ShadowQuality:5]]
+[2025.03.26-00.47.18:578][642]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2025.03.26-00.47.18:579][642]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2025.03.26-00.47.18:579][642]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2025.03.26-00.47.18:579][642]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.85]]
+[2025.03.26-00.47.18:579][642]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2025.03.26-00.47.18:579][642]LogConfig: Set CVar [[r.DistanceFieldShadowing:1]]
+[2025.03.26-00.47.18:579][642]LogConfig: Set CVar [[r.VolumetricFog:1]]
+[2025.03.26-00.47.18:579][642]LogConfig: Set CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2025.03.26-00.47.18:579][642]LogConfig: Set CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2025.03.26-00.47.18:579][642]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:1]]
+[2025.03.26-00.47.18:579][642]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:2048]]
+[2025.03.26-00.47.18:579][642]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:-0.5]]
+[2025.03.26-00.47.18:579][642]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:-0.5]]
+[2025.03.26-00.47.18:579][642]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:0.0]]
+[2025.03.26-00.47.18:579][642]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:1.0]]
+[2025.03.26-00.47.18:579][642]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:8]]
+[2025.03.26-00.47.18:580][642]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:4]]
+[2025.03.26-00.47.18:580][642]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:8]]
+[2025.03.26-00.47.18:580][642]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:4]]
+[2025.03.26-00.47.18:580][642]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@2] File [Scalability]
+[2025.03.26-00.47.18:580][642]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:1]]
+[2025.03.26-00.47.18:580][642]LogConfig: Set CVar [[r.LumenScene.Radiosity.ProbeSpacing:8]]
+[2025.03.26-00.47.18:580][642]LogConfig: Set CVar [[r.LumenScene.Radiosity.HemisphereProbeResolution:3]]
+[2025.03.26-00.47.18:580][642]LogConfig: Set CVar [[r.Lumen.TraceMeshSDFs.Allow:0]]
+[2025.03.26-00.47.18:581][642]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution:16]]
+[2025.03.26-00.47.18:581][642]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:32]]
+[2025.03.26-00.47.18:581][642]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.IrradianceFormat:1]]
+[2025.03.26-00.47.18:581][642]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.StochasticInterpolation:1]]
+[2025.03.26-00.47.18:581][642]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TwoSidedFoliageBackfaceDiffuse:0]]
+[2025.03.26-00.47.18:581][642]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.ScreenTraces.HZBTraversal.FullResDepth:0]]
+[2025.03.26-00.47.18:582][642]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.GridPixelSize:64]]
+[2025.03.26-00.47.18:582][642]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.TraceFromVolume:0]]
+[2025.03.26-00.47.18:582][642]LogConfig: Set CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2025.03.26-00.47.18:582][642]LogConfig: Applying CVar settings from Section [ReflectionQuality@2] File [Scalability]
+[2025.03.26-00.47.18:583][642]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:1]]
+[2025.03.26-00.47.18:583][642]LogConfig: Set CVar [[r.Lumen.Reflections.DownsampleFactor:2]]
+[2025.03.26-00.47.18:583][642]LogConfig: Set CVar [[r.Lumen.Reflections.MaxRoughnessToTraceForFoliage:0.2]]
+[2025.03.26-00.47.18:583][642]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.MaxRoughnessToEvaluateRoughSpecularForFoliage:0.4]]
+[2025.03.26-00.47.18:583][642]LogConfig: Set CVar [[r.Lumen.Reflections.ScreenSpaceReconstruction.TonemapMode:2]]
+[2025.03.26-00.47.18:583][642]LogConfig: Set CVar [[r.Lumen.Reflections.ScreenSpaceReconstruction.MinWeight:1]]
+[2025.03.26-00.47.18:583][642]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Allow:0]]
+[2025.03.26-00.47.18:583][642]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [Scalability]
+[2025.03.26-00.47.18:583][642]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:0]]
+[2025.03.26-00.47.18:583][642]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2025.03.26-00.47.18:583][642]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2025.03.26-00.47.18:583][642]LogConfig: Set CVar [[r.DepthOfFieldQuality:2]]
+[2025.03.26-00.47.18:583][642]LogConfig: Set CVar [[r.RenderTargetPoolMin:400]]
+[2025.03.26-00.47.18:583][642]LogConfig: Set CVar [[r.LensFlareQuality:2]]
+[2025.03.26-00.47.18:583][642]LogConfig: Set CVar [[r.SceneColorFringeQuality:1]]
+[2025.03.26-00.47.18:583][642]LogConfig: Set CVar [[r.BloomQuality:5]]
+[2025.03.26-00.47.18:583][642]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:50.000]]
+[2025.03.26-00.47.18:583][642]LogConfig: Set CVar [[r.FastBlurThreshold:3]]
+[2025.03.26-00.47.18:583][642]LogConfig: Set CVar [[r.LightShaftQuality:1]]
+[2025.03.26-00.47.18:583][642]LogConfig: Set CVar [[r.Filter.SizeScale:0.8]]
+[2025.03.26-00.47.18:583][642]LogConfig: Set CVar [[r.Tonemapper.Quality:5]]
+[2025.03.26-00.47.18:584][642]LogConfig: Set CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2025.03.26-00.47.18:584][642]LogConfig: Set CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2025.03.26-00.47.18:584][642]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2025.03.26-00.47.18:584][642]LogConfig: Set CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2025.03.26-00.47.18:584][642]LogConfig: Set CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2025.03.26-00.47.18:584][642]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2025.03.26-00.47.18:584][642]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2025.03.26-00.47.18:584][642]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [Scalability]
+[2025.03.26-00.47.18:584][642]LogConfig: Set CVar [[r.Streaming.MipBias:0]]
+[2025.03.26-00.47.18:584][642]LogConfig: Set CVar [[r.MaxAnisotropy:4]]
+[2025.03.26-00.47.18:584][642]LogConfig: Set CVar [[r.VT.MaxAnisotropy:8]]
+[2025.03.26-00.47.18:584][642]LogConfig: Set CVar [[r.Streaming.PoolSize:800]]
+[2025.03.26-00.47.18:584][642]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [Scalability]
+[2025.03.26-00.47.18:584][642]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2025.03.26-00.47.18:584][642]LogConfig: Set CVar [[r.RefractionQuality:2]]
+[2025.03.26-00.47.18:584][642]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:1]]
+[2025.03.26-00.47.18:584][642]LogConfig: Set CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2025.03.26-00.47.18:584][642]LogConfig: Set CVar [[r.SSS.Scale:1]]
+[2025.03.26-00.47.18:584][642]LogConfig: Set CVar [[r.SSS.SampleSet:1]]
+[2025.03.26-00.47.18:584][642]LogConfig: Set CVar [[r.SSS.Quality:-1]]
+[2025.03.26-00.47.18:584][642]LogConfig: Set CVar [[r.SSGI.Quality:2]]
+[2025.03.26-00.47.18:584][642]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.5]]
+[2025.03.26-00.47.18:585][642]LogConfig: Set CVar [[r.ParticleLightQuality:1]]
+[2025.03.26-00.47.18:585][642]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:2]]
+[2025.03.26-00.47.18:585][642]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:64.0]]
+[2025.03.26-00.47.18:585][642]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:64.0]]
+[2025.03.26-00.47.18:585][642]LogConfig: Set CVar [[fx.Niagara.QualityLevel:2]]
+[2025.03.26-00.47.18:585][642]LogConfig: Set CVar [[r.HeterogeneousVolumes.DownsampleFactor:2]]
+[2025.03.26-00.47.18:585][642]LogConfig: Set CVar [[r.HeterogeneousVolumes.Shadows.Resolution:256]]
+[2025.03.26-00.47.18:585][642]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [Scalability]
+[2025.03.26-00.47.18:585][642]LogConfig: Set CVar [[foliage.DensityScale:0.8]]
+[2025.03.26-00.47.18:585][642]LogConfig: Set CVar [[grass.DensityScale:0.8]]
+[2025.03.26-00.47.18:585][642]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [Scalability]
+[2025.03.26-00.47.18:586][642]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2025.03.26-00.47.18:586][642]LogConfig: Set CVar [[r.AnisotropicMaterials:1]]
+[2025.03.26-00.47.18:586][642]LogConfig: Applying CVar settings from Section [LandscapeQuality@2] File [Scalability]
+[2025.03.26-00.47.18:922][643]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2025.03.26-00.47.19:221][643]LogD3D12RHI: Creating RTPSO with 21 shaders (0 cached, 21 new) took 184.01 ms. Compile time 59.32 ms, link time 124.51 ms.
+[2025.03.26-00.47.19:845][645]LogContentStreaming: Texture pool size now 800 MB
+[2025.03.26-00.47.19:845][645]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="800"
+[2025.03.26-00.47.20:167][647]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2025.03.26-00.47.21:175][652]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.26-00.47.21:175][652]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.03.26-00.47.23:997][690]LogCharacterMovement: BP_Zombie_C_44 is stuck and failed to move! Velocity: X=-20.38 Y=3.69 Z=0.00 Location: X=2028.73 Y=-921.66 Z=841.20 Normal: X=-0.26 Y=-0.97 Z=-0.00 PenetrationDepth:0.956 Actor:BP_Zombie_C_43 Component:CharacterMesh0 BoneName:RightHand (8 other events since notify)
+[2025.03.26-00.47.25:201][709]LogCharacterMovement: BP_Zombie_C_44 is stuck and failed to move! Velocity: X=-20.57 Y=2.41 Z=0.00 Location: X=2021.90 Y=-917.36 Z=841.20 Normal: X=-0.24 Y=-0.97 Z=-0.00 PenetrationDepth:0.597 Actor:BP_Zombie_C_43 Component:CharacterMesh0 BoneName:RightHand (9 other events since notify)
+[2025.03.26-00.47.27:013][739]LogCharacterMovement: BP_Zombie_C_39 is stuck and failed to move! Velocity: X=20.11 Y=4.94 Z=0.00 Location: X=1456.84 Y=-879.45 Z=841.20 Normal: X=-0.91 Y=0.41 Z=-0.00 PenetrationDepth:0.232 Actor:BP_Zombie_C_41 Component:CharacterMesh0 BoneName:LeftArm (0 other events since notify)
+[2025.03.26-00.47.27:050][739]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19920.882812
+[2025.03.26-00.47.27:406][743]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.26-00.47.27:406][743]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19921.011719, Update Interval: 316.965240
+[2025.03.26-00.47.28:978][768]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.26-00.47.28:978][768]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.03.26-00.47.36:024][958]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.26-00.47.36:024][958]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.03.26-00.47.36:864][991]LogCharacterMovement: BP_Zombie_C_41 is stuck and failed to move! Velocity: X=-6.69 Y=-19.60 Z=0.00 Location: X=1659.28 Y=-922.28 Z=841.20 Normal: X=0.92 Y=-0.40 Z=-0.00 PenetrationDepth:1.559 Actor:BP_Zombie_C_39 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2025.03.26-00.47.37:159][  4]LogDerivedDataCache: C:/Users/rawll/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.03.26-00.47.37:596][ 23]LogCharacterMovement: BP_Zombie_C_44 is stuck and failed to move! Velocity: X=-20.54 Y=2.66 Z=0.00 Location: X=2025.29 Y=-919.33 Z=841.20 Normal: X=0.58 Y=-0.81 Z=0.00 PenetrationDepth:0.283 Actor:BP_Zombie_C_43 Component:CharacterMesh0 BoneName:RightHand (10 other events since notify)
+[2025.03.26-00.47.37:640][ 25]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.26-00.47.37:640][ 25]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.03.26-00.47.39:040][ 89]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.26-00.47.39:040][ 89]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.03.26-00.47.39:045][ 89]LogCharacterMovement: BP_Zombie_C_44 is stuck and failed to move! Velocity: X=-20.34 Y=3.91 Z=0.00 Location: X=2031.37 Y=-923.72 Z=841.20 Normal: X=0.56 Y=-0.83 Z=0.00 PenetrationDepth:0.080 Actor:BP_Zombie_C_43 Component:CharacterMesh0 BoneName:RightHand (2 other events since notify)
+[2025.03.26-00.47.40:318][118]LogCharacterMovement: BP_Zombie_C_44 is stuck and failed to move! Velocity: X=-19.21 Y=7.72 Z=0.00 Location: X=2045.33 Y=-940.73 Z=841.20 Normal: X=0.09 Y=-1.00 Z=0.00 PenetrationDepth:0.135 Actor:BP_Zombie_C_43 Component:CharacterMesh0 BoneName:RightHand (3 other events since notify)
+[2025.03.26-00.48.03:900][459]LogCharacterMovement: BP_Zombie_C_43 is stuck and failed to move! Velocity: X=-1.69 Y=20.64 Z=0.00 Location: X=2052.17 Y=-810.15 Z=841.20 Normal: X=-1.00 Y=-0.03 Z=-0.00 PenetrationDepth:2.143 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2025.03.26-00.48.08:056][512]LogCharacterMovement: BP_Zombie_C_29 is stuck and failed to move! Velocity: X=18.85 Y=8.58 Z=0.00 Location: X=3095.55 Y=1358.15 Z=240.67 Normal: X=0.36 Y=-0.93 Z=-0.00 PenetrationDepth:34.680 Actor:BP_Zombie_C_28 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.26-00.48.10:667][553]LogCharacterMovement: BP_Zombie_C_29 is stuck and failed to move! Velocity: X=18.69 Y=8.92 Z=0.00 Location: X=3137.35 Y=1357.97 Z=240.67 Normal: X=0.93 Y=-0.38 Z=-0.00 PenetrationDepth:0.965 Actor:BP_Zombie_C_28 Component:CharacterMesh0 BoneName:RightArm (0 other events since notify)
+[2025.03.26-00.48.11:718][572]LogCharacterMovement: BP_Zombie_C_29 is stuck and failed to move! Velocity: X=20.70 Y=-0.47 Z=0.00 Location: X=3141.81 Y=1357.20 Z=240.67 Normal: X=-0.25 Y=-0.97 Z=0.00 PenetrationDepth:14.575 Actor:BP_Zombie_C_28 Component:CharacterMesh0 BoneName:LeftArm (20 other events since notify)
+[2025.03.26-00.48.13:095][597]LogCharacterMovement: BP_Zombie_C_26 is stuck and failed to move! Velocity: X=-20.70 Y=0.54 Z=0.00 Location: X=3289.70 Y=1392.97 Z=240.67 Normal: X=0.61 Y=-0.79 Z=-0.00 PenetrationDepth:1.559 Actor:BP_Zombie_C_28 Component:CharacterMesh0 BoneName:LeftHand (2 other events since notify)
+[2025.03.26-00.48.13:095][597]LogCharacterMovement: BP_Zombie_C_29 is stuck and failed to move! Velocity: X=20.70 Y=-0.50 Z=0.00 Location: X=3153.72 Y=1357.30 Z=240.67 Normal: X=-0.47 Y=-0.88 Z=-0.00 PenetrationDepth:1.548 Actor:BP_Zombie_C_28 Component:CharacterMesh0 BoneName:LeftArm (5 other events since notify)
+[2025.03.26-00.48.14:179][610]LogCharacterMovement: BP_Zombie_C_29 is stuck and failed to move! Velocity: X=20.71 Y=0.27 Z=0.00 Location: X=3137.25 Y=1344.27 Z=240.67 Normal: X=0.00 Y=1.00 Z=0.00 PenetrationDepth:12.908 Actor:StaticMeshActor_37 Component:StaticMeshComponent0 BoneName:None (20 other events since notify)
+[2025.03.26-00.48.15:870][625]LogCharacterMovement: BP_Zombie_C_29 is stuck and failed to move! Velocity: X=20.70 Y=-0.49 Z=0.00 Location: X=3155.89 Y=1357.30 Z=240.67 Normal: X=-0.80 Y=-0.60 Z=-0.00 PenetrationDepth:0.714 Actor:BP_Zombie_C_26 Component:CharacterMesh0 BoneName:RightHand (5 other events since notify)
+[2025.03.26-00.48.16:829][635]LogCharacterMovement: BP_Zombie_C_46 is stuck and failed to move! Velocity: X=-20.57 Y=2.38 Z=0.00 Location: X=2450.31 Y=-879.45 Z=841.20 Normal: X=0.94 Y=0.34 Z=0.00 PenetrationDepth:0.076 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.26-00.48.17:775][645]LogCharacterMovement: BP_Zombie_C_29 is stuck and failed to move! Velocity: X=20.70 Y=-0.49 Z=0.00 Location: X=3150.93 Y=1357.30 Z=240.67 Normal: X=-0.81 Y=-0.59 Z=-0.00 PenetrationDepth:1.954 Actor:BP_Zombie_C_26 Component:CharacterMesh0 BoneName:RightArm (10 other events since notify)
+[2025.03.26-00.48.17:869][646]LogCharacterMovement: BP_Zombie_C_26 is stuck and failed to move! Velocity: X=-20.39 Y=-3.61 Z=0.00 Location: X=3309.50 Y=1427.71 Z=240.67 Normal: X=0.46 Y=-0.89 Z=-0.00 PenetrationDepth:1.802 Actor:BP_Zombie_C_28 Component:CharacterMesh0 BoneName:LeftHand (5 other events since notify)
+[2025.03.26-00.48.18:412][651]LogCharacterMovement: BP_Zombie_C_44 is stuck and failed to move! Velocity: X=20.71 Y=-0.06 Z=0.00 Location: X=2286.38 Y=-910.39 Z=841.20 Normal: X=-0.93 Y=-0.37 Z=0.00 PenetrationDepth:0.762 Actor:BP_Zombie_C_46 Component:CharacterMesh0 BoneName:RightArm (3 other events since notify)
+[2025.03.26-00.48.18:596][653]LogCharacterMovement: BP_Zombie_C_46 is stuck and failed to move! Velocity: X=-20.60 Y=2.13 Z=0.00 Location: X=2445.72 Y=-879.45 Z=841.20 Normal: X=0.70 Y=0.71 Z=0.00 PenetrationDepth:0.074 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:RightHand (6 other events since notify)
+[2025.03.26-00.48.20:646][672]LogCharacterMovement: BP_Zombie_C_46 is stuck and failed to move! Velocity: X=-20.67 Y=1.33 Z=0.00 Location: X=2480.19 Y=-879.30 Z=841.20 Normal: X=0.94 Y=0.34 Z=-0.00 PenetrationDepth:0.086 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:RightHand (8 other events since notify)
+[2025.03.26-00.48.24:406][719]LogCharacterMovement: BP_Zombie_C_26 is stuck and failed to move! Velocity: X=0.51 Y=20.70 Z=0.00 Location: X=3292.92 Y=1344.42 Z=240.67 Normal: X=-0.24 Y=-0.97 Z=-0.00 PenetrationDepth:9.664 Actor:BP_Zombie_C_28 Component:CharacterMesh0 BoneName:LeftHand (1 other events since notify)
+[2025.03.26-00.48.25:424][734]LogCharacterMovement: BP_Zombie_C_26 is stuck and failed to move! Velocity: X=0.60 Y=20.70 Z=0.00 Location: X=3292.43 Y=1357.31 Z=240.58 Normal: X=0.38 Y=-0.92 Z=-0.07 PenetrationDepth:1.221 Actor:BP_Zombie_C_28 Component:CharacterMesh0 BoneName:Head (14 other events since notify)
+[2025.03.26-00.48.27:142][755]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.26-00.48.27:142][755]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.03.26-00.48.30:039][825]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Level/LV_MainMenu"
+[2025.03.26-00.48.30:039][825]LogNet: Browse: /Game/Level/LV_MainMenu
+[2025.03.26-00.48.30:039][825]LogLoad: LoadMap: /Game/Level/LV_MainMenu
+[2025.03.26-00.48.30:039][825]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV1
+[2025.03.26-00.48.30:044][825]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-00.48.30:048][825]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-00.48.30:106][825]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.26-00.48.30:118][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.03.26-00.48.30:122][825]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV_MainMenu
+[2025.03.26-00.48.30:124][825]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001545s)
+[2025.03.26-00.48.30:124][825]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV_MainMenu.LV_MainMenu to /Game/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu (0.001612s)
+[2025.03.26-00.48.30:124][825]LogAudio: Display: Audio Device (ID: 13) registered with world 'LV_MainMenu'.
+[2025.03.26-00.48.30:124][825]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_MainMenu
+[2025.03.26-00.48.30:125][825]LogPlayLevel: PIE: World Init took: (0.001655s)
+[2025.03.26-00.48.30:125][825]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.26-00.48.30:126][825]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu up for play (max tick rate 60) at 2025.03.25-20.48.30
+[2025.03.26-00.48.30:126][825]LogWorld: Bringing up level for play took: 0.000375
+[2025.03.26-00.48.30:126][825]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.03.26-00.48.30:130][825]LogLoad: Took 0.091480 seconds to LoadMap(/Game/Level/UEDPIE_0_LV_MainMenu)
+[2025.03.26-00.48.30:130][825]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Level/UEDPIE_0_LV_MainMenu
+[2025.03.26-00.48.30:132][825]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'caves-of-dawn-10376'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.03.26-00.49.04:919][910]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.26-00.49.04:919][910]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.03.26-00.49.04:935][911]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Level/LV1"
+[2025.03.26-00.49.04:935][911]LogNet: Browse: /Game/Level/LV1
+[2025.03.26-00.49.04:935][911]LogLoad: LoadMap: /Game/Level/LV1
+[2025.03.26-00.49.04:935][911]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV_MainMenu
+[2025.03.26-00.49.04:937][911]LogWorld: UWorld::CleanupWorld for LV_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-00.49.04:937][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-00.49.04:984][911]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.26-00.49.04:986][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.03.26-00.49.04:990][911]LogStreaming: Display: FlushAsyncLoading(554): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.26-00.49.05:088][911]LogAudio: Display: Audio Device (ID: 13) registered with world 'LV1'.
+[2025.03.26-00.49.05:088][911]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.03.26-00.49.05:090][911]LogPlayLevel: PIE: World Init took: (0.001741s)
+[2025.03.26-00.49.05:090][911]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.26-00.49.05:165][911]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV1.LV1 up for play (max tick rate 60) at 2025.03.25-20.49.05
+[2025.03.26-00.49.05:191][911]LogWorld: Bringing up level for play took: 0.101071
+[2025.03.26-00.49.05:213][911]LogLoad: Took 0.277929 seconds to LoadMap(/Game/Level/LV1)
+[2025.03.26-00.49.05:213][911]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Level/LV1
+[2025.03.26-00.49.12:710][120]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_1] WEAPON FOUND
+[2025.03.26-00.49.15:651][169]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-00.49.15:969][175]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-00.49.16:480][181]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-00.49.16:956][191]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-00.49.17:458][198]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-00.49.17:558][201]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-00.49.17:936][206]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-00.49.18:163][212]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-00.49.18:587][217]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-00.49.18:945][225]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-00.49.18:981][226]LogCharacterMovement: BP_Zombie_C_29 is stuck and failed to move! Velocity: X=20.18 Y=-4.65 Z=0.00 Location: X=2852.44 Y=1357.30 Z=240.67 Normal: X=-0.06 Y=-1.00 Z=-0.00 PenetrationDepth:0.142 Actor:BP_Zombie_C_28 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2025.03.26-00.49.19:458][233]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-00.49.19:959][241]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-00.49.20:176][247]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-00.49.20:323][251]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-00.49.20:628][253]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-00.49.20:962][261]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-00.49.21:474][269]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-00.49.21:985][277]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-00.49.22:696][289]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-00.49.22:943][294]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-00.49.23:470][301]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-00.49.23:965][310]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-00.49.24:468][316]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-00.49.24:527][317]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-00.49.24:636][319]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-00.49.25:123][325]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-00.49.25:461][332]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-00.49.25:884][337]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-00.49.25:961][339]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-00.49.26:054][341]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-00.49.29:408][395]LogCharacterMovement: BP_Zombie_C_26 is stuck and failed to move! Velocity: X=-20.70 Y=-0.53 Z=0.00 Location: X=3402.74 Y=1357.30 Z=240.67 Normal: X=0.43 Y=-0.90 Z=-0.00 PenetrationDepth:1.718 Actor:BP_Zombie_C_27 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.26-00.49.30:420][412]LogCharacterMovement: BP_Zombie_C_26 is stuck and failed to move! Velocity: X=-20.71 Y=-0.36 Z=0.00 Location: X=3438.15 Y=1357.30 Z=240.67 Normal: X=0.61 Y=-0.79 Z=0.00 PenetrationDepth:3.172 Actor:BP_Zombie_C_27 Component:CharacterMesh0 BoneName:RightHand (24 other events since notify)
+[2025.03.26-00.49.31:788][439]LogCharacterMovement: BP_Zombie_C_41 is stuck and failed to move! Velocity: X=-8.38 Y=-18.94 Z=0.00 Location: X=1860.10 Y=-863.47 Z=841.20 Normal: X=-0.99 Y=-0.15 Z=-0.00 PenetrationDepth:0.666 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2025.03.26-00.49.33:765][475]LogCharacterMovement: BP_Zombie_C_41 is stuck and failed to move! Velocity: X=-0.41 Y=-20.70 Z=0.00 Location: X=1807.51 Y=-859.91 Z=841.20 Normal: X=1.00 Y=0.01 Z=-0.00 PenetrationDepth:2.206 Actor:BP_Zombie_C_39 Component:CharacterMesh0 BoneName:RightHand (10 other events since notify)
+[2025.03.26-00.49.34:218][481]LogBlueprintUserMessages: [BP_Zombie_C_5] Zombie Damage Recieved
+[2025.03.26-00.49.34:584][491]LogBlueprintUserMessages: [BP_Zombie_C_5] Zombie Damage Recieved
+[2025.03.26-00.49.34:845][493]LogCharacterMovement: BP_Zombie_C_41 is stuck and failed to move! Velocity: X=-0.37 Y=-20.71 Z=0.00 Location: X=1805.88 Y=-848.52 Z=841.20 Normal: X=-1.00 Y=-0.06 Z=-0.00 PenetrationDepth:20.680 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:LeftHand (16 other events since notify)
+[2025.03.26-00.49.35:054][497]LogBlueprintUserMessages: [BP_Zombie_C_5] Zombie Damage Recieved
+[2025.03.26-00.49.35:726][505]LogBlueprintUserMessages: [BP_Zombie_C_5] Zombie Damage Recieved
+[2025.03.26-00.49.35:844][508]LogCharacterMovement: BP_Zombie_C_41 is stuck and failed to move! Velocity: X=0.87 Y=-20.69 Z=0.00 Location: X=1799.54 Y=-858.18 Z=841.20 Normal: X=0.93 Y=0.36 Z=0.00 PenetrationDepth:35.370 Actor:BP_Zombie_C_39 Component:CharacterMesh0 BoneName:RightHand (6 other events since notify)
+[2025.03.26-00.49.36:060][513]LogBlueprintUserMessages: [BP_Zombie_C_5] Zombie Damage Recieved
+[2025.03.26-00.49.36:135][515]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-00.49.36:581][522]LogBlueprintUserMessages: [BP_Zombie_C_5] Zombie Damage Recieved
+[2025.03.26-00.49.37:018][529]LogCharacterMovement: BP_Zombie_C_41 is stuck and failed to move! Velocity: X=0.92 Y=-20.69 Z=0.00 Location: X=1799.23 Y=-858.26 Z=841.20 Normal: X=0.77 Y=-0.64 Z=-0.00 PenetrationDepth:15.231 Actor:BP_Zombie_C_39 Component:CharacterMesh0 BoneName:RightHand (19 other events since notify)
+[2025.03.26-00.49.37:052][530]LogBlueprintUserMessages: [BP_Zombie_C_5] Zombie Damage Recieved
+[2025.03.26-00.49.37:282][536]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-00.49.37:669][541]LogBlueprintUserMessages: [BP_Zombie_C_5] Zombie Damage Recieved
+[2025.03.26-00.49.37:746][543]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-00.49.37:884][546]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-00.49.38:009][549]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-00.49.38:051][550]LogCharacterMovement: BP_Zombie_C_41 is stuck and failed to move! Velocity: X=7.16 Y=19.43 Z=0.00 Location: X=1773.37 Y=-875.79 Z=841.20 Normal: X=-0.59 Y=-0.81 Z=-0.00 PenetrationDepth:38.060 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:LeftHand (13 other events since notify)
+[2025.03.26-00.49.38:056][550]LogBlueprintUserMessages: [BP_Zombie_C_5] Zombie Damage Recieved
+[2025.03.26-00.49.38:139][552]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-00.49.38:425][554]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-00.49.38:546][557]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-00.49.38:555][557]LogBlueprintUserMessages: [BP_Zombie_C_5] Zombie Damage Recieved
+[2025.03.26-00.49.38:655][560]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-00.49.39:076][566]LogCharacterMovement: BP_Zombie_C_41 is stuck and failed to move! Velocity: X=7.16 Y=19.43 Z=0.00 Location: X=1773.37 Y=-875.79 Z=841.20 Normal: X=-1.00 Y=-0.01 Z=-0.00 PenetrationDepth:17.027 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:LeftArm (15 other events since notify)
+[2025.03.26-00.49.39:419][574]LogCharacterMovement: BP_Zombie_C_44 is stuck and failed to move! Velocity: X=-20.70 Y=0.40 Z=0.00 Location: X=1904.37 Y=-919.72 Z=841.20 Normal: X=0.90 Y=-0.43 Z=0.00 PenetrationDepth:3.780 Actor:BP_Zombie_C_41 Component:CharacterMesh0 BoneName:Hips (0 other events since notify)
+[2025.03.26-00.49.40:116][585]LogCharacterMovement: BP_Zombie_C_41 is stuck and failed to move! Velocity: X=7.16 Y=19.43 Z=0.00 Location: X=1773.37 Y=-875.79 Z=841.20 Normal: X=0.61 Y=-0.79 Z=0.00 PenetrationDepth:43.799 Actor:BP_Zombie_C_39 Component:CharacterMesh0 BoneName:RightArm (18 other events since notify)
+[2025.03.26-00.49.41:304][601]LogCharacterMovement: BP_Zombie_C_41 is stuck and failed to move! Velocity: X=6.77 Y=19.57 Z=0.00 Location: X=1782.34 Y=-871.94 Z=841.20 Normal: X=-1.00 Y=-0.02 Z=0.00 PenetrationDepth:2.790 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:RightHand (14 other events since notify)
+[2025.03.26-00.49.42:358][617]LogCharacterMovement: BP_Zombie_C_41 is stuck and failed to move! Velocity: X=6.77 Y=19.57 Z=0.00 Location: X=1782.54 Y=-871.38 Z=841.20 Normal: X=0.86 Y=-0.51 Z=0.00 PenetrationDepth:5.255 Actor:BP_Zombie_C_39 Component:CharacterMesh0 BoneName:RightHand (14 other events since notify)
+[2025.03.26-00.49.42:579][621]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.26-00.49.42:579][621]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.03.26-00.50.04:256][396]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [Scalability]
+[2025.03.26-00.50.04:256][396]LogConfig: Set CVar [[r.SkeletalMeshLODBias:1]]
+[2025.03.26-00.50.04:256][396]LogConfig: Set CVar [[r.ViewDistanceScale:0.6]]
+[2025.03.26-00.50.04:256][396]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [Scalability]
+[2025.03.26-00.50.04:256][396]LogConfig: Set CVar [[r.FXAA.Quality:1]]
+[2025.03.26-00.50.04:256][396]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:1]]
+[2025.03.26-00.50.04:256][396]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:0]]
+[2025.03.26-00.50.04:256][396]LogConfig: Set CVar [[r.TSR.ReprojectionField:0]]
+[2025.03.26-00.50.04:256][396]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [Scalability]
+[2025.03.26-00.50.04:256][396]LogConfig: Set CVar [[r.ShadowQuality:3]]
+[2025.03.26-00.50.04:256][396]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2025.03.26-00.50.04:256][396]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2025.03.26-00.50.04:256][396]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2025.03.26-00.50.04:256][396]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.7]]
+[2025.03.26-00.50.04:256][396]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2025.03.26-00.50.04:256][396]LogConfig: Set CVar [[r.DistanceFieldShadowing:0]]
+[2025.03.26-00.50.04:256][396]LogConfig: Set CVar [[r.VolumetricFog:0]]
+[2025.03.26-00.50.04:256][396]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:0.5]]
+[2025.03.26-00.50.04:256][396]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:512]]
+[2025.03.26-00.50.04:256][396]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:0.0]]
+[2025.03.26-00.50.04:256][396]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:0.0]]
+[2025.03.26-00.50.04:256][396]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:1.0]]
+[2025.03.26-00.50.04:256][396]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:2.0]]
+[2025.03.26-00.50.04:256][396]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:4]]
+[2025.03.26-00.50.04:256][396]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:2]]
+[2025.03.26-00.50.04:256][396]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:4]]
+[2025.03.26-00.50.04:256][396]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:2]]
+[2025.03.26-00.50.04:256][396]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@1] File [Scalability]
+[2025.03.26-00.50.04:256][396]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:0]]
+[2025.03.26-00.50.04:256][396]LogConfig: Set CVar [[r.SkyLight.RealTimeReflectionCapture:0]]
+[2025.03.26-00.50.04:256][396]LogConfig: Applying CVar settings from Section [ReflectionQuality@1] File [Scalability]
+[2025.03.26-00.50.04:257][396]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:0]]
+[2025.03.26-00.50.04:257][396]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [Scalability]
+[2025.03.26-00.50.04:257][396]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:1]]
+[2025.03.26-00.50.04:257][396]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2025.03.26-00.50.04:257][396]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2025.03.26-00.50.04:257][396]LogConfig: Set CVar [[r.DepthOfFieldQuality:1]]
+[2025.03.26-00.50.04:257][396]LogConfig: Set CVar [[r.RenderTargetPoolMin:350]]
+[2025.03.26-00.50.04:257][396]LogConfig: Set CVar [[r.LensFlareQuality:0]]
+[2025.03.26-00.50.04:257][396]LogConfig: Set CVar [[r.SceneColorFringeQuality:0]]
+[2025.03.26-00.50.04:257][396]LogConfig: Set CVar [[r.BloomQuality:4]]
+[2025.03.26-00.50.04:257][396]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:35.355]]
+[2025.03.26-00.50.04:257][396]LogConfig: Set CVar [[r.FastBlurThreshold:2]]
+[2025.03.26-00.50.04:257][396]LogConfig: Set CVar [[r.LightShaftQuality:0]]
+[2025.03.26-00.50.04:257][396]LogConfig: Set CVar [[r.Filter.SizeScale:0.7]]
+[2025.03.26-00.50.04:257][396]LogConfig: Set CVar [[r.Tonemapper.Quality:2]]
+[2025.03.26-00.50.04:257][396]LogConfig: Set CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2025.03.26-00.50.04:257][396]LogConfig: Set CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2025.03.26-00.50.04:257][396]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2025.03.26-00.50.04:257][396]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2025.03.26-00.50.04:257][396]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2025.03.26-00.50.04:257][396]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [Scalability]
+[2025.03.26-00.50.04:257][396]LogConfig: Set CVar [[r.Streaming.MipBias:1]]
+[2025.03.26-00.50.04:257][396]LogConfig: Set CVar [[r.MaxAnisotropy:2]]
+[2025.03.26-00.50.04:257][396]LogConfig: Set CVar [[r.VT.MaxAnisotropy:4]]
+[2025.03.26-00.50.04:257][396]LogConfig: Set CVar [[r.Streaming.PoolSize:600]]
+[2025.03.26-00.50.04:257][396]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [Scalability]
+[2025.03.26-00.50.04:257][396]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2025.03.26-00.50.04:257][396]LogConfig: Set CVar [[r.RefractionQuality:0]]
+[2025.03.26-00.50.04:257][396]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:0]]
+[2025.03.26-00.50.04:257][396]LogConfig: Set CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2025.03.26-00.50.04:257][396]LogConfig: Set CVar [[r.SSS.Scale:0.75]]
+[2025.03.26-00.50.04:257][396]LogConfig: Set CVar [[r.SSS.SampleSet:0]]
+[2025.03.26-00.50.04:257][396]LogConfig: Set CVar [[r.SSS.Quality:0]]
+[2025.03.26-00.50.04:257][396]LogConfig: Set CVar [[r.SSGI.Quality:1]]
+[2025.03.26-00.50.04:257][396]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.25]]
+[2025.03.26-00.50.04:257][396]LogConfig: Set CVar [[r.ParticleLightQuality:0]]
+[2025.03.26-00.50.04:257][396]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2025.03.26-00.50.04:257][396]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2025.03.26-00.50.04:257][396]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2025.03.26-00.50.04:257][396]LogConfig: Set CVar [[fx.Niagara.QualityLevel:1]]
+[2025.03.26-00.50.04:258][396]LogConfig: Set CVar [[r.HeterogeneousVolumes.DownsampleFactor:4]]
+[2025.03.26-00.50.04:258][396]LogConfig: Set CVar [[r.HeterogeneousVolumes.Shadows.Resolution:128]]
+[2025.03.26-00.50.04:258][396]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [Scalability]
+[2025.03.26-00.50.04:258][396]LogConfig: Set CVar [[foliage.DensityScale:0.4]]
+[2025.03.26-00.50.04:258][396]LogConfig: Set CVar [[grass.DensityScale:0.4]]
+[2025.03.26-00.50.04:258][396]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [Scalability]
+[2025.03.26-00.50.04:258][396]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2025.03.26-00.50.04:258][396]LogConfig: Set CVar [[r.AnisotropicMaterials:0]]
+[2025.03.26-00.50.04:258][396]LogConfig: Applying CVar settings from Section [LandscapeQuality@1] File [Scalability]
+[2025.03.26-00.50.04:505][397]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2025.03.26-00.50.04:859][402]LogContentStreaming: Texture pool size now 600 MB
+[2025.03.26-00.50.04:860][402]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="600"
+[2025.03.26-00.50.05:570][438]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.26-00.50.05:570][438]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.03.26-00.50.05:574][438]LogCharacterMovement: BP_Zombie_C_41 is stuck and failed to move! Velocity: X=6.77 Y=19.57 Z=0.00 Location: X=1782.54 Y=-871.38 Z=841.20 Normal: X=0.87 Y=-0.49 Z=-0.00 PenetrationDepth:4.034 Actor:BP_Zombie_C_39 Component:CharacterMesh0 BoneName:RightHand (4 other events since notify)
+[2025.03.26-00.50.08:381][575]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2025.03.26-00.50.15:056][918]LogBlueprintUserMessages: [BP_Smoke_C_12] Smoke Damage Recieved
+[2025.03.26-00.50.16:274][986]LogCharacterMovement: BP_Zombie_C_41 is stuck and failed to move! Velocity: X=-20.64 Y=-1.64 Z=0.00 Location: X=1678.66 Y=-891.89 Z=841.20 Normal: X=-0.73 Y=0.68 Z=-0.00 PenetrationDepth:15.944 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:Spine2 (14 other events since notify)
+[2025.03.26-00.50.16:681][  9]LogCharacterMovement: BP_Zombie_C_22 is stuck and failed to move! Velocity: X=6.01 Y=19.82 Z=0.00 Location: X=1296.11 Y=104.81 Z=240.67 Normal: X=-0.72 Y=0.69 Z=0.00 PenetrationDepth:0.136 Actor:BP_Zombie_C_24 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.26-00.50.17:689][ 64]LogCharacterMovement: BP_Zombie_C_22 is stuck and failed to move! Velocity: X=7.08 Y=19.46 Z=0.00 Location: X=1273.99 Y=83.87 Z=240.67 Normal: X=0.69 Y=-0.72 Z=0.00 PenetrationDepth:0.051 Actor:StaticMeshActor_124 Component:StaticMeshComponent0 BoneName:None (54 other events since notify)
+[2025.03.26-00.50.18:706][116]LogCharacterMovement: BP_Zombie_C_22 is stuck and failed to move! Velocity: X=7.67 Y=19.24 Z=0.00 Location: X=1259.49 Y=69.89 Z=240.67 Normal: X=-0.66 Y=-0.75 Z=-0.00 PenetrationDepth:47.710 Actor:BP_Zombie_C_24 Component:CharacterMesh0 BoneName:LeftHand (47 other events since notify)
+[2025.03.26-00.50.18:833][122]LogCharacterMovement: BP_Zombie_C_44 is stuck and failed to move! Velocity: X=0.23 Y=-20.71 Z=0.00 Location: X=1879.08 Y=-957.94 Z=841.20 Normal: X=0.96 Y=0.28 Z=0.00 PenetrationDepth:1.039 Actor:BP_Zombie_C_41 Component:CharacterMesh0 BoneName:LeftHand (21 other events since notify)
+[2025.03.26-00.50.19:755][167]LogCharacterMovement: BP_Zombie_C_22 is stuck and failed to move! Velocity: X=7.19 Y=19.42 Z=0.00 Location: X=1271.59 Y=81.44 Z=240.67 Normal: X=-0.25 Y=0.97 Z=-0.00 PenetrationDepth:35.271 Actor:BP_Zombie_C_24 Component:CharacterMesh0 BoneName:LeftArm (28 other events since notify)
+[2025.03.26-00.50.19:816][170]LogCharacterMovement: BP_Zombie_C_24 is stuck and failed to move! Velocity: X=-20.49 Y=3.01 Z=0.00 Location: X=1326.76 Y=-41.96 Z=240.69 Normal: X=0.97 Y=0.23 Z=0.00 PenetrationDepth:56.704 Actor:BP_Zombie_C_22 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2025.03.26-00.50.20:930][231]LogCharacterMovement: BP_Zombie_C_24 is stuck and failed to move! Velocity: X=-20.44 Y=3.34 Z=0.00 Location: X=1327.04 Y=-46.69 Z=240.69 Normal: X=0.47 Y=-0.89 Z=0.00 PenetrationDepth:25.760 Actor:BP_Zombie_C_22 Component:CharacterMesh0 BoneName:LeftArm (39 other events since notify)
+[2025.03.26-00.50.28:089][599]LogCharacterMovement: BP_Zombie_C_41 is stuck and failed to move! Velocity: X=-14.63 Y=14.66 Z=0.00 Location: X=1673.69 Y=-875.74 Z=841.20 Normal: X=0.73 Y=0.68 Z=-0.00 PenetrationDepth:0.233 Actor:BP_Zombie_C_39 Component:CharacterMesh0 BoneName:LeftHand (7 other events since notify)
+[2025.03.26-00.50.29:145][651]LogCharacterMovement: BP_Zombie_C_41 is stuck and failed to move! Velocity: X=-20.06 Y=5.16 Z=0.00 Location: X=1748.68 Y=-879.44 Z=841.20 Normal: X=0.91 Y=0.41 Z=-0.00 PenetrationDepth:0.004 Actor:BP_Zombie_C_39 Component:CharacterMesh0 BoneName:LeftArm (46 other events since notify)
+[2025.03.26-00.50.32:895][854]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.26-00.50.32:895][854]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.03.26-00.50.35:066][984]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Level/LV_MainMenu"
+[2025.03.26-00.50.35:066][984]LogNet: Browse: /Game/Level/LV_MainMenu
+[2025.03.26-00.50.35:066][984]LogLoad: LoadMap: /Game/Level/LV_MainMenu
+[2025.03.26-00.50.35:066][984]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV1
+[2025.03.26-00.50.35:070][984]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-00.50.35:077][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-00.50.35:136][984]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.26-00.50.35:147][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.03.26-00.50.35:152][984]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV_MainMenu
+[2025.03.26-00.50.35:153][984]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001415s)
+[2025.03.26-00.50.35:153][984]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV_MainMenu.LV_MainMenu to /Game/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu (0.001480s)
+[2025.03.26-00.50.35:153][984]LogAudio: Display: Audio Device (ID: 13) registered with world 'LV_MainMenu'.
+[2025.03.26-00.50.35:153][984]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_MainMenu
+[2025.03.26-00.50.35:155][984]LogPlayLevel: PIE: World Init took: (0.001420s)
+[2025.03.26-00.50.35:155][984]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.26-00.50.35:155][984]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu up for play (max tick rate 60) at 2025.03.25-20.50.35
+[2025.03.26-00.50.35:155][984]LogWorld: Bringing up level for play took: 0.000376
+[2025.03.26-00.50.35:156][984]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.03.26-00.50.35:160][984]LogLoad: Took 0.093002 seconds to LoadMap(/Game/Level/UEDPIE_0_LV_MainMenu)
+[2025.03.26-00.50.35:160][984]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Level/UEDPIE_0_LV_MainMenu
+[2025.03.26-00.50.35:161][984]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'caves-of-dawn-10376'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.03.26-00.50.36:392][ 58]Cmd: quit
+[2025.03.26-00.50.36:393][ 58]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.26-00.50.36:393][ 58]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV_MainMenu
+[2025.03.26-00.50.36:393][ 58]LogSlate: Window 'EscapeRoom Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.03.26-00.50.36:439][ 58]LogWorld: UWorld::CleanupWorld for LV_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-00.50.36:439][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-00.50.36:442][ 58]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.26-00.50.36:448][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-00.50.36:473][ 58]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.03.26-00.50.36:473][ 58]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.03.26-00.50.36:476][ 58]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.03.26-00.50.36:483][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.03.26-00.50.36:516][ 59]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2025.03.26-00.50.38:630][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.03.26-00.50.39:575][184]LogSlate: Window 'Save Content' being destroyed
+[2025.03.26-00.50.39:585][184]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.26-00.50.39:659][184]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/W_Setting] ([2] browsable assets)...
+[2025.03.26-00.50.39:664][184]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/W_Setting.W_Setting]
+[2025.03.26-00.50.39:664][184]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_Setting]
+[2025.03.26-00.50.39:664][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_Setting" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/UI/W_Setting.uasset" SILENT=true
+[2025.03.26-00.50.39:728][184]LogSavePackage: Moving output files for package: /Game/UI/W_Setting
+[2025.03.26-00.50.39:729][184]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/W_Setting750CDDB44BD68CE82B885A88B3B82E8A.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/UI/W_Setting.uasset'
+[2025.03.26-00.50.39:743][184]LogFileHelpers: InternalPromptForCheckoutAndSave took 157.113 ms (total: 1.68 sec)
+[2025.03.26-00.50.39:819][184]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.26-00.50.39:819][184]LogContentValidation: Enabled validators:
+[2025.03.26-00.50.39:819][184]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.26-00.50.39:819][184]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.26-00.50.39:819][184]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.26-00.50.39:819][184]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.26-00.50.39:819][184]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.26-00.50.39:819][184]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.26-00.50.39:821][184]AssetCheck: /Game/UI/W_Setting Validating asset
