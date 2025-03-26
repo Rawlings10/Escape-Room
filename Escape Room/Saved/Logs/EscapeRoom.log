@@ -7923,3 +7923,1110 @@ LogConfig: CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable
 [2025.03.26-00.50.39:819][184]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.03.26-00.50.39:819][184]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.03.26-00.50.39:821][184]AssetCheck: /Game/UI/W_Setting Validating asset
+[2025.03.26-00.53.37:167][511]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20291.896484
+[2025.03.26-00.53.37:251][516]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.26-00.53.37:251][516]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20291.962891, Update Interval: 351.087982
+[2025.03.26-00.54.13:413][396]LogSlate: Window 'Delete Variable' being destroyed
+[2025.03.26-00.56.25:017][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.03.26-00.56.25:020][135]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/LV_MainMenu' took 0.104
+[2025.03.26-00.56.25:021][135]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/W_PausedGameMenu] ([2] browsable assets)...
+[2025.03.26-00.56.25:027][135]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/W_PausedGameMenu.W_PausedGameMenu]
+[2025.03.26-00.56.25:027][135]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_PausedGameMenu]
+[2025.03.26-00.56.25:087][135]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/W_PausedGameMenu_Auto4
+[2025.03.26-00.56.25:087][135]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/W_PausedGameMenu_Auto4794B16E74D3CE22D7DFB7AA65AC405A9.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/UI/W_PausedGameMenu_Auto4.uasset'
+[2025.03.26-00.56.25:089][135]LogFileHelpers: Auto-saving content packages took 0.068
+[2025.03.26-00.58.53:951][ 42]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.26-00.59.18:170][459]LogEditorTransaction: Undo Resize Node
+[2025.03.26-00.59.19:115][489]LogEditorTransaction: Undo Edit Show Bubble When Zoomed
+[2025.03.26-01.00.26:129][457]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20701.570312
+[2025.03.26-01.00.26:228][463]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.26-01.00.26:228][463]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20701.652344, Update Interval: 321.200592
+[2025.03.26-01.05.23:347][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.03.26-01.06.19:688][ 96]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.03.26-01.06.19:700][ 96]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.26-01.06.19:700][ 96]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV_MainMenu
+[2025.03.26-01.06.19:702][ 96]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001533s)
+[2025.03.26-01.06.19:702][ 96]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV_MainMenu.LV_MainMenu to /Game/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu (0.001574s)
+[2025.03.26-01.06.19:723][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.03.26-01.06.19:731][ 96]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_MainMenu
+[2025.03.26-01.06.19:733][ 96]LogPlayLevel: PIE: World Init took: (0.001706s)
+[2025.03.26-01.06.19:734][ 96]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.03.26-01.06.19:734][ 96]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.26-01.06.19:734][ 96]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.26-01.06.19:734][ 96]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.26-01.06.19:734][ 96]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.26-01.06.19:734][ 96]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.26-01.06.19:734][ 96]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.26-01.06.19:734][ 96]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.26-01.06.19:734][ 96]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.26-01.06.19:734][ 96]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.26-01.06.19:734][ 96]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.26-01.06.19:734][ 96]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.26-01.06.19:736][ 96]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.26-01.06.19:765][ 96]LogAudioMixer: Display: Using Audio Hardware Device Headphones (SoundCore mini)
+[2025.03.26-01.06.19:765][ 96]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.26-01.06.19:765][ 96]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.26-01.06.19:765][ 96]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.26-01.06.19:765][ 96]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.03.26-01.06.19:765][ 96]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2025.03.26-01.06.19:769][ 96]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.03.26-01.06.19:769][ 96]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.03.26-01.06.19:769][ 96]LogInit: FAudioDevice initialized with ID 14.
+[2025.03.26-01.06.19:769][ 96]LogAudio: Display: Audio Device (ID: 14) registered with world 'LV_MainMenu'.
+[2025.03.26-01.06.19:769][ 96]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.03.26-01.06.19:824][ 96]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.26-01.06.19:825][ 96]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.26-01.06.19:826][ 96]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu up for play (max tick rate 60) at 2025.03.25-21.06.19
+[2025.03.26-01.06.19:826][ 96]LogWorld: Bringing up level for play took: 0.001827
+[2025.03.26-01.06.19:830][ 96]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2025.03.26-01.06.19:835][ 96]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.26-01.06.19:835][ 96]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.03.26-01.06.19:839][ 96]PIE: Server logged in
+[2025.03.26-01.06.19:843][ 96]PIE: Play in editor total start time 0.143 seconds.
+[2025.03.26-01.06.19:846][ 96]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'caves-of-dawn-10376'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.03.26-01.06.41:881][417]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.26-01.06.41:881][417]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.03.26-01.06.41:896][418]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Level/LV1"
+[2025.03.26-01.06.41:896][418]LogNet: Browse: /Game/Level/LV1
+[2025.03.26-01.06.41:896][418]LogLoad: LoadMap: /Game/Level/LV1
+[2025.03.26-01.06.41:896][418]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV_MainMenu
+[2025.03.26-01.06.41:900][418]LogWorld: UWorld::CleanupWorld for LV_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-01.06.41:900][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-01.06.41:964][418]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.26-01.06.41:966][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.03.26-01.06.41:970][418]LogStreaming: Display: FlushAsyncLoading(555): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.26-01.06.42:067][418]LogAudio: Display: Audio Device (ID: 14) registered with world 'LV1'.
+[2025.03.26-01.06.42:067][418]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.03.26-01.06.42:069][418]LogPlayLevel: PIE: World Init took: (0.001644s)
+[2025.03.26-01.06.42:069][418]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.26-01.06.42:143][418]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV1.LV1 up for play (max tick rate 60) at 2025.03.25-21.06.42
+[2025.03.26-01.06.42:166][418]LogWorld: Bringing up level for play took: 0.096735
+[2025.03.26-01.06.42:187][418]LogLoad: Took 0.290259 seconds to LoadMap(/Game/Level/LV1)
+[2025.03.26-01.06.42:187][418]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Level/LV1
+[2025.03.26-01.06.45:601][582]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21082.341797
+[2025.03.26-01.06.45:659][586]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.26-01.06.45:659][586]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.03.26-01.06.45:715][589]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.26-01.06.45:715][589]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21082.441406, Update Interval: 322.808319
+[2025.03.26-01.06.57:026][265]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.26-01.06.57:026][265]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.03.26-01.07.00:253][455]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.26-01.07.00:253][455]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.03.26-01.07.06:277][815]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.26-01.07.06:277][815]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.03.26-01.07.09:122][974]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.26-01.07.09:122][974]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.03.26-01.07.23:133][813]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.26-01.07.23:133][813]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.03.26-01.07.24:677][892]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.26-01.07.24:677][892]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.03.26-01.07.28:482][120]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Level/LV_MainMenu"
+[2025.03.26-01.07.28:482][120]LogNet: Browse: /Game/Level/LV_MainMenu
+[2025.03.26-01.07.28:482][120]LogLoad: LoadMap: /Game/Level/LV_MainMenu
+[2025.03.26-01.07.28:482][120]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV1
+[2025.03.26-01.07.28:488][120]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-01.07.28:494][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-01.07.28:559][120]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.26-01.07.28:570][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.03.26-01.07.28:576][120]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV_MainMenu
+[2025.03.26-01.07.28:578][120]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001493s)
+[2025.03.26-01.07.28:578][120]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV_MainMenu.LV_MainMenu to /Game/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu (0.001540s)
+[2025.03.26-01.07.28:578][120]LogAudio: Display: Audio Device (ID: 14) registered with world 'LV_MainMenu'.
+[2025.03.26-01.07.28:578][120]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_MainMenu
+[2025.03.26-01.07.28:580][120]LogPlayLevel: PIE: World Init took: (0.001808s)
+[2025.03.26-01.07.28:580][120]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.26-01.07.28:580][120]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu up for play (max tick rate 60) at 2025.03.25-21.07.28
+[2025.03.26-01.07.28:580][120]LogWorld: Bringing up level for play took: 0.000482
+[2025.03.26-01.07.28:580][120]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.03.26-01.07.28:583][120]LogLoad: Took 0.101859 seconds to LoadMap(/Game/Level/UEDPIE_0_LV_MainMenu)
+[2025.03.26-01.07.28:583][120]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Level/UEDPIE_0_LV_MainMenu
+[2025.03.26-01.07.28:585][120]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'caves-of-dawn-10376'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.03.26-01.07.40:151][814]Cmd: quit
+[2025.03.26-01.07.40:152][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.26-01.07.40:152][814]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV_MainMenu
+[2025.03.26-01.07.40:152][814]LogSlate: Window 'EscapeRoom Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.03.26-01.07.40:199][814]LogWorld: UWorld::CleanupWorld for LV_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-01.07.40:199][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-01.07.40:202][814]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.26-01.07.40:209][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-01.07.40:235][814]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.03.26-01.07.40:235][814]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.03.26-01.07.40:237][814]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.03.26-01.07.40:246][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.03.26-01.07.40:279][815]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2025.03.26-01.08.26:805][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.03.26-01.08.26:807][589]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/LV_MainMenu' took 0.021
+[2025.03.26-01.08.26:808][589]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/W_PausedGameMenu] ([2] browsable assets)...
+[2025.03.26-01.08.26:815][589]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/W_PausedGameMenu.W_PausedGameMenu]
+[2025.03.26-01.08.26:815][589]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_PausedGameMenu]
+[2025.03.26-01.08.26:880][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/W_PausedGameMenu_Auto5
+[2025.03.26-01.08.26:880][589]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/W_PausedGameMenu_Auto5C9B284D44611AD83B3F93C8841178856.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/UI/W_PausedGameMenu_Auto5.uasset'
+[2025.03.26-01.08.26:881][589]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/W_Setting] ([2] browsable assets)...
+[2025.03.26-01.08.26:881][589]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_Setting]
+[2025.03.26-01.08.26:941][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/W_Setting_Auto5
+[2025.03.26-01.08.26:941][589]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/W_Setting_Auto511780499433F7E64B0E568BE9F4934A7.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/UI/W_Setting_Auto5.uasset'
+[2025.03.26-01.08.26:943][589]LogFileHelpers: Auto-saving content packages took 0.136
+[2025.03.26-01.10.53:318][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.03.26-01.10.57:295][369]LogSlate: Window 'Save Content' being destroyed
+[2025.03.26-01.10.57:305][369]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.26-01.10.57:394][369]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/W_PausedGameMenu] ([2] browsable assets)...
+[2025.03.26-01.10.57:394][369]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_PausedGameMenu]
+[2025.03.26-01.10.57:394][369]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_PausedGameMenu" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/UI/W_PausedGameMenu.uasset" SILENT=true
+[2025.03.26-01.10.57:461][369]LogSavePackage: Moving output files for package: /Game/UI/W_PausedGameMenu
+[2025.03.26-01.10.57:462][369]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/W_PausedGameMenuE0E7F1F94BBBBC8D4D25A8A97AC04A96.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/UI/W_PausedGameMenu.uasset'
+[2025.03.26-01.10.57:465][369]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/W_Setting] ([2] browsable assets)...
+[2025.03.26-01.10.57:465][369]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_Setting]
+[2025.03.26-01.10.57:465][369]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_Setting" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/UI/W_Setting.uasset" SILENT=true
+[2025.03.26-01.10.57:526][369]LogSavePackage: Moving output files for package: /Game/UI/W_Setting
+[2025.03.26-01.10.57:527][369]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/W_Setting22D19C2440733472B7147BAE5AA77354.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/UI/W_Setting.uasset'
+[2025.03.26-01.10.57:542][369]LogFileHelpers: InternalPromptForCheckoutAndSave took 235.777 ms (total: 1.92 sec)
+[2025.03.26-01.10.57:617][369]LogContentValidation: Display: Starting to validate 2 assets
+[2025.03.26-01.10.57:617][369]LogContentValidation: Enabled validators:
+[2025.03.26-01.10.57:617][369]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.26-01.10.57:617][369]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.26-01.10.57:617][369]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.26-01.10.57:617][369]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.26-01.10.57:617][369]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.26-01.10.57:617][369]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.26-01.10.57:620][369]AssetCheck: /Game/UI/W_PausedGameMenu Validating asset
+[2025.03.26-01.10.57:622][369]AssetCheck: /Game/UI/W_Setting Validating asset
+[2025.03.26-01.12.34:329][803]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Level/GI_MyGameInstance.GI_MyGameInstance
+[2025.03.26-01.12.34:333][803]LogChaosDD: Creating Chaos Debug Draw Scene for world World_35
+[2025.03.26-01.12.59:739][283]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21458.687500
+[2025.03.26-01.12.59:838][288]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.26-01.12.59:838][288]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21458.771484, Update Interval: 302.232117
+[2025.03.26-01.16.22:334][606]LogBlueprint: Warning: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\GI_MyGameInstance.uasset: [Compiler] Could not find a variable named "As Save Setting" in '/Game/Level/GI_MyGameInstance.GI_MyGameInstance_C'.
+Make sure '/Game/Level/GI_MyGameInstance.GI_MyGameInstance_C' has been compiled for  Set As Save Setting
+[2025.03.26-01.16.22:334][606]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\GI_MyGameInstance.uasset: [Compiler] This blueprint (self) is not a SaveSetting_C, therefore ' Target ' must have a connection.
+[2025.03.26-01.16.22:334][606]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\GI_MyGameInstance.uasset: [Compiler] This blueprint (self) is not a SaveSetting_C, therefore ' Target ' must have a connection.
+[2025.03.26-01.16.22:335][606]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\GI_MyGameInstance.uasset: [Compiler] Variable node  Get MusicSound  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2025.03.26-01.16.22:335][606]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\GI_MyGameInstance.uasset: [Compiler] The property associated with  As Save Setting  could not be found in '/Game/Level/GI_MyGameInstance.GI_MyGameInstance_C'
+[2025.03.26-01.16.22:335][606]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\GI_MyGameInstance.uasset: [Compiler] Variable node  Get AudioSound  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2025.03.26-01.16.22:398][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.03.26-01.16.43:001][829]LogEditorTransaction: Undo Delete current selection
+[2025.03.26-01.16.49:560][206]LogEditorTransaction: Redo Delete current selection
+[2025.03.26-01.16.52:800][386]LogEditorTransaction: Undo Delete current selection
+[2025.03.26-01.18.29:573][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.03.26-01.18.31:550][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.03.26-01.18.32:792][278]LogSlate: Window 'Save Content' being destroyed
+[2025.03.26-01.18.32:805][278]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.26-01.18.32:883][278]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Level/GI_MyGameInstance] ([2] browsable assets)...
+[2025.03.26-01.18.32:883][278]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level/GI_MyGameInstance]
+[2025.03.26-01.18.32:883][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/GI_MyGameInstance" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/GI_MyGameInstance.uasset" SILENT=true
+[2025.03.26-01.18.32:886][278]LogSavePackage: Moving output files for package: /Game/Level/GI_MyGameInstance
+[2025.03.26-01.18.32:886][278]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/GI_MyGameInstance22290D2945B3E37C2DE91CB03CECF1FD.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/GI_MyGameInstance.uasset'
+[2025.03.26-01.18.32:899][278]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.642 ms (total: 2.01 sec)
+[2025.03.26-01.18.32:975][278]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.26-01.18.32:975][278]LogContentValidation: Enabled validators:
+[2025.03.26-01.18.32:975][278]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.26-01.18.32:975][278]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.26-01.18.32:975][278]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.26-01.18.32:975][278]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.26-01.18.32:975][278]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.26-01.18.32:975][278]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.26-01.18.32:975][278]AssetCheck: /Game/Level/GI_MyGameInstance Validating asset
+[2025.03.26-01.18.49:376][260]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21810.064453
+[2025.03.26-01.18.49:493][267]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.26-01.18.49:493][267]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21810.166016, Update Interval: 347.781006
+[2025.03.26-01.18.58:076][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.03.26-01.18.58:080][781]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/LV_MainMenu.LV_MainMenu
+[2025.03.26-01.18.58:082][781]Cmd: MAP LOAD FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/LV_MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.03.26-01.18.58:221][781]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-01.18.58:221][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-01.18.58:300][781]LogWorld: UWorld::CleanupWorld for LV_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-01.18.58:300][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-01.18.58:325][781]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.26-01.18.58:336][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.03.26-01.18.58:431][781]LogStreaming: Display: FlushAsyncLoading(556): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.26-01.18.58:460][781]LogAudio: Display: Audio Device (ID: 1) registered with world 'LV_MainMenu'.
+[2025.03.26-01.18.58:460][781]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_MainMenu
+[2025.03.26-01.18.58:516][781]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.03.26-01.18.58:543][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.03.26-01.18.58:560][781]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.03.26-01.18.58:561][781]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.199ms to complete.
+[2025.03.26-01.18.58:620][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.03.26-01.19.00:158][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.03.26-01.19.00:161][871]LogStreaming: Display: FlushAsyncLoading(557): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.26-01.19.00:329][871]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.03.26-01.19.00:421][871]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/LV1.LV1
+[2025.03.26-01.19.00:421][871]Cmd: MAP LOAD FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/LV1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.03.26-01.19.00:460][871]LogWorld: UWorld::CleanupWorld for LV_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-01.19.00:460][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-01.19.00:483][871]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.26-01.19.00:486][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.03.26-01.19.00:493][871]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-01.19.00:496][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-01.19.00:527][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.03.26-01.19.00:553][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.03.26-01.19.00:644][871]LogAudio: Display: Audio Device (ID: 1) registered with world 'LV1'.
+[2025.03.26-01.19.00:644][871]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.03.26-01.19.00:833][871]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.03.26-01.19.00:883][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.03.26-01.19.00:899][871]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.03.26-01.19.00:899][871]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.181ms to complete.
+[2025.03.26-01.19.06:538][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.03.26-01.19.06:546][186]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/LV1.LV1
+[2025.03.26-01.19.06:547][186]Cmd: MAP LOAD FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/LV1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.03.26-01.19.06:595][186]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-01.19.06:595][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-01.19.06:620][186]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.26-01.19.06:631][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.03.26-01.19.06:712][186]LogStreaming: Display: FlushAsyncLoading(559): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.26-01.19.06:800][186]LogAudio: Display: Audio Device (ID: 1) registered with world 'LV1'.
+[2025.03.26-01.19.06:800][186]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.03.26-01.19.06:983][186]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.03.26-01.19.07:034][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.03.26-01.19.07:051][186]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.03.26-01.19.07:051][186]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.183ms to complete.
+[2025.03.26-01.19.10:355][363]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Level/LV1.LV1:PersistentLevel.LV1
+[2025.03.26-01.19.10:356][363]LogChaosDD: Creating Chaos Debug Draw Scene for world World_36
+[2025.03.26-01.19.21:564][ 13]LogStreaming: Display: FlushAsyncLoading(560): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.26-01.19.21:594][ 13]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_MainMenu
+[2025.03.26-01.19.34:061][749]LogBlueprint: Warning: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] Could not find a variable named "As Save Setting" in '/Game/Level/LV1.LV1_C'.
+Make sure '/Game/Level/LV1.LV1_C' has been compiled for  Set As Save Setting
+[2025.03.26-01.19.34:062][749]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] This blueprint (self) is not a SaveSetting_C, therefore ' Target ' must have a connection.
+[2025.03.26-01.19.34:062][749]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] This blueprint (self) is not a SaveSetting_C, therefore ' Target ' must have a connection.
+[2025.03.26-01.19.34:062][749]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] Variable node  Get MusicSound  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2025.03.26-01.19.34:062][749]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] The property associated with  As Save Setting  could not be found in '/Game/Level/LV1.LV1_C'
+[2025.03.26-01.19.34:062][749]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] Variable node  Get AudioSound  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2025.03.26-01.19.34:066][749]LogStreaming: Display: FlushAsyncLoading(561): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.26-01.19.34:179][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.03.26-01.20.18:526][401]LogEditorTransaction: Undo Delete current selection
+[2025.03.26-01.20.54:083][435]LogBlueprint: Warning: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] Could not find a variable named "As Save Setting" in '/Game/Level/LV1.LV1_C'.
+Make sure '/Game/Level/LV1.LV1_C' has been compiled for  Set As Save Setting
+[2025.03.26-01.20.54:083][435]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] This blueprint (self) is not a SaveSetting_C, therefore ' Target ' must have a connection.
+[2025.03.26-01.20.54:083][435]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] This blueprint (self) is not a SaveSetting_C, therefore ' Target ' must have a connection.
+[2025.03.26-01.20.54:083][435]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] Variable node  Get MusicSound  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2025.03.26-01.20.54:083][435]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] The property associated with  As Save Setting  could not be found in '/Game/Level/LV1.LV1_C'
+[2025.03.26-01.20.54:084][435]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] Variable node  Get AudioSound  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2025.03.26-01.20.54:141][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.03.26-01.21.18:639][842]LogBlueprint: Warning: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] Could not find a variable named "As Save Setting" in '/Game/Level/LV1.LV1_C'.
+Make sure '/Game/Level/LV1.LV1_C' has been compiled for  Set As Save Setting
+[2025.03.26-01.21.18:640][842]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] This blueprint (self) is not a SaveSetting_C, therefore ' Target ' must have a connection.
+[2025.03.26-01.21.18:640][842]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] This blueprint (self) is not a SaveSetting_C, therefore ' Target ' must have a connection.
+[2025.03.26-01.21.18:641][842]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To SaveSetting  to imply a specific type.
+[2025.03.26-01.21.18:641][842]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2025.03.26-01.21.18:641][842]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] The property associated with  As Save Setting  could not be found in '/Game/Level/LV1.LV1_C'
+[2025.03.26-01.21.18:642][842]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] Variable node  Get MusicSound  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2025.03.26-01.21.18:642][842]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] Variable node  Get AudioSound  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2025.03.26-01.21.18:706][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.03.26-01.21.58:435][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.03.26-01.21.59:353][175]LogSlate: Window 'Save Content' being destroyed
+[2025.03.26-01.21.59:365][175]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.26-01.21.59:438][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/LV1" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/LV1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.26-01.21.59:500][175]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.03.26-01.21.59:639][175]LogSavePackage: Moving output files for package: /Game/Level/LV1
+[2025.03.26-01.21.59:640][175]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/LV174BAA0E84E98CB6F551A03B121EC116D.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/LV1.umap'
+[2025.03.26-01.21.59:660][175]LogFileHelpers: Saving map 'LV1' took 0.223
+[2025.03.26-01.21.59:672][175]LogFileHelpers: InternalPromptForCheckoutAndSave took 307.270 ms (total: 2.32 sec)
+[2025.03.26-01.21.59:739][175]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.26-01.21.59:739][175]LogContentValidation: Enabled validators:
+[2025.03.26-01.21.59:739][175]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.26-01.21.59:739][175]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.26-01.21.59:739][175]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.26-01.21.59:739][175]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.26-01.21.59:739][175]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.26-01.21.59:739][175]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.26-01.21.59:739][175]AssetCheck: /Game/Level/LV1 Validating asset
+[2025.03.26-01.22.02:970][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.03.26-01.22.02:975][367]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/LV_MainMenu.LV_MainMenu
+[2025.03.26-01.22.02:975][367]Cmd: MAP LOAD FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/LV_MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.03.26-01.22.03:109][367]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-01.22.03:109][367]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-01.22.03:152][367]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-01.22.03:153][367]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-01.22.03:180][367]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.26-01.22.03:193][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.03.26-01.22.03:201][367]LogWorld: UWorld::CleanupWorld for LV_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-01.22.03:201][367]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-01.22.03:225][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.03.26-01.22.03:332][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.03.26-01.22.03:334][367]LogStreaming: Display: FlushAsyncLoading(562): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.26-01.22.03:356][367]LogAudio: Display: Audio Device (ID: 1) registered with world 'LV_MainMenu'.
+[2025.03.26-01.22.03:356][367]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_MainMenu
+[2025.03.26-01.22.03:391][367]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.03.26-01.22.03:413][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.03.26-01.22.03:430][367]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.03.26-01.22.03:430][367]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.057ms to complete.
+[2025.03.26-01.22.03:485][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.03.26-01.22.07:067][572]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Level/LV_MainMenu.LV_MainMenu:PersistentLevel.LV_MainMenu
+[2025.03.26-01.22.07:068][572]LogChaosDD: Creating Chaos Debug Draw Scene for world World_37
+[2025.03.26-01.23.12:784][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.03.26-01.23.36:319][676]LogSlate: Window 'Delete Variable' being destroyed
+[2025.03.26-01.23.38:594][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.03.26-01.25.20:348][139]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22202.496094
+[2025.03.26-01.25.20:464][146]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.26-01.25.20:464][146]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22202.595703, Update Interval: 321.885437
+[2025.03.26-01.25.26:558][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.03.26-01.25.35:293][ 27]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.03.26-01.25.35:307][ 27]LogPlayLevel: [PlayLevel] Compiling GI_MyGameInstance before play...
+[2025.03.26-01.25.35:355][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.03.26-01.25.35:359][ 27]LogPlayLevel: PlayLevel: Blueprint regeneration took 55 ms (1 blueprints)
+[2025.03.26-01.25.35:359][ 27]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV_MainMenu
+[2025.03.26-01.25.35:360][ 27]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001562s)
+[2025.03.26-01.25.35:360][ 27]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV_MainMenu.LV_MainMenu to /Game/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu (0.001596s)
+[2025.03.26-01.25.35:382][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.03.26-01.25.35:384][ 27]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_MainMenu
+[2025.03.26-01.25.35:386][ 27]LogPlayLevel: PIE: World Init took: (0.001476s)
+[2025.03.26-01.25.35:386][ 27]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.03.26-01.25.35:386][ 27]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.26-01.25.35:386][ 27]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.26-01.25.35:386][ 27]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.26-01.25.35:386][ 27]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.26-01.25.35:386][ 27]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.26-01.25.35:386][ 27]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.26-01.25.35:386][ 27]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.26-01.25.35:386][ 27]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.26-01.25.35:386][ 27]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.26-01.25.35:386][ 27]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.26-01.25.35:386][ 27]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.26-01.25.35:389][ 27]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.26-01.25.35:413][ 27]LogAudioMixer: Display: Using Audio Hardware Device Headphones (SoundCore mini)
+[2025.03.26-01.25.35:413][ 27]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.26-01.25.35:413][ 27]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.26-01.25.35:413][ 27]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.26-01.25.35:414][ 27]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2025.03.26-01.25.35:414][ 27]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2025.03.26-01.25.35:416][ 27]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2025.03.26-01.25.35:416][ 27]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2025.03.26-01.25.35:416][ 27]LogInit: FAudioDevice initialized with ID 15.
+[2025.03.26-01.25.35:416][ 27]LogAudio: Display: Audio Device (ID: 15) registered with world 'LV_MainMenu'.
+[2025.03.26-01.25.35:416][ 27]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2025.03.26-01.25.35:474][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.26-01.25.35:475][ 27]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.26-01.25.35:476][ 27]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu up for play (max tick rate 60) at 2025.03.25-21.25.35
+[2025.03.26-01.25.35:476][ 27]LogWorld: Bringing up level for play took: 0.000943
+[2025.03.26-01.25.35:479][ 27]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2025.03.26-01.25.35:483][ 27]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.26-01.25.35:483][ 27]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.03.26-01.25.35:484][ 27]LogScript: Warning: Accessed None trying to read property As Save Setting
+	LV_MainMenu_C /Game/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu:PersistentLevel.LV_MainMenu_C_2
+	Function /Game/Level/LV_MainMenu.LV_MainMenu_C:ExecuteUbergraph_LV_MainMenu:01CD
+[2025.03.26-01.25.35:484][ 27]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Save Setting". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph LV Main Menu Blueprint:  LV_MainMenu
+[2025.03.26-01.25.35:484][ 27]LogScript: Warning: Accessed None trying to read property As Save Setting
+	LV_MainMenu_C /Game/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu:PersistentLevel.LV_MainMenu_C_2
+	Function /Game/Level/LV_MainMenu.LV_MainMenu_C:ExecuteUbergraph_LV_MainMenu:0233
+[2025.03.26-01.25.35:484][ 27]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Save Setting". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph LV Main Menu Blueprint:  LV_MainMenu
+[2025.03.26-01.25.35:490][ 27]PIE: Server logged in
+[2025.03.26-01.25.35:493][ 27]PIE: Play in editor total start time 0.191 seconds.
+[2025.03.26-01.25.35:496][ 27]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'caves-of-dawn-10376'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.03.26-01.25.37:566][147]Cmd: quit
+[2025.03.26-01.25.37:568][147]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.26-01.25.37:568][147]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV_MainMenu
+[2025.03.26-01.25.37:569][147]LogSlate: Window 'EscapeRoom Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.03.26-01.25.37:609][147]LogWorld: UWorld::CleanupWorld for LV_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-01.25.37:609][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-01.25.37:612][147]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.26-01.25.37:618][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-01.25.37:639][147]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2025.03.26-01.25.37:639][147]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.03.26-01.25.37:641][147]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.03.26-01.25.37:649][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.03.26-01.25.37:753][148]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2025.03.26-01.26.07:394][910]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.03.26-01.26.07:405][910]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.26-01.26.07:405][910]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV_MainMenu
+[2025.03.26-01.26.07:406][910]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001433s)
+[2025.03.26-01.26.07:406][910]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV_MainMenu.LV_MainMenu to /Game/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu (0.001475s)
+[2025.03.26-01.26.07:427][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.03.26-01.26.07:429][910]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_MainMenu
+[2025.03.26-01.26.07:431][910]LogPlayLevel: PIE: World Init took: (0.001539s)
+[2025.03.26-01.26.07:432][910]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.03.26-01.26.07:432][910]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.26-01.26.07:432][910]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.26-01.26.07:432][910]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.26-01.26.07:432][910]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.26-01.26.07:432][910]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.26-01.26.07:432][910]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.26-01.26.07:432][910]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.26-01.26.07:432][910]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.26-01.26.07:432][910]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.26-01.26.07:432][910]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.26-01.26.07:432][910]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.26-01.26.07:434][910]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.26-01.26.07:458][910]LogAudioMixer: Display: Using Audio Hardware Device Headphones (SoundCore mini)
+[2025.03.26-01.26.07:458][910]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.26-01.26.07:458][910]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.26-01.26.07:458][910]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.26-01.26.07:459][910]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2025.03.26-01.26.07:459][910]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2025.03.26-01.26.07:461][910]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2025.03.26-01.26.07:461][910]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2025.03.26-01.26.07:461][910]LogInit: FAudioDevice initialized with ID 16.
+[2025.03.26-01.26.07:461][910]LogAudio: Display: Audio Device (ID: 16) registered with world 'LV_MainMenu'.
+[2025.03.26-01.26.07:461][910]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2025.03.26-01.26.07:508][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.26-01.26.07:508][910]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.26-01.26.07:509][910]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu up for play (max tick rate 60) at 2025.03.25-21.26.07
+[2025.03.26-01.26.07:509][910]LogWorld: Bringing up level for play took: 0.001663
+[2025.03.26-01.26.07:513][910]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2025.03.26-01.26.07:513][910]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.03.26-01.26.07:516][910]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.26-01.26.07:516][910]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.03.26-01.26.07:517][910]LogScript: Warning: Accessed None trying to read property As Save Setting
+	LV_MainMenu_C /Game/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu:PersistentLevel.LV_MainMenu_C_2
+	Function /Game/Level/LV_MainMenu.LV_MainMenu_C:ExecuteUbergraph_LV_MainMenu:01CD
+[2025.03.26-01.26.07:517][910]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Save Setting". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph LV Main Menu Blueprint:  LV_MainMenu
+[2025.03.26-01.26.07:517][910]LogScript: Warning: Accessed None trying to read property As Save Setting
+	LV_MainMenu_C /Game/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu:PersistentLevel.LV_MainMenu_C_2
+	Function /Game/Level/LV_MainMenu.LV_MainMenu_C:ExecuteUbergraph_LV_MainMenu:0233
+[2025.03.26-01.26.07:517][910]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Save Setting". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph LV Main Menu Blueprint:  LV_MainMenu
+[2025.03.26-01.26.07:520][910]PIE: Server logged in
+[2025.03.26-01.26.07:521][910]PIE: Play in editor total start time 0.117 seconds.
+[2025.03.26-01.26.07:523][910]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'caves-of-dawn-10376'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.03.26-01.26.24:475][916]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.26-01.26.24:475][916]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.03.26-01.26.24:492][917]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Level/LV1"
+[2025.03.26-01.26.24:492][917]LogNet: Browse: /Game/Level/LV1
+[2025.03.26-01.26.24:492][917]LogLoad: LoadMap: /Game/Level/LV1
+[2025.03.26-01.26.24:492][917]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV_MainMenu
+[2025.03.26-01.26.24:493][917]LogWorld: UWorld::CleanupWorld for LV_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-01.26.24:493][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-01.26.24:550][917]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.26-01.26.24:552][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.03.26-01.26.24:556][917]LogStreaming: Display: FlushAsyncLoading(563): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.26-01.26.24:596][917]LogBlueprint: Warning: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] Could not find a variable named "As Save Setting" in '/Game/Level/LV1.LV1_C'.
+Make sure '/Game/Level/LV1.LV1_C' has been compiled for  Set As Save Setting
+[2025.03.26-01.26.24:596][917]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] This blueprint (self) is not a SaveSetting_C, therefore ' Target ' must have a connection.
+[2025.03.26-01.26.24:596][917]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] This blueprint (self) is not a SaveSetting_C, therefore ' Target ' must have a connection.
+[2025.03.26-01.26.24:596][917]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To SaveSetting  to imply a specific type.
+[2025.03.26-01.26.24:596][917]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2025.03.26-01.26.24:596][917]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] The property associated with  As Save Setting  could not be found in '/Game/Level/LV1.LV1_C'
+[2025.03.26-01.26.24:596][917]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] Variable node  Get MusicSound  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2025.03.26-01.26.24:596][917]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] Variable node  Get AudioSound  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2025.03.26-01.26.24:648][917]LogAudio: Display: Audio Device (ID: 16) registered with world 'LV1'.
+[2025.03.26-01.26.24:648][917]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.03.26-01.26.24:650][917]LogPlayLevel: PIE: World Init took: (0.001726s)
+[2025.03.26-01.26.24:650][917]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.26-01.26.24:723][917]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV1.LV1 up for play (max tick rate 60) at 2025.03.25-21.26.24
+[2025.03.26-01.26.24:746][917]LogWorld: Bringing up level for play took: 0.095893
+[2025.03.26-01.26.24:766][917]LogLoad: Took 0.273957 seconds to LoadMap(/Game/Level/LV1)
+[2025.03.26-01.26.24:766][917]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Level/LV1
+[2025.03.26-01.26.41:649][826]LogCharacterMovement: BP_Zombie_C_31 is stuck and failed to move! Velocity: X=17.61 Y=-10.90 Z=0.00 Location: X=3427.88 Y=-1912.73 Z=841.20 Normal: X=-1.00 Y=-0.07 Z=-0.00 PenetrationDepth:41.697 Actor:BP_Zombie_C_34 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.26-01.26.46:900][ 96]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_1] WEAPON FOUND
+[2025.03.26-01.26.50:156][260]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-01.26.50:284][267]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-01.26.50:454][276]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-01.26.50:625][285]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-01.26.50:797][294]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-01.26.50:976][303]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-01.26.51:114][310]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-01.26.51:274][318]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-01.27.04:153][977]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-01.27.04:303][984]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-01.27.04:430][990]LogBlueprintUserMessages: [BP_Zombie_C_5] Zombie Damage Recieved
+[2025.03.26-01.27.04:632][  0]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-01.27.04:675][  2]LogCharacterMovement: BP_Zombie_C_5 is stuck and failed to move! Velocity: X=9.56 Y=-18.37 Z=0.00 Location: X=-12.67 Y=-551.44 Z=242.85 Normal: X=-0.64 Y=-0.77 Z=0.00 PenetrationDepth:1.139 Actor:BP_FirstPersonCharacter_C_0 Component:Capsule BoneName:None (0 other events since notify)
+[2025.03.26-01.27.04:813][  9]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-01.27.04:923][ 14]LogBlueprintUserMessages: [BP_Zombie_C_5] Zombie Damage Recieved
+[2025.03.26-01.27.04:976][ 17]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-01.27.05:115][ 24]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-01.27.05:345][ 36]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-01.27.05:384][ 38]LogCharacterMovement: BP_FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-589.81 Y=110.13 Z=0.00 Location: X=-255.73 Y=-526.91 Z=196.78 Normal: X=0.89 Y=0.35 Z=-0.29 PenetrationDepth:2.505 Actor:BP_Zombie_C_5 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.26-01.27.05:427][ 40]LogBlueprintUserMessages: [BP_Zombie_C_5] Zombie Damage Recieved
+[2025.03.26-01.27.05:499][ 44]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-01.27.05:689][ 54]LogCharacterMovement: BP_Zombie_C_5 is stuck and failed to move! Velocity: X=383.79 Y=-7.41 Z=0.00 Location: X=-450.92 Y=-542.70 Z=240.67 Normal: X=-0.98 Y=-0.19 Z=0.00 PenetrationDepth:0.296 Actor:BP_FirstPersonCharacter_C_0 Component:Capsule BoneName:None (24 other events since notify)
+[2025.03.26-01.27.05:726][ 56]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-01.27.05:921][ 66]LogBlueprintUserMessages: [BP_Zombie_C_5] Zombie Damage Recieved
+[2025.03.26-01.27.06:427][ 90]LogBlueprintUserMessages: [BP_Zombie_C_5] Zombie Damage Recieved
+[2025.03.26-01.27.09:169][230]LogBlueprintUserMessages: [BP_Zombie_C_11] TST.......Zombie recieved Damage
+[2025.03.26-01.27.09:301][237]LogBlueprintUserMessages: [BP_Zombie_C_11] TST.......Zombie recieved Damage
+[2025.03.26-01.27.09:417][243]LogBlueprintUserMessages: [BP_Zombie_C_11] TST.......Zombie recieved Damage
+[2025.03.26-01.27.09:514][248]LogBlueprintUserMessages: [BP_Zombie_C_11] TST.......Zombie recieved Damage
+[2025.03.26-01.27.09:634][254]LogBlueprintUserMessages: [BP_Zombie_C_11] TST.......Zombie recieved Damage
+[2025.03.26-01.27.09:760][260]LogBlueprintUserMessages: [BP_Zombie_C_11] TST.......Zombie recieved Damage
+[2025.03.26-01.27.09:994][272]LogBlueprintUserMessages: [BP_Zombie_C_11] TST.......Zombie recieved Damage
+[2025.03.26-01.27.10:160][281]LogBlueprintUserMessages: [BP_Zombie_C_11] TST.......Zombie recieved Damage
+[2025.03.26-01.27.10:361][292]LogBlueprintUserMessages: [BP_Zombie_C_11] TST.......Zombie recieved Damage
+[2025.03.26-01.27.10:483][298]LogBlueprintUserMessages: [BP_Zombie_C_11] TST.......Zombie recieved Damage
+[2025.03.26-01.27.10:626][305]LogBlueprintUserMessages: [BP_Zombie_C_11] Zombie Damage Recieved
+[2025.03.26-01.27.10:626][305]LogBlueprintUserMessages: [BP_Smoke_C_3] Smoke Damage Recieved
+[2025.03.26-01.27.11:139][332]LogBlueprintUserMessages: [BP_Zombie_C_11] Zombie Damage Recieved
+[2025.03.26-01.27.11:740][363]LogBlueprintUserMessages: [BP_Fire_C_7] Fire Damage Recieved
+[2025.03.26-01.27.13:209][439]LogBlueprintUserMessages: [BP_Zombie_C_29] TST.......Zombie recieved Damage
+[2025.03.26-01.27.13:340][446]LogBlueprintUserMessages: [BP_Zombie_C_29] TST.......Zombie recieved Damage
+[2025.03.26-01.27.13:486][454]LogBlueprintUserMessages: [BP_Zombie_C_28] TST.......Zombie recieved Damage
+[2025.03.26-01.27.13:560][458]LogCharacterMovement: BP_Zombie_C_28 is stuck and failed to move! Velocity: X=-144.45 Y=-92.28 Z=0.00 Location: X=1664.52 Y=1487.37 Z=240.67 Normal: X=0.95 Y=0.33 Z=0.00 PenetrationDepth:6.080 Actor:BP_Zombie_C_29 Component:CharacterMesh0 BoneName:RightArm (0 other events since notify)
+[2025.03.26-01.27.13:636][462]LogBlueprintUserMessages: [BP_Zombie_C_29] Zombie Damage Recieved
+[2025.03.26-01.27.13:670][464]LogBlueprintUserMessages: [BP_Zombie_C_28] TST.......Zombie recieved Damage
+[2025.03.26-01.27.13:766][469]LogBlueprintUserMessages: [BP_Zombie_C_28] Zombie Damage Recieved
+[2025.03.26-01.27.13:906][477]LogBlueprintUserMessages: [BP_Zombie_C_27] TST.......Zombie recieved Damage
+[2025.03.26-01.27.14:093][487]LogCharacterMovement: BP_FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=99.55 Y=49.13 Z=0.00 Location: X=1606.76 Y=1355.01 Z=196.81 Normal: X=-0.22 Y=-0.79 Z=-0.57 PenetrationDepth:14.439 Actor:BP_Zombie_C_29 Component:CharacterMesh0 BoneName:RightHand (7 other events since notify)
+[2025.03.26-01.27.14:100][487]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-01.27.14:138][489]LogBlueprintUserMessages: [BP_Zombie_C_29] Zombie Damage Recieved
+[2025.03.26-01.27.14:270][496]LogBlueprintUserMessages: [BP_Zombie_C_28] Zombie Damage Recieved
+[2025.03.26-01.27.14:589][512]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-01.27.14:627][514]LogBlueprintUserMessages: [BP_Zombie_C_29] Zombie Damage Recieved
+[2025.03.26-01.27.14:764][521]LogBlueprintUserMessages: [BP_Zombie_C_28] Zombie Damage Recieved
+[2025.03.26-01.27.15:017][534]LogBlueprintUserMessages: [BP_Zombie_C_27] TST.......Zombie recieved Damage
+[2025.03.26-01.27.15:098][538]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-01.27.15:136][540]LogBlueprintUserMessages: [BP_Zombie_C_29] Zombie Damage Recieved
+[2025.03.26-01.27.15:189][543]LogBlueprintUserMessages: [BP_Zombie_C_27] TST.......Zombie recieved Damage
+[2025.03.26-01.27.15:252][546]LogBlueprintUserMessages: [BP_Zombie_C_28] Zombie Damage Recieved
+[2025.03.26-01.27.15:514][560]LogCharacterMovement: BP_Zombie_C_28 is stuck and failed to move! Velocity: X=-48.77 Y=-189.50 Z=0.00 Location: X=1667.16 Y=1491.36 Z=240.67 Normal: X=-0.49 Y=0.87 Z=-0.00 PenetrationDepth:1.565 Actor:BP_Zombie_C_27 Component:CharacterMesh0 BoneName:LeftArm (15 other events since notify)
+[2025.03.26-01.27.15:596][564]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-01.27.15:632][566]LogBlueprintUserMessages: [BP_Zombie_C_29] Zombie Damage Recieved
+[2025.03.26-01.27.15:775][573]LogBlueprintUserMessages: [BP_Zombie_C_28] Zombie Damage Recieved
+[2025.03.26-01.27.16:006][584]LogBlueprintUserMessages: [BP_Zombie_C_27] TST.......Zombie recieved Damage
+[2025.03.26-01.27.16:091][588]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-01.27.16:131][590]LogBlueprintUserMessages: [BP_Zombie_C_29] Zombie Damage Recieved
+[2025.03.26-01.27.16:591][614]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-01.27.16:626][616]LogBlueprintUserMessages: [BP_Zombie_C_29] Zombie Damage Recieved
+[2025.03.26-01.27.17:085][641]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-01.27.17:138][644]LogBlueprintUserMessages: [BP_Zombie_C_29] Zombie Damage Recieved
+[2025.03.26-01.27.17:551][666]LogBlueprintUserMessages: [BP_Zombie_C_27] TST.......Zombie recieved Damage
+[2025.03.26-01.27.17:597][668]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-01.27.17:632][670]LogBlueprintUserMessages: [BP_Zombie_C_29] Zombie Damage Recieved
+[2025.03.26-01.27.17:703][674]LogBlueprintUserMessages: [BP_Zombie_C_27] TST.......Zombie recieved Damage
+[2025.03.26-01.27.17:852][682]LogBlueprintUserMessages: [BP_Zombie_C_27] TST.......Zombie recieved Damage
+[2025.03.26-01.27.17:871][683]LogCharacterMovement: BP_FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=103.79 Y=-3.62 Z=0.00 Location: X=1600.81 Y=1355.01 Z=198.89 Normal: X=-0.72 Y=-0.46 Z=0.52 PenetrationDepth:0.526 Actor:BP_Zombie_C_27 Component:CharacterMesh0 BoneName:LeftFoot (16 other events since notify)
+[2025.03.26-01.27.18:004][690]LogBlueprintUserMessages: [BP_Zombie_C_27] TST.......Zombie recieved Damage
+[2025.03.26-01.27.18:082][694]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-01.27.18:154][698]LogBlueprintUserMessages: [BP_Zombie_C_27] TST.......Zombie recieved Damage
+[2025.03.26-01.27.18:595][720]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-01.27.18:726][727]LogBlueprintUserMessages: [BP_Zombie_C_27] TST.......Zombie recieved Damage
+[2025.03.26-01.27.18:894][736]LogBlueprintUserMessages: [BP_Zombie_C_27] TST.......Zombie recieved Damage
+[2025.03.26-01.27.18:991][741]LogBlueprintUserMessages: [BP_Zombie_C_27] TST.......Zombie recieved Damage
+[2025.03.26-01.27.19:088][746]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-01.27.19:251][755]LogBlueprintUserMessages: [BP_Zombie_C_27] TST.......Zombie recieved Damage
+[2025.03.26-01.27.21:972][891]LogCharacterMovement: BP_Zombie_C_37 is stuck and failed to move! Velocity: X=0.39 Y=-20.70 Z=0.00 Location: X=1316.72 Y=-533.36 Z=841.20 Normal: X=-0.98 Y=-0.19 Z=-0.00 PenetrationDepth:0.378 Actor:BP_Zombie_C_39 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.26-01.27.22:879][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.26-01.27.22:879][933]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV1
+[2025.03.26-01.27.22:881][933]LogSlate: Window 'EscapeRoom Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.03.26-01.27.22:896][933]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-01.27.22:904][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-01.27.22:909][933]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.26-01.27.22:916][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-01.27.22:945][933]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2025.03.26-01.27.22:945][933]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.03.26-01.27.22:949][933]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.03.26-01.27.22:970][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.03.26-01.27.23:040][934]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2025.03.26-01.28.05:090][430]LogEditorTransaction: Undo Move Node
+[2025.03.26-01.28.08:433][616]LogEditorTransaction: Undo Change Object Pin Value
+[2025.03.26-01.28.10:431][733]LogEditorTransaction: Undo Add Node
+[2025.03.26-01.28.24:676][564]LogEditorTransaction: Undo Move Node
+[2025.03.26-01.28.25:828][618]LogEditorTransaction: Undo Change String Pin Value
+[2025.03.26-01.28.27:189][697]LogEditorTransaction: Undo Remove Variable
+[2025.03.26-01.28.28:586][778]LogEditorTransaction: Undo Promote To Variable
+[2025.03.26-01.28.30:914][900]LogEditorTransaction: Undo Paste clipboard contents
+[2025.03.26-01.29.05:660][984]LogEditorTransaction: Redo Paste clipboard contents
+[2025.03.26-01.29.35:110][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.03.26-01.29.38:165][728]LogSlate: Window 'Save Content' being destroyed
+[2025.03.26-01.29.38:178][728]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.26-01.29.38:249][728]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Level/GI_MyGameInstance] ([2] browsable assets)...
+[2025.03.26-01.29.38:249][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level/GI_MyGameInstance]
+[2025.03.26-01.29.38:249][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/GI_MyGameInstance" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/GI_MyGameInstance.uasset" SILENT=true
+[2025.03.26-01.29.38:253][728]LogSavePackage: Moving output files for package: /Game/Level/GI_MyGameInstance
+[2025.03.26-01.29.38:254][728]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/GI_MyGameInstance25366D084248041926C54F8AFB605558.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/GI_MyGameInstance.uasset'
+[2025.03.26-01.29.38:342][728]LogFileHelpers: InternalPromptForCheckoutAndSave took 164.192 ms (total: 2.48 sec)
+[2025.03.26-01.29.38:342][728]LogStreaming: Display: FlushAsyncLoading(564): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.26-01.29.38:386][728]LogBlueprint: Warning: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] Could not find a variable named "As Save Setting" in '/Game/Level/LV1.LV1_C'.
+Make sure '/Game/Level/LV1.LV1_C' has been compiled for  Set As Save Setting
+[2025.03.26-01.29.38:386][728]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] This blueprint (self) is not a SaveSetting_C, therefore ' Target ' must have a connection.
+[2025.03.26-01.29.38:386][728]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] This blueprint (self) is not a SaveSetting_C, therefore ' Target ' must have a connection.
+[2025.03.26-01.29.38:386][728]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To SaveSetting  to imply a specific type.
+[2025.03.26-01.29.38:387][728]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2025.03.26-01.29.38:387][728]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] The property associated with  As Save Setting  could not be found in '/Game/Level/LV1.LV1_C'
+[2025.03.26-01.29.38:387][728]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] Variable node  Get MusicSound  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2025.03.26-01.29.38:387][728]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] Variable node  Get AudioSound  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2025.03.26-01.29.38:436][728]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.03.26-01.29.38:522][728]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/LV1.LV1
+[2025.03.26-01.29.38:522][728]Cmd: MAP LOAD FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/LV1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.03.26-01.29.38:639][728]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-01.29.38:639][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-01.29.38:684][728]LogWorld: UWorld::CleanupWorld for LV_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-01.29.38:685][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-01.29.38:706][728]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.26-01.29.38:712][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.03.26-01.29.38:719][728]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-01.29.38:722][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-01.29.38:750][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.03.26-01.29.38:775][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.03.26-01.29.38:816][728]LogBlueprint: Warning: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] Could not find a variable named "As Save Setting" in '/Game/Level/LV1.LV1_C'.
+Make sure '/Game/Level/LV1.LV1_C' has been compiled for  Set As Save Setting
+[2025.03.26-01.29.38:816][728]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] This blueprint (self) is not a SaveSetting_C, therefore ' Target ' must have a connection.
+[2025.03.26-01.29.38:818][728]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] This blueprint (self) is not a SaveSetting_C, therefore ' Target ' must have a connection.
+[2025.03.26-01.29.38:818][728]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To SaveSetting  to imply a specific type.
+[2025.03.26-01.29.38:818][728]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2025.03.26-01.29.38:818][728]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] The property associated with  As Save Setting  could not be found in '/Game/Level/LV1.LV1_C'
+[2025.03.26-01.29.38:818][728]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] Variable node  Get MusicSound  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2025.03.26-01.29.38:818][728]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] Variable node  Get AudioSound  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2025.03.26-01.29.38:864][728]LogAudio: Display: Audio Device (ID: 1) registered with world 'LV1'.
+[2025.03.26-01.29.38:864][728]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.03.26-01.29.39:043][728]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.03.26-01.29.39:092][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.03.26-01.29.39:108][728]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.03.26-01.29.39:108][728]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.151ms to complete.
+[2025.03.26-01.29.39:209][728]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.26-01.29.39:209][728]LogContentValidation: Enabled validators:
+[2025.03.26-01.29.39:209][728]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.26-01.29.39:209][728]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.26-01.29.39:209][728]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.26-01.29.39:209][728]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.26-01.29.39:209][728]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.26-01.29.39:209][728]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.26-01.29.39:209][728]AssetCheck: /Game/Level/GI_MyGameInstance Validating asset
+[2025.03.26-01.29.39:246][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.03.26-01.29.48:793][255]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Level/LV1.LV1:PersistentLevel.LV1
+[2025.03.26-01.29.48:794][255]LogChaosDD: Creating Chaos Debug Draw Scene for world World_38
+[2025.03.26-01.30.08:383][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.03.26-01.30.08:386][375]LogStreaming: Display: FlushAsyncLoading(566): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.26-01.30.08:416][375]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_MainMenu
+[2025.03.26-01.30.08:417][375]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/LV_MainMenu.LV_MainMenu
+[2025.03.26-01.30.08:417][375]Cmd: MAP LOAD FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/LV_MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.03.26-01.30.08:518][375]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-01.30.08:518][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-01.30.08:571][375]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-01.30.08:572][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-01.30.08:596][375]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.26-01.30.08:608][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.03.26-01.30.08:615][375]LogWorld: UWorld::CleanupWorld for LV_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-01.30.08:615][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-01.30.08:639][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.03.26-01.30.08:743][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.03.26-01.30.08:768][375]LogAudio: Display: Audio Device (ID: 1) registered with world 'LV_MainMenu'.
+[2025.03.26-01.30.08:768][375]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_MainMenu
+[2025.03.26-01.30.08:801][375]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.03.26-01.30.08:825][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.03.26-01.30.08:842][375]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.03.26-01.30.08:842][375]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.073ms to complete.
+[2025.03.26-01.30.08:898][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.03.26-01.30.15:877][786]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Level/LV_MainMenu.LV_MainMenu:PersistentLevel.LV_MainMenu
+[2025.03.26-01.30.15:878][786]LogChaosDD: Creating Chaos Debug Draw Scene for world World_39
+[2025.03.26-01.30.36:982][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.03.26-01.30.43:959][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.03.26-01.30.45:072][433]LogSlate: Window 'Save Content' being destroyed
+[2025.03.26-01.30.45:083][433]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.26-01.30.45:211][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.03.26-01.30.45:220][433]LogSavePackage: Moving output files for package: /Game/Level/LV_MainMenu
+[2025.03.26-01.30.45:221][433]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/LV_MainMenu5D36B43C42492AFF706A6BB5C072AA8C.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/LV_MainMenu.umap'
+[2025.03.26-01.30.45:238][433]LogFileHelpers: Saving map 'LV_MainMenu' took 0.087
+[2025.03.26-01.30.45:316][433]LogFileHelpers: InternalPromptForCheckoutAndSave took 233.349 ms (total: 2.72 sec)
+[2025.03.26-01.30.45:316][433]LogStreaming: Display: FlushAsyncLoading(568): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.26-01.30.45:359][433]LogBlueprint: Warning: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] Could not find a variable named "As Save Setting" in '/Game/Level/LV1.LV1_C'.
+Make sure '/Game/Level/LV1.LV1_C' has been compiled for  Set As Save Setting
+[2025.03.26-01.30.45:359][433]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] This blueprint (self) is not a SaveSetting_C, therefore ' Target ' must have a connection.
+[2025.03.26-01.30.45:359][433]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] This blueprint (self) is not a SaveSetting_C, therefore ' Target ' must have a connection.
+[2025.03.26-01.30.45:359][433]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To SaveSetting  to imply a specific type.
+[2025.03.26-01.30.45:359][433]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2025.03.26-01.30.45:359][433]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] The property associated with  As Save Setting  could not be found in '/Game/Level/LV1.LV1_C'
+[2025.03.26-01.30.45:360][433]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] Variable node  Get MusicSound  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2025.03.26-01.30.45:360][433]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] Variable node  Get AudioSound  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2025.03.26-01.30.45:409][433]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.03.26-01.30.45:489][433]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/LV1.LV1
+[2025.03.26-01.30.45:489][433]Cmd: MAP LOAD FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/LV1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.03.26-01.30.45:571][433]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-01.30.45:571][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-01.30.45:621][433]LogWorld: UWorld::CleanupWorld for LV_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-01.30.45:621][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-01.30.45:649][433]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.26-01.30.45:654][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.03.26-01.30.45:664][433]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-01.30.45:666][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-01.30.45:701][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.03.26-01.30.45:723][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.03.26-01.30.45:764][433]LogBlueprint: Warning: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] Could not find a variable named "As Save Setting" in '/Game/Level/LV1.LV1_C'.
+Make sure '/Game/Level/LV1.LV1_C' has been compiled for  Set As Save Setting
+[2025.03.26-01.30.45:764][433]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] This blueprint (self) is not a SaveSetting_C, therefore ' Target ' must have a connection.
+[2025.03.26-01.30.45:764][433]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] This blueprint (self) is not a SaveSetting_C, therefore ' Target ' must have a connection.
+[2025.03.26-01.30.45:764][433]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To SaveSetting  to imply a specific type.
+[2025.03.26-01.30.45:764][433]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2025.03.26-01.30.45:764][433]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] The property associated with  As Save Setting  could not be found in '/Game/Level/LV1.LV1_C'
+[2025.03.26-01.30.45:764][433]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] Variable node  Get MusicSound  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2025.03.26-01.30.45:765][433]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] Variable node  Get AudioSound  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2025.03.26-01.30.45:811][433]LogAudio: Display: Audio Device (ID: 1) registered with world 'LV1'.
+[2025.03.26-01.30.45:811][433]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.03.26-01.30.45:990][433]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.03.26-01.30.46:045][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.03.26-01.30.46:062][433]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.03.26-01.30.46:062][433]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.118ms to complete.
+[2025.03.26-01.30.46:166][433]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.26-01.30.46:166][433]LogContentValidation: Enabled validators:
+[2025.03.26-01.30.46:166][433]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.26-01.30.46:166][433]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.26-01.30.46:166][433]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.26-01.30.46:166][433]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.26-01.30.46:166][433]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.26-01.30.46:166][433]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.26-01.30.46:210][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.03.26-01.30.51:678][716]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Level/LV1.LV1:PersistentLevel.LV1
+[2025.03.26-01.30.51:679][716]LogChaosDD: Creating Chaos Debug Draw Scene for world World_40
+[2025.03.26-01.31.07:264][614]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To SaveSetting  to imply a specific type.
+[2025.03.26-01.31.07:264][614]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\Level\LV1.umap: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2025.03.26-01.31.07:358][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.03.26-01.31.17:367][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.03.26-01.31.20:904][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.03.26-01.31.28:470][841]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.03.26-01.31.28:495][841]LogPlayLevel: [PlayLevel] Compiling GI_MyGameInstance before play...
+[2025.03.26-01.31.28:704][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.03.26-01.31.28:709][841]LogPlayLevel: PlayLevel: Blueprint regeneration took 226 ms (1 blueprints)
+[2025.03.26-01.31.28:709][841]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV1
+[2025.03.26-01.31.28:756][841]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047033s)
+[2025.03.26-01.31.28:756][841]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV1.LV1 to /Game/Level/UEDPIE_0_LV1.LV1 (0.047070s)
+[2025.03.26-01.31.28:778][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.03.26-01.31.28:780][841]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.03.26-01.31.28:782][841]LogPlayLevel: PIE: World Init took: (0.001815s)
+[2025.03.26-01.31.28:783][841]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2025.03.26-01.31.28:783][841]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.26-01.31.28:783][841]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.26-01.31.28:783][841]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.26-01.31.28:783][841]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.26-01.31.28:783][841]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.26-01.31.28:783][841]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.26-01.31.28:783][841]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.26-01.31.28:783][841]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.26-01.31.28:783][841]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.26-01.31.28:783][841]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.26-01.31.28:783][841]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.26-01.31.28:786][841]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.26-01.31.28:811][841]LogAudioMixer: Display: Using Audio Hardware Device Headphones (SoundCore mini)
+[2025.03.26-01.31.28:811][841]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.26-01.31.28:811][841]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.26-01.31.28:811][841]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.26-01.31.28:811][841]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2025.03.26-01.31.28:811][841]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2025.03.26-01.31.28:814][841]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2025.03.26-01.31.28:814][841]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2025.03.26-01.31.28:814][841]LogInit: FAudioDevice initialized with ID 17.
+[2025.03.26-01.31.28:814][841]LogAudio: Display: Audio Device (ID: 17) registered with world 'LV1'.
+[2025.03.26-01.31.28:814][841]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2025.03.26-01.31.28:868][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.26-01.31.28:869][841]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.26-01.31.28:902][841]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV1.LV1 up for play (max tick rate 60) at 2025.03.25-21.31.28
+[2025.03.26-01.31.28:930][841]LogWorld: Bringing up level for play took: 0.060776
+[2025.03.26-01.31.28:946][841]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2025.03.26-01.31.28:960][841]PIE: Server logged in
+[2025.03.26-01.31.28:964][841]PIE: Play in editor total start time 0.482 seconds.
+[2025.03.26-01.31.32:005][968]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.26-01.31.32:005][968]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.03.26-01.31.37:870][314]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22581.429688
+[2025.03.26-01.31.37:987][321]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.26-01.31.37:987][321]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22581.529297, Update Interval: 326.181213
+[2025.03.26-01.31.38:408][347]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.26-01.31.38:408][347]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.03.26-01.31.41:490][531]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_1] WEAPON FOUND
+[2025.03.26-01.31.45:690][761]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.26-01.31.45:690][761]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV1
+[2025.03.26-01.31.45:691][761]LogSlate: Window 'EscapeRoom Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.03.26-01.31.45:706][761]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-01.31.45:715][761]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-01.31.45:719][761]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.26-01.31.45:727][761]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-01.31.45:755][761]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.26-01.31.45:755][761]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2025.03.26-01.31.45:756][761]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.03.26-01.31.45:758][761]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.03.26-01.31.45:778][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.03.26-01.31.45:840][762]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2025.03.26-01.32.09:651][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.03.26-01.32.11:834][185]LogSlate: Window 'Save Content' being destroyed
+[2025.03.26-01.32.11:848][185]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.26-01.32.11:926][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/LV1" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/LV1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.26-01.32.11:985][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.03.26-01.32.12:111][185]LogSavePackage: Moving output files for package: /Game/Level/LV1
+[2025.03.26-01.32.12:111][185]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/LV1501D2B3941F49FB16FDFBEAC386B5C3C.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/LV1.umap'
+[2025.03.26-01.32.12:134][185]LogFileHelpers: Saving map 'LV1' took 0.209
+[2025.03.26-01.32.12:144][185]LogFileHelpers: InternalPromptForCheckoutAndSave took 295.793 ms (total: 3.01 sec)
+[2025.03.26-01.32.12:209][185]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.26-01.32.12:209][185]LogContentValidation: Enabled validators:
+[2025.03.26-01.32.12:209][185]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.26-01.32.12:209][185]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.26-01.32.12:209][185]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.26-01.32.12:209][185]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.26-01.32.12:209][185]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.26-01.32.12:209][185]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.26-01.32.12:211][185]AssetCheck: /Game/Level/LV1 Validating asset
+[2025.03.26-01.32.12:231][185]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 273...fc9
+[2025.03.26-01.32.12:232][185]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 97.7 RefreshExpires: 1.547e+07
+[2025.03.26-01.32.12:383][191]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 273...fc9 Access[Expires: 2025.03.26-03.32.12 Remaining: 7200.35] Refresh[Expires: 2025-09-21T02:31:31.268Z Remaining: 15469159.27] State: Valid
+[2025.03.26-01.32.12:829][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.03.26-01.32.12:833][213]LogStreaming: Display: FlushAsyncLoading(570): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.26-01.32.12:866][213]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_MainMenu
+[2025.03.26-01.32.12:870][213]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/LV_MainMenu.LV_MainMenu
+[2025.03.26-01.32.12:870][213]Cmd: MAP LOAD FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/LV_MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.03.26-01.32.12:989][213]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-01.32.12:989][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-01.32.13:039][213]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-01.32.13:039][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-01.32.13:064][213]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.26-01.32.13:078][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.03.26-01.32.13:089][213]LogWorld: UWorld::CleanupWorld for LV_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-01.32.13:089][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-01.32.13:109][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.03.26-01.32.13:202][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.03.26-01.32.13:226][213]LogAudio: Display: Audio Device (ID: 1) registered with world 'LV_MainMenu'.
+[2025.03.26-01.32.13:226][213]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_MainMenu
+[2025.03.26-01.32.13:260][213]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.03.26-01.32.13:280][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.03.26-01.32.13:303][213]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.03.26-01.32.13:304][213]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.072ms to complete.
+[2025.03.26-01.32.13:369][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.03.26-01.32.16:059][367]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Level/LV_MainMenu.LV_MainMenu:PersistentLevel.LV_MainMenu
+[2025.03.26-01.32.16:060][367]LogChaosDD: Creating Chaos Debug Draw Scene for world World_41
+[2025.03.26-01.32.32:489][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.03.26-01.32.33:647][331]LogSlate: Window 'Save Content' being destroyed
+[2025.03.26-01.32.33:657][331]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.26-01.32.33:787][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.03.26-01.32.33:796][331]LogSavePackage: Moving output files for package: /Game/Level/LV_MainMenu
+[2025.03.26-01.32.33:798][331]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/LV_MainMenuC72CEADB47BE4375713CA288C23305D5.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/LV_MainMenu.umap'
+[2025.03.26-01.32.33:815][331]LogFileHelpers: Saving map 'LV_MainMenu' took 0.085
+[2025.03.26-01.32.33:885][331]LogFileHelpers: InternalPromptForCheckoutAndSave took 229.008 ms (total: 3.24 sec)
+[2025.03.26-01.32.33:886][331]LogStreaming: Display: FlushAsyncLoading(572): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.26-01.32.33:978][331]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.03.26-01.32.34:065][331]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/LV1.LV1
+[2025.03.26-01.32.34:065][331]Cmd: MAP LOAD FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/LV1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.03.26-01.32.34:178][331]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-01.32.34:178][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-01.32.34:227][331]LogWorld: UWorld::CleanupWorld for LV_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-01.32.34:227][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-01.32.34:250][331]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.26-01.32.34:254][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.03.26-01.32.34:265][331]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-01.32.34:268][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-01.32.34:298][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.03.26-01.32.34:322][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.03.26-01.32.34:413][331]LogAudio: Display: Audio Device (ID: 1) registered with world 'LV1'.
+[2025.03.26-01.32.34:413][331]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.03.26-01.32.34:604][331]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.03.26-01.32.34:653][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.03.26-01.32.34:669][331]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.03.26-01.32.34:670][331]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.163ms to complete.
+[2025.03.26-01.32.34:779][331]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.26-01.32.34:779][331]LogContentValidation: Enabled validators:
+[2025.03.26-01.32.34:779][331]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.26-01.32.34:779][331]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.26-01.32.34:779][331]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.26-01.32.34:779][331]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.26-01.32.34:779][331]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.26-01.32.34:779][331]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.26-01.32.34:820][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.03.26-01.32.37:092][433]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Level/LV1.LV1:PersistentLevel.LV1
+[2025.03.26-01.32.37:093][433]LogChaosDD: Creating Chaos Debug Draw Scene for world World_42
+[2025.03.26-01.32.58:795][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.03.26-01.33.01:460][820]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.03.26-01.33.01:473][820]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.26-01.33.01:473][820]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV1
+[2025.03.26-01.33.01:517][820]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043482s)
+[2025.03.26-01.33.01:517][820]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV1.LV1 to /Game/Level/UEDPIE_0_LV1.LV1 (0.043520s)
+[2025.03.26-01.33.01:540][820]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.03.26-01.33.01:545][820]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.03.26-01.33.01:546][820]LogPlayLevel: PIE: World Init took: (0.001595s)
+[2025.03.26-01.33.01:547][820]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2025.03.26-01.33.01:547][820]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.26-01.33.01:547][820]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.26-01.33.01:547][820]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.26-01.33.01:547][820]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.26-01.33.01:547][820]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.26-01.33.01:547][820]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.26-01.33.01:547][820]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.26-01.33.01:547][820]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.26-01.33.01:547][820]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.26-01.33.01:547][820]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.26-01.33.01:547][820]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.26-01.33.01:549][820]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.26-01.33.01:574][820]LogAudioMixer: Display: Using Audio Hardware Device Headphones (SoundCore mini)
+[2025.03.26-01.33.01:574][820]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.26-01.33.01:574][820]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.26-01.33.01:574][820]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.26-01.33.01:574][820]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2025.03.26-01.33.01:574][820]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2025.03.26-01.33.01:577][820]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2025.03.26-01.33.01:577][820]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2025.03.26-01.33.01:577][820]LogInit: FAudioDevice initialized with ID 18.
+[2025.03.26-01.33.01:577][820]LogAudio: Display: Audio Device (ID: 18) registered with world 'LV1'.
+[2025.03.26-01.33.01:577][820]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2025.03.26-01.33.01:626][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.26-01.33.01:626][820]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.26-01.33.01:660][820]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV1.LV1 up for play (max tick rate 60) at 2025.03.25-21.33.01
+[2025.03.26-01.33.01:685][820]LogWorld: Bringing up level for play took: 0.058356
+[2025.03.26-01.33.01:702][820]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2025.03.26-01.33.01:714][820]PIE: Server logged in
+[2025.03.26-01.33.01:716][820]PIE: Play in editor total start time 0.244 seconds.
+[2025.03.26-01.33.04:962][975]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.26-01.33.04:962][975]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.03.26-01.33.14:769][557]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.26-01.33.14:769][557]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.03.26-01.33.17:405][709]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_1] WEAPON FOUND
+[2025.03.26-01.33.22:540][998]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-01.33.22:637][  2]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-01.33.22:940][ 15]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-01.33.23:076][ 22]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-01.33.23:853][ 65]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-01.33.24:352][ 93]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-01.33.27:375][259]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-01.33.27:878][286]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-01.33.28:364][312]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-01.33.29:956][396]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-01.33.30:445][421]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-01.33.30:946][446]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-01.33.31:458][474]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-01.33.31:960][497]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-01.33.32:448][521]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-01.33.32:951][547]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-01.33.33:458][573]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-01.33.33:953][600]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-01.33.34:450][627]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-01.33.40:330][920]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-01.33.40:476][927]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-01.33.40:728][939]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-01.33.45:475][185]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.26-01.33.45:475][185]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.03.26-01.33.48:461][364]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.26-01.33.48:461][364]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.03.26-01.33.49:930][443]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.26-01.33.49:930][443]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.03.26-01.33.59:856][ 32]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.26-01.33.59:856][ 32]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.03.26-01.34.03:076][198]LogCharacterMovement: BP_Zombie_C_44 is stuck and failed to move! Velocity: X=-1.64 Y=20.64 Z=0.00 Location: X=2112.86 Y=-1039.82 Z=841.20 Normal: X=0.94 Y=-0.34 Z=-0.00 PenetrationDepth:30.199 Actor:BP_Zombie_C_41 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2025.03.26-01.34.03:842][238]LogBlueprintUserMessages: [BP_Smoke_C_12] Smoke Damage Recieved
+[2025.03.26-01.34.04:082][251]LogCharacterMovement: BP_Zombie_C_44 is stuck and failed to move! Velocity: X=-1.64 Y=20.64 Z=0.00 Location: X=2112.91 Y=-1039.68 Z=841.20 Normal: X=0.94 Y=-0.35 Z=0.00 PenetrationDepth:34.999 Actor:BP_Zombie_C_41 Component:CharacterMesh0 BoneName:LeftHand (51 other events since notify)
+[2025.03.26-01.34.05:114][307]LogCharacterMovement: BP_Zombie_C_44 is stuck and failed to move! Velocity: X=-1.64 Y=20.64 Z=0.00 Location: X=2112.92 Y=-1039.66 Z=841.20 Normal: X=0.96 Y=-0.29 Z=-0.00 PenetrationDepth:27.234 Actor:BP_Zombie_C_41 Component:CharacterMesh0 BoneName:LeftHand (36 other events since notify)
+[2025.03.26-01.34.06:119][361]LogCharacterMovement: BP_Zombie_C_44 is stuck and failed to move! Velocity: X=-1.64 Y=20.64 Z=0.00 Location: X=2112.92 Y=-1039.66 Z=841.20 Normal: X=0.96 Y=-0.29 Z=0.00 PenetrationDepth:25.657 Actor:BP_Zombie_C_41 Component:CharacterMesh0 BoneName:LeftHand (47 other events since notify)
+[2025.03.26-01.34.07:877][452]LogCharacterMovement: BP_Zombie_C_43 is stuck and failed to move! Velocity: X=5.29 Y=-20.02 Z=0.00 Location: X=2126.37 Y=-850.43 Z=841.20 Normal: X=-0.87 Y=-0.50 Z=0.00 PenetrationDepth:0.616 Actor:StaticMeshActor_148 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2025.03.26-01.34.08:202][470]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.26-01.34.08:202][470]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.03.26-01.34.13:457][784]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.26-01.34.13:458][784]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.03.26-01.34.13:462][784]LogCharacterMovement: BP_Zombie_C_43 is stuck and failed to move! Velocity: X=19.53 Y=-6.89 Z=0.00 Location: X=2123.16 Y=-845.13 Z=841.20 Normal: X=-0.92 Y=-0.40 Z=0.00 PenetrationDepth:0.152 Actor:StaticMeshActor_148 Component:StaticMeshComponent0 BoneName:None (9 other events since notify)
+[2025.03.26-01.34.15:958][922]LogCharacterMovement: BP_Zombie_C_43 is stuck and failed to move! Velocity: X=3.72 Y=-20.37 Z=0.00 Location: X=2118.06 Y=-794.55 Z=841.20 Normal: X=0.20 Y=0.98 Z=-0.00 PenetrationDepth:0.188 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:LeftHand (37 other events since notify)
+[2025.03.26-01.34.16:296][940]LogCharacterMovement: BP_Zombie_C_26 is stuck and failed to move! Velocity: X=-20.71 Y=-0.21 Z=0.00 Location: X=2768.09 Y=1357.30 Z=240.67 Normal: X=0.01 Y=-1.00 Z=-0.00 PenetrationDepth:0.173 Actor:BP_Zombie_C_29 Component:CharacterMesh0 BoneName:LeftArm (0 other events since notify)
+[2025.03.26-01.34.16:966][976]LogCharacterMovement: BP_Zombie_C_39 is stuck and failed to move! Velocity: X=-20.71 Y=-0.07 Z=0.00 Location: X=1473.62 Y=-910.44 Z=841.20 Normal: X=0.55 Y=-0.84 Z=-0.00 PenetrationDepth:0.032 Actor:BP_Zombie_C_38 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.26-01.34.18:142][ 33]LogCharacterMovement: BP_Zombie_C_39 is stuck and failed to move! Velocity: X=-20.71 Y=-0.06 Z=0.00 Location: X=1463.55 Y=-910.41 Z=841.20 Normal: X=0.65 Y=-0.76 Z=0.00 PenetrationDepth:0.133 Actor:BP_Zombie_C_38 Component:CharacterMesh0 BoneName:RightHand (16 other events since notify)
+[2025.03.26-01.34.18:716][ 60]LogCharacterMovement: BP_Zombie_C_26 is stuck and failed to move! Velocity: X=-20.71 Y=-0.23 Z=0.00 Location: X=2720.67 Y=1357.30 Z=240.67 Normal: X=0.63 Y=-0.78 Z=0.00 PenetrationDepth:1.946 Actor:BP_Zombie_C_28 Component:CharacterMesh0 BoneName:LeftHand (2 other events since notify)
+[2025.03.26-01.34.18:843][ 66]LogCharacterMovement: BP_Zombie_C_44 is stuck and failed to move! Velocity: X=-7.19 Y=19.42 Z=0.00 Location: X=2052.17 Y=-985.53 Z=841.39 Normal: X=-0.63 Y=-0.78 Z=-0.00 PenetrationDepth:1.338 Actor:BP_Zombie_C_43 Component:CharacterMesh0 BoneName:LeftHand (11 other events since notify)
+[2025.03.26-01.34.19:860][117]LogCharacterMovement: BP_Zombie_C_44 is stuck and failed to move! Velocity: X=-3.63 Y=20.39 Z=0.00 Location: X=2052.17 Y=-1038.97 Z=841.39 Normal: X=-0.62 Y=-0.79 Z=0.00 PenetrationDepth:0.041 Actor:BP_Zombie_C_43 Component:CharacterMesh0 BoneName:LeftHand (50 other events since notify)
+[2025.03.26-01.34.19:921][120]LogCharacterMovement: BP_Zombie_C_48 is stuck and failed to move! Velocity: X=-13.01 Y=16.11 Z=0.00 Location: X=3379.63 Y=-956.44 Z=841.20 Normal: X=-0.86 Y=-0.51 Z=-0.00 PenetrationDepth:0.036 Actor:BP_Zombie_C_50 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.26-01.34.20:120][129]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.26-01.34.20:120][129]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.03.26-01.34.30:524][753]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.26-01.34.30:524][753]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.03.26-01.34.30:530][753]LogCharacterMovement: BP_Zombie_C_44 is stuck and failed to move! Velocity: X=-3.49 Y=20.41 Z=0.00 Location: X=2052.17 Y=-1043.23 Z=841.39 Normal: X=-0.64 Y=-0.77 Z=-0.00 PenetrationDepth:0.023 Actor:BP_Zombie_C_43 Component:CharacterMesh0 BoneName:LeftHand (12 other events since notify)
+[2025.03.26-01.34.30:530][753]LogCharacterMovement: BP_Zombie_C_48 is stuck and failed to move! Velocity: X=-12.17 Y=16.76 Z=0.00 Location: X=3380.60 Y=-963.34 Z=841.20 Normal: X=-0.80 Y=-0.59 Z=-0.00 PenetrationDepth:1.391 Actor:BP_Zombie_C_50 Component:CharacterMesh0 BoneName:RightHand (9 other events since notify)
+[2025.03.26-01.34.32:410][847]LogCharacterMovement: BP_Zombie_C_48 is stuck and failed to move! Velocity: X=-7.93 Y=19.13 Z=0.00 Location: X=3380.78 Y=-1007.99 Z=841.20 Normal: X=-0.68 Y=-0.74 Z=0.00 PenetrationDepth:5.642 Actor:BP_Zombie_C_50 Component:CharacterMesh0 BoneName:RightHand (49 other events since notify)
+[2025.03.26-01.34.33:004][873]LogCharacterMovement: BP_Zombie_C_43 is stuck and failed to move! Velocity: X=20.69 Y=0.76 Z=0.00 Location: X=2154.89 Y=-875.69 Z=841.20 Normal: X=-0.27 Y=0.96 Z=0.00 PenetrationDepth:0.186 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2025.03.26-01.34.33:112][878]LogCharacterMovement: BP_Zombie_C_26 is stuck and failed to move! Velocity: X=20.66 Y=-1.35 Z=0.00 Location: X=2837.93 Y=1357.30 Z=240.67 Normal: X=-0.77 Y=-0.63 Z=-0.00 PenetrationDepth:0.314 Actor:BP_Zombie_C_29 Component:CharacterMesh0 BoneName:LeftArm (17 other events since notify)
+[2025.03.26-01.34.34:014][920]LogCharacterMovement: BP_Zombie_C_43 is stuck and failed to move! Velocity: X=20.32 Y=3.98 Z=0.00 Location: X=2176.60 Y=-879.36 Z=842.30 Normal: X=0.38 Y=0.92 Z=-0.00 PenetrationDepth:25.563 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:RightHand (13 other events since notify)
+[2025.03.26-01.34.34:489][944]LogCharacterMovement: BP_Zombie_C_38 is stuck and failed to move! Velocity: X=6.34 Y=-19.71 Z=0.00 Location: X=1400.90 Y=-772.33 Z=841.20 Normal: X=0.14 Y=0.99 Z=-0.00 PenetrationDepth:0.926 Actor:BP_Zombie_C_39 Component:CharacterMesh0 BoneName:LeftArm (0 other events since notify)
+[2025.03.26-01.34.35:052][973]LogCharacterMovement: BP_Zombie_C_43 is stuck and failed to move! Velocity: X=12.27 Y=16.68 Z=0.00 Location: X=2200.02 Y=-879.41 Z=842.30 Normal: X=0.56 Y=0.83 Z=0.00 PenetrationDepth:28.905 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:RightHand (18 other events since notify)
+[2025.03.26-01.34.35:421][992]LogCharacterMovement: BP_Zombie_C_26 is stuck and failed to move! Velocity: X=20.65 Y=-1.61 Z=0.00 Location: X=2858.64 Y=1344.30 Z=240.78 Normal: X=-0.05 Y=-1.00 Z=-0.00 PenetrationDepth:0.009 Actor:BP_Zombie_C_29 Component:CharacterMesh0 BoneName:LeftHand (21 other events since notify)
+[2025.03.26-01.34.36:428][ 39]LogCharacterMovement: BP_Zombie_C_26 is stuck and failed to move! Velocity: X=20.70 Y=0.63 Z=0.00 Location: X=2866.17 Y=1346.03 Z=242.49 Normal: X=0.00 Y=1.00 Z=0.00 PenetrationDepth:11.154 Actor:StaticMeshActor_37 Component:StaticMeshComponent0 BoneName:None (38 other events since notify)
+[2025.03.26-01.34.36:756][ 54]LogCharacterMovement: BP_Zombie_C_43 is stuck and failed to move! Velocity: X=-19.92 Y=-5.66 Z=0.00 Location: X=2254.51 Y=-875.91 Z=841.20 Normal: X=0.84 Y=0.54 Z=-0.00 PenetrationDepth:0.157 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:LeftHand (28 other events since notify)
+[2025.03.26-01.34.37:445][ 86]LogCharacterMovement: BP_Zombie_C_26 is stuck and failed to move! Velocity: X=20.70 Y=0.63 Z=0.00 Location: X=2866.17 Y=1346.03 Z=242.49 Normal: X=0.00 Y=1.00 Z=0.00 PenetrationDepth:11.154 Actor:StaticMeshActor_37 Component:StaticMeshComponent0 BoneName:None (46 other events since notify)
+[2025.03.26-01.34.37:546][ 91]LogCharacterMovement: BP_Zombie_C_39 is stuck and failed to move! Velocity: X=-14.08 Y=15.18 Z=0.00 Location: X=1290.83 Y=-977.52 Z=841.20 Normal: X=-0.89 Y=-0.45 Z=-0.00 PenetrationDepth:0.223 Actor:BP_Zombie_C_38 Component:CharacterMesh0 BoneName:LeftHand (9 other events since notify)
+[2025.03.26-01.34.38:427][131]LogCharacterMovement: BP_Zombie_C_43 is stuck and failed to move! Velocity: X=-19.85 Y=-5.91 Z=0.00 Location: X=2263.43 Y=-871.73 Z=841.20 Normal: X=0.28 Y=0.96 Z=-0.00 PenetrationDepth:0.087 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2025.03.26-01.34.38:448][132]LogCharacterMovement: BP_Zombie_C_26 is stuck and failed to move! Velocity: X=20.70 Y=0.63 Z=0.00 Location: X=2866.17 Y=1346.03 Z=242.49 Normal: X=0.00 Y=1.00 Z=0.00 PenetrationDepth:11.154 Actor:StaticMeshActor_37 Component:StaticMeshComponent0 BoneName:None (45 other events since notify)
+[2025.03.26-01.34.39:469][181]LogCharacterMovement: BP_Zombie_C_26 is stuck and failed to move! Velocity: X=20.69 Y=0.83 Z=0.00 Location: X=2868.83 Y=1345.17 Z=242.96 Normal: X=0.00 Y=1.00 Z=0.00 PenetrationDepth:12.006 Actor:StaticMeshActor_37 Component:StaticMeshComponent0 BoneName:None (47 other events since notify)
+[2025.03.26-01.34.40:477][228]LogCharacterMovement: BP_Zombie_C_26 is stuck and failed to move! Velocity: X=20.69 Y=0.91 Z=0.00 Location: X=2868.79 Y=1344.81 Z=243.42 Normal: X=0.00 Y=1.00 Z=0.00 PenetrationDepth:12.366 Actor:StaticMeshActor_37 Component:StaticMeshComponent0 BoneName:None (45 other events since notify)
+[2025.03.26-01.34.41:525][276]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-01.34.41:678][283]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-01.34.41:832][290]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-01.34.41:960][296]LogBlueprintUserMessages: [BP_Zombie_C_5] Zombie Damage Recieved
+[2025.03.26-01.34.41:975][297]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-01.34.42:119][304]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-01.34.42:264][311]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-01.34.42:435][319]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-01.34.42:468][320]LogBlueprintUserMessages: [BP_Zombie_C_5] Zombie Damage Recieved
+[2025.03.26-01.34.42:573][325]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-01.34.42:781][335]LogCharacterMovement: BP_Zombie_C_41 is stuck and failed to move! Velocity: X=-7.24 Y=-19.40 Z=0.00 Location: X=1674.06 Y=-914.06 Z=841.20 Normal: X=0.97 Y=-0.26 Z=-0.00 PenetrationDepth:0.550 Actor:BP_Zombie_C_38 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.26-01.34.42:944][342]LogBlueprintUserMessages: [BP_Zombie_C_5] Zombie Damage Recieved
+[2025.03.26-01.34.43:041][347]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-01.34.43:230][356]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-01.34.43:376][363]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-01.34.43:448][366]LogBlueprintUserMessages: [BP_Zombie_C_5] Zombie Damage Recieved
+[2025.03.26-01.34.43:505][369]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-01.34.43:674][377]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-01.34.44:188][401]LogCharacterMovement: BP_Zombie_C_41 is stuck and failed to move! Velocity: X=-7.09 Y=-19.46 Z=0.00 Location: X=1669.62 Y=-915.94 Z=841.20 Normal: X=1.00 Y=0.07 Z=-0.00 PenetrationDepth:0.012 Actor:BP_Zombie_C_38 Component:CharacterMesh0 BoneName:LeftHand (13 other events since notify)
+[2025.03.26-01.34.47:443][561]LogBlueprintUserMessages: [BP_Zombie_C_9] TST.......Zombie recieved Damage
+[2025.03.26-01.34.47:547][566]LogBlueprintUserMessages: [BP_Zombie_C_9] TST.......Zombie recieved Damage
+[2025.03.26-01.34.47:712][574]LogBlueprintUserMessages: [BP_Zombie_C_9] TST.......Zombie recieved Damage
+[2025.03.26-01.34.47:781][577]LogBlueprintUserMessages: [BP_Zombie_C_9] Zombie Damage Recieved
+[2025.03.26-01.34.47:872][582]LogBlueprintUserMessages: [BP_Zombie_C_9] TST.......Zombie recieved Damage
+[2025.03.26-01.34.48:008][589]LogBlueprintUserMessages: [BP_Zombie_C_9] TST.......Zombie recieved Damage
+[2025.03.26-01.34.48:107][594]LogBlueprintUserMessages: [BP_Zombie_C_9] TST.......Zombie recieved Damage
+[2025.03.26-01.34.48:244][601]LogBlueprintUserMessages: [BP_Zombie_C_9] TST.......Zombie recieved Damage
+[2025.03.26-01.34.48:272][602]LogBlueprintUserMessages: [BP_Zombie_C_9] Zombie Damage Recieved
+[2025.03.26-01.34.48:363][607]LogBlueprintUserMessages: [BP_Zombie_C_9] TST.......Zombie recieved Damage
+[2025.03.26-01.34.48:774][628]LogBlueprintUserMessages: [BP_Zombie_C_9] Zombie Damage Recieved
+[2025.03.26-01.34.48:808][630]LogBlueprintUserMessages: [BP_Zombie_C_9] TST.......Zombie recieved Damage
+[2025.03.26-01.34.48:968][638]LogBlueprintUserMessages: [BP_Zombie_C_9] TST.......Zombie recieved Damage
+[2025.03.26-01.34.49:088][644]LogBlueprintUserMessages: [BP_Zombie_C_9] TST.......Zombie recieved Damage
+[2025.03.26-01.34.49:229][651]LogBlueprintUserMessages: [BP_Zombie_C_9] TST.......Zombie recieved Damage
+[2025.03.26-01.34.49:276][653]LogBlueprintUserMessages: [BP_Zombie_C_9] Zombie Damage Recieved
+[2025.03.26-01.34.49:330][656]LogBlueprintUserMessages: [BP_Zombie_C_9] TST.......Zombie recieved Damage
+[2025.03.26-01.34.49:568][668]LogBlueprintUserMessages: [BP_Zombie_C_9] TST.......Zombie recieved Damage
+[2025.03.26-01.34.56:132][988]LogBlueprintUserMessages: [BP_Zombie_C_11] TST.......Zombie recieved Damage
+[2025.03.26-01.34.56:585][ 10]LogBlueprintUserMessages: [BP_Zombie_C_11] TST.......Zombie recieved Damage
+[2025.03.26-01.34.56:734][ 17]LogBlueprintUserMessages: [BP_Zombie_C_11] TST.......Zombie recieved Damage
+[2025.03.26-01.34.56:784][ 19]LogBlueprintUserMessages: [BP_Zombie_C_11] Zombie Damage Recieved
+[2025.03.26-01.34.57:293][ 45]LogBlueprintUserMessages: [BP_Zombie_C_11] Zombie Damage Recieved
+[2025.03.26-01.34.57:684][ 64]LogBlueprintUserMessages: [BP_Zombie_C_11] TST.......Zombie recieved Damage
+[2025.03.26-01.34.57:785][ 69]LogBlueprintUserMessages: [BP_Zombie_C_11] Zombie Damage Recieved
+[2025.03.26-01.34.57:886][ 74]LogBlueprintUserMessages: [BP_Zombie_C_11] TST.......Zombie recieved Damage
+[2025.03.26-01.34.58:463][101]LogBlueprintUserMessages: [BP_Zombie_C_11] TST.......Zombie recieved Damage
+[2025.03.26-01.34.58:486][102]LogCharacterMovement: BP_Zombie_C_28 is stuck and failed to move! Velocity: X=20.71 Y=-0.16 Z=0.00 Location: X=2778.90 Y=1357.30 Z=240.67 Normal: X=-0.81 Y=-0.58 Z=-0.00 PenetrationDepth:0.388 Actor:BP_Zombie_C_26 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.26-01.34.58:556][105]LogBlueprintUserMessages: [BP_Zombie_C_11] TST.......Zombie recieved Damage
+[2025.03.26-01.34.58:824][118]LogBlueprintUserMessages: [BP_Zombie_C_11] TST.......Zombie recieved Damage
+[2025.03.26-01.34.59:580][154]LogBlueprintUserMessages: [BP_Smoke_C_1] Smoke Damage Recieved
+[2025.03.26-01.35.00:084][178]LogBlueprintUserMessages: [BP_Smoke_C_1] Smoke Damage Recieved
+[2025.03.26-01.35.00:579][202]LogBlueprintUserMessages: [BP_Smoke_C_1] Smoke Damage Recieved
+[2025.03.26-01.35.00:779][212]LogCharacterMovement: BP_Zombie_C_43 is stuck and failed to move! Velocity: X=-20.70 Y=-0.48 Z=0.00 Location: X=2262.36 Y=-872.34 Z=841.20 Normal: X=0.42 Y=0.91 Z=0.00 PenetrationDepth:0.346 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:RightHand (8 other events since notify)
+[2025.03.26-01.35.02:349][288]LogCharacterMovement: BP_Zombie_C_21 is stuck and failed to move! Velocity: X=-0.26 Y=-20.71 Z=0.00 Location: X=1318.32 Y=678.23 Z=240.67 Normal: X=-0.90 Y=0.43 Z=0.00 PenetrationDepth:0.136 Actor:BP_Zombie_C_22 Component:CharacterMesh0 BoneName:LeftArm (0 other events since notify)
+[2025.03.26-01.35.03:740][350]LogCharacterMovement: BP_Zombie_C_38 is stuck and failed to move! Velocity: X=-14.34 Y=-14.94 Z=0.00 Location: X=1493.15 Y=-894.75 Z=841.20 Normal: X=1.00 Y=0.06 Z=0.00 PenetrationDepth:1.515 Actor:BP_Zombie_C_39 Component:CharacterMesh0 BoneName:LeftHand (5 other events since notify)
+[2025.03.26-01.35.04:289][374]LogCharacterMovement: BP_Zombie_C_39 is stuck and failed to move! Velocity: X=3.53 Y=20.41 Z=0.00 Location: X=1289.80 Y=-1002.77 Z=841.59 Normal: X=1.00 Y=-0.00 Z=0.02 PenetrationDepth:0.883 Actor:StaticMeshActor_153 Component:StaticMeshComponent0 BoneName:None (31 other events since notify)
+[2025.03.26-01.35.04:621][389]LogCharacterMovement: BP_Zombie_C_44 is stuck and failed to move! Velocity: X=20.71 Y=0.21 Z=0.00 Location: X=2146.87 Y=-918.39 Z=841.65 Normal: X=-0.49 Y=-0.87 Z=0.00 PenetrationDepth:0.468 Actor:BP_Zombie_C_43 Component:CharacterMesh0 BoneName:RightHand (14 other events since notify)
+[2025.03.26-01.35.06:682][484]LogCharacterMovement: BP_Zombie_C_41 is stuck and failed to move! Velocity: X=-7.60 Y=-19.26 Z=0.00 Location: X=1682.24 Y=-911.66 Z=841.20 Normal: X=0.86 Y=-0.52 Z=-0.00 PenetrationDepth:0.358 Actor:BP_Zombie_C_38 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2025.03.26-01.35.06:723][486]LogCharacterMovement: BP_Zombie_C_26 is stuck and failed to move! Velocity: X=-20.71 Y=-0.20 Z=0.00 Location: X=2884.64 Y=1357.30 Z=240.67 Normal: X=0.68 Y=-0.74 Z=-0.00 PenetrationDepth:0.104 Actor:BP_Zombie_C_28 Component:CharacterMesh0 BoneName:LeftArm (38 other events since notify)
+[2025.03.26-01.35.07:374][518]LogCharacterMovement: BP_Zombie_C_43 is stuck and failed to move! Velocity: X=-20.71 Y=-0.22 Z=0.00 Location: X=2260.59 Y=-873.27 Z=841.20 Normal: X=0.60 Y=0.80 Z=-0.00 PenetrationDepth:0.016 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:RightHand (13 other events since notify)
+[2025.03.26-01.35.08:494][574]LogCharacterMovement: BP_Zombie_C_44 is stuck and failed to move! Velocity: X=20.69 Y=0.94 Z=0.00 Location: X=2125.39 Y=-938.22 Z=846.04 Normal: X=-0.70 Y=0.52 Z=0.49 PenetrationDepth:0.161 Actor:StaticMeshActor_149 Component:StaticMeshComponent0 BoneName:None (7 other events since notify)
+[2025.03.26-01.35.10:859][690]LogCharacterMovement: BP_Zombie_C_26 is stuck and failed to move! Velocity: X=-20.71 Y=-0.19 Z=0.00 Location: X=2879.32 Y=1357.30 Z=240.67 Normal: X=0.00 Y=-1.00 Z=-0.00 PenetrationDepth:1.473 Actor:BP_Zombie_C_28 Component:CharacterMesh0 BoneName:LeftArm (36 other events since notify)
+[2025.03.26-01.35.12:299][761]LogCharacterMovement: BP_Zombie_C_44 is stuck and failed to move! Velocity: X=-19.46 Y=7.09 Z=0.00 Location: X=2042.84 Y=-936.55 Z=841.20 Normal: X=-0.75 Y=-0.66 Z=0.00 PenetrationDepth:2.736 Actor:BP_Zombie_C_43 Component:CharacterMesh0 BoneName:RightArm (0 other events since notify)
+[2025.03.26-01.35.13:826][836]LogCharacterMovement: BP_Zombie_C_44 is stuck and failed to move! Velocity: X=-13.92 Y=15.33 Z=0.00 Location: X=2052.17 Y=-996.05 Z=841.20 Normal: X=-0.55 Y=-0.84 Z=-0.00 PenetrationDepth:0.007 Actor:BP_Zombie_C_43 Component:CharacterMesh0 BoneName:RightArm (10 other events since notify)
+[2025.03.26-01.35.14:276][858]LogCharacterMovement: BP_Zombie_C_2 is stuck and failed to move! Velocity: X=10.13 Y=18.06 Z=0.00 Location: X=-263.69 Y=-53.69 Z=840.96 Normal: X=0.48 Y=-0.88 Z=0.00 PenetrationDepth:7.858 Actor:BP_Zombie_C_0 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2025.03.26-01.35.14:296][859]LogCharacterMovement: BP_Zombie_C_26 is stuck and failed to move! Velocity: X=19.76 Y=-6.20 Z=0.00 Location: X=2939.48 Y=1357.30 Z=240.67 Normal: X=-0.25 Y=-0.97 Z=-0.00 PenetrationDepth:0.331 Actor:BP_Zombie_C_28 Component:CharacterMesh0 BoneName:LeftHand (47 other events since notify)
+[2025.03.26-01.35.15:311][910]LogCharacterMovement: BP_Zombie_C_26 is stuck and failed to move! Velocity: X=20.67 Y=1.25 Z=0.00 Location: X=2933.49 Y=1347.15 Z=240.67 Normal: X=0.00 Y=1.00 Z=0.00 PenetrationDepth:10.025 Actor:StaticMeshActor_37 Component:StaticMeshComponent0 BoneName:None (46 other events since notify)
+[2025.03.26-01.35.16:417][965]LogCharacterMovement: BP_Zombie_C_22 is stuck and failed to move! Velocity: X=-20.58 Y=-2.31 Z=0.00 Location: X=1503.13 Y=357.19 Z=240.67 Normal: X=0.13 Y=-0.99 Z=0.00 PenetrationDepth:1.663 Actor:BP_Zombie_C_21 Component:CharacterMesh0 BoneName:LeftArm (0 other events since notify)
+[2025.03.26-01.35.17:429][ 14]LogCharacterMovement: BP_Zombie_C_22 is stuck and failed to move! Velocity: X=-20.58 Y=-2.31 Z=0.00 Location: X=1503.13 Y=357.19 Z=240.67 Normal: X=0.70 Y=-0.71 Z=0.00 PenetrationDepth:42.038 Actor:BP_Zombie_C_21 Component:CharacterMesh0 BoneName:LeftHand (48 other events since notify)
+[2025.03.26-01.35.17:751][ 30]LogCharacterMovement: BP_Zombie_C_26 is stuck and failed to move! Velocity: X=12.60 Y=-16.43 Z=0.00 Location: X=2957.64 Y=1357.30 Z=240.67 Normal: X=-0.18 Y=-0.98 Z=-0.00 PenetrationDepth:0.329 Actor:BP_Zombie_C_28 Component:CharacterMesh0 BoneName:LeftArm (27 other events since notify)
+[2025.03.26-01.35.19:828][132]LogBlueprintUserMessages: [BP_Smoke_C_1] Smoke Damage Recieved
+[2025.03.26-01.35.20:337][157]LogBlueprintUserMessages: [BP_Smoke_C_1] Smoke Damage Recieved
+[2025.03.26-01.35.20:819][181]LogBlueprintUserMessages: [BP_Smoke_C_1] Smoke Damage Recieved
+[2025.03.26-01.35.21:324][206]LogBlueprintUserMessages: [BP_Smoke_C_1] Smoke Damage Recieved
+[2025.03.26-01.35.21:822][229]LogBlueprintUserMessages: [BP_Smoke_C_1] Smoke Damage Recieved
+[2025.03.26-01.35.22:332][253]LogBlueprintUserMessages: [BP_Smoke_C_1] Smoke Damage Recieved
+[2025.03.26-01.35.22:838][278]LogBlueprintUserMessages: [BP_Smoke_C_1] Smoke Damage Recieved
+[2025.03.26-01.35.23:321][302]LogBlueprintUserMessages: [BP_Smoke_C_1] Smoke Damage Recieved
+[2025.03.26-01.35.23:828][327]LogBlueprintUserMessages: [BP_Smoke_C_1] Smoke Damage Recieved
+[2025.03.26-01.35.28:018][530]LogCharacterMovement: BP_Zombie_C_44 is stuck and failed to move! Velocity: X=13.47 Y=15.73 Z=0.00 Location: X=2125.38 Y=-915.05 Z=841.20 Normal: X=-0.56 Y=-0.83 Z=0.00 PenetrationDepth:10.941 Actor:BP_Zombie_C_43 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.26-01.35.28:462][549]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.26-01.35.28:462][549]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.03.26-01.36.08:500][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.26-01.36.08:500][946]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV1
+[2025.03.26-01.36.08:500][946]LogSlate: Window 'EscapeRoom Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.03.26-01.36.08:516][946]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-01.36.08:522][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-01.36.08:527][946]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.26-01.36.08:536][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-01.36.08:564][946]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2025.03.26-01.36.08:564][946]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.03.26-01.36.08:568][946]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.03.26-01.36.08:593][946]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2025.03.26-01.36.08:625][947]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2025.03.26-01.36.12:474][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.03.26-01.36.13:729][176]LogSlate: Window 'Save Content' being destroyed
+[2025.03.26-01.36.13:741][176]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.26-01.36.13:810][176]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/LV1" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/LV1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.26-01.36.13:869][176]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.03.26-01.36.13:995][176]LogSavePackage: Moving output files for package: /Game/Level/LV1
+[2025.03.26-01.36.13:995][176]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/LV16E20FE27448B0E87569FA4BCA245246C.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/LV1.umap'
+[2025.03.26-01.36.14:016][176]LogFileHelpers: Saving map 'LV1' took 0.208
+[2025.03.26-01.36.14:026][176]LogFileHelpers: InternalPromptForCheckoutAndSave took 284.360 ms (total: 3.52 sec)
+[2025.03.26-01.36.14:106][176]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.26-01.36.14:106][176]LogContentValidation: Enabled validators:
+[2025.03.26-01.36.14:106][176]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.26-01.36.14:106][176]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.26-01.36.14:106][176]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.26-01.36.14:106][176]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.26-01.36.14:106][176]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.26-01.36.14:106][176]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.26-01.36.14:106][176]AssetCheck: /Game/Level/LV1 Validating asset
