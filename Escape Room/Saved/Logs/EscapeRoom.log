@@ -4255,3 +4255,1207 @@ LogConfig: Set CVar [[r.VRS.EnableSoftware:1]]
 [2025.03.26-03.36.05:484][731]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.03.26-03.36.05:484][731]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
 [2025.03.26-03.36.05:484][731]AssetCheck: /Game/UI/W_playerdealth Validating asset
+[2025.03.26-03.38.27:107][522]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3276.911621
+[2025.03.26-03.38.28:109][525]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.26-03.38.28:109][525]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3277.577881, Update Interval: 349.471130
+[2025.03.26-03.45.16:816][186]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3686.613037
+[2025.03.26-03.45.16:898][191]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.26-03.45.16:899][191]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3686.679688, Update Interval: 354.612885
+[2025.03.26-03.45.45:376][858]LogDerivedDataCache: C:/Users/rawll/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.03.26-03.48.40:185][499]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.03.26-03.48.40:188][499]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/LV1' took 0.029
+[2025.03.26-03.48.40:189][499]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.03.26-03.48.40:269][499]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.03.26-03.48.40:269][499]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.03.26-03.48.40:290][499]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto2
+[2025.03.26-03.48.40:291][499]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/BP_FirstPersonCharacter_Auto20FEDAEE74AD1B9F12D057F83A66BB589.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto2.uasset'
+[2025.03.26-03.48.40:293][499]LogFileHelpers: Auto-saving content packages took 0.104
+[2025.03.26-03.50.22:895][158]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.03.26-03.50.24:663][248]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.03.26-03.50.24:676][248]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.26-03.50.24:676][248]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV1
+[2025.03.26-03.50.24:722][248]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044899s)
+[2025.03.26-03.50.24:722][248]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV1.LV1 to /Game/Level/UEDPIE_0_LV1.LV1 (0.044945s)
+[2025.03.26-03.50.24:748][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.03.26-03.50.24:751][248]LogScript: Warning: Accessed None trying to read property As Save Setting
+	GI_MyGameInstance_C /Engine/Transient.UnrealEdEngine_0:GI_MyGameInstance_C_9
+	Function /Game/Level/GI_MyGameInstance.GI_MyGameInstance_C:ExecuteUbergraph_GI_MyGameInstance:003E
+[2025.03.26-03.50.24:751][248]LogScript: Warning: Accessed None trying to read property As Save Setting
+	GI_MyGameInstance_C /Engine/Transient.UnrealEdEngine_0:GI_MyGameInstance_C_9
+	Function /Game/Level/GI_MyGameInstance.GI_MyGameInstance_C:ExecuteUbergraph_GI_MyGameInstance:00A4
+[2025.03.26-03.50.24:751][248]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.03.26-03.50.24:753][248]LogPlayLevel: PIE: World Init took: (0.001986s)
+[2025.03.26-03.50.24:754][248]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.03.26-03.50.24:754][248]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.26-03.50.24:754][248]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.26-03.50.24:754][248]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.26-03.50.24:754][248]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.26-03.50.24:754][248]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.26-03.50.24:754][248]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.26-03.50.24:754][248]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.26-03.50.24:754][248]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.26-03.50.24:754][248]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.26-03.50.24:754][248]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.26-03.50.24:754][248]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.26-03.50.24:757][248]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.26-03.50.24:781][248]LogAudioMixer: Display: Using Audio Hardware Device Headphones (SoundCore mini)
+[2025.03.26-03.50.24:781][248]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.26-03.50.24:781][248]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.26-03.50.24:781][248]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.26-03.50.24:782][248]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.03.26-03.50.24:782][248]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.03.26-03.50.24:785][248]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.03.26-03.50.24:785][248]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.03.26-03.50.24:785][248]LogInit: FAudioDevice initialized with ID 11.
+[2025.03.26-03.50.24:785][248]LogAudio: Display: Audio Device (ID: 11) registered with world 'LV1'.
+[2025.03.26-03.50.24:785][248]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.03.26-03.50.24:840][248]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.26-03.50.24:840][248]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.26-03.50.24:876][248]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV1.LV1 up for play (max tick rate 60) at 2025.03.25-23.50.24
+[2025.03.26-03.50.24:903][248]LogWorld: Bringing up level for play took: 0.062233
+[2025.03.26-03.50.24:922][248]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2025.03.26-03.50.24:936][248]PIE: Server logged in
+[2025.03.26-03.50.24:941][248]PIE: Play in editor total start time 0.264 seconds.
+[2025.03.26-03.50.26:630][309]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_1] WEAPON FOUND
+[2025.03.26-03.50.29:497][464]LogBlueprintUserMessages: [BP_Zombie_C_5] Zombie Damage Recieved
+[2025.03.26-03.50.30:594][522]LogBlueprintUserMessages: [BP_Zombie_C_5] Zombie Damage Recieved
+[2025.03.26-03.50.31:772][589]LogBlueprintUserMessages: [BP_Zombie_C_5] Zombie Damage Recieved
+[2025.03.26-03.50.32:143][611]LogBlueprintUserMessages: [BP_Zombie_C_11] Zombie Damage Recieved
+[2025.03.26-03.50.32:412][627]LogBlueprintUserMessages: [BP_Smoke_C_3] Smoke Damage Recieved
+[2025.03.26-03.50.32:646][641]LogBlueprintUserMessages: [BP_Zombie_C_11] Zombie Damage Recieved
+[2025.03.26-03.50.33:284][677]LogBlueprintUserMessages: [BP_Fire_C_7] Fire Damage Recieved
+[2025.03.26-03.50.35:053][770]LogBlueprintUserMessages: [BP_Zombie_C_28] Zombie Damage Recieved
+[2025.03.26-03.50.35:491][791]LogBlueprintUserMessages: [BP_Zombie_C_26] Zombie Damage Recieved
+[2025.03.26-03.50.35:968][815]LogCharacterMovement: BP_Zombie_C_27 is stuck and failed to move! Velocity: X=-603.96 Y=210.19 Z=0.00 Location: X=2067.94 Y=1742.70 Z=238.69 Normal: X=0.48 Y=0.81 Z=-0.33 PenetrationDepth:3.934 Actor:BP_Zombie_C_26 Component:CharacterMesh0 BoneName:LeftArm (0 other events since notify)
+[2025.03.26-03.50.35:996][816]LogBlueprintUserMessages: [BP_Zombie_C_26] Zombie Damage Recieved
+[2025.03.26-03.50.36:313][831]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-03.50.36:507][840]LogBlueprintUserMessages: [BP_Zombie_C_26] Zombie Damage Recieved
+[2025.03.26-03.50.36:820][855]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-03.50.36:994][864]LogBlueprintUserMessages: [BP_Zombie_C_26] Zombie Damage Recieved
+[2025.03.26-03.50.37:319][881]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-03.50.37:496][890]LogBlueprintUserMessages: [BP_Zombie_C_26] Zombie Damage Recieved
+[2025.03.26-03.50.37:812][906]LogCharacterMovement: BP_Zombie_C_27 is stuck and failed to move! Velocity: X=-123.88 Y=-2.98 Z=0.00 Location: X=2058.18 Y=1747.60 Z=240.23 Normal: X=0.00 Y=-1.00 Z=0.00 PenetrationDepth:4.778 Actor:StaticMeshActor_37 Component:StaticMeshComponent0 BoneName:None (11 other events since notify)
+[2025.03.26-03.50.37:819][906]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-03.50.37:999][915]LogBlueprintUserMessages: [BP_Zombie_C_26] Zombie Damage Recieved
+[2025.03.26-03.50.38:324][931]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-03.50.38:490][939]LogBlueprintUserMessages: [BP_Zombie_C_26] Zombie Damage Recieved
+[2025.03.26-03.50.38:819][955]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-03.50.39:000][964]LogBlueprintUserMessages: [BP_Zombie_C_26] Zombie Damage Recieved
+[2025.03.26-03.50.39:174][973]LogCharacterMovement: BP_Zombie_C_27 is stuck and failed to move! Velocity: X=-118.30 Y=0.61 Z=0.00 Location: X=2059.06 Y=1742.70 Z=240.66 Normal: X=0.34 Y=0.94 Z=0.00 PenetrationDepth:1.612 Actor:BP_Zombie_C_26 Component:CharacterMesh0 BoneName:LeftHand (8 other events since notify)
+[2025.03.26-03.50.39:321][980]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-03.50.39:504][989]LogBlueprintUserMessages: [BP_Zombie_C_26] Zombie Damage Recieved
+[2025.03.26-03.50.39:813][  4]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-03.50.40:002][ 13]LogBlueprintUserMessages: [BP_Zombie_C_26] Zombie Damage Recieved
+[2025.03.26-03.50.40:036][ 15]LogCharacterMovement: BP_Zombie_C_43 is stuck and failed to move! Velocity: X=-14.26 Y=-15.01 Z=0.00 Location: X=2050.34 Y=-836.50 Z=841.20 Normal: X=-0.46 Y=0.89 Z=-0.00 PenetrationDepth:0.236 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2025.03.26-03.50.40:312][ 28]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-03.50.40:504][ 37]LogBlueprintUserMessages: [BP_Zombie_C_26] Zombie Damage Recieved
+[2025.03.26-03.50.40:820][ 52]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-03.50.40:995][ 60]LogBlueprintUserMessages: [BP_Zombie_C_26] Zombie Damage Recieved
+[2025.03.26-03.50.41:053][ 63]LogCharacterMovement: BP_Zombie_C_27 is stuck and failed to move! Velocity: X=-168.59 Y=-55.29 Z=0.00 Location: X=2043.67 Y=1752.86 Z=240.51 Normal: X=0.16 Y=0.99 Z=-0.00 PenetrationDepth:3.864 Actor:BP_Zombie_C_26 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.26-03.50.41:318][ 74]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-03.50.41:500][ 82]LogBlueprintUserMessages: [BP_Zombie_C_26] Zombie Damage Recieved
+[2025.03.26-03.50.41:820][ 97]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-03.50.42:006][106]LogBlueprintUserMessages: [BP_Zombie_C_26] Zombie Damage Recieved
+[2025.03.26-03.50.42:311][121]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-03.50.42:494][130]LogBlueprintUserMessages: [BP_Zombie_C_26] Zombie Damage Recieved
+[2025.03.26-03.50.42:822][145]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-03.50.42:996][153]LogBlueprintUserMessages: [BP_Zombie_C_26] Zombie Damage Recieved
+[2025.03.26-03.50.43:313][168]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-03.50.43:508][177]LogBlueprintUserMessages: [BP_Zombie_C_26] Zombie Damage Recieved
+[2025.03.26-03.50.43:832][192]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-03.50.43:998][200]LogBlueprintUserMessages: [BP_Zombie_C_26] Zombie Damage Recieved
+[2025.03.26-03.50.44:311][215]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-03.50.44:504][224]LogBlueprintUserMessages: [BP_Zombie_C_26] Zombie Damage Recieved
+[2025.03.26-03.50.44:813][239]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-03.50.45:005][248]LogBlueprintUserMessages: [BP_Zombie_C_26] Zombie Damage Recieved
+[2025.03.26-03.50.45:062][251]LogCharacterMovement: BP_Zombie_C_44 is stuck and failed to move! Velocity: X=10.78 Y=17.68 Z=0.00 Location: X=2079.02 Y=-993.36 Z=841.20 Normal: X=-0.46 Y=-0.89 Z=-0.00 PenetrationDepth:0.250 Actor:BP_Zombie_C_43 Component:CharacterMesh0 BoneName:Hips (0 other events since notify)
+[2025.03.26-03.50.45:312][263]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-03.50.45:492][272]LogBlueprintUserMessages: [BP_Zombie_C_26] Zombie Damage Recieved
+[2025.03.26-03.50.45:506][273]LogCharacterMovement: BP_Zombie_C_43 is stuck and failed to move! Velocity: X=20.24 Y=-4.36 Z=0.00 Location: X=2129.91 Y=-857.06 Z=841.20 Normal: X=0.34 Y=0.94 Z=-0.00 PenetrationDepth:2.114 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:RightHand (7 other events since notify)
+[2025.03.26-03.50.45:816][288]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-03.50.46:002][297]LogBlueprintUserMessages: [BP_Zombie_C_26] Zombie Damage Recieved
+[2025.03.26-03.50.46:337][313]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-03.50.46:501][320]LogBlueprintUserMessages: [BP_Zombie_C_26] Zombie Damage Recieved
+[2025.03.26-03.50.46:813][335]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-03.50.47:321][360]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-03.50.47:725][380]LogBlueprintUserMessages: [BP_Zombie_C_29] Zombie Damage Recieved
+[2025.03.26-03.50.47:826][385]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-03.50.48:222][404]LogBlueprintUserMessages: [BP_Zombie_C_29] Zombie Damage Recieved
+[2025.03.26-03.50.48:324][409]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-03.50.48:723][428]LogBlueprintUserMessages: [BP_Zombie_C_29] Zombie Damage Recieved
+[2025.03.26-03.50.48:723][428]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] PLAYER DEAD!!!
+[2025.03.26-03.50.51:589][561]LogCharacterMovement: BP_Zombie_C_43 is stuck and failed to move! Velocity: X=20.64 Y=-1.64 Z=0.00 Location: X=2141.90 Y=-868.68 Z=841.20 Normal: X=0.18 Y=0.98 Z=-0.00 PenetrationDepth:1.618 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:RightHand (2 other events since notify)
+[2025.03.26-03.50.53:770][655]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Level/LV1"
+[2025.03.26-03.50.53:770][655]LogNet: Browse: /Game/Level/LV1
+[2025.03.26-03.50.53:770][655]LogLoad: LoadMap: /Game/Level/LV1
+[2025.03.26-03.50.53:770][655]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV1
+[2025.03.26-03.50.53:773][655]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-03.50.53:779][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-03.50.53:828][655]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.26-03.50.53:840][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.03.26-03.50.53:845][655]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV1
+[2025.03.26-03.50.53:886][655]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042010s)
+[2025.03.26-03.50.53:886][655]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV1.LV1 to /Game/Level/UEDPIE_0_LV1.LV1 (0.042060s)
+[2025.03.26-03.50.53:886][655]LogAudio: Display: Audio Device (ID: 11) registered with world 'LV1'.
+[2025.03.26-03.50.53:886][655]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.03.26-03.50.53:888][655]LogPlayLevel: PIE: World Init took: (0.001687s)
+[2025.03.26-03.50.53:888][655]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.26-03.50.53:916][655]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV1.LV1 up for play (max tick rate 60) at 2025.03.25-23.50.53
+[2025.03.26-03.50.53:940][655]LogWorld: Bringing up level for play took: 0.051944
+[2025.03.26-03.50.53:961][655]LogLoad: Took 0.190619 seconds to LoadMap(/Game/Level/UEDPIE_0_LV1)
+[2025.03.26-03.50.53:961][655]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Level/UEDPIE_0_LV1
+[2025.03.26-03.51.01:423][ 44]LogBlueprintUserMessages: [BP_Zombie_C_5] Zombie Damage Recieved
+[2025.03.26-03.51.04:160][184]LogBlueprintUserMessages: [BP_Smoke_C_3] Smoke Damage Recieved
+[2025.03.26-03.51.05:413][247]LogBlueprintUserMessages: [BP_Fire_C_7] Fire Damage Recieved
+[2025.03.26-03.51.06:080][280]LogCharacterMovement: BP_Zombie_C_29 is stuck and failed to move! Velocity: X=16.16 Y=-12.95 Z=0.00 Location: X=2938.07 Y=1357.30 Z=247.64 Normal: X=-0.69 Y=-0.55 Z=0.47 PenetrationDepth:0.046 Actor:BP_Zombie_C_26 Component:CharacterMesh0 BoneName:RightFoot (0 other events since notify)
+[2025.03.26-03.51.07:369][343]LogBlueprintUserMessages: [BP_Smoke_C_5] Smoke Damage Recieved
+[2025.03.26-03.51.07:830][367]LogBlueprintUserMessages: [BP_Zombie_C_26] Zombie Damage Recieved
+[2025.03.26-03.51.09:201][438]LogBlueprintUserMessages: [BP_Zombie_C_28] Zombie Damage Recieved
+[2025.03.26-03.51.09:235][440]LogCharacterMovement: BP_Zombie_C_43 is stuck and failed to move! Velocity: X=-12.88 Y=-16.22 Z=0.00 Location: X=2047.23 Y=-845.16 Z=841.20 Normal: X=-0.15 Y=0.99 Z=-0.00 PenetrationDepth:7.748 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.26-03.51.10:246][493]LogCharacterMovement: BP_Zombie_C_43 is stuck and failed to move! Velocity: X=-12.88 Y=-16.22 Z=0.00 Location: X=2047.23 Y=-845.16 Z=841.20 Normal: X=0.09 Y=1.00 Z=-0.00 PenetrationDepth:23.663 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:RightHand (52 other events since notify)
+[2025.03.26-03.51.10:471][504]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-03.51.10:471][504]LogBlueprintUserMessages: [BP_Zombie_C_28] Zombie Damage Recieved
+[2025.03.26-03.51.11:260][544]LogCharacterMovement: BP_Zombie_C_43 is stuck and failed to move! Velocity: X=-12.88 Y=-16.22 Z=0.00 Location: X=2047.23 Y=-845.16 Z=841.20 Normal: X=0.48 Y=0.88 Z=0.00 PenetrationDepth:34.518 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:RightHand (50 other events since notify)
+[2025.03.26-03.51.11:526][558]LogBlueprintUserMessages: [BP_CheckPoint_C_5] CHECKPOINT
+[2025.03.26-03.51.12:098][586]LogBlueprintUserMessages: [BP_Zombie_C_28] Zombie Damage Recieved
+[2025.03.26-03.51.12:596][610]LogBlueprintUserMessages: [BP_Zombie_C_28] Zombie Damage Recieved
+[2025.03.26-03.51.13:102][635]LogBlueprintUserMessages: [BP_Zombie_C_28] Zombie Damage Recieved
+[2025.03.26-03.51.13:595][660]LogBlueprintUserMessages: [BP_Zombie_C_28] Zombie Damage Recieved
+[2025.03.26-03.51.14:097][686]LogBlueprintUserMessages: [BP_Zombie_C_28] Zombie Damage Recieved
+[2025.03.26-03.51.16:636][815]LogCharacterMovement: BP_Zombie_C_44 is stuck and failed to move! Velocity: X=-20.63 Y=1.80 Z=0.00 Location: X=2019.89 Y=-916.34 Z=841.20 Normal: X=-0.18 Y=-0.98 Z=0.00 PenetrationDepth:6.697 Actor:BP_Zombie_C_43 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.26-03.51.20:033][965]LogBlueprintUserMessages: [BP_Zombie_C_54] Zombie Damage Recieved
+[2025.03.26-03.51.20:142][970]LogBlueprintUserMessages: [BP_Zombie_C_55] Zombie Damage Recieved
+[2025.03.26-03.51.20:186][972]LogBlueprintUserMessages: [BP_Fire_C_46] Fire Damage Recieved
+[2025.03.26-03.51.20:544][988]LogBlueprintUserMessages: [BP_Zombie_C_54] Zombie Damage Recieved
+[2025.03.26-03.51.20:633][992]LogBlueprintUserMessages: [BP_Zombie_C_55] Zombie Damage Recieved
+[2025.03.26-03.51.20:699][995]LogBlueprintUserMessages: [BP_Fire_C_46] Fire Damage Recieved
+[2025.03.26-03.51.21:034][ 10]LogBlueprintUserMessages: [BP_Zombie_C_54] Zombie Damage Recieved
+[2025.03.26-03.51.21:146][ 15]LogBlueprintUserMessages: [BP_Zombie_C_55] Zombie Damage Recieved
+[2025.03.26-03.51.21:193][ 17]LogBlueprintUserMessages: [BP_Fire_C_46] Fire Damage Recieved
+[2025.03.26-03.51.21:531][ 33]LogBlueprintUserMessages: [BP_Zombie_C_54] Zombie Damage Recieved
+[2025.03.26-03.51.21:625][ 38]LogBlueprintUserMessages: [BP_Zombie_C_55] Zombie Damage Recieved
+[2025.03.26-03.51.21:684][ 41]LogBlueprintUserMessages: [BP_Fire_C_46] Fire Damage Recieved
+[2025.03.26-03.51.22:039][ 59]LogBlueprintUserMessages: [BP_Zombie_C_54] Zombie Damage Recieved
+[2025.03.26-03.51.22:134][ 64]LogBlueprintUserMessages: [BP_Zombie_C_55] Zombie Damage Recieved
+[2025.03.26-03.51.22:193][ 67]LogBlueprintUserMessages: [BP_Fire_C_46] Fire Damage Recieved
+[2025.03.26-03.51.22:544][ 85]LogBlueprintUserMessages: [BP_Zombie_C_54] Zombie Damage Recieved
+[2025.03.26-03.51.22:640][ 90]LogBlueprintUserMessages: [BP_Zombie_C_55] Zombie Damage Recieved
+[2025.03.26-03.51.22:679][ 92]LogBlueprintUserMessages: [BP_Fire_C_46] Fire Damage Recieved
+[2025.03.26-03.51.23:033][109]LogBlueprintUserMessages: [BP_Zombie_C_54] Zombie Damage Recieved
+[2025.03.26-03.51.23:130][114]LogBlueprintUserMessages: [BP_Zombie_C_55] Zombie Damage Recieved
+[2025.03.26-03.51.23:189][117]LogBlueprintUserMessages: [BP_Fire_C_46] Fire Damage Recieved
+[2025.03.26-03.51.23:283][122]LogCharacterMovement: BP_Zombie_C_54 is stuck and failed to move! Velocity: X=19.41 Y=-7.20 Z=0.00 Location: X=3412.69 Y=-142.70 Z=841.20 Normal: X=-0.91 Y=-0.42 Z=-0.00 PenetrationDepth:1.333 Actor:BP_Zombie_C_55 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.26-03.51.23:687][140]LogBlueprintUserMessages: [BP_Fire_C_46] Fire Damage Recieved
+[2025.03.26-03.51.24:182][163]LogBlueprintUserMessages: [BP_Fire_C_46] Fire Damage Recieved
+[2025.03.26-03.51.24:688][183]LogBlueprintUserMessages: [BP_Fire_C_46] Fire Damage Recieved
+[2025.03.26-03.51.24:747][186]LogCharacterMovement: BP_Zombie_C_29 is stuck and failed to move! Velocity: X=20.71 Y=0.24 Z=0.00 Location: X=2983.30 Y=1744.67 Z=240.91 Normal: X=0.00 Y=-1.00 Z=0.00 PenetrationDepth:1.846 Actor:StaticMeshActor_37 Component:StaticMeshComponent0 BoneName:None (9 other events since notify)
+[2025.03.26-03.51.25:186][206]LogBlueprintUserMessages: [BP_Fire_C_46] Fire Damage Recieved
+[2025.03.26-03.51.25:638][224]LogCharacterMovement: BP_Zombie_C_54 is stuck and failed to move! Velocity: X=20.06 Y=5.13 Z=0.00 Location: X=3021.36 Y=-114.53 Z=839.13 Normal: X=-0.78 Y=0.51 Z=-0.36 PenetrationDepth:1.836 Actor:BP_Zombie_C_55 Component:CharacterMesh0 BoneName:LeftHand (1 other events since notify)
+[2025.03.26-03.51.25:687][226]LogBlueprintUserMessages: [BP_Fire_C_46] Fire Damage Recieved
+[2025.03.26-03.51.25:880][235]LogCharacterMovement: BP_Zombie_C_59 is stuck and failed to move! Velocity: X=-20.69 Y=0.86 Z=0.00 Location: X=-531.49 Y=-464.77 Z=841.20 Normal: X=0.92 Y=0.39 Z=0.00 PenetrationDepth:0.151 Actor:BP_Zombie_C_58 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.26-03.51.26:188][250]LogBlueprintUserMessages: [BP_Fire_C_46] Fire Damage Recieved
+[2025.03.26-03.51.26:678][273]LogBlueprintUserMessages: [BP_Fire_C_46] Fire Damage Recieved
+[2025.03.26-03.51.27:181][297]LogBlueprintUserMessages: [BP_Fire_C_46] Fire Damage Recieved
+[2025.03.26-03.51.27:684][321]LogBlueprintUserMessages: [BP_Fire_C_46] Fire Damage Recieved
+[2025.03.26-03.51.28:421][355]LogBlueprintUserMessages: [BP_Zombie_C_55] Zombie Damage Recieved
+[2025.03.26-03.51.28:438][356]LogCharacterMovement: BP_Zombie_C_54 is stuck and failed to move! Velocity: X=198.89 Y=-23.78 Z=0.00 Location: X=3054.66 Y=-46.55 Z=839.21 Normal: X=-0.28 Y=0.86 Z=-0.42 PenetrationDepth:12.821 Actor:BP_Zombie_C_55 Component:CharacterMesh0 BoneName:LeftHand (9 other events since notify)
+[2025.03.26-03.51.28:650][366]LogBlueprintUserMessages: [BP_Zombie_C_54] Zombie Damage Recieved
+[2025.03.26-03.51.28:708][369]LogCharacterMovement: BP_Zombie_C_55 is stuck and failed to move! Velocity: X=-0.65 Y=-86.23 Z=0.00 Location: X=3152.68 Y=-143.31 Z=867.01 Normal: X=0.97 Y=-0.23 Z=0.00 PenetrationDepth:3.129 Actor:BP_Zombie_C_54 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2025.03.26-03.51.28:926][379]LogBlueprintUserMessages: [BP_Zombie_C_55] Zombie Damage Recieved
+[2025.03.26-03.51.29:141][389]LogBlueprintUserMessages: [BP_Zombie_C_54] Zombie Damage Recieved
+[2025.03.26-03.51.29:424][402]LogBlueprintUserMessages: [BP_Zombie_C_55] Zombie Damage Recieved
+[2025.03.26-03.51.29:654][413]LogBlueprintUserMessages: [BP_Zombie_C_54] Zombie Damage Recieved
+[2025.03.26-03.51.29:924][426]LogBlueprintUserMessages: [BP_Zombie_C_55] Zombie Damage Recieved
+[2025.03.26-03.51.30:152][437]LogBlueprintUserMessages: [BP_Zombie_C_54] Zombie Damage Recieved
+[2025.03.26-03.51.30:421][449]LogBlueprintUserMessages: [BP_Zombie_C_55] Zombie Damage Recieved
+[2025.03.26-03.51.30:641][459]LogBlueprintUserMessages: [BP_Zombie_C_54] Zombie Damage Recieved
+[2025.03.26-03.51.30:937][473]LogBlueprintUserMessages: [BP_Zombie_C_55] Zombie Damage Recieved
+[2025.03.26-03.51.31:148][483]LogBlueprintUserMessages: [BP_Zombie_C_54] Zombie Damage Recieved
+[2025.03.26-03.51.31:425][496]LogBlueprintUserMessages: [BP_Zombie_C_55] Zombie Damage Recieved
+[2025.03.26-03.51.31:652][507]LogBlueprintUserMessages: [BP_Zombie_C_54] Zombie Damage Recieved
+[2025.03.26-03.51.31:914][520]LogBlueprintUserMessages: [BP_Zombie_C_55] Zombie Damage Recieved
+[2025.03.26-03.51.32:155][532]LogBlueprintUserMessages: [BP_Zombie_C_54] Zombie Damage Recieved
+[2025.03.26-03.51.32:423][545]LogBlueprintUserMessages: [BP_Zombie_C_55] Zombie Damage Recieved
+[2025.03.26-03.51.32:642][556]LogBlueprintUserMessages: [BP_Zombie_C_54] Zombie Damage Recieved
+[2025.03.26-03.51.32:937][568]LogBlueprintUserMessages: [BP_Zombie_C_55] Zombie Damage Recieved
+[2025.03.26-03.51.33:439][592]LogBlueprintUserMessages: [BP_Zombie_C_55] Zombie Damage Recieved
+[2025.03.26-03.51.33:928][615]LogBlueprintUserMessages: [BP_Zombie_C_55] Zombie Damage Recieved
+[2025.03.26-03.51.34:430][639]LogBlueprintUserMessages: [BP_Zombie_C_55] Zombie Damage Recieved
+[2025.03.26-03.51.34:935][663]LogBlueprintUserMessages: [BP_Zombie_C_55] Zombie Damage Recieved
+[2025.03.26-03.51.34:935][663]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] PLAYER DEAD!!!
+[2025.03.26-03.51.41:453][979]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-03.51.41:966][  4]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-03.51.42:458][ 28]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-03.51.42:952][ 52]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-03.51.43:461][ 77]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-03.51.43:947][100]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-03.51.44:343][118]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.26-03.51.44:343][118]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV1
+[2025.03.26-03.51.44:344][118]LogSlate: Window 'EscapeRoom Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.03.26-03.51.44:359][118]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-03.51.44:369][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-03.51.44:373][118]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.26-03.51.44:384][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-03.51.44:416][118]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.03.26-03.51.44:416][118]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.03.26-03.51.44:418][118]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.03.26-03.51.44:439][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.03.26-03.51.44:504][119]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2025.03.26-03.52.05:205][353]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4094.994629
+[2025.03.26-03.52.05:321][360]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.26-03.52.05:321][360]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4095.094238, Update Interval: 328.785065
+[2025.03.26-03.54.45:340][840]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'Hips' 
+[2025.03.26-03.54.45:341][840]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'Spine' 
+[2025.03.26-03.54.45:341][840]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'Spine1' 
+[2025.03.26-03.54.45:341][840]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'Spine2' 
+[2025.03.26-03.54.45:341][840]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'Head' 
+[2025.03.26-03.54.45:341][840]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'LeftArm' 
+[2025.03.26-03.54.45:341][840]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'LeftHand' 
+[2025.03.26-03.54.45:341][840]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'RightArm' 
+[2025.03.26-03.54.45:341][840]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'RightHand' 
+[2025.03.26-03.54.45:341][840]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'LeftUpLeg' 
+[2025.03.26-03.54.45:341][840]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'LeftLeg' 
+[2025.03.26-03.54.45:341][840]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'LeftFoot' 
+[2025.03.26-03.54.45:341][840]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'RightUpLeg' 
+[2025.03.26-03.54.45:341][840]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'RightLeg' 
+[2025.03.26-03.54.45:341][840]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'RightFoot' 
+[2025.03.26-03.54.45:342][840]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'Hips' 
+[2025.03.26-03.54.45:342][840]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'Spine' 
+[2025.03.26-03.54.45:342][840]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'Spine1' 
+[2025.03.26-03.54.45:342][840]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'Spine2' 
+[2025.03.26-03.54.45:342][840]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'Head' 
+[2025.03.26-03.54.45:342][840]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'LeftArm' 
+[2025.03.26-03.54.45:342][840]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'LeftHand' 
+[2025.03.26-03.54.45:342][840]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'RightArm' 
+[2025.03.26-03.54.45:342][840]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'RightHand' 
+[2025.03.26-03.54.45:342][840]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'LeftUpLeg' 
+[2025.03.26-03.54.45:342][840]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'LeftLeg' 
+[2025.03.26-03.54.45:342][840]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'LeftFoot' 
+[2025.03.26-03.54.45:342][840]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'RightUpLeg' 
+[2025.03.26-03.54.45:342][840]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'RightLeg' 
+[2025.03.26-03.54.45:342][840]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Boy_C_1 /Game/Level/LV1.LV1:PersistentLevel.BP_Boy_C_1.CharacterMesh0 Bone: 'RightFoot' 
+[2025.03.26-03.54.45:398][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.03.26-03.55.33:868][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.03.26-03.55.37:258][900]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.03.26-03.55.37:271][900]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.26-03.55.37:272][900]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV1
+[2025.03.26-03.55.37:315][900]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044236s)
+[2025.03.26-03.55.37:315][900]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV1.LV1 to /Game/Level/UEDPIE_0_LV1.LV1 (0.044289s)
+[2025.03.26-03.55.37:341][900]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.03.26-03.55.37:345][900]LogScript: Warning: Accessed None trying to read property As Save Setting
+	GI_MyGameInstance_C /Engine/Transient.UnrealEdEngine_0:GI_MyGameInstance_C_10
+	Function /Game/Level/GI_MyGameInstance.GI_MyGameInstance_C:ExecuteUbergraph_GI_MyGameInstance:003E
+[2025.03.26-03.55.37:345][900]LogScript: Warning: Accessed None trying to read property As Save Setting
+	GI_MyGameInstance_C /Engine/Transient.UnrealEdEngine_0:GI_MyGameInstance_C_10
+	Function /Game/Level/GI_MyGameInstance.GI_MyGameInstance_C:ExecuteUbergraph_GI_MyGameInstance:00A4
+[2025.03.26-03.55.37:345][900]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.03.26-03.55.37:347][900]LogPlayLevel: PIE: World Init took: (0.001926s)
+[2025.03.26-03.55.37:348][900]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.03.26-03.55.37:348][900]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.26-03.55.37:348][900]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.26-03.55.37:348][900]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.26-03.55.37:348][900]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.26-03.55.37:348][900]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.26-03.55.37:348][900]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.26-03.55.37:348][900]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.26-03.55.37:348][900]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.26-03.55.37:348][900]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.26-03.55.37:348][900]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.26-03.55.37:348][900]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.26-03.55.37:351][900]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.26-03.55.37:377][900]LogAudioMixer: Display: Using Audio Hardware Device Headphones (SoundCore mini)
+[2025.03.26-03.55.37:377][900]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.26-03.55.37:378][900]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.26-03.55.37:378][900]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.26-03.55.37:378][900]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.03.26-03.55.37:378][900]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.03.26-03.55.37:380][900]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.03.26-03.55.37:380][900]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.03.26-03.55.37:381][900]LogInit: FAudioDevice initialized with ID 12.
+[2025.03.26-03.55.37:381][900]LogAudio: Display: Audio Device (ID: 12) registered with world 'LV1'.
+[2025.03.26-03.55.37:381][900]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.03.26-03.55.37:431][900]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.26-03.55.37:432][900]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.26-03.55.37:466][900]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV1.LV1 up for play (max tick rate 60) at 2025.03.25-23.55.37
+[2025.03.26-03.55.37:494][900]LogWorld: Bringing up level for play took: 0.061657
+[2025.03.26-03.55.37:511][900]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2025.03.26-03.55.37:526][900]PIE: Server logged in
+[2025.03.26-03.55.37:529][900]PIE: Play in editor total start time 0.259 seconds.
+[2025.03.26-03.55.41:132][ 57]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_1] WEAPON FOUND
+[2025.03.26-03.55.48:234][425]LogBlueprintUserMessages: [BP_Zombie_C_11] Zombie Damage Recieved
+[2025.03.26-03.55.48:727][449]LogBlueprintUserMessages: [BP_Zombie_C_11] Zombie Damage Recieved
+[2025.03.26-03.55.49:258][474]LogBlueprintUserMessages: [BP_Fire_C_7] Fire Damage Recieved
+[2025.03.26-03.55.51:101][565]LogBlueprintUserMessages: [BP_Zombie_C_29] Zombie Damage Recieved
+[2025.03.26-03.55.51:101][565]LogBlueprintUserMessages: [BP_Zombie_C_28] Zombie Damage Recieved
+[2025.03.26-03.55.51:115][566]LogCharacterMovement: BP_Zombie_C_29 is stuck and failed to move! Velocity: X=374.50 Y=683.12 Z=0.00 Location: X=1717.55 Y=1607.63 Z=240.67 Normal: X=0.74 Y=-0.67 Z=-0.00 PenetrationDepth:8.969 Actor:BP_Zombie_C_11 Component:CharacterMesh0 BoneName:Head (0 other events since notify)
+[2025.03.26-03.55.51:314][575]LogCharacterMovement: BP_Zombie_C_11 is stuck and failed to move! Velocity: X=480.14 Y=315.84 Z=0.00 Location: X=1645.77 Y=1742.70 Z=240.67 Normal: X=-0.66 Y=0.75 Z=-0.00 PenetrationDepth:2.311 Actor:BP_Zombie_C_29 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.26-03.55.51:599][588]LogBlueprintUserMessages: [BP_Zombie_C_28] Zombie Damage Recieved
+[2025.03.26-03.55.52:154][616]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-03.55.52:407][628]LogBlueprintUserMessages: [BP_Zombie_C_26] Zombie Damage Recieved
+[2025.03.26-03.55.52:919][653]LogBlueprintUserMessages: [BP_Zombie_C_26] Zombie Damage Recieved
+[2025.03.26-03.55.53:668][690]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-03.55.54:176][715]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-03.55.55:426][778]LogBlueprintUserMessages: [BP_CheckPoint_C_5] CHECKPOINT
+[2025.03.26-03.55.55:782][795]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-03.55.56:280][820]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-03.55.56:787][844]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-03.55.57:280][868]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-03.55.57:775][893]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-03.55.58:279][920]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-03.55.58:781][946]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-03.55.59:284][971]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-03.56.01:378][ 75]LogCharacterMovement: BP_Zombie_C_37 is stuck and failed to move! Velocity: X=-4.14 Y=20.29 Z=0.00 Location: X=957.30 Y=-586.96 Z=841.20 Normal: X=-0.84 Y=-0.54 Z=0.00 PenetrationDepth:0.868 Actor:BP_Zombie_C_38 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.26-03.56.01:759][ 92]LogBlueprintUserMessages: [BP_Zombie_C_26] Zombie Damage Recieved
+[2025.03.26-03.56.02:244][115]LogBlueprintUserMessages: [BP_Zombie_C_26] Zombie Damage Recieved
+[2025.03.26-03.56.02:412][123]LogCharacterMovement: BP_Zombie_C_37 is stuck and failed to move! Velocity: X=-1.58 Y=20.65 Z=0.00 Location: X=957.30 Y=-645.18 Z=841.20 Normal: X=-0.62 Y=-0.79 Z=0.00 PenetrationDepth:0.031 Actor:BP_Zombie_C_38 Component:CharacterMesh0 BoneName:RightHand (37 other events since notify)
+[2025.03.26-03.56.02:761][139]LogBlueprintUserMessages: [BP_Zombie_C_26] Zombie Damage Recieved
+[2025.03.26-03.56.03:250][162]LogBlueprintUserMessages: [BP_Zombie_C_26] Zombie Damage Recieved
+[2025.03.26-03.56.04:055][199]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-03.56.04:388][215]LogBlueprintUserMessages: [BP_Zombie_C_26] Zombie Damage Recieved
+[2025.03.26-03.56.04:572][224]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-03.56.07:878][382]LogCharacterMovement: BP_Zombie_C_54 is stuck and failed to move! Velocity: X=-20.30 Y=4.11 Z=0.00 Location: X=3036.18 Y=-11.11 Z=839.32 Normal: X=0.99 Y=-0.15 Z=-0.00 PenetrationDepth:6.483 Actor:BP_Zombie_C_55 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2025.03.26-03.56.08:117][393]LogBlueprintUserMessages: [BP_Zombie_C_54] Zombie Damage Recieved
+[2025.03.26-03.56.08:350][404]LogBlueprintUserMessages: [BP_Zombie_C_55] Zombie Damage Recieved
+[2025.03.26-03.56.08:619][417]LogBlueprintUserMessages: [BP_Zombie_C_54] Zombie Damage Recieved
+[2025.03.26-03.56.08:858][428]LogBlueprintUserMessages: [BP_Zombie_C_55] Zombie Damage Recieved
+[2025.03.26-03.56.09:138][441]LogBlueprintUserMessages: [BP_Zombie_C_54] Zombie Damage Recieved
+[2025.03.26-03.56.09:631][465]LogBlueprintUserMessages: [BP_Zombie_C_54] Zombie Damage Recieved
+[2025.03.26-03.56.10:132][490]LogBlueprintUserMessages: [BP_Zombie_C_54] Zombie Damage Recieved
+[2025.03.26-03.56.10:342][501]LogBlueprintUserMessages: [BP_Zombie_C_56] Zombie Damage Recieved
+[2025.03.26-03.56.10:363][502]LogBlueprintUserMessages: [BP_Smoke_C_37] Smoke Damage Recieved
+[2025.03.26-03.56.10:626][516]LogBlueprintUserMessages: [BP_Zombie_C_54] Zombie Damage Recieved
+[2025.03.26-03.56.10:833][527]LogBlueprintUserMessages: [BP_Zombie_C_56] Zombie Damage Recieved
+[2025.03.26-03.56.10:852][528]LogBlueprintUserMessages: [BP_Smoke_C_37] Smoke Damage Recieved
+[2025.03.26-03.56.11:117][542]LogBlueprintUserMessages: [BP_Zombie_C_54] Zombie Damage Recieved
+[2025.03.26-03.56.11:343][554]LogBlueprintUserMessages: [BP_Zombie_C_56] Zombie Damage Recieved
+[2025.03.26-03.56.11:360][555]LogBlueprintUserMessages: [BP_Smoke_C_37] Smoke Damage Recieved
+[2025.03.26-03.56.11:623][569]LogBlueprintUserMessages: [BP_Zombie_C_54] Zombie Damage Recieved
+[2025.03.26-03.56.11:831][580]LogBlueprintUserMessages: [BP_Zombie_C_56] Zombie Damage Recieved
+[2025.03.26-03.56.11:852][581]LogBlueprintUserMessages: [BP_Smoke_C_37] Smoke Damage Recieved
+[2025.03.26-03.56.12:133][595]LogBlueprintUserMessages: [BP_Zombie_C_54] Zombie Damage Recieved
+[2025.03.26-03.56.12:346][606]LogBlueprintUserMessages: [BP_Zombie_C_56] Zombie Damage Recieved
+[2025.03.26-03.56.12:364][607]LogBlueprintUserMessages: [BP_Smoke_C_37] Smoke Damage Recieved
+[2025.03.26-03.56.12:632][621]LogBlueprintUserMessages: [BP_Zombie_C_54] Zombie Damage Recieved
+[2025.03.26-03.56.12:842][632]LogBlueprintUserMessages: [BP_Zombie_C_56] Zombie Damage Recieved
+[2025.03.26-03.56.12:861][633]LogBlueprintUserMessages: [BP_Smoke_C_37] Smoke Damage Recieved
+[2025.03.26-03.56.13:125][647]LogBlueprintUserMessages: [BP_Zombie_C_54] Zombie Damage Recieved
+[2025.03.26-03.56.13:332][658]LogBlueprintUserMessages: [BP_Zombie_C_56] Zombie Damage Recieved
+[2025.03.26-03.56.13:350][659]LogBlueprintUserMessages: [BP_Smoke_C_37] Smoke Damage Recieved
+[2025.03.26-03.56.13:618][673]LogBlueprintUserMessages: [BP_Zombie_C_54] Zombie Damage Recieved
+[2025.03.26-03.56.13:830][684]LogBlueprintUserMessages: [BP_Zombie_C_56] Zombie Damage Recieved
+[2025.03.26-03.56.13:850][685]LogBlueprintUserMessages: [BP_Smoke_C_37] Smoke Damage Recieved
+[2025.03.26-03.56.14:135][699]LogBlueprintUserMessages: [BP_Zombie_C_54] Zombie Damage Recieved
+[2025.03.26-03.56.14:336][709]LogBlueprintUserMessages: [BP_Zombie_C_56] Zombie Damage Recieved
+[2025.03.26-03.56.14:356][710]LogBlueprintUserMessages: [BP_Smoke_C_37] Smoke Damage Recieved
+[2025.03.26-03.56.14:622][724]LogBlueprintUserMessages: [BP_Zombie_C_54] Zombie Damage Recieved
+[2025.03.26-03.56.14:835][735]LogBlueprintUserMessages: [BP_Zombie_C_56] Zombie Damage Recieved
+[2025.03.26-03.56.14:854][736]LogBlueprintUserMessages: [BP_Smoke_C_37] Smoke Damage Recieved
+[2025.03.26-03.56.15:122][750]LogBlueprintUserMessages: [BP_Zombie_C_54] Zombie Damage Recieved
+[2025.03.26-03.56.15:332][761]LogBlueprintUserMessages: [BP_Zombie_C_56] Zombie Damage Recieved
+[2025.03.26-03.56.15:332][761]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] PLAYER DEAD!!!
+[2025.03.26-03.56.20:147][  4]LogCharacterMovement: BP_Zombie_C_48 is stuck and failed to move! Velocity: X=-2.44 Y=20.56 Z=0.00 Location: X=3622.23 Y=-1090.44 Z=841.20 Normal: X=-0.44 Y=-0.90 Z=-0.00 PenetrationDepth:0.013 Actor:BP_Zombie_C_50 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2025.03.26-03.56.21:926][ 87]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-03.56.22:422][110]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-03.56.23:776][173]LogBlueprintUserMessages: [BP_Zombie_C_54] Zombie Damage Recieved
+[2025.03.26-03.56.24:277][194]LogBlueprintUserMessages: [BP_Zombie_C_54] Zombie Damage Recieved
+[2025.03.26-03.56.24:512][204]LogBlueprintUserMessages: [BP_Zombie_C_54] TST.......Zombie recieved Damage
+[2025.03.26-03.56.24:766][215]LogBlueprintUserMessages: [BP_Zombie_C_54] Zombie Damage Recieved
+[2025.03.26-03.56.25:609][253]LogBlueprintUserMessages: [BP_Zombie_C_54] TST.......Zombie recieved Damage
+[2025.03.26-03.56.25:865][265]LogBlueprintUserMessages: [BP_Zombie_C_54] TST.......Zombie recieved Damage
+[2025.03.26-03.56.25:985][270]LogBlueprintUserMessages: [BP_Zombie_C_54] Zombie Damage Recieved
+[2025.03.26-03.56.26:028][272]LogBlueprintUserMessages: [BP_Zombie_C_54] TST.......Zombie recieved Damage
+[2025.03.26-03.56.26:189][279]LogBlueprintUserMessages: [BP_Zombie_C_54] TST.......Zombie recieved Damage
+[2025.03.26-03.56.26:480][292]LogBlueprintUserMessages: [BP_Zombie_C_54] Zombie Damage Recieved
+[2025.03.26-03.56.26:729][304]LogBlueprintUserMessages: [BP_Zombie_C_54] TST.......Zombie recieved Damage
+[2025.03.26-03.56.26:909][312]LogBlueprintUserMessages: [BP_Zombie_C_54] TST.......Zombie recieved Damage
+[2025.03.26-03.56.26:981][315]LogBlueprintUserMessages: [BP_Zombie_C_54] Zombie Damage Recieved
+[2025.03.26-03.56.27:068][319]LogBlueprintUserMessages: [BP_Zombie_C_54] TST.......Zombie recieved Damage
+[2025.03.26-03.56.27:176][324]LogCharacterMovement: BP_Zombie_C_19 is stuck and failed to move! Velocity: X=12.14 Y=16.77 Z=0.00 Location: X=2578.85 Y=-1135.16 Z=232.47 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:6.045 Actor:StaticMeshActor_10 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2025.03.26-03.56.27:203][325]LogBlueprintUserMessages: [BP_Zombie_C_54] TST.......Zombie recieved Damage
+[2025.03.26-03.56.27:318][330]LogBlueprintUserMessages: [BP_Zombie_C_54] TST.......Zombie recieved Damage
+[2025.03.26-03.56.27:435][335]LogBlueprintUserMessages: [BP_Zombie_C_54] TST.......Zombie recieved Damage
+[2025.03.26-03.56.27:486][337]LogBlueprintUserMessages: [BP_Zombie_C_54] Zombie Damage Recieved
+[2025.03.26-03.56.27:902][355]LogBlueprintUserMessages: [BP_Zombie_C_54] TST.......Zombie recieved Damage
+[2025.03.26-03.56.27:976][358]LogBlueprintUserMessages: [BP_Zombie_C_54] Zombie Damage Recieved
+[2025.03.26-03.56.28:017][360]LogBlueprintUserMessages: [BP_Zombie_C_54] TST.......Zombie recieved Damage
+[2025.03.26-03.56.31:068][501]LogBlueprintUserMessages: [BP_Zombie_C_29] TST.......Zombie recieved Damage
+[2025.03.26-03.56.31:233][509]LogBlueprintUserMessages: [BP_Zombie_C_29] TST.......Zombie recieved Damage
+[2025.03.26-03.56.31:319][513]LogBlueprintUserMessages: [BP_Zombie_C_29] Zombie Damage Recieved
+[2025.03.26-03.56.31:377][516]LogBlueprintUserMessages: [BP_Zombie_C_29] TST.......Zombie recieved Damage
+[2025.03.26-03.56.31:544][524]LogBlueprintUserMessages: [BP_Zombie_C_29] TST.......Zombie recieved Damage
+[2025.03.26-03.56.31:693][531]LogBlueprintUserMessages: [BP_Zombie_C_29] TST.......Zombie recieved Damage
+[2025.03.26-03.56.31:821][537]LogBlueprintUserMessages: [BP_Zombie_C_29] Zombie Damage Recieved
+[2025.03.26-03.56.31:839][538]LogBlueprintUserMessages: [BP_Zombie_C_29] TST.......Zombie recieved Damage
+[2025.03.26-03.56.31:964][544]LogBlueprintUserMessages: [BP_Zombie_C_29] TST.......Zombie recieved Damage
+[2025.03.26-03.56.32:306][561]LogBlueprintUserMessages: [BP_Zombie_C_29] Zombie Damage Recieved
+[2025.03.26-03.56.32:816][586]LogBlueprintUserMessages: [BP_Zombie_C_29] Zombie Damage Recieved
+[2025.03.26-03.56.32:894][590]LogBlueprintUserMessages: [BP_Zombie_C_29] TST.......Zombie recieved Damage
+[2025.03.26-03.56.33:080][599]LogBlueprintUserMessages: [BP_Zombie_C_29] TST.......Zombie recieved Damage
+[2025.03.26-03.56.33:226][606]LogBlueprintUserMessages: [BP_Zombie_C_29] TST.......Zombie recieved Damage
+[2025.03.26-03.56.33:315][610]LogBlueprintUserMessages: [BP_Zombie_C_29] Zombie Damage Recieved
+[2025.03.26-03.56.34:039][644]LogBlueprintUserMessages: [BP_Zombie_C_26] Zombie Damage Recieved
+[2025.03.26-03.56.34:537][669]LogBlueprintUserMessages: [BP_Zombie_C_26] Zombie Damage Recieved
+[2025.03.26-03.56.35:030][694]LogBlueprintUserMessages: [BP_Zombie_C_26] Zombie Damage Recieved
+[2025.03.26-03.56.35:532][719]LogBlueprintUserMessages: [BP_Zombie_C_26] Zombie Damage Recieved
+[2025.03.26-03.56.36:027][744]LogBlueprintUserMessages: [BP_Zombie_C_26] Zombie Damage Recieved
+[2025.03.26-03.56.36:541][771]LogBlueprintUserMessages: [BP_Zombie_C_26] Zombie Damage Recieved
+[2025.03.26-03.56.37:025][796]LogBlueprintUserMessages: [BP_Zombie_C_26] Zombie Damage Recieved
+[2025.03.26-03.56.37:539][822]LogBlueprintUserMessages: [BP_Zombie_C_26] Zombie Damage Recieved
+[2025.03.26-03.56.38:031][846]LogBlueprintUserMessages: [BP_Zombie_C_26] Zombie Damage Recieved
+[2025.03.26-03.56.38:542][872]LogBlueprintUserMessages: [BP_Zombie_C_26] Zombie Damage Recieved
+[2025.03.26-03.56.38:622][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.26-03.56.38:622][874]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV1
+[2025.03.26-03.56.38:624][874]LogSlate: Window 'EscapeRoom Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.03.26-03.56.38:634][874]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-03.56.38:641][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-03.56.38:648][874]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.26-03.56.38:657][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-03.56.38:682][874]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.26-03.56.38:684][874]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.03.26-03.56.38:684][874]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.03.26-03.56.38:686][874]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.03.26-03.56.38:709][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.03.26-03.56.38:764][875]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2025.03.26-03.57.47:828][972]LogSlate: Took 0.008236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.03.26-03.58.17:644][735]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4467.413574
+[2025.03.26-03.58.17:761][742]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.26-03.58.17:761][742]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4467.514160, Update Interval: 342.573334
+[2025.03.26-03.59.07:683][679]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/W_EndGame.W_EndGame
+[2025.03.26-03.59.07:683][679]LogChaosDD: Creating Chaos Debug Draw Scene for world World_33
+[2025.03.26-03.59.07:688][679]LogChaosDD: Creating Chaos Debug Draw Scene for world World_34
+[2025.03.26-03.59.28:958][888]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.26-04.02.00:961][739]LogSlate: Window 'Delete Variable' being destroyed
+[2025.03.26-04.02.12:034][865]LogSlate: Window 'Delete Variable' being destroyed
+[2025.03.26-04.02.22:448][478]LogEditorTransaction: Undo Remove Variable
+[2025.03.26-04.02.24:670][590]LogEditorTransaction: Undo Remove Variable
+[2025.03.26-04.02.32:460][ 41]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Level/GI_MyGameInstance.GI_MyGameInstance
+[2025.03.26-04.02.32:460][ 41]LogChaosDD: Creating Chaos Debug Draw Scene for world World_35
+[2025.03.26-04.03.58:337][150]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-04.03.58:337][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-04.03.58:596][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.03.26-04.03.59:831][223]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.26-04.03.59:831][223]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-04.03.59:831][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-04.03.59:984][223]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.03.26-04.04.04:267][478]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.26-04.04.04:267][478]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-04.04.04:267][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-04.04.04:380][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.03.26-04.04.07:595][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.03.26-04.04.08:492][668]LogSlate: Window 'Save Content' being destroyed
+[2025.03.26-04.04.08:505][668]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.26-04.04.08:583][668]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Boy/BP_Boy] ([2] browsable assets)...
+[2025.03.26-04.04.08:583][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Boy/BP_Boy]
+[2025.03.26-04.04.08:583][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Boy/BP_Boy" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Characters/Boy/BP_Boy.uasset" SILENT=true
+[2025.03.26-04.04.08:591][668]LogSavePackage: Moving output files for package: /Game/Characters/Boy/BP_Boy
+[2025.03.26-04.04.08:592][668]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/BP_BoyEA6D6C7B48271F3DBE38E9BAE7B76D34.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Characters/Boy/BP_Boy.uasset'
+[2025.03.26-04.04.08:593][668]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.03.26-04.04.08:635][668]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.03.26-04.04.08:635][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.03.26-04.04.08:657][668]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.03.26-04.04.08:657][668]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/BP_FirstPersonCharacterC8AF0EEA4526D154B0A43DA59FBB1B42.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.03.26-04.04.08:659][668]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonGameMode] ([2] browsable assets)...
+[2025.03.26-04.04.08:659][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonGameMode]
+[2025.03.26-04.04.08:673][668]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonGameMode
+[2025.03.26-04.04.08:674][668]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/BP_FirstPersonGameMode7FE4147D449CFD47074A3896DC052ABD.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset'
+[2025.03.26-04.04.08:675][668]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Level/GI_MyGameInstance] ([2] browsable assets)...
+[2025.03.26-04.04.08:675][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level/GI_MyGameInstance]
+[2025.03.26-04.04.08:675][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/GI_MyGameInstance" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/GI_MyGameInstance.uasset" SILENT=true
+[2025.03.26-04.04.08:682][668]LogSavePackage: Moving output files for package: /Game/Level/GI_MyGameInstance
+[2025.03.26-04.04.08:682][668]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/GI_MyGameInstance1780A78A4C7DE59A9D68F28CB21C1326.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/GI_MyGameInstance.uasset'
+[2025.03.26-04.04.08:684][668]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/W_EndGame] ([2] browsable assets)...
+[2025.03.26-04.04.08:689][668]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/W_EndGame.W_EndGame]
+[2025.03.26-04.04.08:690][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_EndGame]
+[2025.03.26-04.04.08:690][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_EndGame" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/UI/W_EndGame.uasset" SILENT=true
+[2025.03.26-04.04.08:698][668]LogSavePackage: Moving output files for package: /Game/UI/W_EndGame
+[2025.03.26-04.04.08:699][668]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/W_EndGame634ACCB848C6BEF974D1AA96B71E8C7A.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/UI/W_EndGame.uasset'
+[2025.03.26-04.04.08:713][668]LogFileHelpers: InternalPromptForCheckoutAndSave took 206.892 ms (total: 1.23 sec)
+[2025.03.26-04.04.08:781][668]LogContentValidation: Display: Starting to validate 5 assets
+[2025.03.26-04.04.08:781][668]LogContentValidation: Enabled validators:
+[2025.03.26-04.04.08:781][668]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.26-04.04.08:781][668]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.26-04.04.08:781][668]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.26-04.04.08:781][668]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.26-04.04.08:781][668]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.26-04.04.08:781][668]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.26-04.04.08:781][668]AssetCheck: /Game/Characters/Boy/BP_Boy Validating asset
+[2025.03.26-04.04.08:781][668]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.03.26-04.04.08:781][668]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonGameMode Validating asset
+[2025.03.26-04.04.08:781][668]AssetCheck: /Game/Level/GI_MyGameInstance Validating asset
+[2025.03.26-04.04.08:782][668]AssetCheck: /Game/UI/W_EndGame Validating asset
+[2025.03.26-04.04.24:983][500]LogSlate: Window 'Delete Variable' being destroyed
+[2025.03.26-04.04.46:269][715]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4856.019531
+[2025.03.26-04.04.46:385][722]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.26-04.04.46:385][722]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4856.119629, Update Interval: 300.807526
+[2025.03.26-04.05.02:351][672]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.03.26-04.05.02:369][673]LogChaosDD: Creating Chaos Debug Draw Scene for world World_37
+[2025.03.26-04.05.02:454][676]LogChaosDD: Creating Chaos Debug Draw Scene for world World_38
+[2025.03.26-04.05.02:567][681]LogChaosDD: Creating Chaos Debug Draw Scene for world World_39
+[2025.03.26-04.05.02:592][682]LogChaosDD: Creating Chaos Debug Draw Scene for world World_40
+[2025.03.26-04.05.02:636][684]LogChaosDD: Creating Chaos Debug Draw Scene for world World_41
+[2025.03.26-04.05.02:644][684]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Zombie_C /Engine/Transient.World_41:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Zombie_C_0
+	Function /Game/Characters/Zombie/ABP_Zombie.ABP_Zombie_C:ExecuteUbergraph_ABP_Zombie:0040
+[2025.03.26-04.05.02:662][685]LogChaosDD: Creating Chaos Debug Draw Scene for world World_42
+[2025.03.26-04.05.02:694][686]LogChaosDD: Creating Chaos Debug Draw Scene for world World_43
+[2025.03.26-04.05.02:793][687]LogChaosDD: Creating Chaos Debug Draw Scene for world World_44
+[2025.03.26-04.05.03:087][704]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Zombie_C /Engine/Transient.World_41:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Zombie_C_1
+	Function /Game/Characters/Zombie/ABP_Zombie.ABP_Zombie_C:ExecuteUbergraph_ABP_Zombie:0040
+[2025.03.26-04.05.04:201][770]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Zombie/BP_Zombie.BP_Zombie
+[2025.03.26-04.05.04:202][770]LogChaosDD: Creating Chaos Debug Draw Scene for world World_45
+[2025.03.26-04.06.52:817][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.03.26-04.09.14:690][288]LogBlueprint: Warning: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\UI\W_EndGame.uasset: [Compiler] Could not find a variable named "Zombie Killed" in '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C'.
+Make sure '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C' has been compiled for  Get Zombie Killed
+[2025.03.26-04.09.14:692][288]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\UI\W_EndGame.uasset: [Compiler] The property associated with  Zombie Killed  could not be found in '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C'
+[2025.03.26-04.09.14:783][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.03.26-04.09.56:152][756]LogBlueprint: Warning: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\UI\W_EndGame.uasset: [Compiler] Could not find a variable named "Zombie Killed" in '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C'.
+Make sure '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C' has been compiled for  Get Zombie Killed
+[2025.03.26-04.09.56:152][756]LogBlueprint: Error: [AssetLog] C:\Users\rawll\Desktop\MyProject\Git\Escape-Room\Escape Room\Content\UI\W_EndGame.uasset: [Compiler] The property associated with  Zombie Killed  could not be found in '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C'
+[2025.03.26-04.09.56:175][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.03.26-04.10.33:198][940]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5202.886719
+[2025.03.26-04.10.33:298][946]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.26-04.10.33:298][946]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5202.969727, Update Interval: 324.058960
+[2025.03.26-04.10.38:423][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.03.26-04.10.41:058][402]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.03.26-04.10.41:071][402]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.26-04.10.41:072][402]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV1
+[2025.03.26-04.10.41:116][402]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044893s)
+[2025.03.26-04.10.41:116][402]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV1.LV1 to /Game/Level/UEDPIE_0_LV1.LV1 (0.044938s)
+[2025.03.26-04.10.41:137][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.03.26-04.10.41:142][402]LogScript: Warning: Accessed None trying to read property As Save Setting
+	GI_MyGameInstance_C /Engine/Transient.UnrealEdEngine_0:GI_MyGameInstance_C_11
+	Function /Game/Level/GI_MyGameInstance.GI_MyGameInstance_C:ExecuteUbergraph_GI_MyGameInstance:0103
+[2025.03.26-04.10.41:142][402]LogScript: Warning: Accessed None trying to read property As Save Setting
+	GI_MyGameInstance_C /Engine/Transient.UnrealEdEngine_0:GI_MyGameInstance_C_11
+	Function /Game/Level/GI_MyGameInstance.GI_MyGameInstance_C:ExecuteUbergraph_GI_MyGameInstance:0169
+[2025.03.26-04.10.41:142][402]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.03.26-04.10.41:144][402]LogPlayLevel: PIE: World Init took: (0.001858s)
+[2025.03.26-04.10.41:145][402]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.03.26-04.10.41:145][402]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.26-04.10.41:145][402]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.26-04.10.41:145][402]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.26-04.10.41:145][402]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.26-04.10.41:145][402]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.26-04.10.41:145][402]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.26-04.10.41:145][402]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.26-04.10.41:145][402]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.26-04.10.41:145][402]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.26-04.10.41:145][402]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.26-04.10.41:145][402]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.26-04.10.41:148][402]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.26-04.10.41:174][402]LogAudioMixer: Display: Using Audio Hardware Device Headphones (SoundCore mini)
+[2025.03.26-04.10.41:174][402]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.26-04.10.41:174][402]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.26-04.10.41:174][402]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.26-04.10.41:175][402]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.03.26-04.10.41:175][402]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.03.26-04.10.41:177][402]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.03.26-04.10.41:178][402]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.03.26-04.10.41:178][402]LogInit: FAudioDevice initialized with ID 13.
+[2025.03.26-04.10.41:178][402]LogAudio: Display: Audio Device (ID: 13) registered with world 'LV1'.
+[2025.03.26-04.10.41:178][402]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.03.26-04.10.41:259][402]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.26-04.10.41:259][402]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.26-04.10.41:296][402]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV1.LV1 up for play (max tick rate 60) at 2025.03.26-00.10.41
+[2025.03.26-04.10.41:322][402]LogWorld: Bringing up level for play took: 0.063214
+[2025.03.26-04.10.41:344][402]LogOnline: OSS: Created online subsystem instance for: :Context_56
+[2025.03.26-04.10.41:361][402]PIE: Server logged in
+[2025.03.26-04.10.41:366][402]PIE: Play in editor total start time 0.295 seconds.
+[2025.03.26-04.10.43:957][488]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_1] WEAPON FOUND
+[2025.03.26-04.10.47:351][672]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-04.10.47:592][685]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-04.10.47:714][692]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-04.10.47:969][705]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-04.10.50:224][823]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-04.10.50:495][836]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-04.10.50:672][844]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-04.10.50:861][853]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-04.10.50:975][858]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-04.10.51:540][885]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-04.10.53:747][985]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-04.10.53:893][991]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-04.10.54:009][996]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-04.10.54:147][  2]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-04.10.54:642][ 24]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-04.10.54:759][ 29]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-04.10.54:895][ 35]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-04.11.00:389][275]LogBlueprintUserMessages: [BP_Zombie_C_1] TST.......Zombie recieved Damage
+[2025.03.26-04.11.00:534][281]LogBlueprintUserMessages: [BP_Zombie_C_1] TST.......Zombie recieved Damage
+[2025.03.26-04.11.00:628][285]LogBlueprintUserMessages: [BP_Zombie_C_1] TST.......Zombie recieved Damage
+[2025.03.26-04.11.03:461][408]LogBlueprintUserMessages: [BP_Zombie_C_1] TST.......Zombie recieved Damage
+[2025.03.26-04.11.03:579][413]LogBlueprintUserMessages: [BP_Zombie_C_1] TST.......Zombie recieved Damage
+[2025.03.26-04.11.03:739][420]LogBlueprintUserMessages: [BP_Zombie_C_1] TST.......Zombie recieved Damage
+[2025.03.26-04.11.03:885][426]LogBlueprintUserMessages: [BP_Zombie_C_1] TST.......Zombie recieved Damage
+[2025.03.26-04.11.03:997][431]LogBlueprintUserMessages: [BP_Zombie_C_1] TST.......Zombie recieved Damage
+[2025.03.26-04.11.04:108][436]LogBlueprintUserMessages: [BP_Zombie_C_1] TST.......Zombie recieved Damage
+[2025.03.26-04.11.04:934][472]LogBlueprintUserMessages: [BP_Zombie_C_1] TST.......Zombie recieved Damage
+[2025.03.26-04.11.05:067][478]LogBlueprintUserMessages: [BP_Zombie_C_1] TST.......Zombie recieved Damage
+[2025.03.26-04.11.06:888][558]LogBlueprintUserMessages: [BP_Fire_C_1] Fire Damage Recieved
+[2025.03.26-04.11.07:376][580]LogBlueprintUserMessages: [BP_Fire_C_1] Fire Damage Recieved
+[2025.03.26-04.11.07:893][602]LogBlueprintUserMessages: [BP_Fire_C_1] Fire Damage Recieved
+[2025.03.26-04.11.08:514][629]LogBlueprintUserMessages: [BP_Zombie_C_3] TST.......Zombie recieved Damage
+[2025.03.26-04.11.08:672][636]LogBlueprintUserMessages: [BP_Zombie_C_3] TST.......Zombie recieved Damage
+[2025.03.26-04.11.08:813][642]LogBlueprintUserMessages: [BP_Zombie_C_3] TST.......Zombie recieved Damage
+[2025.03.26-04.11.08:949][648]LogBlueprintUserMessages: [BP_Zombie_C_3] TST.......Zombie recieved Damage
+[2025.03.26-04.11.09:099][655]LogBlueprintUserMessages: [BP_Zombie_C_3] TST.......Zombie recieved Damage
+[2025.03.26-04.11.09:234][661]LogBlueprintUserMessages: [BP_Zombie_C_3] TST.......Zombie recieved Damage
+[2025.03.26-04.11.09:564][675]LogBlueprintUserMessages: [BP_Zombie_C_3] TST.......Zombie recieved Damage
+[2025.03.26-04.11.12:963][837]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.26-04.11.12:963][837]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.03.26-04.11.18:443][158]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.26-04.11.18:443][158]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.03.26-04.11.22:184][341]LogCharacterMovement: BP_Zombie_C_38 is stuck and failed to move! Velocity: X=-20.44 Y=3.30 Z=0.00 Location: X=1526.71 Y=-911.32 Z=841.20 Normal: X=0.45 Y=-0.89 Z=-0.00 PenetrationDepth:0.038 Actor:BP_Zombie_C_39 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.26-04.11.23:184][389]LogCharacterMovement: BP_Zombie_C_38 is stuck and failed to move! Velocity: X=-20.44 Y=3.31 Z=0.00 Location: X=1527.23 Y=-911.48 Z=841.20 Normal: X=0.39 Y=-0.92 Z=-0.00 PenetrationDepth:23.418 Actor:BP_Zombie_C_39 Component:CharacterMesh0 BoneName:RightHand (23 other events since notify)
+[2025.03.26-04.11.23:301][394]LogBlueprintUserMessages: [BP_Zombie_C_13] TST.......Zombie recieved Damage
+[2025.03.26-04.11.23:419][399]LogBlueprintUserMessages: [BP_Zombie_C_13] TST.......Zombie recieved Damage
+[2025.03.26-04.11.23:574][406]LogBlueprintUserMessages: [BP_Zombie_C_13] TST.......Zombie recieved Damage
+[2025.03.26-04.11.23:665][410]LogBlueprintUserMessages: [BP_Zombie_C_13] TST.......Zombie recieved Damage
+[2025.03.26-04.11.23:826][417]LogBlueprintUserMessages: [BP_Zombie_C_13] TST.......Zombie recieved Damage
+[2025.03.26-04.11.23:937][422]LogBlueprintUserMessages: [BP_Zombie_C_13] TST.......Zombie recieved Damage
+[2025.03.26-04.11.24:045][427]LogCharacterMovement: BP_Zombie_C_31 is stuck and failed to move! Velocity: X=-20.69 Y=-0.91 Z=0.00 Location: X=3368.66 Y=-1932.94 Z=841.20 Normal: X=0.57 Y=-0.82 Z=0.00 PenetrationDepth:8.671 Actor:BP_Zombie_C_34 Component:CharacterMesh0 BoneName:LeftLeg (0 other events since notify)
+[2025.03.26-04.11.24:197][434]LogCharacterMovement: BP_Zombie_C_38 is stuck and failed to move! Velocity: X=-20.71 Y=-0.11 Z=0.00 Location: X=1527.23 Y=-911.48 Z=841.20 Normal: X=0.39 Y=-0.92 Z=-0.00 PenetrationDepth:24.354 Actor:BP_Zombie_C_39 Component:CharacterMesh0 BoneName:RightHand (40 other events since notify)
+[2025.03.26-04.11.25:050][473]LogCharacterMovement: BP_Zombie_C_31 is stuck and failed to move! Velocity: X=20.69 Y=0.78 Z=0.00 Location: X=3368.66 Y=-1932.94 Z=841.20 Normal: X=-0.56 Y=-0.79 Z=-0.25 PenetrationDepth:53.341 Actor:BP_Zombie_C_34 Component:CharacterMesh0 BoneName:Head (45 other events since notify)
+[2025.03.26-04.11.25:206][480]LogCharacterMovement: BP_Zombie_C_38 is stuck and failed to move! Velocity: X=-20.71 Y=-0.11 Z=0.00 Location: X=1527.23 Y=-911.48 Z=841.20 Normal: X=0.38 Y=-0.92 Z=-0.00 PenetrationDepth:26.848 Actor:BP_Zombie_C_39 Component:CharacterMesh0 BoneName:RightHand (45 other events since notify)
+[2025.03.26-04.11.25:297][484]LogBlueprintUserMessages: [BP_Zombie_C_13] TST.......Zombie recieved Damage
+[2025.03.26-04.11.25:428][490]LogBlueprintUserMessages: [BP_Zombie_C_13] TST.......Zombie recieved Damage
+[2025.03.26-04.11.25:498][493]LogBlueprintUserMessages: [BP_Zombie_C_13] Zombie Damage Recieved
+[2025.03.26-04.11.25:567][496]LogBlueprintUserMessages: [BP_Zombie_C_13] TST.......Zombie recieved Damage
+[2025.03.26-04.11.26:224][525]LogCharacterMovement: BP_Zombie_C_38 is stuck and failed to move! Velocity: X=-20.71 Y=-0.11 Z=0.00 Location: X=1527.23 Y=-911.48 Z=841.20 Normal: X=0.36 Y=-0.93 Z=-0.00 PenetrationDepth:28.686 Actor:BP_Zombie_C_39 Component:CharacterMesh0 BoneName:RightHand (38 other events since notify)
+[2025.03.26-04.11.27:232][572]LogCharacterMovement: BP_Zombie_C_38 is stuck and failed to move! Velocity: X=-20.71 Y=-0.11 Z=0.00 Location: X=1527.23 Y=-911.48 Z=841.20 Normal: X=0.34 Y=-0.94 Z=-0.00 PenetrationDepth:30.501 Actor:BP_Zombie_C_39 Component:CharacterMesh0 BoneName:RightHand (38 other events since notify)
+[2025.03.26-04.11.28:253][623]LogCharacterMovement: BP_Zombie_C_38 is stuck and failed to move! Velocity: X=-20.71 Y=-0.11 Z=0.00 Location: X=1527.23 Y=-911.48 Z=841.20 Normal: X=0.33 Y=-0.94 Z=-0.00 PenetrationDepth:31.006 Actor:BP_Zombie_C_39 Component:CharacterMesh0 BoneName:RightHand (47 other events since notify)
+[2025.03.26-04.11.31:994][800]LogCharacterMovement: BP_Zombie_C_38 is stuck and failed to move! Velocity: X=20.71 Y=0.24 Z=0.00 Location: X=1527.23 Y=-911.48 Z=841.20 Normal: X=-0.92 Y=-0.40 Z=0.00 PenetrationDepth:36.916 Actor:BP_Zombie_C_39 Component:CharacterMesh0 BoneName:RightArm (22 other events since notify)
+[2025.03.26-04.11.32:997][843]LogCharacterMovement: BP_Zombie_C_38 is stuck and failed to move! Velocity: X=20.71 Y=0.24 Z=0.00 Location: X=1527.23 Y=-911.48 Z=841.20 Normal: X=-0.64 Y=-0.77 Z=0.00 PenetrationDepth:26.059 Actor:BP_Zombie_C_39 Component:CharacterMesh0 BoneName:RightHand (41 other events since notify)
+[2025.03.26-04.11.34:006][890]LogCharacterMovement: BP_Zombie_C_38 is stuck and failed to move! Velocity: X=20.71 Y=0.23 Z=0.00 Location: X=1524.48 Y=-911.11 Z=841.20 Normal: X=-0.71 Y=-0.70 Z=0.00 PenetrationDepth:8.237 Actor:BP_Zombie_C_39 Component:CharacterMesh0 BoneName:RightArm (37 other events since notify)
+[2025.03.26-04.11.35:031][941]LogCharacterMovement: BP_Zombie_C_38 is stuck and failed to move! Velocity: X=20.71 Y=0.23 Z=0.00 Location: X=1524.48 Y=-911.11 Z=841.20 Normal: X=-0.78 Y=-0.62 Z=0.00 PenetrationDepth:17.413 Actor:BP_Zombie_C_39 Component:CharacterMesh0 BoneName:RightArm (50 other events since notify)
+[2025.03.26-04.11.35:205][949]LogBlueprintUserMessages: [BP_Zombie_C_15] TST.......Zombie recieved Damage
+[2025.03.26-04.11.35:459][960]LogBlueprintUserMessages: [BP_Zombie_C_15] TST.......Zombie recieved Damage
+[2025.03.26-04.11.35:719][973]LogBlueprintUserMessages: [BP_Zombie_C_15] TST.......Zombie recieved Damage
+[2025.03.26-04.11.35:882][981]LogBlueprintUserMessages: [BP_Zombie_C_15] TST.......Zombie recieved Damage
+[2025.03.26-04.11.36:007][987]LogBlueprintUserMessages: [BP_Zombie_C_15] TST.......Zombie recieved Damage
+[2025.03.26-04.11.36:042][989]LogCharacterMovement: BP_Zombie_C_38 is stuck and failed to move! Velocity: X=20.71 Y=0.23 Z=0.00 Location: X=1524.48 Y=-911.11 Z=841.20 Normal: X=-0.80 Y=-0.60 Z=-0.00 PenetrationDepth:16.789 Actor:BP_Zombie_C_39 Component:CharacterMesh0 BoneName:RightArm (47 other events since notify)
+[2025.03.26-04.11.36:269][  0]LogBlueprintUserMessages: [BP_Zombie_C_15] TST.......Zombie recieved Damage
+[2025.03.26-04.11.36:412][  7]LogBlueprintUserMessages: [BP_Zombie_C_15] TST.......Zombie recieved Damage
+[2025.03.26-04.11.38:405][109]LogBlueprintUserMessages: [BP_HealthKit_C_1] Health kit found
+[2025.03.26-04.11.39:902][180]LogBlueprintUserMessages: [BP_Smoke_C_6] Smoke Damage Recieved
+[2025.03.26-04.11.43:956][377]LogBlueprintUserMessages: [BP_Zombie_C_17] TST.......Zombie recieved Damage
+[2025.03.26-04.11.44:122][384]LogBlueprintUserMessages: [BP_Zombie_C_17] TST.......Zombie recieved Damage
+[2025.03.26-04.11.44:283][391]LogBlueprintUserMessages: [BP_Zombie_C_17] TST.......Zombie recieved Damage
+[2025.03.26-04.11.44:398][396]LogBlueprintUserMessages: [BP_Zombie_C_17] TST.......Zombie recieved Damage
+[2025.03.26-04.11.44:642][407]LogBlueprintUserMessages: [BP_Zombie_C_17] TST.......Zombie recieved Damage
+[2025.03.26-04.11.44:802][414]LogBlueprintUserMessages: [BP_Zombie_C_17] TST.......Zombie recieved Damage
+[2025.03.26-04.11.44:944][420]LogBlueprintUserMessages: [BP_Zombie_C_17] TST.......Zombie recieved Damage
+[2025.03.26-04.11.50:210][657]LogBlueprintUserMessages: [BP_Zombie_C_19] TST.......Zombie recieved Damage
+[2025.03.26-04.11.50:326][662]LogBlueprintUserMessages: [BP_Zombie_C_19] TST.......Zombie recieved Damage
+[2025.03.26-04.11.50:441][667]LogBlueprintUserMessages: [BP_Zombie_C_19] TST.......Zombie recieved Damage
+[2025.03.26-04.11.50:976][690]LogBlueprintUserMessages: [BP_Zombie_C_19] TST.......Zombie recieved Damage
+[2025.03.26-04.11.51:084][695]LogBlueprintUserMessages: [BP_Zombie_C_19] TST.......Zombie recieved Damage
+[2025.03.26-04.11.51:342][707]LogBlueprintUserMessages: [BP_Zombie_C_19] TST.......Zombie recieved Damage
+[2025.03.26-04.11.51:499][714]LogBlueprintUserMessages: [BP_Zombie_C_19] TST.......Zombie recieved Damage
+[2025.03.26-04.11.54:847][872]LogBlueprintUserMessages: [BP_Zombie_C_24] TST.......Zombie recieved Damage
+[2025.03.26-04.11.54:992][879]LogBlueprintUserMessages: [BP_Zombie_C_24] TST.......Zombie recieved Damage
+[2025.03.26-04.11.55:163][887]LogBlueprintUserMessages: [BP_Zombie_C_24] Zombie Damage Recieved
+[2025.03.26-04.11.55:269][892]LogBlueprintUserMessages: [BP_Zombie_C_24] TST.......Zombie recieved Damage
+[2025.03.26-04.11.55:398][898]LogBlueprintUserMessages: [BP_Zombie_C_24] TST.......Zombie recieved Damage
+[2025.03.26-04.11.55:880][920]LogBlueprintUserMessages: [BP_Zombie_C_24] TST.......Zombie recieved Damage
+[2025.03.26-04.11.56:038][926]LogBlueprintUserMessages: [BP_Zombie_C_24] TST.......Zombie recieved Damage
+[2025.03.26-04.11.56:117][929]LogBlueprintUserMessages: [BP_Zombie_C_24] TST.......Zombie recieved Damage
+[2025.03.26-04.11.56:208][933]LogBlueprintUserMessages: [BP_Zombie_C_24] TST.......Zombie recieved Damage
+[2025.03.26-04.11.56:345][939]LogBlueprintUserMessages: [BP_Zombie_C_24] TST.......Zombie recieved Damage
+[2025.03.26-04.11.56:396][941]LogBlueprintUserMessages: [BP_Zombie_C_24] Zombie Damage Recieved
+[2025.03.26-04.11.56:491][945]LogBlueprintUserMessages: [BP_Zombie_C_24] TST.......Zombie recieved Damage
+[2025.03.26-04.11.56:748][956]LogBlueprintUserMessages: [BP_Zombie_C_24] TST.......Zombie recieved Damage
+[2025.03.26-04.11.56:895][962]LogBlueprintUserMessages: [BP_Zombie_C_24] Zombie Damage Recieved
+[2025.03.26-04.11.57:040][968]LogBlueprintUserMessages: [BP_Zombie_C_24] TST.......Zombie recieved Damage
+[2025.03.26-04.11.57:403][984]LogBlueprintUserMessages: [BP_Zombie_C_24] Zombie Damage Recieved
+[2025.03.26-04.11.57:585][992]LogBlueprintUserMessages: [BP_Zombie_C_24] TST.......Zombie recieved Damage
+[2025.03.26-04.11.57:589][992]LogCharacterMovement: BP_Zombie_C_56 is stuck and failed to move! Velocity: X=-20.68 Y=-1.04 Z=0.00 Location: X=1171.07 Y=-142.70 Z=841.20 Normal: X=0.35 Y=-0.94 Z=0.00 PenetrationDepth:0.831 Actor:BP_Zombie_C_57 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2025.03.26-04.11.58:963][ 53]LogCharacterMovement: BP_Zombie_C_56 is stuck and failed to move! Velocity: X=-20.69 Y=-0.93 Z=0.00 Location: X=1192.70 Y=-142.82 Z=841.19 Normal: X=0.76 Y=-0.65 Z=0.00 PenetrationDepth:0.177 Actor:BP_Zombie_C_57 Component:CharacterMesh0 BoneName:LeftHand (18 other events since notify)
+[2025.03.26-04.12.01:084][154]LogBlueprintUserMessages: [BP_Zombie_C_22] TST.......Zombie recieved Damage
+[2025.03.26-04.12.01:301][163]LogBlueprintUserMessages: [BP_Zombie_C_22] TST.......Zombie recieved Damage
+[2025.03.26-04.12.01:459][170]LogBlueprintUserMessages: [BP_Zombie_C_22] TST.......Zombie recieved Damage
+[2025.03.26-04.12.01:569][175]LogBlueprintUserMessages: [BP_Zombie_C_22] TST.......Zombie recieved Damage
+[2025.03.26-04.12.01:659][179]LogBlueprintUserMessages: [BP_Zombie_C_22] Zombie Damage Recieved
+[2025.03.26-04.12.01:722][182]LogBlueprintUserMessages: [BP_Zombie_C_22] TST.......Zombie recieved Damage
+[2025.03.26-04.12.01:998][195]LogBlueprintUserMessages: [BP_Zombie_C_22] TST.......Zombie recieved Damage
+[2025.03.26-04.12.02:105][200]LogBlueprintUserMessages: [BP_Zombie_C_22] TST.......Zombie recieved Damage
+[2025.03.26-04.12.02:171][203]LogBlueprintUserMessages: [BP_Zombie_C_22] Zombie Damage Recieved
+[2025.03.26-04.12.02:257][207]LogBlueprintUserMessages: [BP_Zombie_C_22] TST.......Zombie recieved Damage
+[2025.03.26-04.12.02:388][213]LogBlueprintUserMessages: [BP_Zombie_C_22] TST.......Zombie recieved Damage
+[2025.03.26-04.12.02:391][213]LogCharacterMovement: BP_Zombie_C_56 is stuck and failed to move! Velocity: X=-20.67 Y=-1.21 Z=0.00 Location: X=1145.40 Y=-142.70 Z=841.20 Normal: X=0.61 Y=-0.79 Z=0.00 PenetrationDepth:0.363 Actor:BP_Zombie_C_57 Component:CharacterMesh0 BoneName:RightHand (9 other events since notify)
+[2025.03.26-04.12.02:520][219]LogBlueprintUserMessages: [BP_Zombie_C_22] TST.......Zombie recieved Damage
+[2025.03.26-04.12.02:670][226]LogBlueprintUserMessages: [BP_Zombie_C_22] Zombie Damage Recieved
+[2025.03.26-04.12.02:755][230]LogBlueprintUserMessages: [BP_Zombie_C_22] TST.......Zombie recieved Damage
+[2025.03.26-04.12.03:026][243]LogBlueprintUserMessages: [BP_Zombie_C_22] TST.......Zombie recieved Damage
+[2025.03.26-04.12.03:156][249]LogBlueprintUserMessages: [BP_Zombie_C_22] TST.......Zombie recieved Damage
+[2025.03.26-04.12.03:162][249]LogBlueprintUserMessages: [BP_Zombie_C_22] Zombie Damage Recieved
+[2025.03.26-04.12.03:413][261]LogBlueprintUserMessages: [BP_Zombie_C_22] TST.......Zombie recieved Damage
+[2025.03.26-04.12.07:072][427]LogBlueprintUserMessages: [BP_Zombie_C_21] TST.......Zombie recieved Damage
+[2025.03.26-04.12.07:857][460]LogBlueprintUserMessages: [BP_key3_C_3] KITCHEN KEY FOUND
+[2025.03.26-04.12.09:264][516]LogBlueprintUserMessages: [BP_Zombie_C_21] TST.......Zombie recieved Damage
+[2025.03.26-04.12.09:823][540]LogBlueprintUserMessages: [BP_Zombie_C_21] TST.......Zombie recieved Damage
+[2025.03.26-04.12.10:169][554]LogBlueprintUserMessages: [BP_Zombie_C_21] TST.......Zombie recieved Damage
+[2025.03.26-04.12.11:902][623]LogCharacterMovement: BP_Zombie_C_27 is stuck and failed to move! Velocity: X=18.28 Y=-9.73 Z=0.00 Location: X=3927.65 Y=1504.88 Z=387.90 Normal: X=-0.11 Y=0.71 Z=-0.70 PenetrationDepth:0.010 Actor:BP_Zombie_C_26 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2025.03.26-04.12.12:290][641]LogBlueprintUserMessages: [BP_HealthKit_C_5] Health kit found
+[2025.03.26-04.12.13:048][677]LogCharacterMovement: BP_Zombie_C_27 is stuck and failed to move! Velocity: X=18.25 Y=-9.79 Z=0.00 Location: X=3914.84 Y=1513.13 Z=375.81 Normal: X=-0.43 Y=0.65 Z=-0.62 PenetrationDepth:1.417 Actor:BP_Zombie_C_26 Component:CharacterMesh0 BoneName:LeftArm (3 other events since notify)
+[2025.03.26-04.12.15:081][770]LogBlueprintUserMessages: [BP_Zombie_C_21] Zombie Damage Recieved
+[2025.03.26-04.12.22:418][122]LogBlueprintUserMessages: [BP_Smoke_C_9] Smoke Damage Recieved
+[2025.03.26-04.12.22:966][149]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2025.03.26-04.12.26:885][334]LogCharacterMovement: BP_Zombie_C_38 is stuck and failed to move! Velocity: X=19.97 Y=5.47 Z=0.00 Location: X=1341.09 Y=-935.25 Z=841.20 Normal: X=-0.98 Y=-0.18 Z=0.00 PenetrationDepth:1.452 Actor:BP_Zombie_C_41 Component:CharacterMesh0 BoneName:RightHand (26 other events since notify)
+[2025.03.26-04.12.27:899][381]LogCharacterMovement: BP_Zombie_C_38 is stuck and failed to move! Velocity: X=19.69 Y=6.40 Z=0.00 Location: X=1344.72 Y=-938.09 Z=841.20 Normal: X=0.76 Y=-0.65 Z=-0.00 PenetrationDepth:12.288 Actor:BP_Zombie_C_37 Component:CharacterMesh0 BoneName:RightHand (46 other events since notify)
+[2025.03.26-04.12.28:919][428]LogCharacterMovement: BP_Zombie_C_38 is stuck and failed to move! Velocity: X=19.69 Y=6.40 Z=0.00 Location: X=1344.72 Y=-938.09 Z=841.20 Normal: X=0.61 Y=-0.79 Z=-0.00 PenetrationDepth:29.071 Actor:BP_Zombie_C_37 Component:CharacterMesh0 BoneName:RightHand (46 other events since notify)
+[2025.03.26-04.12.29:924][478]LogCharacterMovement: BP_Zombie_C_38 is stuck and failed to move! Velocity: X=19.69 Y=6.40 Z=0.00 Location: X=1344.72 Y=-938.09 Z=841.20 Normal: X=0.18 Y=-0.98 Z=-0.00 PenetrationDepth:38.112 Actor:BP_Zombie_C_37 Component:CharacterMesh0 BoneName:RightHand (49 other events since notify)
+[2025.03.26-04.12.30:929][526]LogCharacterMovement: BP_Zombie_C_38 is stuck and failed to move! Velocity: X=19.69 Y=6.40 Z=0.00 Location: X=1344.72 Y=-938.09 Z=841.20 Normal: X=0.04 Y=-1.00 Z=-0.00 PenetrationDepth:40.319 Actor:BP_Zombie_C_37 Component:CharacterMesh0 BoneName:RightHand (47 other events since notify)
+[2025.03.26-04.12.31:943][576]LogCharacterMovement: BP_Zombie_C_38 is stuck and failed to move! Velocity: X=19.69 Y=6.40 Z=0.00 Location: X=1344.72 Y=-938.09 Z=841.20 Normal: X=0.50 Y=-0.81 Z=-0.32 PenetrationDepth:9.548 Actor:BP_Zombie_C_37 Component:CharacterMesh0 BoneName:Head (46 other events since notify)
+[2025.03.26-04.12.32:953][623]LogCharacterMovement: BP_Zombie_C_38 is stuck and failed to move! Velocity: X=16.76 Y=12.17 Z=0.00 Location: X=1355.71 Y=-962.30 Z=841.20 Normal: X=0.16 Y=-0.99 Z=0.00 PenetrationDepth:42.698 Actor:BP_Zombie_C_37 Component:CharacterMesh0 BoneName:RightHand (43 other events since notify)
+[2025.03.26-04.12.35:342][736]LogCharacterMovement: BP_Zombie_C_44 is stuck and failed to move! Velocity: X=-20.71 Y=0.27 Z=0.00 Location: X=2813.75 Y=-879.45 Z=841.20 Normal: X=0.59 Y=0.81 Z=0.00 PenetrationDepth:0.170 Actor:BP_Zombie_C_46 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2025.03.26-04.12.35:926][762]LogCharacterMovement: BP_Zombie_C_41 is stuck and failed to move! Velocity: X=-20.71 Y=-0.35 Z=0.00 Location: X=1473.88 Y=-906.84 Z=841.20 Normal: X=0.95 Y=-0.30 Z=0.00 PenetrationDepth:1.774 Actor:BP_Zombie_C_37 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.26-04.12.36:969][811]LogCharacterMovement: BP_Zombie_C_41 is stuck and failed to move! Velocity: X=-20.71 Y=-0.07 Z=0.00 Location: X=1471.39 Y=-913.72 Z=841.20 Normal: X=-0.86 Y=-0.51 Z=-0.00 PenetrationDepth:6.339 Actor:BP_Zombie_C_39 Component:CharacterMesh0 BoneName:LeftHand (4 other events since notify)
+[2025.03.26-04.12.38:102][865]LogCharacterMovement: BP_Zombie_C_41 is stuck and failed to move! Velocity: X=-19.98 Y=5.43 Z=0.00 Location: X=1466.20 Y=-923.20 Z=841.20 Normal: X=-0.82 Y=-0.57 Z=0.00 PenetrationDepth:13.404 Actor:BP_Zombie_C_39 Component:CharacterMesh0 BoneName:LeftHand (10 other events since notify)
+[2025.03.26-04.12.39:108][911]LogCharacterMovement: BP_Zombie_C_41 is stuck and failed to move! Velocity: X=-19.98 Y=5.43 Z=0.00 Location: X=1466.20 Y=-923.20 Z=841.20 Normal: X=-0.73 Y=-0.69 Z=-0.00 PenetrationDepth:4.815 Actor:BP_Zombie_C_39 Component:CharacterMesh0 BoneName:LeftArm (45 other events since notify)
+[2025.03.26-04.12.40:121][958]LogCharacterMovement: BP_Zombie_C_41 is stuck and failed to move! Velocity: X=-19.98 Y=5.43 Z=0.00 Location: X=1466.20 Y=-923.20 Z=841.20 Normal: X=-0.88 Y=-0.47 Z=-0.00 PenetrationDepth:17.124 Actor:BP_Zombie_C_39 Component:CharacterMesh0 BoneName:LeftArm (46 other events since notify)
+[2025.03.26-04.12.41:155][  5]LogCharacterMovement: BP_Zombie_C_41 is stuck and failed to move! Velocity: X=-20.54 Y=2.65 Z=0.00 Location: X=1463.09 Y=-916.92 Z=841.20 Normal: X=0.89 Y=0.45 Z=0.00 PenetrationDepth:11.687 Actor:BP_Zombie_C_38 Component:CharacterMesh0 BoneName:RightHand (33 other events since notify)
+[2025.03.26-04.12.41:458][ 19]LogBlueprintUserMessages: [BP_Zombie_C_11] TST.......Zombie recieved Damage
+[2025.03.26-04.12.41:829][ 36]LogBlueprintUserMessages: [BP_Zombie_C_11] TST.......Zombie recieved Damage
+[2025.03.26-04.12.42:518][ 67]LogBlueprintUserMessages: [BP_Zombie_C_11] TST.......Zombie recieved Damage
+[2025.03.26-04.12.42:778][ 79]LogBlueprintUserMessages: [BP_Zombie_C_11] TST.......Zombie recieved Damage
+[2025.03.26-04.12.42:945][ 86]LogBlueprintUserMessages: [BP_Zombie_C_11] TST.......Zombie recieved Damage
+[2025.03.26-04.12.43:064][ 91]LogBlueprintUserMessages: [BP_Zombie_C_11] TST.......Zombie recieved Damage
+[2025.03.26-04.12.43:238][ 99]LogCharacterMovement: BP_Zombie_C_41 is stuck and failed to move! Velocity: X=-18.11 Y=-10.05 Z=0.00 Location: X=1488.30 Y=-879.45 Z=841.20 Normal: X=0.95 Y=0.32 Z=0.00 PenetrationDepth:0.449 Actor:BP_Zombie_C_38 Component:CharacterMesh0 BoneName:RightHand (5 other events since notify)
+[2025.03.26-04.12.43:364][103]LogBlueprintUserMessages: [BP_Zombie_C_11] TST.......Zombie recieved Damage
+[2025.03.26-04.12.44:257][143]LogCharacterMovement: BP_Zombie_C_41 is stuck and failed to move! Velocity: X=-18.08 Y=-10.10 Z=0.00 Location: X=1506.63 Y=-866.42 Z=841.20 Normal: X=0.00 Y=-1.00 Z=0.00 PenetrationDepth:12.902 Actor:StaticMeshActor_150 Component:StaticMeshComponent0 BoneName:None (19 other events since notify)
+[2025.03.26-04.12.45:253][191]LogCharacterMovement: BP_Zombie_C_41 is stuck and failed to move! Velocity: X=-18.29 Y=-9.70 Z=0.00 Location: X=1509.72 Y=-867.05 Z=841.20 Normal: X=0.00 Y=-1.00 Z=0.00 PenetrationDepth:12.265 Actor:StaticMeshActor_150 Component:StaticMeshComponent0 BoneName:None (47 other events since notify)
+[2025.03.26-04.12.46:259][242]LogCharacterMovement: BP_Zombie_C_41 is stuck and failed to move! Velocity: X=-20.64 Y=-1.69 Z=0.00 Location: X=1509.72 Y=-867.05 Z=841.20 Normal: X=0.00 Y=-1.00 Z=0.00 PenetrationDepth:12.265 Actor:StaticMeshActor_150 Component:StaticMeshComponent0 BoneName:None (50 other events since notify)
+[2025.03.26-04.12.47:262][292]LogCharacterMovement: BP_Zombie_C_41 is stuck and failed to move! Velocity: X=-20.64 Y=-1.69 Z=0.00 Location: X=1509.72 Y=-867.05 Z=841.20 Normal: X=0.00 Y=-1.00 Z=0.00 PenetrationDepth:12.265 Actor:StaticMeshActor_150 Component:StaticMeshComponent0 BoneName:None (49 other events since notify)
+[2025.03.26-04.12.47:499][304]LogCharacterMovement: BP_Zombie_C_29 is stuck and failed to move! Velocity: X=20.71 Y=-0.16 Z=0.00 Location: X=2880.39 Y=1357.30 Z=240.67 Normal: X=-0.99 Y=-0.15 Z=-0.00 PenetrationDepth:0.405 Actor:BP_Zombie_C_28 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.26-04.12.49:712][405]LogCharacterMovement: BP_Zombie_C_38 is stuck and failed to move! Velocity: X=-2.61 Y=20.54 Z=0.00 Location: X=1367.96 Y=-978.78 Z=841.20 Normal: X=1.00 Y=0.03 Z=-0.00 PenetrationDepth:0.071 Actor:BP_Zombie_C_37 Component:CharacterMesh0 BoneName:RightHand (29 other events since notify)
+[2025.03.26-04.12.49:830][410]LogBlueprintUserMessages: [BP_Zombie_C_28] Zombie Damage Recieved
+[2025.03.26-04.12.50:188][427]LogBlueprintUserMessages: [BP_Zombie_C_28] TST.......Zombie recieved Damage
+[2025.03.26-04.12.50:340][434]LogBlueprintUserMessages: [BP_Zombie_C_28] Zombie Damage Recieved
+[2025.03.26-04.12.50:592][446]LogBlueprintUserMessages: [BP_Zombie_C_28] TST.......Zombie recieved Damage
+[2025.03.26-04.12.50:614][447]LogBlueprintUserMessages: [BP_Fire_C_7] Fire Damage Recieved
+[2025.03.26-04.12.50:715][452]LogCharacterMovement: BP_Zombie_C_38 is stuck and failed to move! Velocity: X=-3.36 Y=20.43 Z=0.00 Location: X=1384.77 Y=-979.39 Z=841.20 Normal: X=0.99 Y=0.17 Z=-0.00 PenetrationDepth:0.011 Actor:BP_Zombie_C_37 Component:CharacterMesh0 BoneName:RightHand (4 other events since notify)
+[2025.03.26-04.12.50:826][457]LogBlueprintUserMessages: [BP_Zombie_C_28] Zombie Damage Recieved
+[2025.03.26-04.12.51:326][480]LogBlueprintUserMessages: [BP_Zombie_C_28] Zombie Damage Recieved
+[2025.03.26-04.12.51:395][483]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-04.12.51:629][493]LogCharacterMovement: BP_Zombie_C_37 is stuck and failed to move! Velocity: X=8.30 Y=-18.97 Z=0.00 Location: X=1258.07 Y=-916.16 Z=841.20 Normal: X=-0.98 Y=-0.17 Z=-0.00 PenetrationDepth:0.011 Actor:BP_Zombie_C_38 Component:CharacterMesh0 BoneName:RightArm (0 other events since notify)
+[2025.03.26-04.12.51:824][501]LogBlueprintUserMessages: [BP_Zombie_C_28] Zombie Damage Recieved
+[2025.03.26-04.12.51:901][504]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-04.12.51:921][505]LogBlueprintUserMessages: [BP_Zombie_C_27] TST.......Zombie recieved Damage
+[2025.03.26-04.12.52:046][510]LogBlueprintUserMessages: [BP_Zombie_C_27] TST.......Zombie recieved Damage
+[2025.03.26-04.12.52:183][516]LogBlueprintUserMessages: [BP_Zombie_C_27] TST.......Zombie recieved Damage
+[2025.03.26-04.12.52:338][523]LogBlueprintUserMessages: [BP_Zombie_C_28] Zombie Damage Recieved
+[2025.03.26-04.12.52:401][526]LogBlueprintUserMessages: [BP_Zombie_C_27] Zombie Damage Recieved
+[2025.03.26-04.12.52:610][536]LogBlueprintUserMessages: [BP_Zombie_C_27] TST.......Zombie recieved Damage
+[2025.03.26-04.12.52:718][541]LogBlueprintUserMessages: [BP_Zombie_C_27] TST.......Zombie recieved Damage
+[2025.03.26-04.12.52:745][542]LogBlueprintUserMessages: [BP_Zombie_C_26] Zombie Damage Recieved
+[2025.03.26-04.12.52:827][546]LogBlueprintUserMessages: [BP_Zombie_C_28] Zombie Damage Recieved
+[2025.03.26-04.12.53:168][561]LogCharacterMovement: BP_Zombie_C_37 is stuck and failed to move! Velocity: X=7.76 Y=-19.20 Z=0.00 Location: X=1273.99 Y=-927.54 Z=841.22 Normal: X=-0.60 Y=0.80 Z=-0.00 PenetrationDepth:35.918 Actor:BP_Zombie_C_38 Component:CharacterMesh0 BoneName:RightArm (7 other events since notify)
+[2025.03.26-04.12.53:243][564]LogBlueprintUserMessages: [BP_Zombie_C_26] Zombie Damage Recieved
+[2025.03.26-04.12.53:314][567]LogBlueprintUserMessages: [BP_Zombie_C_26] TST.......Zombie recieved Damage
+[2025.03.26-04.12.53:348][568]LogBlueprintUserMessages: [BP_Zombie_C_28] Zombie Damage Recieved
+[2025.03.26-04.12.53:831][588]LogBlueprintUserMessages: [BP_Zombie_C_28] Zombie Damage Recieved
+[2025.03.26-04.12.54:621][619]LogCharacterMovement: BP_Zombie_C_29 is stuck and failed to move! Velocity: X=-7.50 Y=-19.30 Z=0.00 Location: X=2941.98 Y=1357.30 Z=241.91 Normal: X=0.59 Y=-0.61 Z=0.53 PenetrationDepth:0.818 Actor:BP_Zombie_C_27 Component:CharacterMesh0 BoneName:LeftFoot (13 other events since notify)
+[2025.03.26-04.12.57:324][734]LogBlueprintUserMessages: [BP_Smoke_C_5] Smoke Damage Recieved
+[2025.03.26-04.12.57:752][750]LogBlueprintUserMessages: [BP_Zombie_C_29] TST.......Zombie recieved Damage
+[2025.03.26-04.12.57:836][753]LogBlueprintUserMessages: [BP_Smoke_C_5] Smoke Damage Recieved
+[2025.03.26-04.12.57:897][755]LogBlueprintUserMessages: [BP_Zombie_C_29] TST.......Zombie recieved Damage
+[2025.03.26-04.12.58:346][771]LogBlueprintUserMessages: [BP_Smoke_C_5] Smoke Damage Recieved
+[2025.03.26-04.12.58:625][782]LogBlueprintUserMessages: [BP_Zombie_C_29] TST.......Zombie recieved Damage
+[2025.03.26-04.12.58:841][790]LogBlueprintUserMessages: [BP_Smoke_C_5] Smoke Damage Recieved
+[2025.03.26-04.12.59:335][808]LogBlueprintUserMessages: [BP_Smoke_C_5] Smoke Damage Recieved
+[2025.03.26-04.12.59:833][829]LogBlueprintUserMessages: [BP_Smoke_C_5] Smoke Damage Recieved
+[2025.03.26-04.12.59:940][834]LogBlueprintUserMessages: [BP_Zombie_C_29] TST.......Zombie recieved Damage
+[2025.03.26-04.13.00:333][853]LogBlueprintUserMessages: [BP_Smoke_C_5] Smoke Damage Recieved
+[2025.03.26-04.13.00:374][855]LogBlueprintUserMessages: [BP_Zombie_C_29] Zombie Damage Recieved
+[2025.03.26-04.13.00:420][857]LogBlueprintUserMessages: [BP_Zombie_C_29] TST.......Zombie recieved Damage
+[2025.03.26-04.13.00:498][861]LogCharacterMovement: BP_Zombie_C_41 is stuck and failed to move! Velocity: X=16.21 Y=-12.89 Z=0.00 Location: X=1729.80 Y=-867.30 Z=841.20 Normal: X=0.43 Y=0.90 Z=-0.00 PenetrationDepth:1.292 Actor:BP_Zombie_C_39 Component:CharacterMesh0 BoneName:RightHand (26 other events since notify)
+[2025.03.26-04.13.00:530][862]LogBlueprintUserMessages: [BP_Zombie_C_29] TST.......Zombie recieved Damage
+[2025.03.26-04.13.00:675][869]LogBlueprintUserMessages: [BP_Zombie_C_29] TST.......Zombie recieved Damage
+[2025.03.26-04.13.00:856][878]LogBlueprintUserMessages: [BP_Zombie_C_29] TST.......Zombie recieved Damage
+[2025.03.26-04.13.00:863][878]LogBlueprintUserMessages: [BP_Zombie_C_29] Zombie Damage Recieved
+[2025.03.26-04.13.00:961][883]LogBlueprintUserMessages: [BP_Zombie_C_29] TST.......Zombie recieved Damage
+[2025.03.26-04.13.01:231][896]LogBlueprintUserMessages: [BP_Zombie_C_29] TST.......Zombie recieved Damage
+[2025.03.26-04.13.01:355][902]LogBlueprintUserMessages: [BP_Zombie_C_29] Zombie Damage Recieved
+[2025.03.26-04.13.01:498][909]LogBlueprintUserMessages: [BP_Zombie_C_29] TST.......Zombie recieved Damage
+[2025.03.26-04.13.01:518][910]LogCharacterMovement: BP_Zombie_C_41 is stuck and failed to move! Velocity: X=20.63 Y=1.82 Z=0.00 Location: X=1739.05 Y=-878.14 Z=841.20 Normal: X=0.00 Y=-1.00 Z=0.00 PenetrationDepth:1.178 Actor:StaticMeshActor_156 Component:StaticMeshComponent0 BoneName:None (44 other events since notify)
+[2025.03.26-04.13.01:856][926]LogBlueprintUserMessages: [BP_Zombie_C_29] Zombie Damage Recieved
+[2025.03.26-04.13.04:061][ 28]LogBlueprintUserMessages: [BP_Smoke_C_5] Smoke Damage Recieved
+[2025.03.26-04.13.05:532][101]LogBlueprintUserMessages: [BP_Zombie_C_26] TST.......Zombie recieved Damage
+[2025.03.26-04.13.05:666][107]LogBlueprintUserMessages: [BP_Zombie_C_26] TST.......Zombie recieved Damage
+[2025.03.26-04.13.05:797][113]LogBlueprintUserMessages: [BP_Zombie_C_26] TST.......Zombie recieved Damage
+[2025.03.26-04.13.05:905][118]LogBlueprintUserMessages: [BP_Zombie_C_26] TST.......Zombie recieved Damage
+[2025.03.26-04.13.06:015][123]LogBlueprintUserMessages: [BP_Zombie_C_26] TST.......Zombie recieved Damage
+[2025.03.26-04.13.06:147][129]LogBlueprintUserMessages: [BP_Zombie_C_26] TST.......Zombie recieved Damage
+[2025.03.26-04.13.06:636][153]LogBlueprintUserMessages: [BP_Zombie_C_26] TST.......Zombie recieved Damage
+[2025.03.26-04.13.09:216][283]LogBlueprintUserMessages: [BP_CheckPoint_C_5] CHECKPOINT
+[2025.03.26-04.13.12:029][421]LogBlueprintUserMessages: [BP_Zombie_C_27] TST.......Zombie recieved Damage
+[2025.03.26-04.13.12:089][424]LogCharacterMovement: BP_Zombie_C_38 is stuck and failed to move! Velocity: X=0.31 Y=20.71 Z=0.00 Location: X=1402.57 Y=-1230.01 Z=841.20 Normal: X=0.91 Y=-0.42 Z=0.00 PenetrationDepth:1.309 Actor:BP_Zombie_C_37 Component:CharacterMesh0 BoneName:RightHand (7 other events since notify)
+[2025.03.26-04.13.12:180][428]LogBlueprintUserMessages: [BP_Zombie_C_27] TST.......Zombie recieved Damage
+[2025.03.26-04.13.13:591][490]LogBlueprintUserMessages: [BP_Zombie_C_55] Zombie Damage Recieved
+[2025.03.26-04.13.14:775][542]LogBlueprintUserMessages: [BP_Zombie_C_54] Zombie Damage Recieved
+[2025.03.26-04.13.15:073][555]LogCharacterMovement: BP_Zombie_C_41 is stuck and failed to move! Velocity: X=-20.64 Y=-1.64 Z=0.00 Location: X=1865.88 Y=-867.66 Z=841.20 Normal: X=-0.99 Y=-0.16 Z=-0.00 PenetrationDepth:1.816 Actor:BP_Zombie_C_43 Component:CharacterMesh0 BoneName:RightHand (31 other events since notify)
+[2025.03.26-04.13.15:174][559]LogBlueprintUserMessages: [BP_Zombie_C_54] TST.......Zombie recieved Damage
+[2025.03.26-04.13.15:280][563]LogBlueprintUserMessages: [BP_Zombie_C_54] Zombie Damage Recieved
+[2025.03.26-04.13.15:303][564]LogBlueprintUserMessages: [BP_Zombie_C_54] TST.......Zombie recieved Damage
+[2025.03.26-04.13.15:433][569]LogBlueprintUserMessages: [BP_Zombie_C_54] TST.......Zombie recieved Damage
+[2025.03.26-04.13.15:533][573]LogCharacterMovement: BP_FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-106.81 Y=63.52 Z=0.00 Location: X=3391.76 Y=-76.74 Z=797.36 Normal: X=0.47 Y=-0.72 Z=-0.51 PenetrationDepth:16.169 Actor:BP_Zombie_C_54 Component:CharacterMesh0 BoneName:RightArm (0 other events since notify)
+[2025.03.26-04.13.15:612][576]LogBlueprintUserMessages: [BP_Zombie_C_54] TST.......Zombie recieved Damage
+[2025.03.26-04.13.15:724][581]LogBlueprintUserMessages: [BP_Zombie_C_54] TST.......Zombie recieved Damage
+[2025.03.26-04.13.15:792][584]LogBlueprintUserMessages: [BP_Zombie_C_54] Zombie Damage Recieved
+[2025.03.26-04.13.16:276][606]LogBlueprintUserMessages: [BP_Zombie_C_54] Zombie Damage Recieved
+[2025.03.26-04.13.16:786][626]LogBlueprintUserMessages: [BP_Smoke_C_37] Smoke Damage Recieved
+[2025.03.26-04.13.18:065][685]LogBlueprintUserMessages: [BP_Zombie_C_54] TST.......Zombie recieved Damage
+[2025.03.26-04.13.18:954][726]LogBlueprintUserMessages: [BP_Zombie_C_54] TST.......Zombie recieved Damage
+[2025.03.26-04.13.19:292][741]LogBlueprintUserMessages: [BP_Zombie_C_54] TST.......Zombie recieved Damage
+[2025.03.26-04.13.19:411][746]LogBlueprintUserMessages: [BP_Zombie_C_54] TST.......Zombie recieved Damage
+[2025.03.26-04.13.19:545][752]LogBlueprintUserMessages: [BP_Zombie_C_54] TST.......Zombie recieved Damage
+[2025.03.26-04.13.19:989][773]LogBlueprintUserMessages: [BP_Zombie_C_55] TST.......Zombie recieved Damage
+[2025.03.26-04.13.20:131][779]LogBlueprintUserMessages: [BP_Zombie_C_55] TST.......Zombie recieved Damage
+[2025.03.26-04.13.20:274][785]LogBlueprintUserMessages: [BP_Zombie_C_55] TST.......Zombie recieved Damage
+[2025.03.26-04.13.20:453][793]LogBlueprintUserMessages: [BP_Zombie_C_55] TST.......Zombie recieved Damage
+[2025.03.26-04.13.20:457][793]LogBlueprintUserMessages: [BP_Zombie_C_55] Zombie Damage Recieved
+[2025.03.26-04.13.20:630][801]LogBlueprintUserMessages: [BP_Zombie_C_55] TST.......Zombie recieved Damage
+[2025.03.26-04.13.20:778][808]LogBlueprintUserMessages: [BP_Zombie_C_55] TST.......Zombie recieved Damage
+[2025.03.26-04.13.20:924][814]LogBlueprintUserMessages: [BP_Zombie_C_55] TST.......Zombie recieved Damage
+[2025.03.26-04.13.20:955][815]LogBlueprintUserMessages: [BP_Zombie_C_55] Zombie Damage Recieved
+[2025.03.26-04.13.21:061][820]LogBlueprintUserMessages: [BP_Zombie_C_55] TST.......Zombie recieved Damage
+[2025.03.26-04.13.21:179][825]LogBlueprintUserMessages: [BP_Zombie_C_55] TST.......Zombie recieved Damage
+[2025.03.26-04.13.21:456][838]LogBlueprintUserMessages: [BP_Zombie_C_55] Zombie Damage Recieved
+[2025.03.26-04.13.21:632][847]LogBlueprintUserMessages: [BP_Zombie_C_55] TST.......Zombie recieved Damage
+[2025.03.26-04.13.21:830][857]LogBlueprintUserMessages: [BP_Zombie_C_55] TST.......Zombie recieved Damage
+[2025.03.26-04.13.21:951][863]LogBlueprintUserMessages: [BP_Zombie_C_55] Zombie Damage Recieved
+[2025.03.26-04.13.22:109][871]LogBlueprintUserMessages: [BP_Zombie_C_55] TST.......Zombie recieved Damage
+[2025.03.26-04.13.24:398][976]LogBlueprintUserMessages: [BP_Smoke_C_35] Smoke Damage Recieved
+[2025.03.26-04.13.25:075][  8]LogBlueprintUserMessages: [BP_Zombie_C_56] TST.......Zombie recieved Damage
+[2025.03.26-04.13.25:470][ 24]LogBlueprintUserMessages: [BP_Zombie_C_56] TST.......Zombie recieved Damage
+[2025.03.26-04.13.25:613][ 30]LogBlueprintUserMessages: [BP_Zombie_C_56] TST.......Zombie recieved Damage
+[2025.03.26-04.13.25:768][ 37]LogBlueprintUserMessages: [BP_Zombie_C_56] TST.......Zombie recieved Damage
+[2025.03.26-04.13.25:890][ 43]LogBlueprintUserMessages: [BP_Zombie_C_56] TST.......Zombie recieved Damage
+[2025.03.26-04.13.25:972][ 47]LogBlueprintUserMessages: [BP_Fire_C_44] Fire Damage Recieved
+[2025.03.26-04.13.26:034][ 50]LogBlueprintUserMessages: [BP_Zombie_C_56] TST.......Zombie recieved Damage
+[2025.03.26-04.13.26:157][ 56]LogBlueprintUserMessages: [BP_Zombie_C_56] TST.......Zombie recieved Damage
+[2025.03.26-04.13.26:182][ 57]LogBlueprintUserMessages: [BP_Zombie_C_56] Zombie Damage Recieved
+[2025.03.26-04.13.26:460][ 71]LogBlueprintUserMessages: [BP_Zombie_C_56] TST.......Zombie recieved Damage
+[2025.03.26-04.13.26:479][ 72]LogBlueprintUserMessages: [BP_Fire_C_44] Fire Damage Recieved
+[2025.03.26-04.13.26:657][ 81]LogBlueprintUserMessages: [BP_Zombie_C_56] Zombie Damage Recieved
+[2025.03.26-04.13.27:161][106]LogBlueprintUserMessages: [BP_Zombie_C_56] Zombie Damage Recieved
+[2025.03.26-04.13.27:381][117]LogCharacterMovement: BP_FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-17.98 Y=-38.99 Z=0.00 Location: X=1586.34 Y=-146.71 Z=799.69 Normal: X=0.88 Y=-0.02 Z=0.47 PenetrationDepth:0.027 Actor:BP_Zombie_C_56 Component:CharacterMesh0 BoneName:LeftFoot (4 other events since notify)
+[2025.03.26-04.13.28:854][187]LogBlueprintUserMessages: [BP_Zombie_C_41] Zombie Damage Recieved
+[2025.03.26-04.13.29:039][196]LogBlueprintUserMessages: [BP_Zombie_C_39] TST.......Zombie recieved Damage
+[2025.03.26-04.13.29:185][203]LogBlueprintUserMessages: [BP_Zombie_C_39] TST.......Zombie recieved Damage
+[2025.03.26-04.13.29:226][205]LogBlueprintUserMessages: [BP_Zombie_C_39] Zombie Damage Recieved
+[2025.03.26-04.13.29:349][211]LogBlueprintUserMessages: [BP_Zombie_C_39] TST.......Zombie recieved Damage
+[2025.03.26-04.13.29:466][217]LogBlueprintUserMessages: [BP_Zombie_C_39] TST.......Zombie recieved Damage
+[2025.03.26-04.13.29:602][224]LogBlueprintUserMessages: [BP_Zombie_C_39] TST.......Zombie recieved Damage
+[2025.03.26-04.13.29:725][230]LogBlueprintUserMessages: [BP_Zombie_C_39] Zombie Damage Recieved
+[2025.03.26-04.13.29:768][232]LogBlueprintUserMessages: [BP_Zombie_C_39] TST.......Zombie recieved Damage
+[2025.03.26-04.13.29:919][239]LogBlueprintUserMessages: [BP_Zombie_C_39] TST.......Zombie recieved Damage
+[2025.03.26-04.13.29:982][242]LogCharacterMovement: BP_Zombie_C_38 is stuck and failed to move! Velocity: X=22.32 Y=999.75 Z=0.00 Location: X=1400.52 Y=-796.45 Z=839.62 Normal: X=0.59 Y=-0.78 Z=-0.19 PenetrationDepth:26.169 Actor:BP_Zombie_C_39 Component:CharacterMesh0 BoneName:Head (8 other events since notify)
+[2025.03.26-04.13.30:047][245]LogBlueprintUserMessages: [BP_Zombie_C_39] TST.......Zombie recieved Damage
+[2025.03.26-04.13.30:223][254]LogBlueprintUserMessages: [BP_Zombie_C_39] Zombie Damage Recieved
+[2025.03.26-04.13.30:719][279]LogBlueprintUserMessages: [BP_Zombie_C_39] Zombie Damage Recieved
+[2025.03.26-04.13.31:223][305]LogBlueprintUserMessages: [BP_Zombie_C_39] Zombie Damage Recieved
+[2025.03.26-04.13.32:060][346]LogBlueprintUserMessages: [BP_Zombie_C_41] Zombie Damage Recieved
+[2025.03.26-04.13.32:080][347]LogBlueprintUserMessages: [BP_Zombie_C_38] Zombie Damage Recieved
+[2025.03.26-04.13.32:579][372]LogBlueprintUserMessages: [BP_Zombie_C_38] Zombie Damage Recieved
+[2025.03.26-04.13.32:620][374]LogBlueprintUserMessages: [BP_Zombie_C_38] TST.......Zombie recieved Damage
+[2025.03.26-04.13.32:783][382]LogBlueprintUserMessages: [BP_Zombie_C_38] TST.......Zombie recieved Damage
+[2025.03.26-04.13.32:960][391]LogBlueprintUserMessages: [BP_Zombie_C_38] TST.......Zombie recieved Damage
+[2025.03.26-04.13.33:081][397]LogBlueprintUserMessages: [BP_Zombie_C_38] TST.......Zombie recieved Damage
+[2025.03.26-04.13.33:086][397]LogBlueprintUserMessages: [BP_Zombie_C_38] Zombie Damage Recieved
+[2025.03.26-04.13.33:239][405]LogBlueprintUserMessages: [BP_Zombie_C_38] TST.......Zombie recieved Damage
+[2025.03.26-04.13.33:525][419]LogBlueprintUserMessages: [BP_Zombie_C_38] TST.......Zombie recieved Damage
+[2025.03.26-04.13.33:590][422]LogBlueprintUserMessages: [BP_Zombie_C_38] Zombie Damage Recieved
+[2025.03.26-04.13.33:805][433]LogBlueprintUserMessages: [BP_Zombie_C_38] TST.......Zombie recieved Damage
+[2025.03.26-04.13.34:077][447]LogBlueprintUserMessages: [BP_Zombie_C_38] TST.......Zombie recieved Damage
+[2025.03.26-04.13.34:098][448]LogBlueprintUserMessages: [BP_Zombie_C_38] Zombie Damage Recieved
+[2025.03.26-04.13.34:252][456]LogBlueprintUserMessages: [BP_Zombie_C_38] TST.......Zombie recieved Damage
+[2025.03.26-04.13.34:353][461]LogBlueprintUserMessages: [BP_Zombie_C_38] TST.......Zombie recieved Damage
+[2025.03.26-04.13.34:528][470]LogBlueprintUserMessages: [BP_Zombie_C_38] TST.......Zombie recieved Damage
+[2025.03.26-04.13.34:585][473]LogBlueprintUserMessages: [BP_Zombie_C_38] Zombie Damage Recieved
+[2025.03.26-04.13.34:701][479]LogBlueprintUserMessages: [BP_Zombie_C_38] TST.......Zombie recieved Damage
+[2025.03.26-04.13.34:816][485]LogBlueprintUserMessages: [BP_Zombie_C_38] TST.......Zombie recieved Damage
+[2025.03.26-04.13.34:963][492]LogBlueprintUserMessages: [BP_Zombie_C_38] TST.......Zombie recieved Damage
+[2025.03.26-04.13.35:091][498]LogBlueprintUserMessages: [BP_Zombie_C_38] Zombie Damage Recieved
+[2025.03.26-04.13.35:112][499]LogBlueprintUserMessages: [BP_Zombie_C_38] TST.......Zombie recieved Damage
+[2025.03.26-04.13.35:271][507]LogBlueprintUserMessages: [BP_Zombie_C_38] TST.......Zombie recieved Damage
+[2025.03.26-04.13.36:543][573]LogBlueprintUserMessages: [BP_Zombie_C_41] Zombie Damage Recieved
+[2025.03.26-04.13.37:469][620]LogBlueprintUserMessages: [BP_Zombie_C_43] Zombie Damage Recieved
+[2025.03.26-04.13.37:706][632]LogBlueprintUserMessages: [BP_Zombie_C_43] TST.......Zombie recieved Damage
+[2025.03.26-04.13.37:865][640]LogBlueprintUserMessages: [BP_Zombie_C_43] TST.......Zombie recieved Damage
+[2025.03.26-04.13.37:959][645]LogBlueprintUserMessages: [BP_Zombie_C_43] Zombie Damage Recieved
+[2025.03.26-04.13.37:999][647]LogBlueprintUserMessages: [BP_Zombie_C_43] TST.......Zombie recieved Damage
+[2025.03.26-04.13.38:277][661]LogBlueprintUserMessages: [BP_Zombie_C_43] TST.......Zombie recieved Damage
+[2025.03.26-04.13.38:362][665]LogBlueprintUserMessages: [BP_Zombie_C_44] Zombie Damage Recieved
+[2025.03.26-04.13.38:465][670]LogBlueprintUserMessages: [BP_Zombie_C_43] TST.......Zombie recieved Damage
+[2025.03.26-04.13.38:470][670]LogBlueprintUserMessages: [BP_Zombie_C_43] Zombie Damage Recieved
+[2025.03.26-04.13.38:575][675]LogBlueprintUserMessages: [BP_Zombie_C_43] TST.......Zombie recieved Damage
+[2025.03.26-04.13.38:720][682]LogBlueprintUserMessages: [BP_Zombie_C_43] TST.......Zombie recieved Damage
+[2025.03.26-04.13.38:962][694]LogBlueprintUserMessages: [BP_Zombie_C_43] Zombie Damage Recieved
+[2025.03.26-04.13.38:963][694]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] PLAYER DEAD!!!
+[2025.03.26-04.13.41:215][813]LogCharacterMovement: BP_Zombie_C_0 is stuck and failed to move! Velocity: X=19.16 Y=7.85 Z=0.00 Location: X=-106.04 Y=-43.44 Z=841.20 Normal: X=-0.11 Y=0.99 Z=0.00 PenetrationDepth:0.301 Actor:StaticMeshActor_46 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2025.03.26-04.13.42:232][868]LogCharacterMovement: BP_Zombie_C_0 is stuck and failed to move! Velocity: X=19.16 Y=7.85 Z=0.00 Location: X=-106.04 Y=-43.44 Z=841.20 Normal: X=-0.11 Y=0.99 Z=0.00 PenetrationDepth:0.301 Actor:StaticMeshActor_46 Component:StaticMeshComponent0 BoneName:None (54 other events since notify)
+[2025.03.26-04.13.43:237][922]LogCharacterMovement: BP_Zombie_C_0 is stuck and failed to move! Velocity: X=19.16 Y=7.85 Z=0.00 Location: X=-106.04 Y=-43.44 Z=841.20 Normal: X=-0.11 Y=0.99 Z=0.00 PenetrationDepth:0.301 Actor:StaticMeshActor_46 Component:StaticMeshComponent0 BoneName:None (53 other events since notify)
+[2025.03.26-04.13.54:227][480]LogBlueprintUserMessages: [BP_Smoke_C_37] Smoke Damage Recieved
+[2025.03.26-04.13.58:574][704]LogBlueprintUserMessages: [BP_Smoke_C_33] Smoke Damage Recieved
+[2025.03.26-04.13.59:861][768]LogBlueprintUserMessages: [BP_Zombie_C_0] Zombie Damage Recieved
+[2025.03.26-04.14.02:676][910]LogBlueprintUserMessages: [BP_Zombie_C_0] TST.......Zombie recieved Damage
+[2025.03.26-04.14.02:834][917]LogBlueprintUserMessages: [BP_Zombie_C_0] TST.......Zombie recieved Damage
+[2025.03.26-04.14.05:676][ 48]LogBlueprintUserMessages: [BP_key2_C_1] BEDROOM KEY FOUND
+[2025.03.26-04.14.06:818][101]LogBlueprintUserMessages: [BP_Zombie_C_2] Zombie Damage Recieved
+[2025.03.26-04.14.06:880][104]LogBlueprintUserMessages: [BP_Zombie_C_0] TST.......Zombie recieved Damage
+[2025.03.26-04.14.07:082][114]LogBlueprintUserMessages: [BP_Zombie_C_0] TST.......Zombie recieved Damage
+[2025.03.26-04.14.07:106][115]LogBlueprintUserMessages: [BP_Zombie_C_0] Zombie Damage Recieved
+[2025.03.26-04.14.07:265][123]LogBlueprintUserMessages: [BP_Zombie_C_0] TST.......Zombie recieved Damage
+[2025.03.26-04.14.07:329][126]LogBlueprintUserMessages: [BP_Zombie_C_2] Zombie Damage Recieved
+[2025.03.26-04.14.07:427][131]LogBlueprintUserMessages: [BP_Zombie_C_0] TST.......Zombie recieved Damage
+[2025.03.26-04.14.07:589][139]LogBlueprintUserMessages: [BP_Zombie_C_0] TST.......Zombie recieved Damage
+[2025.03.26-04.14.07:613][140]LogBlueprintUserMessages: [BP_Zombie_C_0] Zombie Damage Recieved
+[2025.03.26-04.14.07:729][146]LogBlueprintUserMessages: [BP_Zombie_C_0] TST.......Zombie recieved Damage
+[2025.03.26-04.14.07:829][151]LogBlueprintUserMessages: [BP_Zombie_C_2] Zombie Damage Recieved
+[2025.03.26-04.14.07:891][154]LogBlueprintUserMessages: [BP_Zombie_C_0] TST.......Zombie recieved Damage
+[2025.03.26-04.14.08:011][160]LogBlueprintUserMessages: [BP_Zombie_C_0] TST.......Zombie recieved Damage
+[2025.03.26-04.14.08:093][164]LogBlueprintUserMessages: [BP_Zombie_C_0] Zombie Damage Recieved
+[2025.03.26-04.14.08:323][175]LogBlueprintUserMessages: [BP_Zombie_C_2] Zombie Damage Recieved
+[2025.03.26-04.14.08:594][188]LogBlueprintUserMessages: [BP_Zombie_C_0] Zombie Damage Recieved
+[2025.03.26-04.14.08:815][199]LogBlueprintUserMessages: [BP_Zombie_C_2] Zombie Damage Recieved
+[2025.03.26-04.14.09:324][224]LogBlueprintUserMessages: [BP_Zombie_C_2] Zombie Damage Recieved
+[2025.03.26-04.14.09:624][239]LogBlueprintUserMessages: [BP_Zombie_C_2] TST.......Zombie recieved Damage
+[2025.03.26-04.14.09:767][246]LogBlueprintUserMessages: [BP_Zombie_C_2] TST.......Zombie recieved Damage
+[2025.03.26-04.14.09:828][249]LogBlueprintUserMessages: [BP_Zombie_C_2] Zombie Damage Recieved
+[2025.03.26-04.14.10:220][268]LogBlueprintUserMessages: [BP_Zombie_C_2] TST.......Zombie recieved Damage
+[2025.03.26-04.14.10:296][272]LogCharacterMovement: BP_Zombie_C_48 is stuck and failed to move! Velocity: X=3.41 Y=-20.43 Z=0.00 Location: X=3350.89 Y=-917.56 Z=841.20 Normal: X=-1.00 Y=-0.09 Z=-0.00 PenetrationDepth:0.042 Actor:BP_Zombie_C_50 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.26-04.14.10:321][273]LogBlueprintUserMessages: [BP_Zombie_C_2] Zombie Damage Recieved
+[2025.03.26-04.14.10:349][274]LogBlueprintUserMessages: [BP_Zombie_C_2] TST.......Zombie recieved Damage
+[2025.03.26-04.14.10:471][280]LogBlueprintUserMessages: [BP_Zombie_C_2] TST.......Zombie recieved Damage
+[2025.03.26-04.14.10:616][287]LogBlueprintUserMessages: [BP_Zombie_C_2] TST.......Zombie recieved Damage
+[2025.03.26-04.14.10:759][294]LogBlueprintUserMessages: [BP_Zombie_C_2] TST.......Zombie recieved Damage
+[2025.03.26-04.14.10:819][297]LogBlueprintUserMessages: [BP_Zombie_C_2] Zombie Damage Recieved
+[2025.03.26-04.14.11:756][340]LogCharacterMovement: BP_Zombie_C_48 is stuck and failed to move! Velocity: X=9.64 Y=-18.33 Z=0.00 Location: X=3321.55 Y=-910.57 Z=841.20 Normal: X=-0.92 Y=-0.39 Z=0.00 PenetrationDepth:0.003 Actor:BP_Zombie_C_50 Component:CharacterMesh0 BoneName:RightHand (7 other events since notify)
+[2025.03.26-04.14.12:767][390]LogCharacterMovement: BP_Zombie_C_48 is stuck and failed to move! Velocity: X=12.70 Y=-16.36 Z=0.00 Location: X=3302.48 Y=-910.51 Z=841.20 Normal: X=-0.75 Y=-0.66 Z=-0.00 PenetrationDepth:0.103 Actor:BP_Zombie_C_50 Component:CharacterMesh0 BoneName:RightHand (23 other events since notify)
+[2025.03.26-04.14.13:896][451]LogBlueprintUserMessages: [BP_HostageArea_C_3] PROTECT THE HOSTAGE
+[2025.03.26-04.14.14:233][469]LogCharacterMovement: BP_Boy_C_1 is stuck and failed to move! Velocity: X=-57.63 Y=-251.64 Z=0.00 Location: X=-1033.92 Y=1749.59 Z=831.91 Normal: X=0.25 Y=0.97 Z=0.00 PenetrationDepth:17.815 Actor:BP_FirstPersonCharacter_C_0 Component:Capsule BoneName:None (0 other events since notify)
+[2025.03.26-04.14.19:058][712]LogCharacterMovement: BP_FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=599.45 Y=-25.61 Z=0.00 Location: X=16.85 Y=-44.91 Z=799.43 Normal: X=-0.70 Y=-0.71 Z=0.00 PenetrationDepth:0.925 Actor:BP_keyDoor3_C_3 Component:Box BoneName:None (7 other events since notify)
+[2025.03.26-04.14.20:580][780]LogBlueprintUserMessages: [BP_Smoke_C_33] Smoke Damage Recieved
+[2025.03.26-04.14.21:319][810]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.26-04.14.21:831][834]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.26-04.14.21:967][840]LogCharacterMovement: BP_Zombie_C_57 is stuck and failed to move! Velocity: X=-245.40 Y=772.06 Z=0.00 Location: X=790.75 Y=319.40 Z=839.76 Normal: X=0.75 Y=0.36 Z=-0.55 PenetrationDepth:3.179 Actor:StaticMeshActor_44 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2025.03.26-04.14.22:864][882]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.26-04.14.23:499][915]LogBlueprintUserMessages: [BP_key1_C_2] LAB ROOM KEY FOUND
+[2025.03.26-04.14.23:558][918]LogCharacterMovement: BP_Zombie_C_46 is stuck and failed to move! Velocity: X=-1.39 Y=20.66 Z=0.00 Location: X=2887.22 Y=-821.36 Z=841.20 Normal: X=-0.89 Y=-0.46 Z=-0.00 PenetrationDepth:0.289 Actor:BP_Zombie_C_48 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2025.03.26-04.14.24:598][972]LogCharacterMovement: BP_Zombie_C_46 is stuck and failed to move! Velocity: X=1.47 Y=20.66 Z=0.00 Location: X=2845.47 Y=-877.15 Z=841.20 Normal: X=0.27 Y=-0.96 Z=0.00 PenetrationDepth:0.001 Actor:StaticMeshActor_86 Component:StaticMeshComponent0 BoneName:None (45 other events since notify)
+[2025.03.26-04.14.25:876][ 36]LogBlueprintUserMessages: [BP_Zombie_C_57] TST.......Zombie recieved Damage
+[2025.03.26-04.14.25:961][ 40]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.26-04.14.26:021][ 43]LogBlueprintUserMessages: [BP_Zombie_C_57] TST.......Zombie recieved Damage
+[2025.03.26-04.14.26:271][ 56]LogCharacterMovement: BP_Zombie_C_46 is stuck and failed to move! Velocity: X=4.54 Y=20.21 Z=0.00 Location: X=2794.90 Y=-879.46 Z=841.20 Normal: X=-0.85 Y=0.52 Z=-0.00 PenetrationDepth:0.056 Actor:BP_Zombie_C_48 Component:CharacterMesh0 BoneName:RightHand (3 other events since notify)
+[2025.03.26-04.14.26:413][ 63]LogBlueprintUserMessages: [BP_Zombie_C_57] TST.......Zombie recieved Damage
+[2025.03.26-04.14.26:474][ 66]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.26-04.14.26:551][ 70]LogBlueprintUserMessages: [BP_Zombie_C_57] TST.......Zombie recieved Damage
+[2025.03.26-04.14.26:799][ 83]LogBlueprintUserMessages: [BP_Zombie_C_57] TST.......Zombie recieved Damage
+[2025.03.26-04.14.26:975][ 92]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.26-04.14.27:179][102]LogBlueprintUserMessages: [BP_Zombie_C_57] TST.......Zombie recieved Damage
+[2025.03.26-04.14.27:296][108]LogCharacterMovement: BP_Zombie_C_46 is stuck and failed to move! Velocity: X=5.77 Y=19.89 Z=0.00 Location: X=2773.28 Y=-879.47 Z=841.20 Normal: X=-0.86 Y=0.51 Z=-0.00 PenetrationDepth:0.010 Actor:BP_Zombie_C_48 Component:CharacterMesh0 BoneName:RightHand (39 other events since notify)
+[2025.03.26-04.14.27:342][110]LogBlueprintUserMessages: [BP_Zombie_C_57] TST.......Zombie recieved Damage
+[2025.03.26-04.14.27:464][116]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.26-04.14.27:708][129]LogBlueprintUserMessages: [BP_Zombie_C_57] TST.......Zombie recieved Damage
+[2025.03.26-04.14.27:898][139]LogCharacterMovement: BP_Zombie_C_41 is stuck and failed to move! Velocity: X=-2.41 Y=20.57 Z=0.00 Location: X=1579.32 Y=-735.15 Z=841.20 Normal: X=0.17 Y=-0.99 Z=-0.00 PenetrationDepth:0.551 Actor:BP_Zombie_C_37 Component:CharacterMesh0 BoneName:LeftHand (10 other events since notify)
+[2025.03.26-04.14.27:976][143]LogBlueprintUserMessages: [BP_Zombie_C_57] Zombie Damage Recieved
+[2025.03.26-04.14.28:912][192]LogCharacterMovement: BP_Zombie_C_41 is stuck and failed to move! Velocity: X=-2.31 Y=20.58 Z=0.00 Location: X=1578.67 Y=-734.84 Z=841.20 Normal: X=0.25 Y=0.97 Z=-0.00 PenetrationDepth:22.707 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:RightHand (52 other events since notify)
+[2025.03.26-04.14.32:842][386]LogBlueprintUserMessages: [BP_Zombie_C_37] Zombie Damage Recieved
+[2025.03.26-04.14.33:352][412]LogBlueprintUserMessages: [BP_Zombie_C_37] Zombie Damage Recieved
+[2025.03.26-04.14.33:850][436]LogBlueprintUserMessages: [BP_Zombie_C_37] Zombie Damage Recieved
+[2025.03.26-04.14.35:623][529]LogBlueprintUserMessages: [BP_OpenExitArea_C_1] FIND THE EXPLODED EXIT
+[2025.03.26-04.14.37:145][609]LogCharacterMovement: BP_Zombie_C_44 is stuck and failed to move! Velocity: X=301.95 Y=-256.50 Z=0.00 Location: X=2052.63 Y=41.13 Z=839.08 Normal: X=-0.88 Y=-0.42 Z=-0.21 PenetrationDepth:0.416 Actor:BP_Zombie_C_37 Component:CharacterMesh0 BoneName:LeftArm (12 other events since notify)
+[2025.03.26-04.14.37:659][634]LogCharacterMovement: BP_Zombie_C_37 is stuck and failed to move! Velocity: X=209.80 Y=38.17 Z=0.00 Location: X=2137.43 Y=144.09 Z=841.20 Normal: X=0.12 Y=0.99 Z=-0.00 PenetrationDepth:0.662 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:RightArm (13 other events since notify)
+[2025.03.26-04.14.40:645][787]LogBlueprintUserMessages: [BP_Zombie_C_37] Zombie Damage Recieved
+[2025.03.26-04.14.41:150][812]LogBlueprintUserMessages: [BP_Zombie_C_37] Zombie Damage Recieved
+[2025.03.26-04.14.41:655][837]LogBlueprintUserMessages: [BP_Zombie_C_37] Zombie Damage Recieved
+[2025.03.26-04.14.42:103][860]LogBlueprintUserMessages: [BP_Zombie_C_37] TST.......Zombie recieved Damage
+[2025.03.26-04.14.42:148][862]LogBlueprintUserMessages: [BP_Zombie_C_37] Zombie Damage Recieved
+[2025.03.26-04.14.42:282][869]LogBlueprintUserMessages: [BP_Zombie_C_37] TST.......Zombie recieved Damage
+[2025.03.26-04.14.42:424][876]LogBlueprintUserMessages: [BP_Zombie_C_37] TST.......Zombie recieved Damage
+[2025.03.26-04.14.42:568][883]LogBlueprintUserMessages: [BP_Zombie_C_37] TST.......Zombie recieved Damage
+[2025.03.26-04.14.42:652][887]LogBlueprintUserMessages: [BP_Zombie_C_37] Zombie Damage Recieved
+[2025.03.26-04.14.42:716][890]LogBlueprintUserMessages: [BP_Zombie_C_37] TST.......Zombie recieved Damage
+[2025.03.26-04.14.42:809][894]LogBlueprintUserMessages: [BP_Zombie_C_37] TST.......Zombie recieved Damage
+[2025.03.26-04.14.43:103][909]LogBlueprintUserMessages: [BP_Zombie_C_37] TST.......Zombie recieved Damage
+[2025.03.26-04.14.43:146][911]LogBlueprintUserMessages: [BP_Zombie_C_37] Zombie Damage Recieved
+[2025.03.26-04.14.43:340][921]LogBlueprintUserMessages: [BP_Zombie_C_37] TST.......Zombie recieved Damage
+[2025.03.26-04.14.43:649][937]LogBlueprintUserMessages: [BP_Zombie_C_37] Zombie Damage Recieved
+[2025.03.26-04.14.43:904][950]LogBlueprintUserMessages: [BP_Zombie_C_37] TST.......Zombie recieved Damage
+[2025.03.26-04.14.44:061][958]LogBlueprintUserMessages: [BP_Zombie_C_37] TST.......Zombie recieved Damage
+[2025.03.26-04.14.44:144][962]LogBlueprintUserMessages: [BP_Zombie_C_37] Zombie Damage Recieved
+[2025.03.26-04.14.44:203][965]LogBlueprintUserMessages: [BP_Zombie_C_37] TST.......Zombie recieved Damage
+[2025.03.26-04.14.45:802][ 44]LogBlueprintUserMessages: [BP_Zombie_C_44] Zombie Damage Recieved
+[2025.03.26-04.14.46:296][ 70]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.26-04.14.46:296][ 70]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.03.26-04.14.58:848][817]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.26-04.14.58:848][817]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.03.26-04.14.58:856][817]LogBlueprintUserMessages: [BP_Zombie_C_44] Zombie Damage Recieved
+[2025.03.26-04.14.59:347][843]LogBlueprintUserMessages: [BP_Zombie_C_44] Zombie Damage Recieved
+[2025.03.26-04.14.59:849][869]LogBlueprintUserMessages: [BP_Zombie_C_44] Zombie Damage Recieved
+[2025.03.26-04.15.00:358][894]LogBlueprintUserMessages: [BP_Zombie_C_44] Zombie Damage Recieved
+[2025.03.26-04.15.00:858][919]LogBlueprintUserMessages: [BP_Zombie_C_44] Zombie Damage Recieved
+[2025.03.26-04.15.01:266][940]LogBlueprintUserMessages: [BP_Zombie_C_44] TST.......Zombie recieved Damage
+[2025.03.26-04.15.01:349][944]LogBlueprintUserMessages: [BP_Zombie_C_44] Zombie Damage Recieved
+[2025.03.26-04.15.01:555][953]LogBlueprintUserMessages: [BP_Zombie_C_44] TST.......Zombie recieved Damage
+[2025.03.26-04.15.01:723][961]LogBlueprintUserMessages: [BP_Zombie_C_44] TST.......Zombie recieved Damage
+[2025.03.26-04.15.01:826][966]LogBlueprintUserMessages: [BP_Zombie_C_44] TST.......Zombie recieved Damage
+[2025.03.26-04.15.01:850][967]LogBlueprintUserMessages: [BP_Zombie_C_44] Zombie Damage Recieved
+[2025.03.26-04.15.01:967][973]LogBlueprintUserMessages: [BP_Zombie_C_44] TST.......Zombie recieved Damage
+[2025.03.26-04.15.02:106][980]LogBlueprintUserMessages: [BP_Zombie_C_44] TST.......Zombie recieved Damage
+[2025.03.26-04.15.02:246][987]LogBlueprintUserMessages: [BP_Zombie_C_44] TST.......Zombie recieved Damage
+[2025.03.26-04.15.02:346][992]LogBlueprintUserMessages: [BP_Zombie_C_44] Zombie Damage Recieved
+[2025.03.26-04.15.02:483][999]LogBlueprintUserMessages: [BP_Zombie_C_44] TST.......Zombie recieved Damage
+[2025.03.26-04.15.02:795][ 15]LogBlueprintUserMessages: [BP_Zombie_C_44] TST.......Zombie recieved Damage
+[2025.03.26-04.15.02:853][ 18]LogBlueprintUserMessages: [BP_Zombie_C_44] Zombie Damage Recieved
+[2025.03.26-04.15.03:064][ 29]LogBlueprintUserMessages: [BP_Zombie_C_44] TST.......Zombie recieved Damage
+[2025.03.26-04.15.03:202][ 36]LogBlueprintUserMessages: [BP_Zombie_C_44] TST.......Zombie recieved Damage
+[2025.03.26-04.15.03:336][ 43]LogBlueprintUserMessages: [BP_Zombie_C_44] TST.......Zombie recieved Damage
+[2025.03.26-04.15.03:357][ 44]LogBlueprintUserMessages: [BP_Zombie_C_44] Zombie Damage Recieved
+[2025.03.26-04.15.03:458][ 49]LogBlueprintUserMessages: [BP_Zombie_C_44] TST.......Zombie recieved Damage
+[2025.03.26-04.15.05:166][118]LogBlueprintUserMessages: [BP_Zombie_C_41] TST.......Zombie recieved Damage
+[2025.03.26-04.15.05:959][155]LogBlueprintUserMessages: [BP_Zombie_C_41] TST.......Zombie recieved Damage
+[2025.03.26-04.15.06:516][180]LogBlueprintUserMessages: [BP_Zombie_C_41] TST.......Zombie recieved Damage
+[2025.03.26-04.15.07:776][240]LogBlueprintUserMessages: [BP_Zombie_C_41] TST.......Zombie recieved Damage
+[2025.03.26-04.15.07:931][247]LogBlueprintUserMessages: [BP_Zombie_C_41] TST.......Zombie recieved Damage
+[2025.03.26-04.15.12:977][514]LogCharacterMovement: BP_Zombie_C_50 is stuck and failed to move! Velocity: X=-20.61 Y=-2.03 Z=0.00 Location: X=2886.62 Y=-830.42 Z=841.20 Normal: X=-0.02 Y=1.00 Z=0.00 PenetrationDepth:0.214 Actor:BP_Zombie_C_48 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2025.03.26-04.15.13:406][537]LogBlueprintUserMessages: [BP_Smoke_C_33] Smoke Damage Recieved
+[2025.03.26-04.15.14:906][614]LogCharacterMovement: BP_Boy_C_1 is stuck and failed to move! Velocity: X=257.88 Y=11.94 Z=0.00 Location: X=82.71 Y=87.94 Z=831.91 Normal: X=0.83 Y=0.56 Z=0.00 PenetrationDepth:5.356 Actor:BP_keyDoor3_C_3 Component:Box BoneName:None (8 other events since notify)
+[2025.03.26-04.15.15:553][648]LogBlueprintUserMessages: [BP_Smoke_C_33] Smoke Damage Recieved
+[2025.03.26-04.15.20:309][898]LogBlueprintUserMessages: [BP_Smoke_C_35] Smoke Damage Recieved
+[2025.03.26-04.15.21:149][944]LogBlueprintUserMessages: [BP_Smoke_C_37] Smoke Damage Recieved
+[2025.03.26-04.15.22:354][ 11]LogCharacterMovement: BP_Zombie_C_48 is stuck and failed to move! Velocity: X=-20.67 Y=1.26 Z=0.00 Location: X=2816.95 Y=-911.23 Z=841.20 Normal: X=0.00 Y=1.00 Z=0.00 PenetrationDepth:0.567 Actor:StaticMeshActor_87 Component:StaticMeshComponent0 BoneName:None (19 other events since notify)
+[2025.03.26-04.15.23:369][ 65]LogCharacterMovement: BP_Zombie_C_48 is stuck and failed to move! Velocity: X=-20.67 Y=1.26 Z=0.00 Location: X=2816.95 Y=-911.23 Z=841.20 Normal: X=0.00 Y=1.00 Z=0.00 PenetrationDepth:0.567 Actor:StaticMeshActor_87 Component:StaticMeshComponent0 BoneName:None (53 other events since notify)
+[2025.03.26-04.15.24:383][121]LogCharacterMovement: BP_Zombie_C_48 is stuck and failed to move! Velocity: X=-20.67 Y=1.26 Z=0.00 Location: X=2816.95 Y=-911.23 Z=841.20 Normal: X=0.00 Y=1.00 Z=0.00 PenetrationDepth:0.567 Actor:StaticMeshActor_87 Component:StaticMeshComponent0 BoneName:None (55 other events since notify)
+[2025.03.26-04.15.25:399][175]LogCharacterMovement: BP_Zombie_C_48 is stuck and failed to move! Velocity: X=-20.67 Y=1.26 Z=0.00 Location: X=2816.95 Y=-911.23 Z=841.20 Normal: X=0.00 Y=1.00 Z=0.00 PenetrationDepth:0.567 Actor:StaticMeshActor_87 Component:StaticMeshComponent0 BoneName:None (53 other events since notify)
+[2025.03.26-04.15.26:399][230]LogCharacterMovement: BP_Zombie_C_48 is stuck and failed to move! Velocity: X=-20.67 Y=1.26 Z=0.00 Location: X=2816.95 Y=-911.23 Z=841.20 Normal: X=0.00 Y=1.00 Z=0.00 PenetrationDepth:0.567 Actor:StaticMeshActor_87 Component:StaticMeshComponent0 BoneName:None (54 other events since notify)
+[2025.03.26-04.15.27:248][272]LogBlueprintUserMessages: [BP_Zombie_C_28] TST.......Zombie recieved Damage
+[2025.03.26-04.15.27:681][294]LogBlueprintUserMessages: [BP_Zombie_C_28] TST.......Zombie recieved Damage
+[2025.03.26-04.15.28:156][319]LogBlueprintUserMessages: [BP_Zombie_C_28] TST.......Zombie recieved Damage
+[2025.03.26-04.15.28:412][333]LogBlueprintUserMessages: [BP_Zombie_C_28] TST.......Zombie recieved Damage
+[2025.03.26-04.15.28:416][333]LogBlueprintUserMessages: [BP_Zombie_C_28] Zombie Damage Recieved
+[2025.03.26-04.15.28:723][350]LogCharacterMovement: BP_Zombie_C_48 is stuck and failed to move! Velocity: X=-20.70 Y=0.71 Z=0.00 Location: X=2816.95 Y=-911.23 Z=841.20 Normal: X=0.00 Y=1.00 Z=0.00 PenetrationDepth:0.567 Actor:StaticMeshActor_87 Component:StaticMeshComponent0 BoneName:None (9 other events since notify)
+[2025.03.26-04.15.28:822][355]LogBlueprintUserMessages: [BP_Zombie_C_28] TST.......Zombie recieved Damage
+[2025.03.26-04.15.28:917][360]LogBlueprintUserMessages: [BP_Zombie_C_28] Zombie Damage Recieved
+[2025.03.26-04.15.28:957][362]LogBlueprintUserMessages: [BP_Zombie_C_28] TST.......Zombie recieved Damage
+[2025.03.26-04.15.29:126][371]LogBlueprintUserMessages: [BP_Zombie_C_28] TST.......Zombie recieved Damage
+[2025.03.26-04.15.29:284][379]LogBlueprintUserMessages: [BP_Zombie_C_28] TST.......Zombie recieved Damage
+[2025.03.26-04.15.29:413][386]LogBlueprintUserMessages: [BP_Zombie_C_28] Zombie Damage Recieved
+[2025.03.26-04.15.29:452][388]LogBlueprintUserMessages: [BP_Zombie_C_28] TST.......Zombie recieved Damage
+[2025.03.26-04.15.29:604][396]LogBlueprintUserMessages: [BP_Zombie_C_28] TST.......Zombie recieved Damage
+[2025.03.26-04.15.29:750][403]LogBlueprintUserMessages: [BP_Zombie_C_28] TST.......Zombie recieved Damage
+[2025.03.26-04.15.29:753][403]LogCharacterMovement: BP_Zombie_C_48 is stuck and failed to move! Velocity: X=-20.70 Y=0.71 Z=0.00 Location: X=2816.95 Y=-911.23 Z=841.20 Normal: X=0.00 Y=1.00 Z=0.00 PenetrationDepth:0.567 Actor:StaticMeshActor_87 Component:StaticMeshComponent0 BoneName:None (52 other events since notify)
+[2025.03.26-04.15.29:895][410]LogBlueprintUserMessages: [BP_Zombie_C_28] TST.......Zombie recieved Damage
+[2025.03.26-04.15.29:918][411]LogBlueprintUserMessages: [BP_Zombie_C_28] Zombie Damage Recieved
+[2025.03.26-04.15.30:012][416]LogBlueprintUserMessages: [BP_Zombie_C_28] TST.......Zombie recieved Damage
+[2025.03.26-04.15.30:166][424]LogBlueprintUserMessages: [BP_Zombie_C_28] TST.......Zombie recieved Damage
+[2025.03.26-04.15.30:318][432]LogBlueprintUserMessages: [BP_Zombie_C_28] TST.......Zombie recieved Damage
+[2025.03.26-04.15.30:412][437]LogBlueprintUserMessages: [BP_Zombie_C_28] Zombie Damage Recieved
+[2025.03.26-04.15.30:760][454]LogCharacterMovement: BP_Zombie_C_48 is stuck and failed to move! Velocity: X=-20.70 Y=0.71 Z=0.00 Location: X=2816.95 Y=-911.23 Z=841.20 Normal: X=0.00 Y=1.00 Z=0.00 PenetrationDepth:0.567 Actor:StaticMeshActor_87 Component:StaticMeshComponent0 BoneName:None (50 other events since notify)
+[2025.03.26-04.15.31:768][507]LogCharacterMovement: BP_Zombie_C_48 is stuck and failed to move! Velocity: X=-20.70 Y=0.71 Z=0.00 Location: X=2816.95 Y=-911.23 Z=841.20 Normal: X=0.00 Y=1.00 Z=0.00 PenetrationDepth:0.567 Actor:StaticMeshActor_87 Component:StaticMeshComponent0 BoneName:None (52 other events since notify)
+[2025.03.26-04.15.38:687][875]LogCharacterMovement: BP_Zombie_C_58 is stuck and failed to move! Velocity: X=13.04 Y=16.09 Z=0.00 Location: X=-9.85 Y=-257.30 Z=841.32 Normal: X=-0.15 Y=0.99 Z=-0.00 PenetrationDepth:12.850 Actor:BP_Zombie_C_59 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2025.03.26-04.15.39:734][932]LogCharacterMovement: BP_Zombie_C_58 is stuck and failed to move! Velocity: X=-0.63 Y=20.70 Z=0.00 Location: X=1.29 Y=-257.29 Z=841.20 Normal: X=0.52 Y=0.86 Z=-0.00 PenetrationDepth:1.209 Actor:BP_Zombie_C_59 Component:CharacterMesh0 BoneName:RightHand (22 other events since notify)
+[2025.03.26-04.15.40:026][948]LogBlueprintUserMessages: [BP_Smoke_C_5] Smoke Damage Recieved
+[2025.03.26-04.15.40:746][987]LogCharacterMovement: BP_Zombie_C_58 is stuck and failed to move! Velocity: X=-16.34 Y=12.72 Z=0.00 Location: X=11.69 Y=-256.10 Z=841.20 Normal: X=0.39 Y=0.92 Z=0.00 PenetrationDepth:23.566 Actor:BP_Zombie_C_59 Component:CharacterMesh0 BoneName:LeftHand (44 other events since notify)
+[2025.03.26-04.15.41:892][ 49]LogCharacterMovement: BP_Zombie_C_58 is stuck and failed to move! Velocity: X=-20.08 Y=5.08 Z=0.00 Location: X=42.58 Y=-257.30 Z=841.20 Normal: X=0.97 Y=0.25 Z=-0.00 PenetrationDepth:0.002 Actor:BP_Zombie_C_59 Component:CharacterMesh0 BoneName:LeftHand (35 other events since notify)
+[2025.03.26-04.15.42:895][102]LogCharacterMovement: BP_Zombie_C_58 is stuck and failed to move! Velocity: X=-20.34 Y=3.87 Z=0.00 Location: X=53.65 Y=-257.20 Z=841.20 Normal: X=0.68 Y=0.73 Z=-0.00 PenetrationDepth:53.167 Actor:BP_Zombie_C_59 Component:CharacterMesh0 BoneName:LeftArm (50 other events since notify)
+[2025.03.26-04.15.43:904][157]LogCharacterMovement: BP_Zombie_C_58 is stuck and failed to move! Velocity: X=-20.34 Y=3.87 Z=0.00 Location: X=53.65 Y=-257.20 Z=841.20 Normal: X=0.28 Y=-0.96 Z=-0.00 PenetrationDepth:57.986 Actor:BP_Zombie_C_59 Component:CharacterMesh0 BoneName:LeftHand (54 other events since notify)
+[2025.03.26-04.15.44:905][212]LogCharacterMovement: BP_Zombie_C_58 is stuck and failed to move! Velocity: X=-20.34 Y=3.87 Z=0.00 Location: X=53.65 Y=-257.20 Z=841.20 Normal: X=0.83 Y=0.56 Z=0.00 PenetrationDepth:4.996 Actor:BP_Zombie_C_59 Component:CharacterMesh0 BoneName:Hips (54 other events since notify)
+[2025.03.26-04.15.45:916][267]LogCharacterMovement: BP_Zombie_C_58 is stuck and failed to move! Velocity: X=6.46 Y=19.68 Z=0.00 Location: X=53.65 Y=-257.20 Z=841.20 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:10.835 Actor:StaticMeshActor_47 Component:StaticMeshComponent0 BoneName:None (54 other events since notify)
+[2025.03.26-04.15.46:925][320]LogCharacterMovement: BP_Zombie_C_58 is stuck and failed to move! Velocity: X=6.46 Y=19.68 Z=0.00 Location: X=53.65 Y=-257.20 Z=841.20 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:10.835 Actor:StaticMeshActor_47 Component:StaticMeshComponent0 BoneName:None (52 other events since notify)
+[2025.03.26-04.15.47:927][375]LogCharacterMovement: BP_Zombie_C_58 is stuck and failed to move! Velocity: X=6.46 Y=19.68 Z=0.00 Location: X=53.65 Y=-257.20 Z=841.20 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:10.835 Actor:StaticMeshActor_47 Component:StaticMeshComponent0 BoneName:None (54 other events since notify)
+[2025.03.26-04.15.48:939][430]LogCharacterMovement: BP_Zombie_C_58 is stuck and failed to move! Velocity: X=6.46 Y=19.68 Z=0.00 Location: X=53.65 Y=-257.20 Z=841.20 Normal: X=0.92 Y=-0.39 Z=0.00 PenetrationDepth:63.722 Actor:BP_Zombie_C_59 Component:CharacterMesh0 BoneName:RightHand (54 other events since notify)
+[2025.03.26-04.15.49:747][473]LogCharacterMovement: BP_Zombie_C_59 is stuck and failed to move! Velocity: X=19.91 Y=5.70 Z=0.00 Location: X=-68.03 Y=-266.34 Z=842.77 Normal: X=-0.99 Y=-0.13 Z=0.00 PenetrationDepth:1.633 Actor:BP_Zombie_C_58 Component:CharacterMesh0 BoneName:RightArm (0 other events since notify)
+[2025.03.26-04.15.51:337][556]LogBlueprintUserMessages: [BP_Smoke_C_3] Smoke Damage Recieved
+[2025.03.26-04.15.52:336][611]LogCharacterMovement: BP_Zombie_C_58 is stuck and failed to move! Velocity: X=-11.25 Y=-17.39 Z=0.00 Location: X=44.23 Y=-256.92 Z=841.20 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:1.408 Actor:StaticMeshActor_47 Component:StaticMeshComponent0 BoneName:None (41 other events since notify)
+[2025.03.26-04.16.02:181][126]LogCharacterMovement: BP_Boy_C_1 is stuck and failed to move! Velocity: X=-16.38 Y=257.63 Z=0.00 Location: X=-566.01 Y=136.69 Z=231.37 Normal: X=-0.70 Y=-0.72 Z=0.00 PenetrationDepth:3.376 Actor:BP_door_C_1 Component:doorcolision BoneName:None (4 other events since notify)
+[2025.03.26-04.16.03:594][199]LogCharacterMovement: BP_Zombie_C_59 is stuck and failed to move! Velocity: X=20.68 Y=1.15 Z=0.00 Location: X=-185.40 Y=-257.30 Z=841.16 Normal: X=-0.85 Y=0.52 Z=0.00 PenetrationDepth:0.006 Actor:BP_Zombie_C_58 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.26-04.16.08:589][469]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Level/LV_EndGame"
+[2025.03.26-04.16.08:589][469]LogNet: Browse: /Game/Level/LV_EndGame
+[2025.03.26-04.16.08:589][469]LogLoad: LoadMap: /Game/Level/LV_EndGame
+[2025.03.26-04.16.08:589][469]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV1
+[2025.03.26-04.16.08:593][469]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-04.16.08:598][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-04.16.08:647][469]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.26-04.16.08:657][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.03.26-04.16.08:663][469]LogStreaming: Display: FlushAsyncLoading(571): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.26-04.16.08:706][469]LogAudio: Display: Audio Device (ID: 13) registered with world 'LV_EndGame'.
+[2025.03.26-04.16.08:706][469]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_EndGame
+[2025.03.26-04.16.08:708][469]LogPlayLevel: PIE: World Init took: (0.002047s)
+[2025.03.26-04.16.08:708][469]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.26-04.16.08:709][469]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV_EndGame.LV_EndGame up for play (max tick rate 60) at 2025.03.26-00.16.08
+[2025.03.26-04.16.08:709][469]LogWorld: Bringing up level for play took: 0.000668
+[2025.03.26-04.16.08:709][469]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.03.26-04.16.08:712][469]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.26-04.16.08:712][469]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.03.26-04.16.08:712][469]LogLoad: Took 0.122991 seconds to LoadMap(/Game/Level/LV_EndGame)
+[2025.03.26-04.16.08:712][469]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Level/LV_EndGame
+[2025.03.26-04.16.08:714][469]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'scary-music-box-for-spooky-scenes-165983__1_'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.03.26-04.16.31:161][815]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5560.834473
+[2025.03.26-04.16.31:278][822]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.26-04.16.31:278][822]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5560.934570, Update Interval: 333.093658
+[2025.03.26-04.16.50:206][957]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Level/LV_MainMenu"
+[2025.03.26-04.16.50:206][957]LogNet: Browse: /Game/Level/LV_MainMenu
+[2025.03.26-04.16.50:206][957]LogLoad: LoadMap: /Game/Level/LV_MainMenu
+[2025.03.26-04.16.50:206][957]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV_EndGame
+[2025.03.26-04.16.50:208][957]LogWorld: UWorld::CleanupWorld for LV_EndGame, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-04.16.50:208][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-04.16.50:263][957]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.26-04.16.50:266][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.03.26-04.16.50:269][957]LogStreaming: Display: FlushAsyncLoading(572): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.26-04.16.50:302][957]LogAudio: Display: Audio Device (ID: 13) registered with world 'LV_MainMenu'.
+[2025.03.26-04.16.50:302][957]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_MainMenu
+[2025.03.26-04.16.50:304][957]LogPlayLevel: PIE: World Init took: (0.001783s)
+[2025.03.26-04.16.50:304][957]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.26-04.16.50:304][957]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu up for play (max tick rate 60) at 2025.03.26-00.16.50
+[2025.03.26-04.16.50:305][957]LogWorld: Bringing up level for play took: 0.000618
+[2025.03.26-04.16.50:305][957]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.03.26-04.16.50:308][957]LogLoad: Took 0.101746 seconds to LoadMap(/Game/Level/LV_MainMenu)
+[2025.03.26-04.16.50:308][957]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Level/LV_MainMenu
+[2025.03.26-04.16.50:310][957]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'caves-of-dawn-10376'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.03.26-04.17.00:742][583]Cmd: quit
+[2025.03.26-04.17.00:749][583]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.26-04.17.00:749][583]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV_MainMenu
+[2025.03.26-04.17.00:749][583]LogSlate: Window 'EscapeRoom Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.03.26-04.17.00:802][583]LogWorld: UWorld::CleanupWorld for LV_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-04.17.00:802][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-04.17.00:807][583]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.26-04.17.00:813][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-04.17.00:835][583]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.03.26-04.17.00:835][583]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.03.26-04.17.00:838][583]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.03.26-04.17.00:847][583]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.03.26-04.17.00:896][584]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2025.03.26-04.17.00:962][588]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Zombie_C /Engine/Transient.World_41:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Zombie_C_2
+	Function /Game/Characters/Zombie/ABP_Zombie.ABP_Zombie_C:ExecuteUbergraph_ABP_Zombie:0040
+[2025.03.26-04.17.00:981][589]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Zombie_C /Engine/Transient.World_41:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Zombie_C_3
+	Function /Game/Characters/Zombie/ABP_Zombie.ABP_Zombie_C:ExecuteUbergraph_ABP_Zombie:0040
+[2025.03.26-04.17.19:177][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.03.26-04.17.20:305][212]LogSlate: Window 'Save Content' being destroyed
+[2025.03.26-04.17.20:322][212]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.26-04.17.20:379][212]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.03.26-04.17.20:403][212]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.03.26-04.17.20:403][212]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.03.26-04.17.20:425][212]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.03.26-04.17.20:425][212]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/BP_FirstPersonCharacterF25F479F4866E17660E4B08902169E4B.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.03.26-04.17.20:427][212]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/W_EndGame] ([2] browsable assets)...
+[2025.03.26-04.17.20:431][212]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/W_EndGame.W_EndGame]
+[2025.03.26-04.17.20:431][212]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_EndGame]
+[2025.03.26-04.17.20:431][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_EndGame" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/UI/W_EndGame.uasset" SILENT=true
+[2025.03.26-04.17.20:443][212]LogSavePackage: Moving output files for package: /Game/UI/W_EndGame
+[2025.03.26-04.17.20:443][212]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/W_EndGame390AE53F4CD07AB115129B80A14247BF.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/UI/W_EndGame.uasset'
+[2025.03.26-04.17.20:458][212]LogFileHelpers: InternalPromptForCheckoutAndSave took 135.888 ms (total: 1.37 sec)
+[2025.03.26-04.17.20:522][212]LogContentValidation: Display: Starting to validate 2 assets
+[2025.03.26-04.17.20:522][212]LogContentValidation: Enabled validators:
+[2025.03.26-04.17.20:522][212]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.26-04.17.20:522][212]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.26-04.17.20:522][212]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.26-04.17.20:522][212]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.26-04.17.20:522][212]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.26-04.17.20:522][212]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.26-04.17.20:522][212]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.03.26-04.17.20:523][212]AssetCheck: /Game/UI/W_EndGame Validating asset
