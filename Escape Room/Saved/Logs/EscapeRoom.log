@@ -6015,3 +6015,1172 @@ LogConfig: CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable
 [2025.03.25-22.27.38:771][170]AssetCheck: /Game/Sound/SM_GameSound Validating asset
 [2025.03.25-22.27.38:774][170]AssetCheck: /Game/UI/W_Setting Validating asset
 [2025.03.25-22.27.38:774][170]AssetCheck: /Game/Sound/audio/zombie-15965 Validating asset
+[2025.03.25-22.29.52:353][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.03.25-22.30.09:700][454]LogStreaming: Display: FlushAsyncLoading(542): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.25-22.30.09:757][454]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\rawll\Downloads\caves-of-dawn-10376.mp3)
+[2025.03.25-22.30.10:090][454]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END wave caves-of-dawn-10376...
+[2025.03.25-22.30.10:920][454]LogAudioDerivedData: Display: caves-of-dawn-10376 compressed to 13.68% (from 34,969KB to 4,784KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.03.25-22.30.10:928][454]LogAudio: Display: Chunk stats for (SoundWave /Game/Sound/music/caves-of-dawn-10376.caves-of-dawn-10376: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=20, Chunk0=28 bytes, Chunk1=261243 bytes, ChunkN=261155)
+[2025.03.25-22.30.10:938][454]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END wave caves-of-dawn-10376...
+[2025.03.25-22.30.11:749][458]LogAudioDerivedData: Display: caves-of-dawn-10376 compressed to 13.68% (from 34,969KB to 4,784KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.03.25-22.30.11:754][458]LogAudio: Display: Chunk stats for (SoundWave /Game/Sound/music/caves-of-dawn-10376.caves-of-dawn-10376: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=20, Chunk0=28 bytes, Chunk1=261243 bytes, ChunkN=261155)
+[2025.03.25-22.30.18:964][499]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Sound/music/caves-of-dawn-10376.caves-of-dawn-10376
+[2025.03.25-22.30.48:286][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.03.25-22.30.49:767][298]LogSlate: Window 'Save Content' being destroyed
+[2025.03.25-22.30.49:777][298]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.25-22.30.49:835][298]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sound/music/caves-of-dawn-10376] ([1] browsable assets)...
+[2025.03.25-22.30.49:877][298]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sound/music/caves-of-dawn-10376.caves-of-dawn-10376]
+[2025.03.25-22.30.49:877][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/music/caves-of-dawn-10376]
+[2025.03.25-22.30.49:943][298]LogSavePackage: Moving output files for package: /Game/Sound/music/caves-of-dawn-10376
+[2025.03.25-22.30.49:943][298]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/caves-of-dawn-10376D8CD2F914A2358D75CFA649CE69B0F2D.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Sound/music/caves-of-dawn-10376.uasset'
+[2025.03.25-22.30.50:027][298]LogFileHelpers: InternalPromptForCheckoutAndSave took 250.066 ms (total: 999.693 ms)
+[2025.03.25-22.30.50:027][298]LogStreaming: Display: FlushAsyncLoading(547): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.25-22.30.50:063][298]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_MainMenu
+[2025.03.25-22.30.50:068][298]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/LV_MainMenu.LV_MainMenu
+[2025.03.25-22.30.50:069][298]Cmd: MAP LOAD FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/LV_MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.03.25-22.30.50:189][298]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.03.25-22.30.50:189][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.25-22.30.50:234][298]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.03.25-22.30.50:235][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.25-22.30.50:260][298]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.25-22.30.50:296][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.03.25-22.30.50:307][298]LogWorld: UWorld::CleanupWorld for LV_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.03.25-22.30.50:307][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.25-22.30.50:333][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.03.25-22.30.50:358][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.03.25-22.30.50:384][298]LogAudio: Display: Audio Device (ID: 1) registered with world 'LV_MainMenu'.
+[2025.03.25-22.30.50:385][298]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_MainMenu
+[2025.03.25-22.30.50:456][298]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.03.25-22.30.50:487][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.03.25-22.30.50:503][298]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.03.25-22.30.50:507][298]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3.147ms to complete.
+[2025.03.25-22.30.50:604][298]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.25-22.30.50:604][298]LogContentValidation: Enabled validators:
+[2025.03.25-22.30.50:604][298]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.25-22.30.50:604][298]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.25-22.30.50:604][298]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.25-22.30.50:604][298]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.25-22.30.50:604][298]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.25-22.30.50:604][298]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.25-22.30.50:604][298]AssetCheck: /Game/Sound/music/caves-of-dawn-10376 Validating asset
+[2025.03.25-22.30.50:647][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.03.25-22.30.56:636][959]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Level/LV_MainMenu.LV_MainMenu:PersistentLevel.LV_MainMenu
+[2025.03.25-22.30.56:638][959]LogChaosDD: Creating Chaos Debug Draw Scene for world World_25
+[2025.03.25-22.32.11:884][304]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11802.355469
+[2025.03.25-22.32.11:975][315]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.25-22.32.11:975][315]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11802.438477, Update Interval: 311.160614
+[2025.03.25-22.32.24:803][852]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.03.25-22.32.24:821][852]LogPlayLevel: [PlayLevel] Compiling BP_Sound before play...
+[2025.03.25-22.32.24:839][852]LogPlayLevel: [PlayLevel] Compiling BP_FirstPersonCharacter before play...
+[2025.03.25-22.32.24:903][852]LogPlayLevel: [PlayLevel] Compiling BP_Zombie before play...
+[2025.03.25-22.32.24:941][852]LogPlayLevel: [PlayLevel] Compiling BP_Fire before play...
+[2025.03.25-22.32.24:948][852]LogPlayLevel: [PlayLevel] Compiling BP_Smoke before play...
+[2025.03.25-22.32.24:953][852]LogPlayLevel: [PlayLevel] Compiling BP_BrokenWall before play...
+[2025.03.25-22.32.24:978][852]LogPlayLevel: [PlayLevel] Compiling BP_OpenExitArea before play...
+[2025.03.25-22.32.25:005][852]LogPlayLevel: [PlayLevel] Compiling LV_MainMenu before play...
+[2025.03.25-22.32.25:069][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.03.25-22.32.25:072][852]LogPlayLevel: PlayLevel: Blueprint regeneration took 252 ms (8 blueprints)
+[2025.03.25-22.32.25:077][852]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV_MainMenu
+[2025.03.25-22.32.25:080][852]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003431s)
+[2025.03.25-22.32.25:080][852]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV_MainMenu.LV_MainMenu to /Game/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu (0.003503s)
+[2025.03.25-22.32.25:100][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.03.25-22.32.25:102][852]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_MainMenu
+[2025.03.25-22.32.25:105][852]LogPlayLevel: PIE: World Init took: (0.003209s)
+[2025.03.25-22.32.25:106][852]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.03.25-22.32.25:107][852]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.25-22.32.25:107][852]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.25-22.32.25:107][852]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.25-22.32.25:107][852]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.25-22.32.25:107][852]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.25-22.32.25:107][852]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.25-22.32.25:107][852]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.25-22.32.25:107][852]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.25-22.32.25:108][852]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.25-22.32.25:108][852]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.25-22.32.25:108][852]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.25-22.32.25:110][852]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.25-22.32.25:135][852]LogAudioMixer: Display: Using Audio Hardware Device Headphones (SoundCore mini)
+[2025.03.25-22.32.25:137][852]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.25-22.32.25:137][852]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.25-22.32.25:137][852]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.25-22.32.25:138][852]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.03.25-22.32.25:138][852]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.03.25-22.32.25:141][852]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.03.25-22.32.25:141][852]LogInit: FAudioDevice initialized with ID 3.
+[2025.03.25-22.32.25:141][852]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.03.25-22.32.25:141][852]LogAudio: Display: Audio Device (ID: 3) registered with world 'LV_MainMenu'.
+[2025.03.25-22.32.25:141][852]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.03.25-22.32.25:213][852]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.25-22.32.25:217][852]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.25-22.32.25:219][852]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu up for play (max tick rate 0) at 2025.03.25-18.32.25
+[2025.03.25-22.32.25:220][852]LogWorld: Bringing up level for play took: 0.002587
+[2025.03.25-22.32.25:228][852]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2025.03.25-22.32.25:252][852]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.25-22.32.25:252][852]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.03.25-22.32.25:265][852]PIE: Server logged in
+[2025.03.25-22.32.25:268][852]PIE: Play in editor total start time 0.451 seconds.
+[2025.03.25-22.33.05:014][816]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.25-22.33.05:014][816]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.03.25-22.33.05:027][817]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Level/LV1"
+[2025.03.25-22.33.05:027][817]LogNet: Browse: /Game/Level/LV1
+[2025.03.25-22.33.05:028][817]LogLoad: LoadMap: /Game/Level/LV1
+[2025.03.25-22.33.05:028][817]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV_MainMenu
+[2025.03.25-22.33.05:029][817]LogWorld: UWorld::CleanupWorld for LV_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.03.25-22.33.05:030][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.25-22.33.05:082][817]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.25-22.33.05:085][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.03.25-22.33.05:090][817]LogStreaming: Display: FlushAsyncLoading(549): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.25-22.33.05:212][817]LogAudio: Display: Audio Device (ID: 3) registered with world 'LV1'.
+[2025.03.25-22.33.05:212][817]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.03.25-22.33.05:215][817]LogPlayLevel: PIE: World Init took: (0.002599s)
+[2025.03.25-22.33.05:215][817]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.25-22.33.05:295][817]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV1.LV1 up for play (max tick rate 0) at 2025.03.25-18.33.05
+[2025.03.25-22.33.05:322][817]LogWorld: Bringing up level for play took: 0.106874
+[2025.03.25-22.33.05:363][817]LogLoad: Took 0.334841 seconds to LoadMap(/Game/Level/LV1)
+[2025.03.25-22.33.05:363][817]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Level/LV1
+[2025.03.25-22.33.15:829][417]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.25-22.33.15:829][417]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV1
+[2025.03.25-22.33.15:830][417]LogSlate: Window 'EscapeRoom Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.03.25-22.33.15:840][417]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.03.25-22.33.15:848][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.25-22.33.15:854][417]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.25-22.33.15:861][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.25-22.33.15:890][417]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.03.25-22.33.15:890][417]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.03.25-22.33.15:892][417]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.03.25-22.33.15:912][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.03.25-22.33.15:942][418]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2025.03.25-22.38.16:524][105]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12167.110352
+[2025.03.25-22.38.16:616][113]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.25-22.38.16:616][113]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12167.191406, Update Interval: 334.880829
+[2025.03.25-22.39.15:294][831]LogEditorTransaction: Undo Paste Property
+[2025.03.25-22.39.31:085][534]LogEditorTransaction: Undo Paste Property
+[2025.03.25-22.41.04:786][179]LogEditorTransaction: Undo Edit X
+[2025.03.25-22.41.10:671][790]Cmd: TRANSACTION UNDO
+[2025.03.25-22.41.10:671][790]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2025.03.25-22.41.35:051][527]LogEditorTransaction: Undo Reset to Default
+[2025.03.25-22.43.14:147][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.03.25-22.44.40:902][408]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12551.578125
+[2025.03.25-22.44.40:985][418]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.25-22.44.40:985][418]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12551.652344, Update Interval: 331.930908
+[2025.03.25-22.45.12:072][298]LogEditorTransaction: Undo Move Node
+[2025.03.25-22.46.34:892][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.03.25-22.46.34:900][655]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level/LV_MainMenu_Auto5
+[2025.03.25-22.46.34:900][655]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/LV_MainMenu_Auto5ADF863E0438921AF5B315CB5FBB0EDFF.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/Level/LV_MainMenu_Auto5.umap'
+[2025.03.25-22.46.34:903][655]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/LV_MainMenu' took 0.048
+[2025.03.25-22.46.34:903][655]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.048
+[2025.03.25-22.46.34:903][655]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/W_Setting] ([2] browsable assets)...
+[2025.03.25-22.46.34:914][655]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/W_Setting.W_Setting]
+[2025.03.25-22.46.34:915][655]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_Setting]
+[2025.03.25-22.46.34:965][655]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/W_Setting_Auto5
+[2025.03.25-22.46.34:966][655]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/W_Setting_Auto56E4CC7734115AD6B198CD1BC45BEB88E.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/UI/W_Setting_Auto5.uasset'
+[2025.03.25-22.46.34:967][655]LogFileHelpers: Auto-saving content packages took 0.064
+[2025.03.25-22.47.13:518][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.03.25-22.47.32:975][ 71]LogDerivedDataCache: C:/Users/rawll/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.03.25-22.49.51:614][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.03.25-22.50.14:162][260]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Level/GI_MyGameInstance.GI_MyGameInstance
+[2025.03.25-22.50.14:162][260]LogChaosDD: Creating Chaos Debug Draw Scene for world World_26
+[2025.03.25-22.50.58:976][124]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12929.681641
+[2025.03.25-22.50.59:124][134]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.25-22.50.59:124][134]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12929.802734, Update Interval: 345.739319
+[2025.03.25-22.53.42:462][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.03.25-22.56.21:173][548]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.03.25-22.56.49:948][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.03.25-22.56.54:651][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.03.25-22.56.54:657][372]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/LV_MainMenu' took 0.027
+[2025.03.25-22.56.54:658][372]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/W_Setting] ([2] browsable assets)...
+[2025.03.25-22.56.54:664][372]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/W_Setting.W_Setting]
+[2025.03.25-22.56.54:664][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_Setting]
+[2025.03.25-22.56.54:714][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/W_Setting_Auto6
+[2025.03.25-22.56.54:715][372]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/W_Setting_Auto6DAB89BF748FC2DFA39C4628DE69CD7A9.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/UI/W_Setting_Auto6.uasset'
+[2025.03.25-22.56.54:716][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SaveGame/SaveSetting] ([2] browsable assets)...
+[2025.03.25-22.56.54:716][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/SaveGame/SaveSetting]
+[2025.03.25-22.56.54:717][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SaveGame/SaveSetting_Auto6
+[2025.03.25-22.56.54:717][372]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/SaveSetting_Auto6EA4E3CCC46B5880D362024A371B611BA.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/SaveGame/SaveSetting_Auto6.uasset'
+[2025.03.25-22.56.54:718][372]LogFileHelpers: Auto-saving content packages took 0.061
+[2025.03.25-22.57.40:618][762]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13331.654297
+[2025.03.25-22.57.40:726][770]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.25-22.57.40:726][770]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13331.750000, Update Interval: 339.269989
+[2025.03.25-23.04.03:621][344]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13714.666016
+[2025.03.25-23.04.04:622][347]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.25-23.04.04:622][348]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13715.333008, Update Interval: 300.056763
+[2025.03.25-23.06.55:878][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.03.25-23.06.55:880][186]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/LV_MainMenu' took 0.029
+[2025.03.25-23.06.55:881][186]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SaveGame/SaveSetting] ([2] browsable assets)...
+[2025.03.25-23.06.55:881][186]OBJ SavePackage: Finished generating thumbnails for package [/Game/SaveGame/SaveSetting]
+[2025.03.25-23.06.55:883][186]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SaveGame/SaveSetting_Auto7
+[2025.03.25-23.06.55:883][186]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/SaveSetting_Auto7D00C7F854AD7B1DFA6CF6F9CE7DAFAA0.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/SaveGame/SaveSetting_Auto7.uasset'
+[2025.03.25-23.06.55:885][186]LogFileHelpers: Auto-saving content packages took 0.004
+[2025.03.25-23.09.50:485][ 52]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14061.976562
+[2025.03.25-23.09.50:578][ 59]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.25-23.09.50:578][ 59]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14062.058594, Update Interval: 318.171936
+[2025.03.25-23.10.34:745][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.03.25-23.11.08:052][778]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/W_PausedGameMenu.W_PausedGameMenu
+[2025.03.25-23.11.08:052][778]LogChaosDD: Creating Chaos Debug Draw Scene for world World_27
+[2025.03.25-23.11.08:058][778]LogChaosDD: Creating Chaos Debug Draw Scene for world World_28
+[2025.03.25-23.14.17:195][195]LogSlate: Window 'W_PausedGameMenu' being destroyed
+[2025.03.25-23.14.33:714][  4]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.03.25-23.14.33:714][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.25-23.14.33:814][  4]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.03.25-23.14.37:282][416]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.03.25-23.14.37:282][416]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.25-23.14.37:370][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.03.25-23.15.56:952][145]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14428.422852
+[2025.03.25-23.15.57:030][152]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.25-23.15.57:030][152]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14428.490234, Update Interval: 339.694824
+[2025.03.25-23.19.54:296][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.03.25-23.19.54:300][742]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/LV_MainMenu' took 0.060
+[2025.03.25-23.19.54:300][742]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/W_Setting] ([2] browsable assets)...
+[2025.03.25-23.19.54:306][742]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/W_Setting.W_Setting]
+[2025.03.25-23.19.54:306][742]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_Setting]
+[2025.03.25-23.19.54:356][742]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/W_Setting_Auto8
+[2025.03.25-23.19.54:357][742]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/W_Setting_Auto8D1C71951400746A6E529AAACF398DBA3.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/UI/W_Setting_Auto8.uasset'
+[2025.03.25-23.19.54:358][742]LogFileHelpers: Auto-saving content packages took 0.058
+[2025.03.25-23.22.27:154][857]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14818.659180
+[2025.03.25-23.22.28:154][860]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.25-23.22.28:154][861]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14819.326172, Update Interval: 333.465393
+[2025.03.25-23.28.43:332][110]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15194.853516
+[2025.03.25-23.28.43:549][117]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.25-23.28.43:549][117]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15194.956055, Update Interval: 341.013214
+[2025.03.25-23.30.09:191][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.03.25-23.30.09:194][847]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/LV_MainMenu' took 0.028
+[2025.03.25-23.30.09:195][847]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/W_Setting] ([2] browsable assets)...
+[2025.03.25-23.30.09:200][847]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/W_Setting.W_Setting]
+[2025.03.25-23.30.09:200][847]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_Setting]
+[2025.03.25-23.30.09:252][847]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/W_Setting_Auto9
+[2025.03.25-23.30.09:253][847]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/W_Setting_Auto9069AD0624A00EEACEAD3D2B69BBB8526.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/UI/W_Setting_Auto9.uasset'
+[2025.03.25-23.30.09:255][847]LogFileHelpers: Auto-saving content packages took 0.061
+[2025.03.25-23.32.55:826][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.03.25-23.33.45:437][909]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 273...fc9
+[2025.03.25-23.33.45:437][909]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.99 RefreshExpires: 1.548e+07
+[2025.03.25-23.33.45:562][924]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 273...fc9 Access[Expires: 2025.03.26-01.33.49 Remaining: 7200.67] Refresh[Expires: 2025-09-21T02:31:31.268Z Remaining: 15476262.27] State: Valid
+[2025.03.25-23.34.56:093][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.03.25-23.34.56:857][431]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15568.384766
+[2025.03.25-23.34.56:946][437]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.25-23.34.56:946][437]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15568.458984, Update Interval: 323.689087
+[2025.03.25-23.38.23:255][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.03.25-23.39.06:110][334]LogEditorTransaction: Undo Delete current selection
+[2025.03.25-23.41.15:109][415]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15946.465820
+[2025.03.25-23.41.15:192][420]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.25-23.41.15:192][420]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15946.533203, Update Interval: 304.255493
+[2025.03.25-23.43.51:090][895]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.03.25-23.43.51:099][895]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level/LV_MainMenu_Auto0
+[2025.03.25-23.43.51:099][895]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/LV_MainMenu_Auto070C51FAE425C1F0E0D6CD9A20436F761.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/Level/LV_MainMenu_Auto0.umap'
+[2025.03.25-23.43.51:101][895]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/LV_MainMenu' took 0.035
+[2025.03.25-23.43.51:101][895]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.035
+[2025.03.25-23.43.51:101][895]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/W_Setting] ([2] browsable assets)...
+[2025.03.25-23.43.51:109][895]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/W_Setting.W_Setting]
+[2025.03.25-23.43.51:109][895]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_Setting]
+[2025.03.25-23.43.51:170][895]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/W_Setting_Auto0
+[2025.03.25-23.43.51:170][895]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/W_Setting_Auto0147B742547699CBF0592EC862890BC82.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/UI/W_Setting_Auto0.uasset'
+[2025.03.25-23.43.51:172][895]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SaveGame/SaveSetting] ([2] browsable assets)...
+[2025.03.25-23.43.51:172][895]OBJ SavePackage: Finished generating thumbnails for package [/Game/SaveGame/SaveSetting]
+[2025.03.25-23.43.51:174][895]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SaveGame/SaveSetting_Auto0
+[2025.03.25-23.43.51:174][895]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/SaveSetting_Auto05FB2750A49BF6BF58FA658A9DD6CA8EE.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/SaveGame/SaveSetting_Auto0.uasset'
+[2025.03.25-23.43.51:174][895]LogFileHelpers: Auto-saving content packages took 0.073
+[2025.03.25-23.46.52:946][370]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16284.190430
+[2025.03.25-23.46.53:048][376]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.25-23.46.53:048][376]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16284.274414, Update Interval: 301.884216
+[2025.03.25-23.47.32:976][803]LogDerivedDataCache: C:/Users/rawll/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.03.25-23.51.09:631][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.03.25-23.51.46:967][185]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.03.25-23.51.46:980][185]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.25-23.51.46:980][185]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV_MainMenu
+[2025.03.25-23.51.46:982][185]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001559s)
+[2025.03.25-23.51.46:982][185]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV_MainMenu.LV_MainMenu to /Game/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu (0.001637s)
+[2025.03.25-23.51.47:004][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.03.25-23.51.47:006][185]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_MainMenu
+[2025.03.25-23.51.47:008][185]LogPlayLevel: PIE: World Init took: (0.002118s)
+[2025.03.25-23.51.47:009][185]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.03.25-23.51.47:009][185]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.25-23.51.47:009][185]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.25-23.51.47:009][185]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.25-23.51.47:009][185]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.25-23.51.47:009][185]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.25-23.51.47:009][185]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.25-23.51.47:009][185]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.25-23.51.47:009][185]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.25-23.51.47:009][185]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.25-23.51.47:009][185]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.25-23.51.47:009][185]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.25-23.51.47:011][185]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.25-23.51.47:037][185]LogAudioMixer: Display: Using Audio Hardware Device Headphones (SoundCore mini)
+[2025.03.25-23.51.47:038][185]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.25-23.51.47:038][185]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.25-23.51.47:038][185]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.25-23.51.47:038][185]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.03.25-23.51.47:038][185]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.03.25-23.51.47:041][185]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.03.25-23.51.47:041][185]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.03.25-23.51.47:041][185]LogInit: FAudioDevice initialized with ID 4.
+[2025.03.25-23.51.47:041][185]LogAudio: Display: Audio Device (ID: 4) registered with world 'LV_MainMenu'.
+[2025.03.25-23.51.47:041][185]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.03.25-23.51.47:102][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.25-23.51.47:103][185]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.25-23.51.47:105][185]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu up for play (max tick rate 60) at 2025.03.25-19.51.47
+[2025.03.25-23.51.47:106][185]LogWorld: Bringing up level for play took: 0.002668
+[2025.03.25-23.51.47:108][185]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2025.03.25-23.51.47:109][185]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.03.25-23.51.47:114][185]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.25-23.51.47:114][185]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.03.25-23.51.47:126][185]PIE: Server logged in
+[2025.03.25-23.51.47:135][185]PIE: Play in editor total start time 0.156 seconds.
+[2025.03.25-23.51.50:722][385]LogWindows: WindowsPlatformFeatures enabled
+[2025.03.25-23.52.26:496][528]LogScript: Warning: Accessed None trying to read property settings
+	W_Setting_C /Engine/Transient.UnrealEdEngine_0:GI_MyGameInstance_C_2.W_Setting_C_1
+	Function /Game/UI/W_Setting.W_Setting_C:ExecuteUbergraph_W_Setting:08C1
+[2025.03.25-23.52.26:497][528]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.52.26:497][528]LogScript: Warning: Attempted to assign to None
+	W_Setting_C /Engine/Transient.UnrealEdEngine_0:GI_MyGameInstance_C_2.W_Setting_C_1
+	Function /Game/UI/W_Setting.W_Setting_C:ExecuteUbergraph_W_Setting:08D6
+[2025.03.25-23.52.26:497][528]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.52.26:497][528]LogScript: Warning: Accessed None trying to read property settings
+	W_Setting_C /Engine/Transient.UnrealEdEngine_0:GI_MyGameInstance_C_2.W_Setting_C_1
+	Function /Game/UI/W_Setting.W_Setting_C:ExecuteUbergraph_W_Setting:08FF
+[2025.03.25-23.52.26:497][528]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.52.26:497][528]LogScript: Warning: Accessed None trying to read property settings
+	W_Setting_C /Engine/Transient.UnrealEdEngine_0:GI_MyGameInstance_C_2.W_Setting_C_1
+	Function /Game/UI/W_Setting.W_Setting_C:ExecuteUbergraph_W_Setting:09A9
+[2025.03.25-23.52.26:497][528]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.52.26:497][528]LogScript: Warning: Attempted to assign to None
+	W_Setting_C /Engine/Transient.UnrealEdEngine_0:GI_MyGameInstance_C_2.W_Setting_C_1
+	Function /Game/UI/W_Setting.W_Setting_C:ExecuteUbergraph_W_Setting:09BE
+[2025.03.25-23.52.26:497][528]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.52.26:497][528]LogScript: Warning: Accessed None trying to read property settings
+	W_Setting_C /Engine/Transient.UnrealEdEngine_0:GI_MyGameInstance_C_2.W_Setting_C_1
+	Function /Game/UI/W_Setting.W_Setting_C:ExecuteUbergraph_W_Setting:09E7
+[2025.03.25-23.52.26:497][528]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.52.29:128][686]LogScript: Warning: Accessed None trying to read property settings
+	W_Setting_C /Engine/Transient.UnrealEdEngine_0:GI_MyGameInstance_C_2.W_Setting_C_1
+	Function /Game/UI/W_Setting.W_Setting_C:ExecuteUbergraph_W_Setting:08C1
+[2025.03.25-23.52.29:128][686]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.52.29:128][686]LogScript: Warning: Attempted to assign to None
+	W_Setting_C /Engine/Transient.UnrealEdEngine_0:GI_MyGameInstance_C_2.W_Setting_C_1
+	Function /Game/UI/W_Setting.W_Setting_C:ExecuteUbergraph_W_Setting:08D6
+[2025.03.25-23.52.29:128][686]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.52.29:128][686]LogScript: Warning: Accessed None trying to read property settings
+	W_Setting_C /Engine/Transient.UnrealEdEngine_0:GI_MyGameInstance_C_2.W_Setting_C_1
+	Function /Game/UI/W_Setting.W_Setting_C:ExecuteUbergraph_W_Setting:08FF
+[2025.03.25-23.52.29:128][686]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.52.29:128][686]LogScript: Warning: Accessed None trying to read property settings
+	W_Setting_C /Engine/Transient.UnrealEdEngine_0:GI_MyGameInstance_C_2.W_Setting_C_1
+	Function /Game/UI/W_Setting.W_Setting_C:ExecuteUbergraph_W_Setting:09A9
+[2025.03.25-23.52.29:128][686]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.52.29:128][686]LogScript: Warning: Attempted to assign to None
+	W_Setting_C /Engine/Transient.UnrealEdEngine_0:GI_MyGameInstance_C_2.W_Setting_C_1
+	Function /Game/UI/W_Setting.W_Setting_C:ExecuteUbergraph_W_Setting:09BE
+[2025.03.25-23.52.29:128][686]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.52.29:128][686]LogScript: Warning: Accessed None trying to read property settings
+	W_Setting_C /Engine/Transient.UnrealEdEngine_0:GI_MyGameInstance_C_2.W_Setting_C_1
+	Function /Game/UI/W_Setting.W_Setting_C:ExecuteUbergraph_W_Setting:09E7
+[2025.03.25-23.52.29:128][686]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.52.29:596][714]LogScript: Warning: Accessed None trying to read property settings
+	W_Setting_C /Engine/Transient.UnrealEdEngine_0:GI_MyGameInstance_C_2.W_Setting_C_1
+	Function /Game/UI/W_Setting.W_Setting_C:ExecuteUbergraph_W_Setting:08C1
+[2025.03.25-23.52.29:596][714]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.52.29:596][714]LogScript: Warning: Attempted to assign to None
+	W_Setting_C /Engine/Transient.UnrealEdEngine_0:GI_MyGameInstance_C_2.W_Setting_C_1
+	Function /Game/UI/W_Setting.W_Setting_C:ExecuteUbergraph_W_Setting:08D6
+[2025.03.25-23.52.29:596][714]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.52.29:596][714]LogScript: Warning: Accessed None trying to read property settings
+	W_Setting_C /Engine/Transient.UnrealEdEngine_0:GI_MyGameInstance_C_2.W_Setting_C_1
+	Function /Game/UI/W_Setting.W_Setting_C:ExecuteUbergraph_W_Setting:08FF
+[2025.03.25-23.52.29:596][714]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.52.29:596][714]LogScript: Warning: Accessed None trying to read property settings
+	W_Setting_C /Engine/Transient.UnrealEdEngine_0:GI_MyGameInstance_C_2.W_Setting_C_1
+	Function /Game/UI/W_Setting.W_Setting_C:ExecuteUbergraph_W_Setting:09A9
+[2025.03.25-23.52.29:596][714]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.52.29:596][714]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.52.29:596][714]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.52.29:762][724]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.52.29:762][724]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.52.29:762][724]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.52.29:762][724]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.52.29:762][724]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.52.29:762][724]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.52.29:928][734]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.52.29:928][734]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.52.29:928][734]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.52.29:928][734]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.52.29:928][734]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.52.29:928][734]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.52.32:978][917]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.52.32:978][917]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.52.32:978][917]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.52.32:979][917]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.52.32:979][917]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.52.32:979][917]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.52.35:761][ 84]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.52.35:761][ 84]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.52.35:761][ 84]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.52.35:761][ 84]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.52.35:761][ 84]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.52.35:761][ 84]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.52.40:742][383]Cmd: quit
+[2025.03.25-23.52.40:760][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.25-23.52.40:760][383]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV_MainMenu
+[2025.03.25-23.52.40:761][383]LogSlate: Window 'EscapeRoom Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.03.25-23.52.40:767][383]LogWorld: UWorld::CleanupWorld for LV_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.03.25-23.52.40:767][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.25-23.52.40:771][383]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.25-23.52.40:778][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.25-23.52.40:802][383]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.25-23.52.40:802][383]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.03.25-23.52.40:802][383]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.03.25-23.52.40:804][383]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.03.25-23.52.40:814][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.03.25-23.52.40:958][384]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2025.03.25-23.52.50:633][949]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16642.564453
+[2025.03.25-23.52.50:750][956]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.25-23.52.50:750][956]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16642.664062, Update Interval: 301.561951
+[2025.03.25-23.53.47:050][328]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.03.25-23.53.47:060][328]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.25-23.53.47:060][328]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV_MainMenu
+[2025.03.25-23.53.47:062][328]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001247s)
+[2025.03.25-23.53.47:062][328]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV_MainMenu.LV_MainMenu to /Game/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu (0.001287s)
+[2025.03.25-23.53.47:084][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.03.25-23.53.47:087][328]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_MainMenu
+[2025.03.25-23.53.47:089][328]LogPlayLevel: PIE: World Init took: (0.001770s)
+[2025.03.25-23.53.47:090][328]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.03.25-23.53.47:090][328]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.25-23.53.47:090][328]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.25-23.53.47:090][328]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.25-23.53.47:090][328]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.25-23.53.47:090][328]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.25-23.53.47:090][328]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.25-23.53.47:090][328]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.25-23.53.47:090][328]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.25-23.53.47:090][328]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.25-23.53.47:090][328]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.25-23.53.47:090][328]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.25-23.53.47:093][328]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.25-23.53.47:116][328]LogAudioMixer: Display: Using Audio Hardware Device Headphones (SoundCore mini)
+[2025.03.25-23.53.47:116][328]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.25-23.53.47:116][328]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.25-23.53.47:117][328]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.25-23.53.47:117][328]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.03.25-23.53.47:117][328]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.03.25-23.53.47:120][328]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.03.25-23.53.47:120][328]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.03.25-23.53.47:120][328]LogInit: FAudioDevice initialized with ID 5.
+[2025.03.25-23.53.47:120][328]LogAudio: Display: Audio Device (ID: 5) registered with world 'LV_MainMenu'.
+[2025.03.25-23.53.47:120][328]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.03.25-23.53.47:179][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.25-23.53.47:179][328]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.25-23.53.47:181][328]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu up for play (max tick rate 60) at 2025.03.25-19.53.47
+[2025.03.25-23.53.47:181][328]LogWorld: Bringing up level for play took: 0.001688
+[2025.03.25-23.53.47:184][328]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2025.03.25-23.53.47:188][328]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.25-23.53.47:188][328]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.03.25-23.53.47:195][328]PIE: Server logged in
+[2025.03.25-23.53.47:198][328]PIE: Play in editor total start time 0.137 seconds.
+[2025.03.25-23.53.55:279][808]LogScript: Warning: Accessed None trying to read property settings
+	W_Setting_C /Engine/Transient.UnrealEdEngine_0:GI_MyGameInstance_C_3.W_Setting_C_0
+	Function /Game/UI/W_Setting.W_Setting_C:ExecuteUbergraph_W_Setting:08C1
+[2025.03.25-23.53.55:279][808]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.53.55:279][808]LogScript: Warning: Attempted to assign to None
+	W_Setting_C /Engine/Transient.UnrealEdEngine_0:GI_MyGameInstance_C_3.W_Setting_C_0
+	Function /Game/UI/W_Setting.W_Setting_C:ExecuteUbergraph_W_Setting:08D6
+[2025.03.25-23.53.55:279][808]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.53.55:279][808]LogScript: Warning: Accessed None trying to read property settings
+	W_Setting_C /Engine/Transient.UnrealEdEngine_0:GI_MyGameInstance_C_3.W_Setting_C_0
+	Function /Game/UI/W_Setting.W_Setting_C:ExecuteUbergraph_W_Setting:08FF
+[2025.03.25-23.53.55:279][808]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.53.55:279][808]LogScript: Warning: Accessed None trying to read property settings
+	W_Setting_C /Engine/Transient.UnrealEdEngine_0:GI_MyGameInstance_C_3.W_Setting_C_0
+	Function /Game/UI/W_Setting.W_Setting_C:ExecuteUbergraph_W_Setting:09A9
+[2025.03.25-23.53.55:279][808]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.53.55:279][808]LogScript: Warning: Attempted to assign to None
+	W_Setting_C /Engine/Transient.UnrealEdEngine_0:GI_MyGameInstance_C_3.W_Setting_C_0
+	Function /Game/UI/W_Setting.W_Setting_C:ExecuteUbergraph_W_Setting:09BE
+[2025.03.25-23.53.55:279][808]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.53.55:279][808]LogScript: Warning: Accessed None trying to read property settings
+	W_Setting_C /Engine/Transient.UnrealEdEngine_0:GI_MyGameInstance_C_3.W_Setting_C_0
+	Function /Game/UI/W_Setting.W_Setting_C:ExecuteUbergraph_W_Setting:09E7
+[2025.03.25-23.53.55:279][808]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.53.58:958][ 28]LogScript: Warning: Accessed None trying to read property settings
+	W_Setting_C /Engine/Transient.UnrealEdEngine_0:GI_MyGameInstance_C_3.W_Setting_C_0
+	Function /Game/UI/W_Setting.W_Setting_C:ExecuteUbergraph_W_Setting:08C1
+[2025.03.25-23.53.58:958][ 28]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.53.58:958][ 28]LogScript: Warning: Attempted to assign to None
+	W_Setting_C /Engine/Transient.UnrealEdEngine_0:GI_MyGameInstance_C_3.W_Setting_C_0
+	Function /Game/UI/W_Setting.W_Setting_C:ExecuteUbergraph_W_Setting:08D6
+[2025.03.25-23.53.58:958][ 28]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.53.58:958][ 28]LogScript: Warning: Accessed None trying to read property settings
+	W_Setting_C /Engine/Transient.UnrealEdEngine_0:GI_MyGameInstance_C_3.W_Setting_C_0
+	Function /Game/UI/W_Setting.W_Setting_C:ExecuteUbergraph_W_Setting:08FF
+[2025.03.25-23.53.58:959][ 28]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.53.58:959][ 28]LogScript: Warning: Accessed None trying to read property settings
+	W_Setting_C /Engine/Transient.UnrealEdEngine_0:GI_MyGameInstance_C_3.W_Setting_C_0
+	Function /Game/UI/W_Setting.W_Setting_C:ExecuteUbergraph_W_Setting:09A9
+[2025.03.25-23.53.58:959][ 28]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.53.58:959][ 28]LogScript: Warning: Attempted to assign to None
+	W_Setting_C /Engine/Transient.UnrealEdEngine_0:GI_MyGameInstance_C_3.W_Setting_C_0
+	Function /Game/UI/W_Setting.W_Setting_C:ExecuteUbergraph_W_Setting:09BE
+[2025.03.25-23.53.58:959][ 28]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.53.58:959][ 28]LogScript: Warning: Accessed None trying to read property settings
+	W_Setting_C /Engine/Transient.UnrealEdEngine_0:GI_MyGameInstance_C_3.W_Setting_C_0
+	Function /Game/UI/W_Setting.W_Setting_C:ExecuteUbergraph_W_Setting:09E7
+[2025.03.25-23.53.58:959][ 28]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.54.01:996][210]LogScript: Warning: Accessed None trying to read property settings
+	W_Setting_C /Engine/Transient.UnrealEdEngine_0:GI_MyGameInstance_C_3.W_Setting_C_0
+	Function /Game/UI/W_Setting.W_Setting_C:ExecuteUbergraph_W_Setting:08C1
+[2025.03.25-23.54.01:996][210]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.54.01:996][210]LogScript: Warning: Attempted to assign to None
+	W_Setting_C /Engine/Transient.UnrealEdEngine_0:GI_MyGameInstance_C_3.W_Setting_C_0
+	Function /Game/UI/W_Setting.W_Setting_C:ExecuteUbergraph_W_Setting:08D6
+[2025.03.25-23.54.01:996][210]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.54.01:996][210]LogScript: Warning: Accessed None trying to read property settings
+	W_Setting_C /Engine/Transient.UnrealEdEngine_0:GI_MyGameInstance_C_3.W_Setting_C_0
+	Function /Game/UI/W_Setting.W_Setting_C:ExecuteUbergraph_W_Setting:08FF
+[2025.03.25-23.54.01:996][210]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.54.01:996][210]LogScript: Warning: Accessed None trying to read property settings
+	W_Setting_C /Engine/Transient.UnrealEdEngine_0:GI_MyGameInstance_C_3.W_Setting_C_0
+	Function /Game/UI/W_Setting.W_Setting_C:ExecuteUbergraph_W_Setting:09A9
+[2025.03.25-23.54.01:996][210]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.54.01:996][210]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.54.01:996][210]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.54.05:464][418]Cmd: quit
+[2025.03.25-23.54.05:466][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.25-23.54.05:466][418]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV_MainMenu
+[2025.03.25-23.54.05:466][418]LogSlate: Window 'EscapeRoom Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.03.25-23.54.05:480][418]LogWorld: UWorld::CleanupWorld for LV_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.03.25-23.54.05:481][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.25-23.54.05:484][418]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.25-23.54.05:490][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.25-23.54.05:514][418]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.03.25-23.54.05:514][418]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.03.25-23.54.05:517][418]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.03.25-23.54.05:524][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.03.25-23.54.05:608][419]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2025.03.25-23.54.11:753][772]LogSlate: Window 'Message Log' being destroyed
+[2025.03.25-23.54.11:769][772]LogSlate: Window 'Message Log' being destroyed
+[2025.03.25-23.54.49:281][311]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Level/LV_MainMenu.LV_MainMenu:PersistentLevel.LV_MainMenu
+[2025.03.25-23.54.49:282][311]LogChaosDD: Creating Chaos Debug Draw Scene for world World_29
+[2025.03.25-23.57.53:819][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.03.25-23.57.58:484][192]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.03.25-23.57.58:495][192]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.25-23.57.58:495][192]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV_MainMenu
+[2025.03.25-23.57.58:498][192]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001942s)
+[2025.03.25-23.57.58:498][192]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV_MainMenu.LV_MainMenu to /Game/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu (0.001978s)
+[2025.03.25-23.57.58:521][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.03.25-23.57.58:523][192]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_MainMenu
+[2025.03.25-23.57.58:525][192]LogPlayLevel: PIE: World Init took: (0.001615s)
+[2025.03.25-23.57.58:526][192]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.03.25-23.57.58:526][192]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.25-23.57.58:526][192]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.25-23.57.58:526][192]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.25-23.57.58:526][192]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.25-23.57.58:526][192]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.25-23.57.58:526][192]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.25-23.57.58:526][192]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.25-23.57.58:526][192]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.25-23.57.58:526][192]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.25-23.57.58:526][192]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.25-23.57.58:526][192]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.25-23.57.58:529][192]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.25-23.57.58:553][192]LogAudioMixer: Display: Using Audio Hardware Device Headphones (SoundCore mini)
+[2025.03.25-23.57.58:553][192]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.25-23.57.58:553][192]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.25-23.57.58:553][192]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.25-23.57.58:554][192]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.03.25-23.57.58:554][192]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.03.25-23.57.58:557][192]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.03.25-23.57.58:557][192]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.03.25-23.57.58:557][192]LogInit: FAudioDevice initialized with ID 6.
+[2025.03.25-23.57.58:557][192]LogAudio: Display: Audio Device (ID: 6) registered with world 'LV_MainMenu'.
+[2025.03.25-23.57.58:557][192]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.03.25-23.57.58:649][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.25-23.57.58:650][192]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.25-23.57.58:651][192]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu up for play (max tick rate 60) at 2025.03.25-19.57.58
+[2025.03.25-23.57.58:652][192]LogWorld: Bringing up level for play took: 0.001641
+[2025.03.25-23.57.58:655][192]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2025.03.25-23.57.58:658][192]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.25-23.57.58:658][192]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.03.25-23.57.58:663][192]PIE: Server logged in
+[2025.03.25-23.57.58:666][192]PIE: Play in editor total start time 0.171 seconds.
+[2025.03.25-23.58.06:226][638]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.58.06:226][638]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.58.06:226][638]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.58.06:226][638]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.58.06:227][638]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.58.06:227][638]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.58.16:087][229]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.58.16:088][229]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.58.16:088][229]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.58.16:088][229]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.58.16:088][229]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.58.16:088][229]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.58.16:787][271]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.58.16:787][271]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.58.16:787][271]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.58.16:787][271]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.58.16:788][271]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.58.16:788][271]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.58.17:188][295]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.58.17:188][295]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.58.17:188][295]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.58.17:188][295]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.58.17:188][295]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.58.17:188][295]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.58.17:387][307]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.58.17:387][307]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.58.17:387][307]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.58.17:387][307]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.58.17:387][307]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.58.17:387][307]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.58.17:570][318]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.58.17:570][318]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.58.17:570][318]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.58.17:571][318]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.58.17:571][318]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.58.17:571][318]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.58.17:871][336]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.58.17:871][336]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.58.17:871][336]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.58.17:871][336]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.58.17:871][336]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.58.17:871][336]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.25-23.58.20:267][480]Cmd: quit
+[2025.03.25-23.58.20:268][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.25-23.58.20:268][480]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV_MainMenu
+[2025.03.25-23.58.20:269][480]LogSlate: Window 'EscapeRoom Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.03.25-23.58.20:281][480]LogWorld: UWorld::CleanupWorld for LV_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.03.25-23.58.20:281][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.25-23.58.20:285][480]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.25-23.58.20:291][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.25-23.58.20:315][480]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.03.25-23.58.20:315][480]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.03.25-23.58.20:318][480]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.03.25-23.58.20:326][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.03.25-23.58.20:509][481]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2025.03.25-23.58.51:752][338]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17004.685547
+[2025.03.25-23.58.51:853][344]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.25-23.58.51:853][345]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17004.769531, Update Interval: 323.084808
+[2025.03.26-00.01.50:122][834]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.03.26-00.01.50:133][834]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.26-00.01.50:134][834]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV_MainMenu
+[2025.03.26-00.01.50:135][834]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001714s)
+[2025.03.26-00.01.50:135][834]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV_MainMenu.LV_MainMenu to /Game/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu (0.001757s)
+[2025.03.26-00.01.50:158][834]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.03.26-00.01.50:161][834]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_MainMenu
+[2025.03.26-00.01.50:163][834]LogPlayLevel: PIE: World Init took: (0.001650s)
+[2025.03.26-00.01.50:164][834]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.03.26-00.01.50:164][834]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.26-00.01.50:164][834]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.26-00.01.50:164][834]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.26-00.01.50:164][834]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.26-00.01.50:164][834]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.26-00.01.50:164][834]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.26-00.01.50:164][834]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.26-00.01.50:164][834]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.26-00.01.50:164][834]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.26-00.01.50:164][834]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.26-00.01.50:164][834]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.26-00.01.50:167][834]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.26-00.01.50:191][834]LogAudioMixer: Display: Using Audio Hardware Device Headphones (SoundCore mini)
+[2025.03.26-00.01.50:192][834]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.26-00.01.50:192][834]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.26-00.01.50:192][834]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.26-00.01.50:192][834]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.03.26-00.01.50:192][834]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.03.26-00.01.50:195][834]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.03.26-00.01.50:195][834]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.03.26-00.01.50:195][834]LogInit: FAudioDevice initialized with ID 7.
+[2025.03.26-00.01.50:195][834]LogAudio: Display: Audio Device (ID: 7) registered with world 'LV_MainMenu'.
+[2025.03.26-00.01.50:195][834]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.03.26-00.01.50:247][834]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.26-00.01.50:248][834]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.26-00.01.50:249][834]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu up for play (max tick rate 60) at 2025.03.25-20.01.50
+[2025.03.26-00.01.50:250][834]LogWorld: Bringing up level for play took: 0.001548
+[2025.03.26-00.01.50:252][834]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2025.03.26-00.01.50:257][834]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.26-00.01.50:257][834]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.03.26-00.01.50:262][834]PIE: Server logged in
+[2025.03.26-00.01.50:265][834]PIE: Play in editor total start time 0.132 seconds.
+[2025.03.26-00.02.05:529][747]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.05:529][747]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.05:529][747]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.05:529][747]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.05:529][747]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.05:529][747]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.07:025][836]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.07:025][836]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.07:025][836]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.07:025][836]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.07:025][836]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.07:025][836]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.11:297][ 92]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.11:297][ 92]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.11:297][ 92]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.11:297][ 92]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.11:297][ 92]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.11:297][ 92]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.12:185][145]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.12:185][145]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.12:185][145]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.12:185][145]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.12:185][145]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.12:185][145]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.12:625][171]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.12:625][171]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.12:625][171]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.12:625][171]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.12:625][171]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.12:625][171]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.12:966][191]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.12:966][191]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.12:966][191]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.12:966][191]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.12:966][191]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.12:966][191]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.13:153][202]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.13:153][202]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.13:153][202]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.13:153][202]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.13:153][202]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.13:154][202]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.13:357][214]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.13:357][214]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.13:357][214]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.13:357][214]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.13:357][214]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.13:357][214]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.20:340][626]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.20:340][626]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.20:340][626]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.20:340][626]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.20:340][626]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.20:340][626]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.21:061][669]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.21:061][669]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.21:061][669]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.21:061][669]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.21:061][669]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.21:061][669]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.21:231][679]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.21:231][679]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.21:231][679]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.21:231][679]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.21:231][679]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.21:231][679]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.21:401][689]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.21:401][689]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.21:401][689]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.21:401][689]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.21:401][689]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.21:401][689]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.02.38:623][721]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.26-00.02.38:623][721]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.03.26-00.02.38:638][722]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Level/LV1"
+[2025.03.26-00.02.38:639][722]LogNet: Browse: /Game/Level/LV1
+[2025.03.26-00.02.38:639][722]LogLoad: LoadMap: /Game/Level/LV1
+[2025.03.26-00.02.38:639][722]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV_MainMenu
+[2025.03.26-00.02.38:643][722]LogWorld: UWorld::CleanupWorld for LV_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-00.02.38:643][722]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-00.02.38:667][722]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.26-00.02.38:670][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.03.26-00.02.38:673][722]LogStreaming: Display: FlushAsyncLoading(550): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.26-00.02.38:778][722]LogAudio: Display: Audio Device (ID: 7) registered with world 'LV1'.
+[2025.03.26-00.02.38:778][722]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.03.26-00.02.38:779][722]LogPlayLevel: PIE: World Init took: (0.001670s)
+[2025.03.26-00.02.38:779][722]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.26-00.02.38:856][722]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV1.LV1 up for play (max tick rate 60) at 2025.03.25-20.02.38
+[2025.03.26-00.02.38:880][722]LogWorld: Bringing up level for play took: 0.100866
+[2025.03.26-00.02.38:907][722]LogLoad: Took 0.268589 seconds to LoadMap(/Game/Level/LV1)
+[2025.03.26-00.02.38:907][722]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Level/LV1
+[2025.03.26-00.02.45:806][ 37]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_1] WEAPON FOUND
+[2025.03.26-00.02.48:791][179]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-00.02.48:889][183]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-00.02.48:956][186]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-00.02.49:093][192]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-00.02.49:386][205]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-00.02.49:405][206]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-00.02.49:562][213]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-00.02.49:741][221]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-00.02.49:878][227]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-00.02.49:884][227]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-00.02.50:396][250]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-00.02.50:894][272]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-00.02.51:264][289]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-00.02.53:896][405]LogCharacterMovement: BP_Zombie_C_21 is stuck and failed to move! Velocity: X=-20.51 Y=2.87 Z=0.00 Location: X=1492.21 Y=742.70 Z=240.67 Normal: X=0.87 Y=0.50 Z=0.00 PenetrationDepth:0.293 Actor:BP_Zombie_C_22 Component:CharacterMesh0 BoneName:LeftArm (0 other events since notify)
+[2025.03.26-00.03.09:660][ 97]LogBlueprintUserMessages: [BP_Fire_C_6] Fire Damage Recieved
+[2025.03.26-00.03.10:156][120]LogBlueprintUserMessages: [BP_Fire_C_6] Fire Damage Recieved
+[2025.03.26-00.03.10:657][143]LogBlueprintUserMessages: [BP_Fire_C_6] Fire Damage Recieved
+[2025.03.26-00.03.11:143][166]LogBlueprintUserMessages: [BP_Fire_C_6] Fire Damage Recieved
+[2025.03.26-00.03.11:651][190]LogBlueprintUserMessages: [BP_Fire_C_6] Fire Damage Recieved
+[2025.03.26-00.03.12:154][214]LogBlueprintUserMessages: [BP_Fire_C_6] Fire Damage Recieved
+[2025.03.26-00.03.12:654][237]LogBlueprintUserMessages: [BP_Fire_C_6] Fire Damage Recieved
+[2025.03.26-00.03.13:161][260]LogBlueprintUserMessages: [BP_Fire_C_6] Fire Damage Recieved
+[2025.03.26-00.03.13:651][282]LogBlueprintUserMessages: [BP_Fire_C_6] Fire Damage Recieved
+[2025.03.26-00.03.14:151][303]LogBlueprintUserMessages: [BP_Fire_C_6] Fire Damage Recieved
+[2025.03.26-00.03.14:659][324]LogBlueprintUserMessages: [BP_Fire_C_6] Fire Damage Recieved
+[2025.03.26-00.03.15:164][345]LogBlueprintUserMessages: [BP_Fire_C_6] Fire Damage Recieved
+[2025.03.26-00.03.18:052][458]LogBlueprintUserMessages: [BP_Zombie_C_5] Zombie Damage Recieved
+[2025.03.26-00.03.18:538][474]LogBlueprintUserMessages: [BP_Zombie_C_5] Zombie Damage Recieved
+[2025.03.26-00.03.19:040][495]LogBlueprintUserMessages: [BP_Zombie_C_5] Zombie Damage Recieved
+[2025.03.26-00.03.19:566][516]LogBlueprintUserMessages: [BP_Zombie_C_5] Zombie Damage Recieved
+[2025.03.26-00.03.19:824][527]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-00.03.20:043][536]LogBlueprintUserMessages: [BP_Zombie_C_5] Zombie Damage Recieved
+[2025.03.26-00.03.20:549][557]LogBlueprintUserMessages: [BP_Zombie_C_5] Zombie Damage Recieved
+[2025.03.26-00.03.21:037][578]LogBlueprintUserMessages: [BP_Zombie_C_5] Zombie Damage Recieved
+[2025.03.26-00.03.22:620][646]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-00.03.22:628][646]LogBlueprintUserMessages: [BP_Zombie_C_5] Zombie Damage Recieved
+[2025.03.26-00.03.22:828][655]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-00.03.22:965][661]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-00.03.23:105][667]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-00.03.23:136][668]LogBlueprintUserMessages: [BP_Zombie_C_5] Zombie Damage Recieved
+[2025.03.26-00.03.23:637][690]LogBlueprintUserMessages: [BP_Zombie_C_5] Zombie Damage Recieved
+[2025.03.26-00.03.25:456][771]LogBlueprintUserMessages: [BP_Zombie_C_5] Zombie Damage Recieved
+[2025.03.26-00.03.25:958][793]LogBlueprintUserMessages: [BP_Zombie_C_5] Zombie Damage Recieved
+[2025.03.26-00.03.26:457][813]LogBlueprintUserMessages: [BP_Zombie_C_5] Zombie Damage Recieved
+[2025.03.26-00.03.26:958][834]LogBlueprintUserMessages: [BP_Zombie_C_5] Zombie Damage Recieved
+[2025.03.26-00.03.30:294][981]LogBlueprintUserMessages: [BP_Zombie_C_5] Zombie Damage Recieved
+[2025.03.26-00.03.30:790][  3]LogBlueprintUserMessages: [BP_Zombie_C_5] Zombie Damage Recieved
+[2025.03.26-00.03.31:064][ 16]LogCharacterMovement: BP_Zombie_C_46 is stuck and failed to move! Velocity: X=6.20 Y=-19.76 Z=0.00 Location: X=3092.62 Y=-914.67 Z=841.20 Normal: X=-0.98 Y=-0.20 Z=0.00 PenetrationDepth:0.049 Actor:BP_Zombie_C_48 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.26-00.03.31:286][ 26]LogBlueprintUserMessages: [BP_Zombie_C_5] Zombie Damage Recieved
+[2025.03.26-00.03.33:763][136]LogCharacterMovement: BP_Zombie_C_28 is stuck and failed to move! Velocity: X=20.63 Y=-1.79 Z=0.00 Location: X=2877.14 Y=1423.42 Z=241.08 Normal: X=0.81 Y=-0.57 Z=0.16 PenetrationDepth:11.592 Actor:BP_Zombie_C_29 Component:CharacterMesh0 BoneName:RightLeg (0 other events since notify)
+[2025.03.26-00.03.35:156][197]LogCharacterMovement: BP_Zombie_C_28 is stuck and failed to move! Velocity: X=20.71 Y=-0.22 Z=0.00 Location: X=2913.61 Y=1357.30 Z=240.67 Normal: X=-0.38 Y=-0.92 Z=-0.00 PenetrationDepth:3.184 Actor:BP_Zombie_C_26 Component:CharacterMesh0 BoneName:LeftHand (21 other events since notify)
+[2025.03.26-00.03.35:998][233]LogBlueprintUserMessages: [BP_Smoke_C_3] Smoke Damage Recieved
+[2025.03.26-00.03.36:202][242]LogBlueprintUserMessages: [BP_Zombie_C_11] Zombie Damage Recieved
+[2025.03.26-00.03.36:705][264]LogBlueprintUserMessages: [BP_Zombie_C_11] Zombie Damage Recieved
+[2025.03.26-00.03.36:987][277]LogCharacterMovement: BP_Zombie_C_28 is stuck and failed to move! Velocity: X=20.71 Y=-0.20 Z=0.00 Location: X=2876.82 Y=1357.30 Z=240.67 Normal: X=-0.31 Y=-0.95 Z=-0.00 PenetrationDepth:0.985 Actor:BP_Zombie_C_26 Component:CharacterMesh0 BoneName:LeftHand (32 other events since notify)
+[2025.03.26-00.03.37:192][286]LogBlueprintUserMessages: [BP_Zombie_C_11] Zombie Damage Recieved
+[2025.03.26-00.03.37:450][298]LogCharacterMovement: BP_Zombie_C_43 is stuck and failed to move! Velocity: X=-19.89 Y=5.75 Z=0.00 Location: X=2096.75 Y=-397.03 Z=841.20 Normal: X=1.00 Y=0.00 Z=0.00 PenetrationDepth:0.724 Actor:BP_Zombie_C_39 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2025.03.26-00.03.37:695][309]LogBlueprintUserMessages: [BP_Zombie_C_11] Zombie Damage Recieved
+[2025.03.26-00.03.38:076][326]LogBlueprintUserMessages: [BP_Zombie_C_11] TST.......Zombie recieved Damage
+[2025.03.26-00.03.38:195][331]LogBlueprintUserMessages: [BP_Zombie_C_11] Zombie Damage Recieved
+[2025.03.26-00.03.38:286][335]LogBlueprintUserMessages: [BP_Zombie_C_11] TST.......Zombie recieved Damage
+[2025.03.26-00.03.38:468][343]LogCharacterMovement: BP_Zombie_C_43 is stuck and failed to move! Velocity: X=-19.24 Y=7.67 Z=0.00 Location: X=2105.74 Y=-393.70 Z=841.20 Normal: X=0.87 Y=0.49 Z=-0.00 PenetrationDepth:35.356 Actor:BP_Zombie_C_39 Component:CharacterMesh0 BoneName:LeftArm (36 other events since notify)
+[2025.03.26-00.03.38:664][351]LogCharacterMovement: BP_Zombie_C_28 is stuck and failed to move! Velocity: X=20.63 Y=-1.85 Z=0.00 Location: X=2868.14 Y=1357.30 Z=240.67 Normal: X=-0.95 Y=-0.31 Z=-0.00 PenetrationDepth:0.243 Actor:BP_Zombie_C_26 Component:CharacterMesh0 BoneName:LeftHand (9 other events since notify)
+[2025.03.26-00.03.38:695][352]LogBlueprintUserMessages: [BP_Zombie_C_11] Zombie Damage Recieved
+[2025.03.26-00.03.39:211][373]LogBlueprintUserMessages: [BP_Zombie_C_11] Zombie Damage Recieved
+[2025.03.26-00.03.39:703][394]LogBlueprintUserMessages: [BP_Zombie_C_11] Zombie Damage Recieved
+[2025.03.26-00.03.39:981][406]LogCharacterMovement: BP_Zombie_C_28 is stuck and failed to move! Velocity: X=20.71 Y=-0.35 Z=0.00 Location: X=2785.35 Y=1357.30 Z=240.67 Normal: X=-0.93 Y=-0.37 Z=-0.00 PenetrationDepth:0.006 Actor:BP_Zombie_C_26 Component:CharacterMesh0 BoneName:LeftHand (8 other events since notify)
+[2025.03.26-00.03.40:019][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.26-00.03.40:019][406]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV1
+[2025.03.26-00.03.40:020][406]LogSlate: Window 'EscapeRoom Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.03.26-00.03.40:031][406]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-00.03.40:038][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-00.03.40:044][406]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.26-00.03.40:052][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-00.03.40:079][406]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.03.26-00.03.40:079][406]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.03.26-00.03.40:082][406]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.03.26-00.03.40:103][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.03.26-00.03.40:190][407]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2025.03.26-00.04.12:311][309]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/FPWeapon/Audio/FirstPersonTemplateWeaponFire02.FirstPersonTemplateWeaponFire02
+[2025.03.26-00.04.23:241][938]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.03.26-00.04.23:251][938]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.26-00.04.23:251][938]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV_MainMenu
+[2025.03.26-00.04.23:253][938]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001559s)
+[2025.03.26-00.04.23:253][938]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV_MainMenu.LV_MainMenu to /Game/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu (0.001596s)
+[2025.03.26-00.04.23:298][938]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.03.26-00.04.23:301][938]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_MainMenu
+[2025.03.26-00.04.23:302][938]LogPlayLevel: PIE: World Init took: (0.001621s)
+[2025.03.26-00.04.23:303][938]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.03.26-00.04.23:303][938]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.26-00.04.23:303][938]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.26-00.04.23:303][938]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.26-00.04.23:303][938]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.26-00.04.23:303][938]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.26-00.04.23:303][938]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.26-00.04.23:303][938]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.26-00.04.23:303][938]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.26-00.04.23:303][938]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.26-00.04.23:303][938]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.26-00.04.23:303][938]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.26-00.04.23:305][938]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.26-00.04.23:329][938]LogAudioMixer: Display: Using Audio Hardware Device Headphones (SoundCore mini)
+[2025.03.26-00.04.23:330][938]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.26-00.04.23:330][938]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.26-00.04.23:330][938]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.26-00.04.23:330][938]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.03.26-00.04.23:330][938]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.03.26-00.04.23:333][938]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.03.26-00.04.23:333][938]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.03.26-00.04.23:333][938]LogInit: FAudioDevice initialized with ID 8.
+[2025.03.26-00.04.23:333][938]LogAudio: Display: Audio Device (ID: 8) registered with world 'LV_MainMenu'.
+[2025.03.26-00.04.23:333][938]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.03.26-00.04.23:388][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.26-00.04.23:389][938]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.26-00.04.23:390][938]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu up for play (max tick rate 60) at 2025.03.25-20.04.23
+[2025.03.26-00.04.23:391][938]LogWorld: Bringing up level for play took: 0.001465
+[2025.03.26-00.04.23:393][938]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2025.03.26-00.04.23:398][938]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.26-00.04.23:398][938]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.03.26-00.04.23:404][938]PIE: Server logged in
+[2025.03.26-00.04.23:407][938]PIE: Play in editor total start time 0.156 seconds.
+[2025.03.26-00.04.31:499][417]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.04.31:499][417]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.04.31:499][417]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.04.31:499][417]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.04.31:499][417]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.04.31:499][417]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.04.55:164][836]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.26-00.04.55:164][836]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.03.26-00.04.55:180][837]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Level/LV1"
+[2025.03.26-00.04.55:180][837]LogNet: Browse: /Game/Level/LV1
+[2025.03.26-00.04.55:180][837]LogLoad: LoadMap: /Game/Level/LV1
+[2025.03.26-00.04.55:180][837]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV_MainMenu
+[2025.03.26-00.04.55:182][837]LogWorld: UWorld::CleanupWorld for LV_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-00.04.55:183][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-00.04.55:227][837]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.26-00.04.55:230][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.03.26-00.04.55:235][837]LogStreaming: Display: FlushAsyncLoading(551): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.26-00.04.55:332][837]LogAudio: Display: Audio Device (ID: 8) registered with world 'LV1'.
+[2025.03.26-00.04.55:332][837]LogChaosDD: Creating Chaos Debug Draw Scene for world LV1
+[2025.03.26-00.04.55:334][837]LogPlayLevel: PIE: World Init took: (0.001655s)
+[2025.03.26-00.04.55:334][837]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.26-00.04.55:406][837]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV1.LV1 up for play (max tick rate 60) at 2025.03.25-20.04.55
+[2025.03.26-00.04.55:429][837]LogWorld: Bringing up level for play took: 0.094743
+[2025.03.26-00.04.55:449][837]LogLoad: Took 0.269138 seconds to LoadMap(/Game/Level/LV1)
+[2025.03.26-00.04.55:449][837]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Level/LV1
+[2025.03.26-00.05.00:374][ 66]LogBlueprintUserMessages: [BP_Pickup_Rifle_C_1] WEAPON FOUND
+[2025.03.26-00.05.05:697][358]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-00.05.05:957][371]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-00.05.06:082][377]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-00.05.06:259][386]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-00.05.06:285][387]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-00.05.06:384][392]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-00.05.06:702][408]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-00.05.06:790][412]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-00.05.06:849][415]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-00.05.07:032][424]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-00.05.07:171][431]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-00.05.07:294][437]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-00.05.07:310][438]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-00.05.07:449][445]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-00.05.07:643][455]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-00.05.07:786][462]LogBlueprintUserMessages: [BP_Zombie_C_8] Zombie Damage Recieved
+[2025.03.26-00.05.07:824][464]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-00.05.07:957][471]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-00.05.08:092][478]LogBlueprintUserMessages: [BP_Zombie_C_8] TST.......Zombie recieved Damage
+[2025.03.26-00.05.09:308][540]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17383.250000
+[2025.03.26-00.05.09:420][546]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.26-00.05.09:420][546]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17383.343750, Update Interval: 307.408661
+[2025.03.26-00.05.11:003][626]LogCharacterMovement: BP_Zombie_C_43 is stuck and failed to move! Velocity: X=19.92 Y=-5.68 Z=0.00 Location: X=2137.97 Y=-865.59 Z=841.20 Normal: X=-0.61 Y=0.79 Z=0.00 PenetrationDepth:1.216 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2025.03.26-00.05.12:324][688]LogCharacterMovement: BP_Zombie_C_43 is stuck and failed to move! Velocity: X=19.82 Y=-6.01 Z=0.00 Location: X=2140.86 Y=-867.92 Z=841.20 Normal: X=-0.25 Y=0.97 Z=-0.00 PenetrationDepth:0.278 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:RightHand (11 other events since notify)
+[2025.03.26-00.05.20:967][ 97]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-00.05.21:304][113]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-00.05.21:484][121]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-00.05.21:657][128]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-00.05.21:836][135]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-00.05.21:952][140]LogBlueprintUserMessages: [BP_Zombie_C_5] TST.......Zombie recieved Damage
+[2025.03.26-00.05.28:110][431]LogCharacterMovement: BP_Zombie_C_43 is stuck and failed to move! Velocity: X=-18.89 Y=-8.49 Z=0.00 Location: X=2117.41 Y=-809.76 Z=841.20 Normal: X=1.00 Y=0.01 Z=-0.00 PenetrationDepth:7.324 Actor:BP_Zombie_C_44 Component:CharacterMesh0 BoneName:LeftHand (9 other events since notify)
+[2025.03.26-00.05.28:749][463]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.26-00.05.28:750][463]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.03.26-00.05.48:597][653]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Level/LV_MainMenu"
+[2025.03.26-00.05.48:597][653]LogNet: Browse: /Game/Level/LV_MainMenu
+[2025.03.26-00.05.48:597][653]LogLoad: LoadMap: /Game/Level/LV_MainMenu
+[2025.03.26-00.05.48:597][653]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV1
+[2025.03.26-00.05.48:601][653]LogWorld: UWorld::CleanupWorld for LV1, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-00.05.48:608][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-00.05.48:635][653]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.26-00.05.48:646][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.03.26-00.05.48:652][653]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV_MainMenu
+[2025.03.26-00.05.48:653][653]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001537s)
+[2025.03.26-00.05.48:653][653]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV_MainMenu.LV_MainMenu to /Game/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu (0.001584s)
+[2025.03.26-00.05.48:653][653]LogAudio: Display: Audio Device (ID: 8) registered with world 'LV_MainMenu'.
+[2025.03.26-00.05.48:653][653]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_MainMenu
+[2025.03.26-00.05.48:655][653]LogPlayLevel: PIE: World Init took: (0.001761s)
+[2025.03.26-00.05.48:655][653]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.26-00.05.48:655][653]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu up for play (max tick rate 60) at 2025.03.25-20.05.48
+[2025.03.26-00.05.48:656][653]LogWorld: Bringing up level for play took: 0.000353
+[2025.03.26-00.05.48:656][653]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.03.26-00.05.48:659][653]LogLoad: Took 0.061745 seconds to LoadMap(/Game/Level/UEDPIE_0_LV_MainMenu)
+[2025.03.26-00.05.48:659][653]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Level/UEDPIE_0_LV_MainMenu
+[2025.03.26-00.06.01:854][443]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.06.01:854][443]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.06.01:854][443]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.06.01:855][443]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.06.01:855][443]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.06.01:855][443]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.06.05:408][655]Cmd: quit
+[2025.03.26-00.06.05:408][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.26-00.06.05:408][655]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV_MainMenu
+[2025.03.26-00.06.05:408][655]LogSlate: Window 'EscapeRoom Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.03.26-00.06.05:419][655]LogWorld: UWorld::CleanupWorld for LV_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-00.06.05:419][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-00.06.05:423][655]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.26-00.06.05:430][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-00.06.05:460][655]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.03.26-00.06.05:460][655]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.03.26-00.06.05:463][655]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.03.26-00.06.05:471][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.03.26-00.06.05:544][656]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2025.03.26-00.06.47:232][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.03.26-00.06.47:242][977]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level/LV_MainMenu_Auto1
+[2025.03.26-00.06.47:242][977]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/LV_MainMenu_Auto1A907524C45388766A59808B266767782.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/Level/LV_MainMenu_Auto1.umap'
+[2025.03.26-00.06.47:244][977]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/LV_MainMenu' took 0.034
+[2025.03.26-00.06.47:244][977]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.034
+[2025.03.26-00.06.47:245][977]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FPWeapon/Audio/FirstPersonTemplateWeaponFire02] ([1] browsable assets)...
+[2025.03.26-00.06.47:248][977]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/FPWeapon/Audio/FirstPersonTemplateWeaponFire02.FirstPersonTemplateWeaponFire02]
+[2025.03.26-00.06.47:248][977]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPWeapon/Audio/FirstPersonTemplateWeaponFire02]
+[2025.03.26-00.06.47:251][977]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FPWeapon/Audio/FirstPersonTemplateWeaponFire02_Auto1
+[2025.03.26-00.06.47:251][977]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/FirstPersonTemplateWeaponFire02_4B96F6E94E213C505513BEB098F3BA1F.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/FPWeapon/Audio/FirstPersonTemplateWeaponFire02_Auto1.uasset'
+[2025.03.26-00.06.47:252][977]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/W_Setting] ([2] browsable assets)...
+[2025.03.26-00.06.47:257][977]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/W_Setting.W_Setting]
+[2025.03.26-00.06.47:257][977]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_Setting]
+[2025.03.26-00.06.47:321][977]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/W_Setting_Auto1
+[2025.03.26-00.06.47:322][977]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/W_Setting_Auto1E08858B3447F65B85B9223A2C358E111.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/UI/W_Setting_Auto1.uasset'
+[2025.03.26-00.06.47:323][977]LogFileHelpers: Auto-saving content packages took 0.079
+[2025.03.26-00.07.35:561][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.03.26-00.07.36:862][714]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.03.26-00.07.36:873][714]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.26-00.07.36:873][714]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_LV_MainMenu
+[2025.03.26-00.07.36:875][714]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001566s)
+[2025.03.26-00.07.36:875][714]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/LV_MainMenu.LV_MainMenu to /Game/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu (0.001605s)
+[2025.03.26-00.07.36:893][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.03.26-00.07.36:896][714]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_MainMenu
+[2025.03.26-00.07.36:898][714]LogPlayLevel: PIE: World Init took: (0.001436s)
+[2025.03.26-00.07.36:898][714]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.03.26-00.07.36:898][714]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.26-00.07.36:898][714]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.26-00.07.36:898][714]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.26-00.07.36:898][714]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.26-00.07.36:898][714]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.26-00.07.36:898][714]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.26-00.07.36:898][714]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.26-00.07.36:898][714]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.26-00.07.36:898][714]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.26-00.07.36:898][714]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.26-00.07.36:898][714]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.26-00.07.36:901][714]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.26-00.07.36:924][714]LogAudioMixer: Display: Using Audio Hardware Device Headphones (SoundCore mini)
+[2025.03.26-00.07.36:925][714]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.26-00.07.36:925][714]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.26-00.07.36:925][714]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.26-00.07.36:926][714]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.03.26-00.07.36:926][714]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.03.26-00.07.36:928][714]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.03.26-00.07.36:928][714]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.03.26-00.07.36:928][714]LogInit: FAudioDevice initialized with ID 9.
+[2025.03.26-00.07.36:928][714]LogAudio: Display: Audio Device (ID: 9) registered with world 'LV_MainMenu'.
+[2025.03.26-00.07.36:928][714]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.03.26-00.07.36:976][714]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.26-00.07.36:977][714]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.26-00.07.36:978][714]LogWorld: Bringing World /Game/Level/UEDPIE_0_LV_MainMenu.LV_MainMenu up for play (max tick rate 60) at 2025.03.25-20.07.36
+[2025.03.26-00.07.36:979][714]LogWorld: Bringing up level for play took: 0.001045
+[2025.03.26-00.07.36:981][714]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2025.03.26-00.07.36:985][714]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.26-00.07.36:985][714]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.03.26-00.07.36:989][714]PIE: Server logged in
+[2025.03.26-00.07.36:992][714]PIE: Play in editor total start time 0.119 seconds.
+[2025.03.26-00.07.40:745][933]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.07.40:745][933]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.07.40:745][933]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.07.40:745][933]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.07.40:745][933]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.07.40:745][933]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.07.42:824][ 57]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.07.42:825][ 57]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.07.42:825][ 57]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.07.42:825][ 57]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.07.42:825][ 57]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.07.42:825][ 57]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.07.46:645][286]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.07.46:645][286]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set AudioSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.07.46:645][286]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.07.46:645][286]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.07.46:645][286]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set MusicSound Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.07.46:645][286]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property settings". Node:  SetSoundMixClassOverride Graph:  EventGraph Function:  Execute Ubergraph W Setting Blueprint:  W_Setting
+[2025.03.26-00.07.51:446][574]Cmd: quit
+[2025.03.26-00.07.51:447][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.26-00.07.51:447][574]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_LV_MainMenu
+[2025.03.26-00.07.51:447][574]LogSlate: Window 'EscapeRoom Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.03.26-00.07.51:459][574]LogWorld: UWorld::CleanupWorld for LV_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-00.07.51:459][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-00.07.51:463][574]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.26-00.07.51:471][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-00.07.51:494][574]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.03.26-00.07.51:494][574]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.03.26-00.07.51:497][574]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.03.26-00.07.51:505][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.03.26-00.07.51:590][575]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2025.03.26-00.10.53:874][998]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17728.568359
+[2025.03.26-00.10.54:875][  1]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.26-00.10.54:875][  2]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17729.236328, Update Interval: 325.183258
+[2025.03.26-00.17.02:440][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.03.26-00.17.02:451][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level/LV_MainMenu_Auto2
+[2025.03.26-00.17.02:451][488]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/LV_MainMenu_Auto2D85FB96941AFB7BA8D47C0BD4340FB31.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/Level/LV_MainMenu_Auto2.umap'
+[2025.03.26-00.17.02:453][488]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/LV_MainMenu' took 0.039
+[2025.03.26-00.17.02:453][488]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.039
+[2025.03.26-00.17.03:679][492]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18098.486328
+[2025.03.26-00.17.04:680][495]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.26-00.17.04:680][495]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18099.154297, Update Interval: 320.751984
+[2025.03.26-00.18.56:468][ 88]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Sound/music/caves-of-dawn-10376.caves-of-dawn-10376
+[2025.03.26-00.19.10:088][619]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Sound/music/horror-background-atmosphere-156462.horror-background-atmosphere-156462
+[2025.03.26-00.20.11:165][147]LogAssetEditorSubsystem: Opening Asset editor for SoundMix /Game/Sound/SM_GameSound.SM_GameSound
+[2025.03.26-00.20.45:576][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.03.26-00.20.46:505][835]LogSlate: Window 'Save Content' being destroyed
+[2025.03.26-00.20.46:518][835]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.26-00.20.46:651][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.03.26-00.20.46:661][835]LogSavePackage: Moving output files for package: /Game/Level/LV_MainMenu
+[2025.03.26-00.20.46:661][835]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/LV_MainMenuE9CC157546FA36163D10E6AD7666380C.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Level/LV_MainMenu.umap'
+[2025.03.26-00.20.46:680][835]LogFileHelpers: Saving map 'LV_MainMenu' took 0.091
+[2025.03.26-00.20.46:681][835]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sound/music/caves-of-dawn-10376] ([1] browsable assets)...
+[2025.03.26-00.20.46:734][835]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sound/music/caves-of-dawn-10376.caves-of-dawn-10376]
+[2025.03.26-00.20.46:734][835]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/music/caves-of-dawn-10376]
+[2025.03.26-00.20.46:792][835]LogSavePackage: Moving output files for package: /Game/Sound/music/caves-of-dawn-10376
+[2025.03.26-00.20.46:793][835]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/caves-of-dawn-10376FD64DF274304454E36B56FA9B28482EF.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/Sound/music/caves-of-dawn-10376.uasset'
+[2025.03.26-00.20.46:796][835]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FPWeapon/Audio/FirstPersonTemplateWeaponFire02] ([1] browsable assets)...
+[2025.03.26-00.20.46:796][835]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPWeapon/Audio/FirstPersonTemplateWeaponFire02]
+[2025.03.26-00.20.46:798][835]LogSavePackage: Moving output files for package: /Game/FPWeapon/Audio/FirstPersonTemplateWeaponFire02
+[2025.03.26-00.20.46:799][835]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/FirstPersonTemplateWeaponFire023145267E44039A9DD99A66ACF3DB19C0.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/FPWeapon/Audio/FirstPersonTemplateWeaponFire02.uasset'
+[2025.03.26-00.20.46:800][835]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SaveGame/SaveSetting] ([2] browsable assets)...
+[2025.03.26-00.20.46:800][835]OBJ SavePackage: Finished generating thumbnails for package [/Game/SaveGame/SaveSetting]
+[2025.03.26-00.20.46:800][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SaveGame/SaveSetting" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/SaveGame/SaveSetting.uasset" SILENT=true
+[2025.03.26-00.20.46:802][835]LogSavePackage: Moving output files for package: /Game/SaveGame/SaveSetting
+[2025.03.26-00.20.46:802][835]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/SaveSettingBC6A01964FACFFD6270AB589854831F7.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/SaveGame/SaveSetting.uasset'
+[2025.03.26-00.20.46:804][835]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/W_Setting] ([2] browsable assets)...
+[2025.03.26-00.20.46:804][835]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_Setting]
+[2025.03.26-00.20.46:804][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_Setting" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/UI/W_Setting.uasset" SILENT=true
+[2025.03.26-00.20.46:868][835]LogSavePackage: Moving output files for package: /Game/UI/W_Setting
+[2025.03.26-00.20.46:869][835]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/W_SettingF4B447FC4E9212BC34BDE186794F6040.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/UI/W_Setting.uasset'
+[2025.03.26-00.20.46:882][835]LogFileHelpers: InternalPromptForCheckoutAndSave took 363.548 ms (total: 1.36 sec)
+[2025.03.26-00.20.46:962][835]LogContentValidation: Display: Starting to validate 5 assets
+[2025.03.26-00.20.46:962][835]LogContentValidation: Enabled validators:
+[2025.03.26-00.20.46:962][835]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.26-00.20.46:962][835]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.26-00.20.46:962][835]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.26-00.20.46:962][835]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.26-00.20.46:962][835]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.26-00.20.46:962][835]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.26-00.20.46:962][835]AssetCheck: /Game/Level/LV_MainMenu Validating asset
+[2025.03.26-00.20.46:963][835]AssetCheck: /Game/Sound/music/caves-of-dawn-10376 Validating asset
+[2025.03.26-00.20.46:963][835]AssetCheck: /Game/FPWeapon/Audio/FirstPersonTemplateWeaponFire02 Validating asset
+[2025.03.26-00.20.46:963][835]AssetCheck: /Game/SaveGame/SaveSetting Validating asset
+[2025.03.26-00.20.46:965][835]AssetCheck: /Game/UI/W_Setting Validating asset
+[2025.03.26-00.23.23:683][911]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18479.306641
+[2025.03.26-00.23.23:783][917]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.26-00.23.23:783][917]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18479.388672, Update Interval: 324.082764
+[2025.03.26-00.29.37:750][905]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18853.683594
+[2025.03.26-00.29.38:751][908]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.26-00.29.38:751][909]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18854.351562, Update Interval: 322.323059
+[2025.03.26-00.30.50:100][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.03.26-00.30.50:104][109]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/LV_MainMenu' took 0.088
+[2025.03.26-00.30.50:105][109]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/W_Setting] ([2] browsable assets)...
+[2025.03.26-00.30.50:111][109]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/W_Setting.W_Setting]
+[2025.03.26-00.30.50:111][109]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_Setting]
+[2025.03.26-00.30.50:178][109]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/W_Setting_Auto3
+[2025.03.26-00.30.50:179][109]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/W_Setting_Auto30E950ED8481A17010B0DBCABDE08EC47.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/Autosaves/Game/UI/W_Setting_Auto3.uasset'
+[2025.03.26-00.30.50:180][109]LogFileHelpers: Auto-saving content packages took 0.076
+[2025.03.26-00.31.53:655][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.03.26-00.31.55:112][301]LogSlate: Window 'Save Content' being destroyed
+[2025.03.26-00.31.55:123][301]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.26-00.31.55:212][301]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/W_Setting] ([2] browsable assets)...
+[2025.03.26-00.31.55:212][301]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_Setting]
+[2025.03.26-00.31.55:212][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_Setting" FILE="../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/UI/W_Setting.uasset" SILENT=true
+[2025.03.26-00.31.55:276][301]LogSavePackage: Moving output files for package: /Game/UI/W_Setting
+[2025.03.26-00.31.55:277][301]LogSavePackage: Moving '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Saved/W_SettingDEB60A1B43B8D373A344C4A90F864E5C.tmp' to '../../../../../../Users/rawll/Desktop/MyProject/Git/Escape-Room/Escape Room/Content/UI/W_Setting.uasset'
+[2025.03.26-00.31.55:289][301]LogFileHelpers: InternalPromptForCheckoutAndSave took 165.890 ms (total: 1.52 sec)
+[2025.03.26-00.31.55:370][301]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.26-00.31.55:370][301]LogContentValidation: Enabled validators:
+[2025.03.26-00.31.55:370][301]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.26-00.31.55:370][301]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.26-00.31.55:370][301]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.26-00.31.55:370][301]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.26-00.31.55:370][301]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.26-00.31.55:370][301]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.26-00.31.55:372][301]AssetCheck: /Game/UI/W_Setting Validating asset
